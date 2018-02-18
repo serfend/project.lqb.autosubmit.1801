@@ -1,0 +1,3 @@
+Hex: 0xABC
+Decimal: 2748
+Octal: 5274

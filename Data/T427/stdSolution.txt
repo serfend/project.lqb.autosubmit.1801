@@ -1,0 +1,38 @@
+
+#include <iostream>
+#include <cstring>
+#include <cstdlib>
+#include <cmath>
+#include <functional>
+#include <algorithm>
+#include <cstdio>
+#include <string>
+#include <iterator>
+#include <set>
+#include <queue>
+#include <vector>
+#include <ctime>
+using namespace std;
+
+#define lson l,mid,i<<1
+#define rson mid+1,r,i<<1|1
+#define inf 1<<30
+using namespace std;
+const int MAX = 105;
+
+#define Mod %1000000
+typedef long long ll;
+
+
+int main()
+{
+//    freopen("C:/Users/lqy/Desktop/in.txt","r",stdin);
+    int n;
+    scanf("%x",&n);
+    printf("Hex: 0x%03X\n",n);
+    printf("Decimal: %d\n",n);
+    printf("Octal: %04o",n);
+    return 0;
+}
+
+

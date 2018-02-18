@@ -1,0 +1,24 @@
+
+#include<iostream>
+#include<cstdio>
+#include<string.h>
+using namespace std;
+int dp[30000];
+int main()
+{
+	int N,m,v[300],w[300];
+	//freopen("d://1.txt","r",stdin);
+	cin>>N>>m;
+	for(int i=0;i<m;i++)
+	{
+		cin>>v[i]>>w[i];
+	}
+	fill(dp,dp+N,0);
+	dp[0]=1;
+	for(int i=0;i<m;i++)
+	for(int j=N;j>=v[i];j--)
+	dp[j]=max(dp[j],dp[j-v[i]]+w[i]*v[i]);
+	cout<<dp[N]<<endl;
+	return 0;
+}
+

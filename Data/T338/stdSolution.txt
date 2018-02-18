@@ -1,0 +1,19 @@
+
+#include <iostream>
+#include <cstdio>
+using namespace std;
+int main(){
+    int i,re;
+    for(i=1000;i<10000;i++){
+    	int tmp=i;
+    	re=0;
+    	while(tmp!=0){
+    		re+=tmp%10;
+    		tmp/=10;
+		}
+		if(re==10)
+		  cout<<i<<endl;
+	}
+	return 0;
+}
+

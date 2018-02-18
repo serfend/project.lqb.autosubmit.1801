@@ -1,0 +1,132 @@
+13:04:27 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=A5142A77BB219B361C63E09D49C757E5;_SESSIONKEY=H733909X3FH0662E60JU; 
+13:05:06 :xls.Status:切换到账号:13986274216,userId:178821,cookies: 
+13:05:14 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies: 
+13:05:16 :xls.Status:获取到题目集数量:10 
+13:05:23 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+13:05:23 :xls.Status:{"itemid":"2019967","msg":"提交成功。","ret":"1"} 
+13:05:23 :xls.Status:等待蓝桥杯网站评判结果...5000ms 
+13:05:29 :xls.Status:下载题目数据:T472-1.inp 
+13:05:29 :xls.Status:下载数据防ban间隔...2000ms 
+13:05:29 :xls.Status:{"info":"ERROR。","ret":"0"} 
+13:05:32 :xls.Status:切换到账号:13986274216,userId:178821,cookies: 
+13:05:32 :xls.Status:下载题目数据:T472-2.inp 
+13:05:32 :xls.Status:下载数据防ban间隔...2000ms 
+13:05:32 :xls.Status:{"info":"未登录。","ret":"0"} 
+13:05:32 :xls.Status:未登录13986274216 
+13:05:35 :xls.Status:切换并登陆到账号:13986274216,userId:178821,cookies: 
+13:05:35 :xls.Status:下载题目数据:T472-3.inp 
+13:05:35 :xls.Status:下载数据防ban间隔...2000ms 
+13:05:35 :xls.Status:{"info":"未登录。","ret":"0"} 
+13:05:35 :xls.Status:未登录13986274216 
+13:05:38 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+13:05:38 :xls.Status:登录13986274216:成功 
+13:05:38 :xls.Status:JSESSIONID=9A3AFDE10B13EE8F01354F7880B0B0C6;_SESSIONKEY=O4UKM7S6OJ57V4Q310M5;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F5B984A36C63B3D6E67E4EFE32BDB4A2CE9148083424AAB3FE84C804AAF26B4404D9CF75E67E043A9206A82EB993424F30;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 05:05:37 GMT 
+13:05:38 :xls.Status:{
+    accountId:178821
+    accountLoginname:ylzaymy
+    accountEmail:ylzaymy
+    accountMobile:13986274216
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:null
+    accountLastLoginTime:2014-12-03 16:52:27
+    lanqiaoProjectId:1
+    identityId:2
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2014-12-03 16:52:27
+    createTime:2014-12-03 16:52:27
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:null
+    accountPortrait:null
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+13:05:39 :xls.Status:未登录 
+13:05:46 :xls.Status:切换并登陆到账号:13986274216,userId:,cookies: 
+13:05:50 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+13:05:50 :xls.Status:登录13986274216:成功 
+13:05:50 :xls.Status:JSESSIONID=162C9B3D7CCE5AA19076AF3F3BFCFA06;_SESSIONKEY=WG124DQZBLDIL7PNNHHW;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F5A29B5041B594F67A2DBE7449527E2F17D86010D08448AA0FBC3D7895B16DA8999945BD4680A79FE8BA51DD63F84B778C;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 05:05:48 GMT 
+13:05:50 :xls.Status:{
+    accountId:178821
+    accountLoginname:ylzaymy
+    accountEmail:ylzaymy
+    accountMobile:13986274216
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:null
+    accountLastLoginTime:2014-12-03 16:52:27
+    lanqiaoProjectId:1
+    identityId:2
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2014-12-03 16:52:27
+    createTime:2014-12-03 16:52:27
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:null
+    accountPortrait:null
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+13:05:51 :xls.Status:获取到题目集数量:10 
+13:05:57 :xls.Status:习题已全部加载完成  UA/AC/All=0/49/944 
+13:05:57 :xls.Status:{"itemid":"2019973","msg":"提交成功。","ret":"1"} 
+13:05:57 :xls.Status:等待蓝桥杯网站评判结果...5000ms 
+13:06:03 :xls.Status:下载题目数据:T414-1.inp 
+13:06:03 :xls.Status:下载数据防ban间隔...2000ms 
+13:06:03 :xls.Status:{"info":"ERROR。","ret":"0"} 
+13:06:06 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies: 
+13:06:06 :xls.Status:下载题目数据:T414-2.inp 
+13:06:06 :xls.Status:下载数据防ban间隔...2000ms 
+13:06:06 :xls.Status:{"info":"未登录。","ret":"0"} 
+13:06:06 :xls.Status:未登录15808081216 
+13:06:06 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:06:11 :xls.Status:下载题目数据:T414-3.inp 
+13:06:11 :xls.Status:下载数据防ban间隔...2000ms 
+13:06:11 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+13:06:11 :xls.Status:{"info":"未登录。","ret":"0"} 
+13:06:11 :xls.Status:未登录15808081216 
+13:06:11 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:06:11 :xls.Status:登录15808081216:成功 
+13:06:11 :xls.Status:JSESSIONID=C6E69F565DBB9E4CEC6D4DB9783DDA25;_SESSIONKEY=EU0F40L46B2O39525FV1;_TOKEN=D5F98D41037204CF5CFC1F57960140B97B0F64E1463F1BFBBED1346D876632F69734171D0B214C4598E056318C9460312EF81BD1F9BC0B84E0D0685F73F4FE5CD273EBB83EC39221A7EFD7AEF1744AC5;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 05:06:10 GMT 
+13:06:11 :xls.Status:{
+    accountId:579282681805
+    accountLoginname:null
+    accountEmail:null
+    accountMobile:15808081216
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:10.45.42.254
+    accountLastLoginTime:2017-12-21 17:37:16
+    lanqiaoProjectId:2
+    identityId:1
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2017-12-21 17:37:16
+    createTime:2017-12-21 17:37:16
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:LQ846579
+    accountPortrait:
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+13:06:12 :xls.Status:未登录15808081216 
+13:06:12 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 

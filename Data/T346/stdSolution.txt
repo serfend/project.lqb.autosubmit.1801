@@ -1,0 +1,91 @@
+
+#include <stdio.h>  
+#include <string.h>  
+#include <stdlib.h>
+#include <math.h>  
+#include <set>  
+#include <vector>  
+#include <map>     
+#define N 100005  
+
+using namespace std;
+
+struct node{  
+    int v,c,l,r;  
+    int num;  
+}car[N]; 
+ 
+int n;  
+vector<int>G[N], tmp;  
+set<int> myset;  
+set<int> ::iterator p;  
+map<int,int> mymap;  
+map<int,int> per;  
+map<int,int> sig;  
+int pos[N], endpos;  
+
+int work(int x){  
+    if(G[x].size()==0)
+        return 0;  
+    mymap.clear();  
+    per.clear();  
+    sig.clear();  
+    mymap[0] = 0;  
+    per[0] = -1;  
+    sig[0] = -1;  
+    int ans = 0;  
+    endpos = -1;  
+    int i;
+    for(i = 0; i < G[x].size(); i++) {  
+        node now = car[G[x][i]];          
+        if(mymap.find(now.l)==mymap.end())  
+            continue;  
+        if(mymap.find(now.l+now.c)==mymap.end() || 
+           mymap[now.l+now.c]<mymap[now.l]+now.v) {  
+            mymap[now.l+now.c] = mymap[now.l]+now.v;  
+            sig[now.l+now.c] = G[x][i];  
+            per[G[x][i]] = sig[now.l];  
+        }  
+        if(now.r==0 && ans<mymap[now.l+now.c])
+            ans = mymap[now.l+now.c], endpos = G[x][i];  
+    }  
+    return ans;  
+} 
+ 
+int main(){  
+    int i,j,u,v; 
+    scanf("%d",&n); 
+    for(i = 1; i <= n; i++) 
+        G[i].clear();  
+    myset.clear();  
+    mymap.clear();  
+    for(i = 1; i <= n; i++)  
+        scanf("%d%d%d%d",&car[i].v,&car[i].c,&car[i].l,&car[i].r), car[i].num = i;  
+    for(i = 1; i <= n; i++) {  
+        myset.insert(car[i].c+car[i].l+car[i].r);  
+    }  
+    i = 1;  
+    for(p = myset.begin(); p!=myset.end(); p++, i++)  
+        mymap[*p] = i, pos[i] = *p;  
+    for(i = 1; i <= n; i++)  
+        G[mymap[car[i].c+car[i].l+car[i].r]].push_back(i);  
+    int ans = 0;  
+    for(i = 1; i <= n; i++) {  
+        int now = work(i);  
+        if(now>ans) {  
+            ans = now;  
+            tmp.clear();  
+            u = endpos;  
+            while(u!=-1) {  
+                tmp.push_back(u);  
+                u = per[u];  
+            }             
+        }  
+    }  
+    printf("%d\n",tmp.size());  
+    for(i = tmp.size()-1; i>=0; i--)  
+        printf("%d%c",tmp[i],i?' ':'\n');  
+    system("pause");
+    return 0;  
+}
+

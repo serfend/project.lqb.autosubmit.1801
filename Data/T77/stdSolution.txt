@@ -1,0 +1,43 @@
+
+#include <iostream>
+#include <string>
+#include <cmath>
+#include <cstring>
+
+using namespace std;
+int N,K;
+string n;
+int g[41] = { 0 };
+long long int F[41][31] = { 0 };
+
+inline long long int MAX(long long int a, long long int b)
+{
+    return a>b?a:b;
+}
+
+long long int aget(int b, int c)
+{
+    long long int temp = 0;
+    for(int i = b; i <= c; i++)
+    {
+        temp = (temp*10 + g[i]);
+    }
+    return temp;
+}
+
+int main()
+{
+    cin >> N >> K >> n;
+    K++;
+    char buf[N];
+    strcpy(buf,n.c_str());
+    for(int i = 0; i< N; i++) g[i+1] = buf[i] - '0';
+    for(int i = 1; i <= N; i ++) F[i][1] = aget(1, i );
+    for(int j = 2; j <= K; j++)
+        for(int i = 1; i <= N; i++)
+            for(int k = 1; k < i; k++)
+                F[i][j] = MAX( F[i][j] , F[k][j-1]*aget(k+1,i) );
+    cout << F[N][K];
+    return 0;
+}
+

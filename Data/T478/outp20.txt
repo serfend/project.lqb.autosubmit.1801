@@ -1,0 +1,10 @@
+Case 1: 2A 1M
+Case 2: 9A
+Case 3: 1M 3A
+Case 4: 1M
+Case 5: 79A
+Case 6: 8A 3M
+Case 7: 70A 1M
+Case 8: 9183A
+Case 9: 1M
+Case 10: 10336A 2M

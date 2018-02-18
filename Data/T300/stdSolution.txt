@@ -1,0 +1,55 @@
+
+#include <iostream>
+#include <cstdio>
+#include <cstring>
+#include <algorithm>
+#define MAXN 15
+using namespace std;
+const int maxzt=(1<<13);   //最大的状态数,
+int dp[maxzt];
+int like[MAXN][MAXN],n;
+int numberOfOne(int num){ //num 二进制中1的个数
+    int cnt=0;
+    while(num){
+        cnt+=(num&1);
+        num>>=1;
+    }
+    return cnt;
+}
+int lowbit(int x){  //num 二进制中只保留最后一个1 如: num=20 二进制10100 返回 二进制100，也就是4
+    return x&(-x);
+}
+int posOfOne(int num){ //num 二进制中最后一个1的位置  如: num=18 二进制10010 返回 2
+    int pos=0;
+    while(num){
+        pos++;
+        if(num&1)
+            return pos;
+        num>>=1;
+    }
+    return pos;
+}
+void work(int x){
+    int maxstatus=1<<n;
+    for(int i=0;i<maxstatus;i++){
+        int nowstatus=i,t=numberOfOne(nowstatus);
+        if(t!=x) continue;   //第x位女人有x个1，不是就继续找下一个数
+        while(t--){
+            int pos=lowbit(nowstatus);
+            dp[i]=max(dp[i],dp[i-pos]+like[x][posOfOne(pos)]);
+            nowstatus-=pos;
+        }
+    }
+}
+int main(){
+    scanf("%d",&n);
+    for(int i=1;i<=n;i++)
+        for(int j=1;j<=n;j++)
+            scanf("%d",&like[i][j]);
+    memset(dp,0,sizeof(dp));
+    for(int i=1;i<=n;i++)
+        work(i);
+    printf("%d\n",dp[(1<<n)-1]);
+    return 0;
+}
+

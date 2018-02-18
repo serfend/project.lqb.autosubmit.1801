@@ -1,0 +1,52 @@
+
+
+#include <cmath>
+#include <iostream>
+#include <vector>
+using namespace std;
+bool check(int n)
+{
+	bool ret = true;
+	for (int i = 2; i < sqrt(n + 1); i++)
+	{
+		if (n%i == 0)
+		{
+			ret = false;
+			break;
+		}
+	}
+	return ret;
+}
+int main(int argc, char* argv[])
+{
+	vector <int> v;
+	for (int i = 2; i < 10000; i++)
+	{
+		if (check(i))
+		{
+			v.push_back(i);
+		}
+	}
+	int n;
+	cin >> n;
+	int p = 0;
+	int k = 1;
+	while (n!=1)
+	{
+		if (n%v[p]==0)
+		{
+			if (k!=v[p])
+				cout << v[p]<<" ";
+			k = v[p];
+			n /= v[p];
+		}
+		else
+		{
+			p++;
+		}
+	}
+	return 0;
+}
+
+
+

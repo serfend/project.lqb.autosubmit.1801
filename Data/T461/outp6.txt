@@ -1,0 +1,5 @@
+Case 1: 540
+Case 2: 124950
+Case 3: 13300
+Case 4: 0
+Case 5: 0

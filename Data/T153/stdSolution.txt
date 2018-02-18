@@ -1,0 +1,18 @@
+
+#include "iostream"
+#include "string"
+#include "stdio.h"
+#include "ctype.h"
+using namespace std;
+const int N =1000;
+bool  bArrange[N][N];
+int main()
+{
+	 char ch;
+	 cin>>ch;
+	 if(islower(ch))
+		 cout<<"lower";
+	 else cout<<"upper";
+		return 0;
+}
+

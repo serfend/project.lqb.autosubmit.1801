@@ -1,0 +1,2100 @@
+12:04:26 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=FE9D7A24763752A8B0466DB363E50768;_SESSIONKEY=850H4IPY9YJ4S8NWAWYF;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:39:03 GMT;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBCFDC3C673964CA98CE05D418FF828870B349A88815AFA2A1F51CD353F6D23E202F82EACD8BAF142C9F0E64A3A62FE3A19 
+12:04:26 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=1DA1A2A383BE07630CA4EB456A4D2AB7;_SESSIONKEY=T12OFVACER45E011C1P9;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:41:25 GMT;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F54D3DD81BDF88A9516113600874C799E1D28A889B35A49F2A1BC33971E6ABAE23F5F9BACFFF3222A9B1D72736924B9ECE 
+12:04:26 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies:JSESSIONID=A5B3E1F87267508E2E0529E4ABAC34B8;_SESSIONKEY=9Z0094K63E3M3F8HY8UX;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:39:37 GMT;_TOKEN=D5F98D41037204CF5CFC1F57960140B97B0F64E1463F1BFBBED1346D876632F64553F41B05E46BE4207744D3C8A9CE086360B40C6C1833DAC361FA012B72C3C136C640205EAACC8C069B836DCC205B26 
+12:04:26 :xls.Status:切换到账号:904546102@qq.com,userId:232143,cookies:JSESSIONID=7B6AB362FB4ACD6EB8E3DA47D763F1B1;_SESSIONKEY=532FA8QOOUF27W539R52;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:41:41 GMT;_TOKEN=3A18A98BB7951277C0A904EBC4C2A3E22D29B8F157330CF25A945DE76FC09A1DA5107B40FA4F2E674FEB0504D829562CDC2AC663D2C816A32BAA951765363FC1D9CF75E67E043A9206A82EB993424F30 
+12:04:26 :xls.Status:切换到账号:17623877493,userId:579282697891,cookies:JSESSIONID=BA4CDF908870322F313634988A2EC2FB;_SESSIONKEY=2KSU97Z832ML5N5H91GI;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:41:30 GMT;_TOKEN=05AED4C868754136C9C30D3425ABB8BDA6682616A47D1BA64A560AB28121683A0A09B4FDBB7BE272A76AD1836F59CD2BF6B12F7315EFE9B4A8E785C63C1CC8749945BD4680A79FE8BA51DD63F84B778C 
+12:04:26 :xls.Status:切换到账号:17623476609,userId:579282679620,cookies:JSESSIONID=4F96F63C1EF100FC1AD96B1848CDFA68;_SESSIONKEY=459TTRWP99R1247U437Q;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:41:34 GMT;_TOKEN=EDF1AB21A803815CDBB2406480958D7AA4DF45562D68D929177F9B6916C9A605934B2F6935E25C5793E346C1AEA2FD798309EB00D1AE2B56B44FC516DF9BFFE5F82EACD8BAF142C9F0E64A3A62FE3A19 
+12:04:26 :xls.Status:切换到账号:15730361457,userId:579282697794,cookies:JSESSIONID=35CDFCEC3D22E4F2E4CEA666DAFD6D76;_SESSIONKEY=VEHZKUWW6XP2485646GO;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:41:37 GMT;_TOKEN=711A4F9FA0DBF33AFD9E63D0FAE7388D35FE1173BBF5E3870387AEF777C9B4B3FCD48BBC54510EE82012B9C6C27FDBA95D11C5D1D4B5209BD99C99C2BF3E1FD11DEFBFCA240FEB23AF8B723445C4BCB2 
+12:04:26 :xls.Status:切换到账号:15730363368,userId:579282697814,cookies:JSESSIONID=76D3B11140145362D1B79D499CC0F9CF;_SESSIONKEY=26AHNKCM7987YU3147WG;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:41:21 GMT;_TOKEN=CED576E81FEBE2AE705E64B1BC427D535671F0F0FC16ACD5CE029C18F09A6398CABD644DC96D97EEF0E497490B39A3A8C314C051D67CFFE12864D23B55F76CF32862F3269340F615894C682A39A1DF80 
+12:04:26 :xls.Status:切换到账号:17360254616,userId:579282697884,cookies:JSESSIONID=D2E549C5D83F2C4825979004EBE58B33;_SESSIONKEY=3TP0ND8T9W918RJ4A029;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:41:17 GMT;_TOKEN=4C731AB331C70EF3A23B6BA7860DF12FD096A09C52611D2F49B70D67C52D819EE048D34ED6892C4584F4BB84279CA22825E88478921126A678A0B8AF01AA7DD0F5F9BACFFF3222A9B1D72736924B9ECE 
+12:04:26 :xls.Status:切换到账号:15827021295,userId:579282680737,cookies:JSESSIONID=B5E0397829780A062208685B77F5D08A;_SESSIONKEY=ZCB3HGCF37RTN62L9O98;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:39:53 GMT;_TOKEN=C3C03382083CED756974E157FA2140B1FDBB85D6A29DC8EEA212AA1F2320E993165D5A0469692329A0E29CBCB7C1DE3ACF25D0F6B9DB8ACF81C90F8E964EEAC036C640205EAACC8C069B836DCC205B26 
+12:04:26 :xls.Status:切换到账号:15730362474,userId:579282695483,cookies:JSESSIONID=65D12A524B918A9673251D893AE1C272;_SESSIONKEY=51P08H1P481K953D41D8;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:41:05 GMT;_TOKEN=F9E461FF3D3A4F892F51D74456156930EF4901299B307867EEF1946731661C89DE4941A0E152F0787E78DB1B16EAD683939E17A67A603DEC1430275457B5CB5DD9CF75E67E043A9206A82EB993424F30 
+12:04:26 :xls.Status:切换到账号:511380795@qq.com,userId:232220,cookies:JSESSIONID=06277AA1DCE0AEECB18B4A90E8961616;_SESSIONKEY=185T8MNYW7YDE1DPW816;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:41:09 GMT;_TOKEN=1A02C286F33D1E9BA1918E757C7BE790B3554C023111EF92D3DF14D429F18ACB5A8F20B250EC61EE5CEDD6DC814D0C736D471D8B67223E98B5A8442DF844A8A71B4FC036C844D0D7F69F7E29E8245BA7 
+12:04:26 :xls.Status:切换到账号:2396522964@qq.com,userId:232183,cookies:JSESSIONID=988F915BA4E2EA2AA920666891CF7AC0;_SESSIONKEY=L893P85I89T5GP4DJQ52;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:02 GMT;_TOKEN=DA729C4A9690AEB799BDF3F597F25B7A54FACB129131D043BE1695F84DBF9973B074F7220CA75322E38B964871F9D8F3EF734265E1F0BB4552C72327702DD3BF9945BD4680A79FE8BA51DD63F84B778C 
+12:04:26 :xls.Status:切换到账号:785794836@qq.com,userId:178927,cookies:JSESSIONID=687400564FE30B1DD5E748A3A745BCD5;_SESSIONKEY=K4A4DZA27B272USZ8S26;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:45 GMT;_TOKEN=09CE54576121E13145684A3F4BE0FE48A4FB147FA3D2CD479DFFBCF1270697018903D72275B9EB6759CB7C5F1A17E418D2476EA9B7DA4B8DDDE9A1347CAA588AF5F9BACFFF3222A9B1D72736924B9ECE 
+12:04:26 :xls.Status:切换到账号:serfend@lqb.com,userId:217085,cookies:JSESSIONID=73AF90DA56EB6120CD6BAF13DF7981D5;_SESSIONKEY=DW0DZB1Z31685YPHLT27;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:41:13 GMT;_TOKEN=D544534E0BA0A9BB37FEC45D28AE7B26E61501ACA033E77A31C6BDB9E7FD7706EE98D7EF2174C42807DB026443E28FBF8BD16BB4BBCAD083C17675C10BCFF73C094ED060CF30ACC8E8A6FAF2FF724DB6 
+12:04:26 :xls.Status:切换到账号:354929630@qq.com,userId:232211,cookies:JSESSIONID=ACBB9ADE7291D2C37306F9B1B59661E0;_SESSIONKEY=3IS0D0AMM333RU40L668;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:57 GMT;_TOKEN=354387033E494D42AC67AD6E664C1C77C1B6B1D499CEF3A68124D8815B192E0BC50AF40E1BCF36FCC8E563F78746B9B64AE6A4FD60011D969555869B42073205F82EACD8BAF142C9F0E64A3A62FE3A19 
+12:04:26 :xls.Status:切换到账号:747276157@qq.com,userId:232180,cookies:JSESSIONID=E92EE817C24B81238366607A9578C3D8;_SESSIONKEY=TG64L9BY9BKK03DO61JP;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:49 GMT;_TOKEN=3630B504C8774EC0B918BEC21BCC293544C1E7C0AF6033C55037A6EA05872389234967CD9559BD97DA29C26ED7527A814C2E09FE9683BB2FB76CA62C71E10956D273EBB83EC39221A7EFD7AEF1744AC5 
+12:04:26 :xls.Status:切换到账号:15926430497,userId:24695485914,cookies:JSESSIONID=0850121A1AED288DDAB5124990FDA6DF;_SESSIONKEY=EGBQ2YL4J45FXEBCP96Z;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:37 GMT;_TOKEN=CB528EDDF5913BD1A0074CAC5891AF766D47BBD4F3FECE7CBEA707AFA2A9C2619BCAF5CF930AF7F15954731ED6D6100948099B298660683F08FD30FD03C5F942D9CF75E67E043A9206A82EB993424F30 
+12:04:26 :xls.Status:切换到账号:15826191001,userId:579282679703,cookies:JSESSIONID=132F90B43AF894359FA72510E254C080;_SESSIONKEY=8A95427F9UULDDN7K31C;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:26 GMT;_TOKEN=5DD29537934A2D7F76AB0B5D173D267162A828578BD42D6A676A85481E2BE2DEE3616DCF54F741400AC775E4A98464E95AE7A1D5EA30BC8763731CF77CE8DAE3D9CF75E67E043A9206A82EB993424F30 
+12:04:26 :xls.Status:切换到账号:15923225800,userId:579282679619,cookies:JSESSIONID=B3299D31765C316AECE03A596D8C34EA;_SESSIONKEY=376S275SNS3OM3RP7XMY;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:41:01 GMT;_TOKEN=DE443018564BD4166AA4D7EFFAA0EF10BBAA2AE124AD8CEEAF281CC3ECD4A93593DBB9734418D6217E2EA443603D24BF12EDE1FCE339F6214AB11EAADFD9D06E1B4FC036C844D0D7F69F7E29E8245BA7 
+12:04:26 :xls.Status:切换到账号:13340286964,userId:579282679555,cookies:JSESSIONID=9AFCDD05252BEFC71F688A1DD53F80FB;_SESSIONKEY=0V743K554JPF8714UQ71;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:14 GMT;_TOKEN=9A29E246C33D35976BD0261520A99667BD727804ACD233DF950086AEFD29EAD3E7CAE2640B9070A36A08A66309A6E889ABF6F238CFC6E15B6E1364D63D8029A1094ED060CF30ACC8E8A6FAF2FF724DB6 
+12:04:26 :xls.Status:切换到账号:15213442058,userId:579282679624,cookies:JSESSIONID=DA8125D559430CCBCC0FAA2E535EDE8B;_SESSIONKEY=7HW7DU9269486YWES8KI;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:33 GMT;_TOKEN=9A48A021FA151713B1E82C3FE93AD8A70D5E819CF0A93CAAE229E485FDB831AB667AA0993280F3869B06AD24EA1CACF27F48B9D45132F3FC7483B50931B9F4961B4FC036C844D0D7F69F7E29E8245BA7 
+12:04:26 :xls.Status:切换到账号:15972977557,userId:24695486758,cookies:JSESSIONID=2330922CCC89274819522B8D194168BD;_SESSIONKEY=9E0I552SR8Q0WO12W204;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:10 GMT;_TOKEN=A637F0166AFD91FD05D2982F45561A41438B39E9D9F4156DAC1DA53C1FDF73F30FAFAA146CC60764B69F4CB6BBF6B332FFB37B778D436D0224B04D7851C6A2EDF5F9BACFFF3222A9B1D72736924B9ECE 
+12:04:26 :xls.Status:切换到账号:13153334563,userId:24695486505,cookies:JSESSIONID=F3E3A05CD7926A91E75CE378ABA05E47;_SESSIONKEY=OJ5HV1B4IUW02T2A2AM3;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:53 GMT;_TOKEN=8A26B88629AA645D5F74735994EE00E8831322983B719CFF780C51D8A461B6C7B87CFF073DA73C03B64D354656A3C86998906D6C2E62603CD22A671EC26AAA00F82EACD8BAF142C9F0E64A3A62FE3A19 
+12:04:26 :xls.Status:切换到账号:18071410231,userId:24695487465,cookies:JSESSIONID=9385EE58D7DAE7094835EE5600CBD40C;_SESSIONKEY=QC6P04K4GUI8R7Q384ML;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:39:50 GMT;_TOKEN=50B59137D3716F5B05F4AFC3FED190D4B3C3BB31886FD7120E6A20406974B586354BB8AF6022B4FD7045D19E4F7FAA11BB1633DCC0CA86742267949FAE73333C30AD15BA79DAAB833CA3F8A107002C82 
+12:04:26 :xls.Status:切换到账号:625090446@qq.com,userId:232140,cookies:JSESSIONID=BEBC75D9FFAB1F4EC60F003C2982F6B9;_SESSIONKEY=0J73QC2I1Z0QF3620A30;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:06 GMT;_TOKEN=A6275C875EA12A16E44CDC64665874A8C86DEDC67DF5BF9546E1A32FA4E7C5F3DB1896BA90A6B00192CC7110646A1E5450465AF3D18B95320AD94EF7295D099CF82EACD8BAF142C9F0E64A3A62FE3A19 
+12:04:26 :xls.Status:切换到账号:13178693999,userId:579282679642,cookies:JSESSIONID=C8BB72B2DC7B26EF299387A749B28712;_SESSIONKEY=H17F909H53G3L1Z819CJ;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:39:57 GMT;_TOKEN=830E70A222D107523B7F752DE86269461E04EBF202AFD653C0FB118D1DE317DD8E39081C1A3D063444F393A6E585BC67109A533DCD1C269C2CFA69DAFB7B984D1B4FC036C844D0D7F69F7E29E8245BA7 
+12:04:26 :xls.Status:切换到账号:13072386283,userId:579282693149,cookies:JSESSIONID=430F51584F14BBF8C08194E46D7F1C8A;_SESSIONKEY=4RVS99B0234X7QKZ6DMS;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:18 GMT;_TOKEN=19967BE4003991DB8466C44E2485DB4B12225E1A0D2390B7FF167FCDBEAE91847A321AAE5AE124CE9DC6585E3FF7962ACC73EC8B3E06A729748BA8DEEADA3B619FA13E6F02295A002924ABDE1C31DE1F 
+12:04:26 :xls.Status:切换到账号:15730360985,userId:579282679682,cookies:JSESSIONID=A7315912AC41F556456797E459B9EED2;_SESSIONKEY=0BI5L321E3M8485ZZ2LP;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:41 GMT;_TOKEN=1FB6E044A9FBA737D8CDC1B3F2379E3FAF9D7802DB344710D1F09558D933BEC5648454A04F77E380BDE383FFBF363650A325D45618B456F00520D85CB012A80A3A78997ADD944CD2B5090499B89A5423 
+12:04:26 :xls.Status:切换到账号:15205967368,userId:579282693150,cookies:JSESSIONID=4675634345C6F0FBC30FD308C3A4E61D;_SESSIONKEY=5XZ3632C88RVPFTG1T6F;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:39:41 GMT;_TOKEN=48B272DFEB12B561F934E20B301807555549114CC382603AD5DD857B36EE8EEF615C29F44A7AA357B7930B771811FC1AC4C1C3629BA9EAC78FBEFD471BE936659945BD4680A79FE8BA51DD63F84B778C 
+12:04:26 :xls.Status:切换到账号:15823283574,userId:579282679676,cookies:JSESSIONID=22992C16A86077AC7FFCE275DD740A77;_SESSIONKEY=2UH3F7KLA9WY9208544W;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:22 GMT;_TOKEN=87FFDD930F6F87B43DD7940550FFB398462460537CFD49DA9461344620D9D5E1F15AB4C0F167B45E35B3A96976CF52237775BC65A4F127CD33C6D2E530433BA09945BD4680A79FE8BA51DD63F84B778C 
+12:04:26 :xls.Status:切换到账号:15972926051,userId:579282679645,cookies:JSESSIONID=21E521B44CFCD37DA2F5214B86813400;_SESSIONKEY=94RY6PS0QUC4X175C097;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:40:30 GMT;_TOKEN=BD4BA7C1FD518DAF74CB650CDB83C7CF455CE5E75E9C00C5013C1C07C38E2CC7216796FCD6A2E504BCF85E564BAC1736B9FAF3593416D72A3932B99EBFFAECA284E72A21B7178098067A93DA1937A049 
+12:04:26 :xls.Status:切换到账号:18152681169,userId:24695486784,cookies:JSESSIONID=408B548F3389924F92BE04F16BAE75C0;_SESSIONKEY=Y43F1K129033523K8UMB;Domain=lanqiao.cn;Expires=Thu, 15-Feb-2018 02:39:46 GMT;_TOKEN=22F23D372668FF8074C805828CB7891B6C57E8F287AA8764F705FC353F873138F9862273CDDBC0E45CEE70E8A709591C2BBCE5648E67D4A2512ECDF304C8A0B7E65B1862FA45291547112D139F441CE9 
+12:04:27 :xls.Status:已登录13986274216 
+12:04:27 :xls.Status:已登录785794836@qq.com 
+12:04:27 :xls.Status:运行所有账号 
+12:04:27 :xls.Status:加载[1/33](liuchangm7j@vip.qq.com)   
+12:04:27 :xls.Status:加载题库:[1/33](liuchangm7j@vip.qq.com)   
+12:04:27 :xls.Status:加载[2/33](13986274216)   
+12:04:27 :xls.Status:加载题库:[2/33](13986274216)   
+12:04:27 :xls.Status:加载[3/33](15808081216)   
+12:04:27 :xls.Status:加载题库:[3/33](15808081216)   
+12:04:27 :xls.Status:加载[4/33](904546102@qq.com)   
+12:04:27 :xls.Status:加载题库:[4/33](904546102@qq.com)   
+12:04:27 :xls.Status:加载[5/33](17623877493)   
+12:04:27 :xls.Status:加载题库:[5/33](17623877493)   
+12:04:27 :xls.Status:加载[6/33](17623476609)   
+12:04:27 :xls.Status:加载题库:[6/33](17623476609)   
+12:04:27 :xls.Status:加载[7/33](15730361457)   
+12:04:27 :xls.Status:加载题库:[7/33](15730361457)   
+12:04:27 :xls.Status:加载[8/33](15730363368)   
+12:04:27 :xls.Status:加载题库:[8/33](15730363368)   
+12:04:27 :xls.Status:加载[9/33](17360254616)   
+12:04:27 :xls.Status:加载题库:[9/33](17360254616)   
+12:04:27 :xls.Status:加载[10/33](15827021295)   
+12:04:27 :xls.Status:加载题库:[10/33](15827021295)   
+12:04:27 :xls.Status:加载[11/33](15730362474)   
+12:04:27 :xls.Status:加载题库:[11/33](15730362474)   
+12:04:27 :xls.Status:加载[12/33](511380795@qq.com)   
+12:04:27 :xls.Status:加载题库:[12/33](511380795@qq.com)   
+12:04:27 :xls.Status:加载[13/33](2396522964@qq.com)   
+12:04:27 :xls.Status:加载题库:[13/33](2396522964@qq.com)   
+12:04:27 :xls.Status:加载[14/33](785794836@qq.com)   
+12:04:27 :xls.Status:加载题库:[14/33](785794836@qq.com)   
+12:04:27 :xls.Status:加载[15/33](serfend@lqb.com)   
+12:04:27 :xls.Status:加载题库:[15/33](serfend@lqb.com)   
+12:04:27 :xls.Status:加载[16/33](354929630@qq.com)   
+12:04:27 :xls.Status:加载题库:[16/33](354929630@qq.com)   
+12:04:27 :xls.Status:加载[17/33](747276157@qq.com)   
+12:04:27 :xls.Status:加载题库:[17/33](747276157@qq.com)   
+12:04:27 :xls.Status:加载[18/33](15926430497)   
+12:04:27 :xls.Status:加载题库:[18/33](15926430497)   
+12:04:27 :xls.Status:加载[19/33](15826191001)   
+12:04:27 :xls.Status:加载题库:[19/33](15826191001)   
+12:04:27 :xls.Status:加载[20/33](15923225800)   
+12:04:27 :xls.Status:加载题库:[20/33](15923225800)   
+12:04:27 :xls.Status:加载[21/33](13340286964)   
+12:04:27 :xls.Status:加载题库:[21/33](13340286964)   
+12:04:27 :xls.Status:加载[22/33](15213442058)   
+12:04:27 :xls.Status:加载题库:[22/33](15213442058)   
+12:04:27 :xls.Status:加载[23/33](15972977557)   
+12:04:27 :xls.Status:加载题库:[23/33](15972977557)   
+12:04:27 :xls.Status:加载[24/33](13153334563)   
+12:04:27 :xls.Status:加载题库:[24/33](13153334563)   
+12:04:27 :xls.Status:加载[25/33](18071410231)   
+12:04:27 :xls.Status:加载题库:[25/33](18071410231)   
+12:04:27 :xls.Status:加载[26/33](625090446@qq.com)   
+12:04:27 :xls.Status:加载题库:[26/33](625090446@qq.com)   
+12:04:27 :xls.Status:加载[27/33](13178693999)   
+12:04:27 :xls.Status:加载题库:[27/33](13178693999)   
+12:04:27 :xls.Status:加载[28/33](13072386283)   
+12:04:27 :xls.Status:加载题库:[28/33](13072386283)   
+12:04:27 :xls.Status:加载[29/33](15730360985)   
+12:04:27 :xls.Status:加载题库:[29/33](15730360985)   
+12:04:27 :xls.Status:加载[30/33](15205967368)   
+12:04:27 :xls.Status:加载题库:[30/33](15205967368)   
+12:04:27 :xls.Status:加载[31/33](15823283574)   
+12:04:27 :xls.Status:加载题库:[31/33](15823283574)   
+12:04:27 :xls.Status:加载[32/33](15972926051)   
+12:04:27 :xls.Status:加载题库:[32/33](15972926051)   
+12:04:27 :xls.Status:加载[33/33](18152681169)   
+12:04:27 :xls.Status:加载题库:[33/33](18152681169)   
+12:04:27 :xls.Status:已登录511380795@qq.com 
+12:04:27 :xls.Status:已登录747276157@qq.com 
+12:04:27 :xls.Status:已登录15730363368 
+12:04:27 :xls.Status:已登录354929630@qq.com 
+12:04:27 :xls.Status:已登录2396522964@qq.com 
+12:04:27 :xls.Status:已登录13340286964 
+12:04:27 :xls.Status:已登录15923225800 
+12:04:27 :xls.Status:已登录15213442058 
+12:04:28 :xls.Status:已登录13153334563 
+12:04:28 :xls.Status:已登录15827021295 
+12:04:28 :xls.Status:已登录15826191001 
+12:04:28 :xls.Status:已登录17623476609 
+12:04:28 :xls.Status:已登录17623877493 
+12:04:28 :xls.Status:已登录15808081216 
+12:04:28 :xls.Status:已登录625090446@qq.com 
+12:04:28 :xls.Status:已登录17360254616 
+12:04:28 :xls.Status:已登录15730362474 
+12:04:28 :xls.Status:[2/33](13986274216)  加载题目集数量:5 
+12:04:28 :xls.Status:已登录13072386283 
+12:04:28 :xls.Status:已登录15926430497 
+12:04:28 :xls.Status:已登录15205967368 
+12:04:28 :xls.Status:已登录18071410231 
+12:04:28 :xls.Status:已登录18152681169 
+12:04:28 :xls.Status:已登录15972977557 
+12:04:28 :xls.Status:已登录15972926051 
+12:04:28 :xls.Status:已登录15730360985 
+12:04:28 :xls.Status:已登录13178693999 
+12:04:28 :xls.Status:[14/33](785794836@qq.com)  加载题目集数量:5 
+12:04:28 :xls.Status:已登录15730361457 
+12:04:29 :xls.Status:已登录15823283574 
+12:04:29 :xls.Status:[12/33](511380795@qq.com)  加载题目集数量:5 
+12:04:29 :xls.Status:[26/33](625090446@qq.com)  加载题目集数量:5 
+12:04:29 :xls.Status:[10/33](15827021295)  加载题目集数量:5 
+12:04:29 :xls.Status:[13/33](2396522964@qq.com)  加载题目集数量:5 
+12:04:29 :xls.Status:[6/33](17623476609)  加载题目集数量:5 
+12:04:29 :xls.Status:[11/33](15730362474)  加载题目集数量:5 
+12:04:29 :xls.Status:[16/33](354929630@qq.com)  加载题目集数量:5 
+12:04:29 :xls.Status:[17/33](747276157@qq.com)  加载题目集数量:5 
+12:04:29 :xls.Status:[33/33](18152681169)  加载题目集数量:5 
+12:04:29 :xls.Status:[8/33](15730363368)  加载题目集数量:5 
+12:04:29 :xls.Status:[5/33](17623877493)  加载题目集数量:5 
+12:04:29 :xls.Status:[22/33](15213442058)  加载题目集数量:5 
+12:04:29 :xls.Status:[19/33](15826191001)  加载题目集数量:5 
+12:04:30 :xls.Status:[3/33](15808081216)  加载题目集数量:5 
+12:04:30 :xls.Status:[20/33](15923225800)  加载题目集数量:5 
+12:04:30 :xls.Status:[28/33](13072386283)  加载题目集数量:5 
+12:04:30 :xls.Status:[18/33](15926430497)  加载题目集数量:5 
+12:04:30 :xls.Status:[7/33](15730361457)  加载题目集数量:5 
+12:04:30 :xls.Status:[30/33](15205967368)  加载题目集数量:5 
+12:04:30 :xls.Status:[24/33](13153334563)  加载题目集数量:5 
+12:04:31 :xls.Status:[21/33](13340286964)  加载题目集数量:5 
+12:04:32 :xls.Status:[32/33](15972926051)  加载题目集数量:5 
+12:04:33 :xls.Status:[29/33](15730360985)  加载题目集数量:5 
+12:04:33 :xls.Status:[25/33](18071410231)  加载题目集数量:5 
+12:04:34 :xls.Status:[14/33](785794836@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:04:34 :xls.Status:[27/33](13178693999)  加载题目集数量:5 
+12:04:34 :xls.Status:已登录904546102@qq.com 
+12:04:36 :xls.Status:[9/33](17360254616)  加载题目集数量:5 
+12:04:38 :xls.Status:[2/33](13986274216)  .习题已全部加载完成  UA/AC/All=7/6/483 
+12:04:38 :xls.Status:[31/33](15823283574)  加载题目集数量:5 
+12:04:39 :xls.Status:[4/33](904546102@qq.com)  加载题目集数量:5 
+12:04:40 :xls.Status:[15/33](serfend@lqb.com)  加载题目集数量:5 
+12:04:40 :xls.Status:已登录liuchangm7j@vip.qq.com 
+12:04:40 :xls.Status:[23/33](15972977557)  加载题目集数量:5 
+12:04:46 :xls.Status:[12/33](511380795@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:04:49 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  加载题目集数量:5 
+12:04:57 :xls.Status:[11/33](15730362474)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:05:00 :xls.Status:[13/33](2396522964@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:05:01 :xls.Status:[18/33](15926430497)  .习题已全部加载完成  UA/AC/All=7/29/483 
+12:05:04 :xls.Status:[7/33](15730361457)  .习题已全部加载完成  UA/AC/All=7/21/483 
+12:05:06 :xls.Status:[33/33](18152681169)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:05:07 :xls.Status:[22/33](15213442058)  .习题已全部加载完成  UA/AC/All=7/12/483 
+12:05:08 :xls.Status:[24/33](13153334563)  .习题已全部加载完成  UA/AC/All=7/5/483 
+12:05:10 :xls.Status:[10/33](15827021295)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:05:15 :xls.Status:[29/33](15730360985)  .习题已全部加载完成  UA/AC/All=7/9/483 
+12:05:16 :xls.Status:[9/33](17360254616)  .习题已全部加载完成  UA/AC/All=7/15/483 
+12:05:17 :xls.Status:[21/33](13340286964)  .习题已全部加载完成  UA/AC/All=7/12/483 
+12:05:17 :xls.Status:[19/33](15826191001)  .习题已全部加载完成  UA/AC/All=7/22/483 
+12:05:18 :xls.Status:[26/33](625090446@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:05:20 :xls.Status:[20/33](15923225800)  .习题已全部加载完成  UA/AC/All=7/15/483 
+12:05:22 :xls.Status:[8/33](15730363368)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:05:23 :xls.Status:[25/33](18071410231)  .习题已全部加载完成  UA/AC/All=7/12/483 
+12:05:24 :xls.Status:[6/33](17623476609)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:05:26 :xls.Status:[27/33](13178693999)  .习题已全部加载完成  UA/AC/All=7/9/483 
+12:05:27 :xls.Status:[30/33](15205967368)  .习题已全部加载完成  UA/AC/All=7/3/483 
+12:05:30 :xls.Status:[17/33](747276157@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:05:32 :xls.Status:[31/33](15823283574)  .习题已全部加载完成  UA/AC/All=7/10/483 
+12:05:36 :xls.Status:[4/33](904546102@qq.com)  .习题已全部加载完成  UA/AC/All=7/70/483 
+12:05:37 :xls.Status:[28/33](13072386283)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:05:44 :xls.Status:[23/33](15972977557)  .习题已全部加载完成  UA/AC/All=7/35/483 
+12:05:45 :xls.Status:[15/33](serfend@lqb.com)  .习题已全部加载完成  UA/AC/All=7/303/483 
+12:05:46 :xls.Status:[16/33](354929630@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:05:47 :xls.Status:[3/33](15808081216)  .习题已全部加载完成  UA/AC/All=7/4/483 
+12:05:47 :xls.Status:已登录serfend@lqb.com 
+12:05:48 :xls.Status:[32/33](15972926051)  .习题已全部加载完成  UA/AC/All=7/6/483 
+12:05:50 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  .习题已全部加载完成  UA/AC/All=7/467/483 
+12:05:51 :xls.Status:[5/33](17623877493)  .习题已全部加载完成  UA/AC/All=7/11/483 
+12:06:02 :xls.Status:加载[1/33](liuchangm7j@vip.qq.com)   
+12:06:02 :xls.Status:加载题库:[1/33](liuchangm7j@vip.qq.com)   
+12:06:03 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  加载题目集数量:5 
+12:06:05 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  .习题已全部加载完成  UA/AC/All=7/467/483 
+12:06:05 :xls.Status:下载题目:T489 的测试数据 
+12:06:05 :xls.Status:下载题目数据:T489-7.outp 
+12:06:05 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:07 :xls.Status:下载题目数据:T489-8.outp 
+12:06:07 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:09 :xls.Status:下载题目数据:T489-9.outp 
+12:06:09 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:11 :xls.Status:下载题目数据:T489-10.outp 
+12:06:11 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:13 :xls.Status:下载题目数据:T489-11.outp 
+12:06:13 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:15 :xls.Status:下载题目数据:T489-12.outp 
+12:06:15 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:17 :xls.Status:下载题目数据:T489-13.outp 
+12:06:17 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:19 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  不可继续获取数据: 
+12:06:24 :xls.Status:RunNextUser,Num:0 
+12:06:24 :xls.Status:加载[2/33](13986274216)   
+12:06:24 :xls.Status:加载题库:[2/33](13986274216)   
+12:06:24 :xls.Status:[2/33](13986274216)  加载题目集数量:5 
+12:06:26 :xls.Status:[2/33](13986274216)  .习题已全部加载完成  UA/AC/All=7/6/483 
+12:06:26 :xls.Status:下载题目:T282 的测试数据 
+12:06:26 :xls.Status:[2/33](13986274216)  [T282]种树:{"itemid":"2083292","msg":"提交成功。","ret":"1"} 
+12:06:26 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:06:31 :xls.Status:下载题目数据:T282-4.outp 
+12:06:31 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:33 :xls.Status:下载题目数据:T282-5.outp 
+12:06:33 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:35 :xls.Status:下载题目数据:T282-6.outp 
+12:06:35 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:37 :xls.Status:下载题目数据:T282-7.outp 
+12:06:37 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:39 :xls.Status:下载题目数据:T282-8.outp 
+12:06:39 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:41 :xls.Status:下载题目数据:T282-9.outp 
+12:06:41 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:44 :xls.Status:下载题目数据:T282-10.outp 
+12:06:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:06:44 :xls.Status:生成代码:T282,总测试数据(10) 
+12:06:44 :xls.Status:下载题目:T280 的测试数据 
+12:06:44 :xls.Status:[2/33](13986274216)  [T280]班级排名:{"itemid":"2083293","msg":"提交成功。","ret":"1"} 
+12:06:44 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:06:49 :xls.Status:[2/33](13986274216)  不可继续获取数据: 
+12:06:54 :xls.Status:RunNextUser,Num:0 
+12:06:54 :xls.Status:加载[3/33](15808081216)   
+12:06:54 :xls.Status:加载题库:[3/33](15808081216)   
+12:06:54 :xls.Status:[3/33](15808081216)  加载题目集数量:5 
+12:06:56 :xls.Status:[3/33](15808081216)  .习题已全部加载完成  UA/AC/All=7/4/483 
+12:06:57 :xls.Status:下载题目:T280 的测试数据 
+12:06:57 :xls.Status:[3/33](15808081216)  [T280]班级排名:{"itemid":"2083295","msg":"提交成功。","ret":"1"} 
+12:06:57 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:07:02 :xls.Status:下载题目数据:T280-1.inp 
+12:07:02 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:04 :xls.Status:下载题目数据:T280-2.inp 
+12:07:04 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:06 :xls.Status:下载题目数据:T280-3.inp 
+12:07:06 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:08 :xls.Status:下载题目数据:T280-4.inp 
+12:07:08 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:10 :xls.Status:下载题目数据:T280-5.inp 
+12:07:10 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:12 :xls.Status:下载题目数据:T280-6.inp 
+12:07:12 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:14 :xls.Status:下载题目数据:T280-7.inp 
+12:07:14 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:16 :xls.Status:[3/33](15808081216)  不可继续获取数据: 
+12:07:21 :xls.Status:RunNextUser,Num:0 
+12:07:21 :xls.Status:加载[4/33](904546102@qq.com)   
+12:07:21 :xls.Status:加载题库:[4/33](904546102@qq.com)   
+12:07:21 :xls.Status:[4/33](904546102@qq.com)  加载题目集数量:5 
+12:07:24 :xls.Status:[4/33](904546102@qq.com)  .习题已全部加载完成  UA/AC/All=7/70/483 
+12:07:24 :xls.Status:下载题目:T280 的测试数据 
+12:07:24 :xls.Status:[4/33](904546102@qq.com)  [T280]班级排名:{"itemid":"2083297","msg":"提交成功。","ret":"1"} 
+12:07:24 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:07:30 :xls.Status:下载题目数据:T280-8.inp 
+12:07:30 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:32 :xls.Status:下载题目数据:T280-1.outp 
+12:07:32 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:34 :xls.Status:下载题目数据:T280-2.outp 
+12:07:34 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:36 :xls.Status:下载题目数据:T280-3.outp 
+12:07:36 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:38 :xls.Status:下载题目数据:T280-4.outp 
+12:07:38 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:40 :xls.Status:下载题目数据:T280-5.outp 
+12:07:40 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:42 :xls.Status:下载题目数据:T280-6.outp 
+12:07:42 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:44 :xls.Status:[4/33](904546102@qq.com)  不可继续获取数据: 
+12:07:49 :xls.Status:RunNextUser,Num:0 
+12:07:49 :xls.Status:加载[5/33](17623877493)   
+12:07:49 :xls.Status:加载题库:[5/33](17623877493)   
+12:07:49 :xls.Status:[5/33](17623877493)  加载题目集数量:5 
+12:07:51 :xls.Status:[5/33](17623877493)  .习题已全部加载完成  UA/AC/All=7/11/483 
+12:07:52 :xls.Status:下载题目:T108 的测试数据 
+12:07:52 :xls.Status:[5/33](17623877493)  [T108]Hanoi问题:{"itemid":"2083299","msg":"提交成功。","ret":"1"} 
+12:07:52 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:07:57 :xls.Status:下载题目数据:T108-5.outp 
+12:07:57 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:59 :xls.Status:下载题目数据:T108-6.outp 
+12:07:59 :xls.Status:下载数据防ban间隔...2000ms 
+12:07:59 :xls.Status:生成代码:T108,总测试数据(6) 
+12:07:59 :xls.Status:下载题目:T107 的测试数据 
+12:07:59 :xls.Status:[5/33](17623877493)  [T107]调和数列问题:{"itemid":"2083300","msg":"提交成功。","ret":"1"} 
+12:07:59 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:08:04 :xls.Status:下载题目数据:T107-1.inp 
+12:08:04 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:06 :xls.Status:下载题目数据:T107-1.outp 
+12:08:06 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:06 :xls.Status:生成代码:T107,总测试数据(1) 
+12:08:06 :xls.Status:下载题目:T105 的测试数据 
+12:08:07 :xls.Status:[5/33](17623877493)  [T105]会议中心:{"itemid":"2083301","msg":"提交成功。","ret":"1"} 
+12:08:07 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:08:12 :xls.Status:下载题目数据:T105-1.inp 
+12:08:12 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:14 :xls.Status:[5/33](17623877493)  不可继续获取数据: 
+12:08:19 :xls.Status:RunNextUser,Num:0 
+12:08:19 :xls.Status:加载[6/33](17623476609)   
+12:08:19 :xls.Status:加载题库:[6/33](17623476609)   
+12:08:19 :xls.Status:[6/33](17623476609)  加载题目集数量:5 
+12:08:21 :xls.Status:[6/33](17623476609)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:08:22 :xls.Status:下载题目:T105 的测试数据 
+12:08:22 :xls.Status:[6/33](17623476609)  [T105]会议中心:{"itemid":"2083302","msg":"提交成功。","ret":"1"} 
+12:08:22 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:08:27 :xls.Status:下载题目数据:T105-2.inp 
+12:08:27 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:29 :xls.Status:下载题目数据:T105-3.inp 
+12:08:29 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:31 :xls.Status:下载题目数据:T105-4.inp 
+12:08:31 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:33 :xls.Status:下载题目数据:T105-5.inp 
+12:08:33 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:35 :xls.Status:下载题目数据:T105-6.inp 
+12:08:35 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:37 :xls.Status:下载题目数据:T105-7.inp 
+12:08:37 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:39 :xls.Status:下载题目数据:T105-8.inp 
+12:08:39 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:41 :xls.Status:[6/33](17623476609)  不可继续获取数据: 
+12:08:46 :xls.Status:RunNextUser,Num:0 
+12:08:46 :xls.Status:加载[7/33](15730361457)   
+12:08:46 :xls.Status:加载题库:[7/33](15730361457)   
+12:08:46 :xls.Status:[7/33](15730361457)  加载题目集数量:5 
+12:08:48 :xls.Status:[7/33](15730361457)  .习题已全部加载完成  UA/AC/All=7/21/483 
+12:08:48 :xls.Status:下载题目:T280 的测试数据 
+12:08:48 :xls.Status:[7/33](15730361457)  [T280]班级排名:{"itemid":"2083303","msg":"提交成功。","ret":"1"} 
+12:08:48 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:08:53 :xls.Status:下载题目数据:T280-7.outp 
+12:08:53 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:55 :xls.Status:下载题目数据:T280-8.outp 
+12:08:55 :xls.Status:下载数据防ban间隔...2000ms 
+12:08:56 :xls.Status:生成代码:T280,总测试数据(8) 
+12:08:56 :xls.Status:下载题目:T279 的测试数据 
+12:08:56 :xls.Status:[7/33](15730361457)  [T279]3000米排名预测:{"itemid":"2083304","msg":"提交成功。","ret":"1"} 
+12:08:56 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:09:01 :xls.Status:下载题目数据:T279-1.inp 
+12:09:01 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:03 :xls.Status:下载题目数据:T279-2.inp 
+12:09:03 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:05 :xls.Status:下载题目数据:T279-3.inp 
+12:09:05 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:07 :xls.Status:下载题目数据:T279-4.inp 
+12:09:07 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:09 :xls.Status:[7/33](15730361457)  不可继续获取数据: 
+12:09:14 :xls.Status:RunNextUser,Num:0 
+12:09:14 :xls.Status:加载[8/33](15730363368)   
+12:09:14 :xls.Status:加载题库:[8/33](15730363368)   
+12:09:14 :xls.Status:[8/33](15730363368)  加载题目集数量:5 
+12:09:16 :xls.Status:[8/33](15730363368)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:09:17 :xls.Status:下载题目:T279 的测试数据 
+12:09:17 :xls.Status:[8/33](15730363368)  [T279]3000米排名预测:{"itemid":"2083305","msg":"提交成功。","ret":"1"} 
+12:09:17 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:09:22 :xls.Status:下载题目数据:T279-5.inp 
+12:09:22 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:24 :xls.Status:下载题目数据:T279-1.outp 
+12:09:24 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:26 :xls.Status:下载题目数据:T279-2.outp 
+12:09:26 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:28 :xls.Status:下载题目数据:T279-3.outp 
+12:09:28 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:30 :xls.Status:下载题目数据:T279-4.outp 
+12:09:30 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:32 :xls.Status:下载题目数据:T279-5.outp 
+12:09:32 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:32 :xls.Status:生成代码:T279,总测试数据(5) 
+12:09:32 :xls.Status:生成代码第1组数据输出过大 
+12:09:32 :xls.Status:生成代码第2组数据输出过大 
+12:09:32 :xls.Status:生成代码第4组数据输出过大 
+12:09:32 :xls.Status:下载题目:T277 的测试数据 
+12:09:32 :xls.Status:[8/33](15730363368)  [T277]大数加法:{"itemid":"2083308","msg":"提交成功。","ret":"1"} 
+12:09:32 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:09:38 :xls.Status:[8/33](15730363368)  不可继续获取数据: 
+12:09:43 :xls.Status:RunNextUser,Num:0 
+12:09:43 :xls.Status:加载[9/33](17360254616)   
+12:09:43 :xls.Status:加载题库:[9/33](17360254616)   
+12:09:43 :xls.Status:[9/33](17360254616)  加载题目集数量:5 
+12:09:45 :xls.Status:[9/33](17360254616)  .习题已全部加载完成  UA/AC/All=7/15/483 
+12:09:45 :xls.Status:下载题目:T277 的测试数据 
+12:09:45 :xls.Status:[9/33](17360254616)  [T277]大数加法:{"itemid":"2083309","msg":"提交成功。","ret":"1"} 
+12:09:45 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:09:50 :xls.Status:下载题目数据:T277-1.inp 
+12:09:50 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:52 :xls.Status:下载题目数据:T277-2.inp 
+12:09:52 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:54 :xls.Status:下载题目数据:T277-3.inp 
+12:09:54 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:56 :xls.Status:下载题目数据:T277-4.inp 
+12:09:56 :xls.Status:下载数据防ban间隔...2000ms 
+12:09:58 :xls.Status:下载题目数据:T277-5.inp 
+12:09:58 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:00 :xls.Status:下载题目数据:T277-6.inp 
+12:10:00 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:02 :xls.Status:下载题目数据:T277-7.inp 
+12:10:02 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:04 :xls.Status:[9/33](17360254616)  不可继续获取数据: 
+12:10:09 :xls.Status:RunNextUser,Num:0 
+12:10:09 :xls.Status:加载[10/33](15827021295)   
+12:10:09 :xls.Status:加载题库:[10/33](15827021295)   
+12:10:09 :xls.Status:[10/33](15827021295)  加载题目集数量:5 
+12:10:11 :xls.Status:[10/33](15827021295)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:10:12 :xls.Status:下载题目:T277 的测试数据 
+12:10:12 :xls.Status:[10/33](15827021295)  [T277]大数加法:{"itemid":"2083312","msg":"提交成功。","ret":"1"} 
+12:10:12 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:10:17 :xls.Status:下载题目数据:T277-8.inp 
+12:10:17 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:19 :xls.Status:下载题目数据:T277-9.inp 
+12:10:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:21 :xls.Status:下载题目数据:T277-10.inp 
+12:10:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:23 :xls.Status:下载题目数据:T277-1.outp 
+12:10:23 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:25 :xls.Status:下载题目数据:T277-2.outp 
+12:10:25 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:27 :xls.Status:下载题目数据:T277-3.outp 
+12:10:27 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:29 :xls.Status:下载题目数据:T277-4.outp 
+12:10:29 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:31 :xls.Status:[10/33](15827021295)  不可继续获取数据: 
+12:10:36 :xls.Status:RunNextUser,Num:0 
+12:10:36 :xls.Status:加载[11/33](15730362474)   
+12:10:36 :xls.Status:加载题库:[11/33](15730362474)   
+12:10:36 :xls.Status:[11/33](15730362474)  加载题目集数量:5 
+12:10:38 :xls.Status:[11/33](15730362474)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:10:39 :xls.Status:下载题目:T277 的测试数据 
+12:10:39 :xls.Status:[11/33](15730362474)  [T277]大数加法:{"itemid":"2083313","msg":"提交成功。","ret":"1"} 
+12:10:39 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:10:44 :xls.Status:下载题目数据:T277-5.outp 
+12:10:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:46 :xls.Status:下载题目数据:T277-6.outp 
+12:10:46 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:48 :xls.Status:下载题目数据:T277-7.outp 
+12:10:48 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:50 :xls.Status:下载题目数据:T277-8.outp 
+12:10:50 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:52 :xls.Status:下载题目数据:T277-9.outp 
+12:10:52 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:54 :xls.Status:下载题目数据:T277-10.outp 
+12:10:54 :xls.Status:下载数据防ban间隔...2000ms 
+12:10:54 :xls.Status:生成代码:T277,总测试数据(10) 
+12:10:54 :xls.Status:下载题目:T275 的测试数据 
+12:10:54 :xls.Status:[11/33](15730362474)  [T275]三角形面积:{"itemid":"2083314","msg":"提交成功。","ret":"1"} 
+12:10:54 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:10:59 :xls.Status:[11/33](15730362474)  不可继续获取数据: 
+12:11:04 :xls.Status:RunNextUser,Num:0 
+12:11:04 :xls.Status:加载[12/33](511380795@qq.com)   
+12:11:04 :xls.Status:加载题库:[12/33](511380795@qq.com)   
+12:11:04 :xls.Status:[12/33](511380795@qq.com)  加载题目集数量:5 
+12:11:06 :xls.Status:[12/33](511380795@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:11:07 :xls.Status:下载题目:T275 的测试数据 
+12:11:07 :xls.Status:[12/33](511380795@qq.com)  [T275]三角形面积:{"itemid":"2083315","msg":"提交成功。","ret":"1"} 
+12:11:07 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:11:12 :xls.Status:下载题目数据:T275-1.inp 
+12:11:12 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:14 :xls.Status:下载题目数据:T275-2.inp 
+12:11:14 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:16 :xls.Status:下载题目数据:T275-3.inp 
+12:11:16 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:18 :xls.Status:下载题目数据:T275-4.inp 
+12:11:18 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:20 :xls.Status:下载题目数据:T275-5.inp 
+12:11:20 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:22 :xls.Status:下载题目数据:T275-6.inp 
+12:11:22 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:24 :xls.Status:下载题目数据:T275-7.inp 
+12:11:24 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:26 :xls.Status:[12/33](511380795@qq.com)  不可继续获取数据: 
+12:11:31 :xls.Status:RunNextUser,Num:0 
+12:11:31 :xls.Status:加载[13/33](2396522964@qq.com)   
+12:11:31 :xls.Status:加载题库:[13/33](2396522964@qq.com)   
+12:11:31 :xls.Status:[13/33](2396522964@qq.com)  加载题目集数量:5 
+12:11:33 :xls.Status:[13/33](2396522964@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:11:34 :xls.Status:下载题目:T275 的测试数据 
+12:11:34 :xls.Status:[13/33](2396522964@qq.com)  [T275]三角形面积:{"itemid":"2083318","msg":"提交成功。","ret":"1"} 
+12:11:34 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:11:39 :xls.Status:下载题目数据:T275-8.inp 
+12:11:39 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:41 :xls.Status:下载题目数据:T275-9.inp 
+12:11:41 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:43 :xls.Status:下载题目数据:T275-10.inp 
+12:11:43 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:45 :xls.Status:下载题目数据:T275-1.outp 
+12:11:45 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:47 :xls.Status:下载题目数据:T275-2.outp 
+12:11:47 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:49 :xls.Status:下载题目数据:T275-3.outp 
+12:11:49 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:51 :xls.Status:下载题目数据:T275-4.outp 
+12:11:51 :xls.Status:下载数据防ban间隔...2000ms 
+12:11:53 :xls.Status:[13/33](2396522964@qq.com)  不可继续获取数据: 
+12:11:58 :xls.Status:RunNextUser,Num:0 
+12:11:58 :xls.Status:加载[14/33](785794836@qq.com)   
+12:11:58 :xls.Status:加载题库:[14/33](785794836@qq.com)   
+12:11:58 :xls.Status:[14/33](785794836@qq.com)  加载题目集数量:5 
+12:12:00 :xls.Status:[14/33](785794836@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:12:01 :xls.Status:下载题目:T105 的测试数据 
+12:12:01 :xls.Status:[14/33](785794836@qq.com)  [T105]会议中心:{"itemid":"2083320","msg":"提交成功。","ret":"1"} 
+12:12:01 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:12:06 :xls.Status:下载题目数据:T105-9.inp 
+12:12:06 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:08 :xls.Status:下载题目数据:T105-10.inp 
+12:12:08 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:10 :xls.Status:下载题目数据:T105-1.outp 
+12:12:10 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:12 :xls.Status:下载题目数据:T105-2.outp 
+12:12:12 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:14 :xls.Status:下载题目数据:T105-3.outp 
+12:12:14 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:16 :xls.Status:下载题目数据:T105-4.outp 
+12:12:16 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:18 :xls.Status:下载题目数据:T105-5.outp 
+12:12:18 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:20 :xls.Status:[14/33](785794836@qq.com)  不可继续获取数据: 
+12:12:25 :xls.Status:RunNextUser,Num:0 
+12:12:25 :xls.Status:加载[15/33](serfend@lqb.com)   
+12:12:25 :xls.Status:加载题库:[15/33](serfend@lqb.com)   
+12:12:25 :xls.Status:[15/33](serfend@lqb.com)  加载题目集数量:5 
+12:12:28 :xls.Status:[15/33](serfend@lqb.com)  .习题已全部加载完成  UA/AC/All=7/303/483 
+12:12:28 :xls.Status:下载题目:T273 的测试数据 
+12:12:28 :xls.Status:[15/33](serfend@lqb.com)  [T273]彩票:{"itemid":"2083322","msg":"提交成功。","ret":"1"} 
+12:12:28 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:12:33 :xls.Status:下载题目数据:T273-1.inp 
+12:12:33 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:35 :xls.Status:下载题目数据:T273-2.inp 
+12:12:35 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:37 :xls.Status:下载题目数据:T273-3.inp 
+12:12:37 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:39 :xls.Status:下载题目数据:T273-4.inp 
+12:12:39 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:41 :xls.Status:下载题目数据:T273-5.inp 
+12:12:41 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:44 :xls.Status:下载题目数据:T273-6.inp 
+12:12:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:46 :xls.Status:下载题目数据:T273-7.inp 
+12:12:46 :xls.Status:下载数据防ban间隔...2000ms 
+12:12:48 :xls.Status:[15/33](serfend@lqb.com)  不可继续获取数据: 
+12:12:53 :xls.Status:RunNextUser,Num:0 
+12:12:53 :xls.Status:加载[16/33](354929630@qq.com)   
+12:12:53 :xls.Status:加载题库:[16/33](354929630@qq.com)   
+12:12:53 :xls.Status:[16/33](354929630@qq.com)  加载题目集数量:5 
+12:12:55 :xls.Status:[16/33](354929630@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:12:56 :xls.Status:下载题目:T105 的测试数据 
+12:12:56 :xls.Status:[16/33](354929630@qq.com)  [T105]会议中心:{"itemid":"2083325","msg":"提交成功。","ret":"1"} 
+12:12:56 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:13:01 :xls.Status:下载题目数据:T105-6.outp 
+12:13:01 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:03 :xls.Status:下载题目数据:T105-7.outp 
+12:13:03 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:05 :xls.Status:下载题目数据:T105-8.outp 
+12:13:05 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:07 :xls.Status:下载题目数据:T105-9.outp 
+12:13:07 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:09 :xls.Status:下载题目数据:T105-10.outp 
+12:13:09 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:09 :xls.Status:生成代码:T105,总测试数据(10) 
+12:13:12 :xls.Status:生成代码第9组数据输出过大 
+12:13:12 :xls.Status:生成代码第10组数据输出过大 
+12:13:15 :xls.Status:下载题目:T104 的测试数据 
+12:13:15 :xls.Status:[16/33](354929630@qq.com)  [T104]采油区域:{"itemid":"2083327","msg":"提交成功。","ret":"1"} 
+12:13:15 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:13:20 :xls.Status:下载题目数据:T104-1.inp 
+12:13:20 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:22 :xls.Status:[16/33](354929630@qq.com)  不可继续获取数据: 
+12:13:27 :xls.Status:RunNextUser,Num:0 
+12:13:27 :xls.Status:加载[17/33](747276157@qq.com)   
+12:13:27 :xls.Status:加载题库:[17/33](747276157@qq.com)   
+12:13:27 :xls.Status:[17/33](747276157@qq.com)  加载题目集数量:5 
+12:13:29 :xls.Status:[17/33](747276157@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:13:30 :xls.Status:下载题目:T104 的测试数据 
+12:13:30 :xls.Status:[17/33](747276157@qq.com)  [T104]采油区域:{"itemid":"2083328","msg":"提交成功。","ret":"1"} 
+12:13:30 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:13:35 :xls.Status:下载题目数据:T104-2.inp 
+12:13:35 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:37 :xls.Status:下载题目数据:T104-3.inp 
+12:13:37 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:39 :xls.Status:下载题目数据:T104-4.inp 
+12:13:39 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:41 :xls.Status:下载题目数据:T104-5.inp 
+12:13:41 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:43 :xls.Status:下载题目数据:T104-6.inp 
+12:13:43 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:45 :xls.Status:下载题目数据:T104-7.inp 
+12:13:45 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:47 :xls.Status:下载题目数据:T104-8.inp 
+12:13:47 :xls.Status:下载数据防ban间隔...2000ms 
+12:13:50 :xls.Status:[17/33](747276157@qq.com)  不可继续获取数据: 
+12:13:55 :xls.Status:RunNextUser,Num:0 
+12:13:55 :xls.Status:加载[18/33](15926430497)   
+12:13:55 :xls.Status:加载题库:[18/33](15926430497)   
+12:13:55 :xls.Status:[18/33](15926430497)  加载题目集数量:5 
+12:13:57 :xls.Status:[18/33](15926430497)  .习题已全部加载完成  UA/AC/All=7/29/483 
+12:13:57 :xls.Status:下载题目:T104 的测试数据 
+12:13:57 :xls.Status:[18/33](15926430497)  [T104]采油区域:{"itemid":"2083329","msg":"提交成功。","ret":"1"} 
+12:13:57 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:14:03 :xls.Status:下载题目数据:T104-9.inp 
+12:14:03 :xls.Status:下载数据防ban间隔...2000ms 
+12:14:05 :xls.Status:下载题目数据:T104-10.inp 
+12:14:05 :xls.Status:下载数据防ban间隔...2000ms 
+12:14:07 :xls.Status:下载题目数据:T104-1.outp 
+12:14:07 :xls.Status:下载数据防ban间隔...2000ms 
+12:14:09 :xls.Status:下载题目数据:T104-2.outp 
+12:14:09 :xls.Status:下载数据防ban间隔...2000ms 
+12:14:11 :xls.Status:下载题目数据:T104-3.outp 
+12:14:11 :xls.Status:下载数据防ban间隔...2000ms 
+12:14:13 :xls.Status:下载题目数据:T104-4.outp 
+12:14:13 :xls.Status:下载数据防ban间隔...2000ms 
+12:14:15 :xls.Status:下载题目数据:T104-5.outp 
+12:14:15 :xls.Status:下载数据防ban间隔...2000ms 
+12:14:17 :xls.Status:[18/33](15926430497)  不可继续获取数据: 
+12:14:22 :xls.Status:RunNextUser,Num:0 
+12:14:22 :xls.Status:加载[19/33](15826191001)   
+12:14:22 :xls.Status:加载题库:[19/33](15826191001)   
+12:14:22 :xls.Status:[19/33](15826191001)  加载题目集数量:5 
+12:14:24 :xls.Status:[19/33](15826191001)  .习题已全部加载完成  UA/AC/All=7/22/483 
+12:14:26 :xls.Status:下载题目:T104 的测试数据 
+12:14:26 :xls.Status:[19/33](15826191001)  [T104]采油区域:{"itemid":"2083332","msg":"提交成功。","ret":"1"} 
+12:14:26 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:14:56 :xls.Status:下载题目数据:T104-6.outp 
+12:14:56 :xls.Status:下载数据防ban间隔...2000ms 
+12:14:58 :xls.Status:下载题目数据:T104-7.outp 
+12:14:58 :xls.Status:下载数据防ban间隔...2000ms 
+12:15:00 :xls.Status:下载题目数据:T104-8.outp 
+12:15:00 :xls.Status:下载数据防ban间隔...2000ms 
+12:15:02 :xls.Status:下载题目数据:T104-9.outp 
+12:15:02 :xls.Status:下载数据防ban间隔...2000ms 
+12:15:04 :xls.Status:下载题目数据:T104-10.outp 
+12:15:04 :xls.Status:下载数据防ban间隔...2000ms 
+12:15:04 :xls.Status:生成代码:T104,总测试数据(10) 
+12:15:49 :xls.Status:下载题目:T103 的测试数据 
+12:15:49 :xls.Status:[19/33](15826191001)  [T103]A+B Problem:{"itemid":"2083337","msg":"提交成功。","ret":"1"} 
+12:15:49 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:15:54 :xls.Status:下载题目数据:T103-1.inp 
+12:15:54 :xls.Status:下载数据防ban间隔...2000ms 
+12:15:56 :xls.Status:[19/33](15826191001)  不可继续获取数据: 
+12:16:01 :xls.Status:RunNextUser,Num:0 
+12:16:01 :xls.Status:加载[20/33](15923225800)   
+12:16:01 :xls.Status:加载题库:[20/33](15923225800)   
+12:16:01 :xls.Status:[20/33](15923225800)  加载题目集数量:5 
+12:16:03 :xls.Status:[20/33](15923225800)  .习题已全部加载完成  UA/AC/All=7/15/483 
+12:16:04 :xls.Status:下载题目:T103 的测试数据 
+12:16:04 :xls.Status:[20/33](15923225800)  [T103]A+B Problem:{"itemid":"2083338","msg":"提交成功。","ret":"1"} 
+12:16:04 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:16:09 :xls.Status:下载题目数据:T103-2.inp 
+12:16:09 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:11 :xls.Status:下载题目数据:T103-3.inp 
+12:16:11 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:13 :xls.Status:下载题目数据:T103-4.inp 
+12:16:13 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:15 :xls.Status:下载题目数据:T103-5.inp 
+12:16:15 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:17 :xls.Status:下载题目数据:T103-6.inp 
+12:16:17 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:19 :xls.Status:下载题目数据:T103-7.inp 
+12:16:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:21 :xls.Status:下载题目数据:T103-8.inp 
+12:16:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:23 :xls.Status:[20/33](15923225800)  不可继续获取数据: 
+12:16:28 :xls.Status:RunNextUser,Num:0 
+12:16:28 :xls.Status:加载[21/33](13340286964)   
+12:16:28 :xls.Status:加载题库:[21/33](13340286964)   
+12:16:28 :xls.Status:[21/33](13340286964)  加载题目集数量:5 
+12:16:30 :xls.Status:[21/33](13340286964)  .习题已全部加载完成  UA/AC/All=7/12/483 
+12:16:31 :xls.Status:下载题目:T275 的测试数据 
+12:16:31 :xls.Status:[21/33](13340286964)  [T275]三角形面积:{"itemid":"2083340","msg":"提交成功。","ret":"1"} 
+12:16:31 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:16:36 :xls.Status:下载题目数据:T275-5.outp 
+12:16:36 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:38 :xls.Status:下载题目数据:T275-6.outp 
+12:16:38 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:40 :xls.Status:下载题目数据:T275-7.outp 
+12:16:40 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:42 :xls.Status:下载题目数据:T275-8.outp 
+12:16:42 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:44 :xls.Status:下载题目数据:T275-9.outp 
+12:16:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:46 :xls.Status:下载题目数据:T275-10.outp 
+12:16:46 :xls.Status:下载数据防ban间隔...2000ms 
+12:16:46 :xls.Status:生成代码:T275,总测试数据(10) 
+12:16:46 :xls.Status:下载题目:T274 的测试数据 
+12:16:46 :xls.Status:[21/33](13340286964)  [T274]校门外的树:{"itemid":"2083341","msg":"提交成功。","ret":"1"} 
+12:16:46 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:16:51 :xls.Status:[21/33](13340286964)  不可继续获取数据: 
+12:16:56 :xls.Status:RunNextUser,Num:0 
+12:16:56 :xls.Status:加载[22/33](15213442058)   
+12:16:56 :xls.Status:加载题库:[22/33](15213442058)   
+12:16:56 :xls.Status:[22/33](15213442058)  加载题目集数量:5 
+12:16:58 :xls.Status:[22/33](15213442058)  .习题已全部加载完成  UA/AC/All=7/12/483 
+12:16:59 :xls.Status:下载题目:T274 的测试数据 
+12:16:59 :xls.Status:[22/33](15213442058)  [T274]校门外的树:{"itemid":"2083342","msg":"提交成功。","ret":"1"} 
+12:16:59 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:17:04 :xls.Status:下载题目数据:T274-1.inp 
+12:17:04 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:06 :xls.Status:下载题目数据:T274-2.inp 
+12:17:06 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:08 :xls.Status:下载题目数据:T274-3.inp 
+12:17:08 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:10 :xls.Status:下载题目数据:T274-4.inp 
+12:17:10 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:12 :xls.Status:下载题目数据:T274-5.inp 
+12:17:12 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:14 :xls.Status:下载题目数据:T274-6.inp 
+12:17:14 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:16 :xls.Status:下载题目数据:T274-7.inp 
+12:17:16 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:18 :xls.Status:[22/33](15213442058)  不可继续获取数据: 
+12:17:23 :xls.Status:RunNextUser,Num:0 
+12:17:23 :xls.Status:加载[23/33](15972977557)   
+12:17:23 :xls.Status:加载题库:[23/33](15972977557)   
+12:17:23 :xls.Status:[23/33](15972977557)  加载题目集数量:5 
+12:17:25 :xls.Status:[23/33](15972977557)  .习题已全部加载完成  UA/AC/All=7/35/483 
+12:17:26 :xls.Status:下载题目:T274 的测试数据 
+12:17:26 :xls.Status:[23/33](15972977557)  [T274]校门外的树:{"itemid":"2083343","msg":"提交成功。","ret":"1"} 
+12:17:26 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:17:31 :xls.Status:下载题目数据:T274-8.inp 
+12:17:31 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:33 :xls.Status:下载题目数据:T274-9.inp 
+12:17:33 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:35 :xls.Status:下载题目数据:T274-10.inp 
+12:17:35 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:37 :xls.Status:下载题目数据:T274-1.outp 
+12:17:37 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:39 :xls.Status:下载题目数据:T274-2.outp 
+12:17:39 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:41 :xls.Status:下载题目数据:T274-3.outp 
+12:17:41 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:43 :xls.Status:下载题目数据:T274-4.outp 
+12:17:43 :xls.Status:下载数据防ban间隔...2000ms 
+12:17:45 :xls.Status:[23/33](15972977557)  不可继续获取数据: 
+12:17:50 :xls.Status:RunNextUser,Num:0 
+12:17:50 :xls.Status:加载[24/33](13153334563)   
+12:17:50 :xls.Status:加载题库:[24/33](13153334563)   
+12:17:50 :xls.Status:[24/33](13153334563)  加载题目集数量:5 
+12:17:52 :xls.Status:[24/33](13153334563)  .习题已全部加载完成  UA/AC/All=7/5/483 
+12:17:53 :xls.Status:下载题目:T103 的测试数据 
+12:17:53 :xls.Status:[24/33](13153334563)  [T103]A+B Problem:{"itemid":"2083347","msg":"提交成功。","ret":"1"} 
+12:17:53 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:17:58 :xls.Status:下载题目数据:T103-9.inp 
+12:17:58 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:00 :xls.Status:下载题目数据:T103-10.inp 
+12:18:00 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:02 :xls.Status:下载题目数据:T103-1.outp 
+12:18:02 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:04 :xls.Status:下载题目数据:T103-2.outp 
+12:18:04 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:06 :xls.Status:下载题目数据:T103-3.outp 
+12:18:06 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:08 :xls.Status:下载题目数据:T103-4.outp 
+12:18:08 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:10 :xls.Status:下载题目数据:T103-5.outp 
+12:18:10 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:12 :xls.Status:[24/33](13153334563)  不可继续获取数据: 
+12:18:17 :xls.Status:RunNextUser,Num:0 
+12:18:17 :xls.Status:加载[25/33](18071410231)   
+12:18:17 :xls.Status:加载题库:[25/33](18071410231)   
+12:18:17 :xls.Status:[25/33](18071410231)  加载题目集数量:5 
+12:18:19 :xls.Status:[25/33](18071410231)  .习题已全部加载完成  UA/AC/All=7/12/483 
+12:18:20 :xls.Status:下载题目:T103 的测试数据 
+12:18:20 :xls.Status:[25/33](18071410231)  [T103]A+B Problem:{"itemid":"2083350","msg":"提交成功。","ret":"1"} 
+12:18:20 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:18:25 :xls.Status:下载题目数据:T103-6.outp 
+12:18:25 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:27 :xls.Status:下载题目数据:T103-7.outp 
+12:18:27 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:29 :xls.Status:下载题目数据:T103-8.outp 
+12:18:29 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:31 :xls.Status:下载题目数据:T103-9.outp 
+12:18:31 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:33 :xls.Status:下载题目数据:T103-10.outp 
+12:18:33 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:33 :xls.Status:生成代码:T103,总测试数据(10) 
+12:18:33 :xls.Status:下载题目:T101 的测试数据 
+12:18:33 :xls.Status:[25/33](18071410231)  [T101]数组排序去重:{"itemid":"2083352","msg":"提交成功。","ret":"1"} 
+12:18:33 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:18:38 :xls.Status:下载题目数据:T101-1.inp 
+12:18:38 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:40 :xls.Status:[25/33](18071410231)  不可继续获取数据: 
+12:18:45 :xls.Status:RunNextUser,Num:0 
+12:18:45 :xls.Status:加载[26/33](625090446@qq.com)   
+12:18:45 :xls.Status:加载题库:[26/33](625090446@qq.com)   
+12:18:45 :xls.Status:[26/33](625090446@qq.com)  加载题目集数量:5 
+12:18:47 :xls.Status:[26/33](625090446@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:18:47 :xls.Status:下载题目:T101 的测试数据 
+12:18:47 :xls.Status:[26/33](625090446@qq.com)  [T101]数组排序去重:{"itemid":"2083354","msg":"提交成功。","ret":"1"} 
+12:18:47 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:18:52 :xls.Status:下载题目数据:T101-2.inp 
+12:18:52 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:54 :xls.Status:下载题目数据:T101-3.inp 
+12:18:54 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:56 :xls.Status:下载题目数据:T101-4.inp 
+12:18:56 :xls.Status:下载数据防ban间隔...2000ms 
+12:18:58 :xls.Status:下载题目数据:T101-5.inp 
+12:18:58 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:00 :xls.Status:下载题目数据:T101-1.outp 
+12:19:00 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:02 :xls.Status:下载题目数据:T101-2.outp 
+12:19:02 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:05 :xls.Status:下载题目数据:T101-3.outp 
+12:19:05 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:07 :xls.Status:[26/33](625090446@qq.com)  不可继续获取数据: 
+12:19:12 :xls.Status:RunNextUser,Num:0 
+12:19:12 :xls.Status:加载[27/33](13178693999)   
+12:19:12 :xls.Status:加载题库:[27/33](13178693999)   
+12:19:12 :xls.Status:[27/33](13178693999)  加载题目集数量:5 
+12:19:14 :xls.Status:[27/33](13178693999)  .习题已全部加载完成  UA/AC/All=7/9/483 
+12:19:14 :xls.Status:下载题目:T101 的测试数据 
+12:19:14 :xls.Status:[27/33](13178693999)  [T101]数组排序去重:{"itemid":"2083357","msg":"提交成功。","ret":"1"} 
+12:19:14 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:19:19 :xls.Status:下载题目数据:T101-4.outp 
+12:19:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:21 :xls.Status:下载题目数据:T101-5.outp 
+12:19:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:21 :xls.Status:生成代码:T101,总测试数据(5) 
+12:19:21 :xls.Status:下载题目:T100 的测试数据 
+12:19:21 :xls.Status:[27/33](13178693999)  [T100]接水问题:{"itemid":"2083359","msg":"提交成功。","ret":"1"} 
+12:19:21 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:19:27 :xls.Status:下载题目数据:T100-1.inp 
+12:19:27 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:29 :xls.Status:下载题目数据:T100-2.inp 
+12:19:29 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:31 :xls.Status:下载题目数据:T100-3.inp 
+12:19:31 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:33 :xls.Status:下载题目数据:T100-4.inp 
+12:19:33 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:35 :xls.Status:[27/33](13178693999)  不可继续获取数据: 
+12:19:40 :xls.Status:RunNextUser,Num:0 
+12:19:40 :xls.Status:加载[28/33](13072386283)   
+12:19:40 :xls.Status:加载题库:[28/33](13072386283)   
+12:19:40 :xls.Status:[28/33](13072386283)  加载题目集数量:5 
+12:19:42 :xls.Status:[28/33](13072386283)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:19:43 :xls.Status:下载题目:T100 的测试数据 
+12:19:43 :xls.Status:[28/33](13072386283)  [T100]接水问题:{"itemid":"2083361","msg":"提交成功。","ret":"1"} 
+12:19:43 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:19:48 :xls.Status:下载题目数据:T100-5.inp 
+12:19:48 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:50 :xls.Status:下载题目数据:T100-6.inp 
+12:19:50 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:52 :xls.Status:下载题目数据:T100-7.inp 
+12:19:52 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:54 :xls.Status:下载题目数据:T100-8.inp 
+12:19:54 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:56 :xls.Status:下载题目数据:T100-9.inp 
+12:19:56 :xls.Status:下载数据防ban间隔...2000ms 
+12:19:58 :xls.Status:下载题目数据:T100-10.inp 
+12:19:58 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:00 :xls.Status:下载题目数据:T100-1.outp 
+12:20:00 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:02 :xls.Status:[28/33](13072386283)  不可继续获取数据: 
+12:20:07 :xls.Status:RunNextUser,Num:0 
+12:20:07 :xls.Status:加载[29/33](15730360985)   
+12:20:07 :xls.Status:加载题库:[29/33](15730360985)   
+12:20:07 :xls.Status:[29/33](15730360985)  加载题目集数量:5 
+12:20:09 :xls.Status:[29/33](15730360985)  .习题已全部加载完成  UA/AC/All=7/9/483 
+12:20:10 :xls.Status:下载题目:T100 的测试数据 
+12:20:10 :xls.Status:[29/33](15730360985)  [T100]接水问题:{"itemid":"2083363","msg":"提交成功。","ret":"1"} 
+12:20:10 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:20:15 :xls.Status:下载题目数据:T100-2.outp 
+12:20:15 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:17 :xls.Status:下载题目数据:T100-3.outp 
+12:20:17 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:19 :xls.Status:下载题目数据:T100-4.outp 
+12:20:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:21 :xls.Status:下载题目数据:T100-5.outp 
+12:20:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:23 :xls.Status:下载题目数据:T100-6.outp 
+12:20:23 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:25 :xls.Status:下载题目数据:T100-7.outp 
+12:20:25 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:27 :xls.Status:下载题目数据:T100-8.outp 
+12:20:27 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:29 :xls.Status:[29/33](15730360985)  不可继续获取数据: 
+12:20:34 :xls.Status:RunNextUser,Num:0 
+12:20:34 :xls.Status:加载[30/33](15205967368)   
+12:20:34 :xls.Status:加载题库:[30/33](15205967368)   
+12:20:34 :xls.Status:[30/33](15205967368)  加载题目集数量:5 
+12:20:36 :xls.Status:[30/33](15205967368)  .习题已全部加载完成  UA/AC/All=7/3/483 
+12:20:37 :xls.Status:下载题目:T100 的测试数据 
+12:20:37 :xls.Status:[30/33](15205967368)  [T100]接水问题:{"itemid":"2083365","msg":"提交成功。","ret":"1"} 
+12:20:37 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:20:42 :xls.Status:下载题目数据:T100-9.outp 
+12:20:42 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:44 :xls.Status:下载题目数据:T100-10.outp 
+12:20:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:45 :xls.Status:生成代码:T100,总测试数据(10) 
+12:20:45 :xls.Status:下载题目:T99 的测试数据 
+12:20:45 :xls.Status:[30/33](15205967368)  [T99]Hankson的趣味题:{"itemid":"2083366","msg":"提交成功。","ret":"1"} 
+12:20:45 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:20:50 :xls.Status:下载题目数据:T99-1.inp 
+12:20:50 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:52 :xls.Status:下载题目数据:T99-2.inp 
+12:20:52 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:54 :xls.Status:下载题目数据:T99-3.inp 
+12:20:54 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:56 :xls.Status:下载题目数据:T99-4.inp 
+12:20:56 :xls.Status:下载数据防ban间隔...2000ms 
+12:20:58 :xls.Status:[30/33](15205967368)  不可继续获取数据: 
+12:21:03 :xls.Status:RunNextUser,Num:0 
+12:21:03 :xls.Status:加载[31/33](15823283574)   
+12:21:03 :xls.Status:加载题库:[31/33](15823283574)   
+12:21:03 :xls.Status:[31/33](15823283574)  加载题目集数量:5 
+12:21:05 :xls.Status:[31/33](15823283574)  .习题已全部加载完成  UA/AC/All=7/10/483 
+12:21:06 :xls.Status:下载题目:T99 的测试数据 
+12:21:06 :xls.Status:[31/33](15823283574)  [T99]Hankson的趣味题:{"itemid":"2083367","msg":"提交成功。","ret":"1"} 
+12:21:06 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:21:11 :xls.Status:下载题目数据:T99-5.inp 
+12:21:11 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:13 :xls.Status:下载题目数据:T99-6.inp 
+12:21:13 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:15 :xls.Status:下载题目数据:T99-7.inp 
+12:21:15 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:17 :xls.Status:下载题目数据:T99-8.inp 
+12:21:17 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:19 :xls.Status:下载题目数据:T99-9.inp 
+12:21:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:21 :xls.Status:下载题目数据:T99-10.inp 
+12:21:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:23 :xls.Status:下载题目数据:T99-1.outp 
+12:21:23 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:25 :xls.Status:[31/33](15823283574)  不可继续获取数据: 
+12:21:30 :xls.Status:RunNextUser,Num:0 
+12:21:30 :xls.Status:加载[32/33](15972926051)   
+12:21:30 :xls.Status:加载题库:[32/33](15972926051)   
+12:21:30 :xls.Status:[32/33](15972926051)  加载题目集数量:5 
+12:21:32 :xls.Status:[32/33](15972926051)  .习题已全部加载完成  UA/AC/All=7/6/483 
+12:21:33 :xls.Status:下载题目:T99 的测试数据 
+12:21:33 :xls.Status:[32/33](15972926051)  [T99]Hankson的趣味题:{"itemid":"2083370","msg":"提交成功。","ret":"1"} 
+12:21:33 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:21:38 :xls.Status:下载题目数据:T99-2.outp 
+12:21:38 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:40 :xls.Status:下载题目数据:T99-3.outp 
+12:21:40 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:42 :xls.Status:下载题目数据:T99-4.outp 
+12:21:42 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:44 :xls.Status:下载题目数据:T99-5.outp 
+12:21:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:46 :xls.Status:下载题目数据:T99-6.outp 
+12:21:46 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:48 :xls.Status:下载题目数据:T99-7.outp 
+12:21:48 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:50 :xls.Status:下载题目数据:T99-8.outp 
+12:21:50 :xls.Status:下载数据防ban间隔...2000ms 
+12:21:52 :xls.Status:[32/33](15972926051)  不可继续获取数据: 
+12:21:57 :xls.Status:RunNextUser,Num:0 
+12:21:57 :xls.Status:加载[33/33](18152681169)   
+12:21:57 :xls.Status:加载题库:[33/33](18152681169)   
+12:21:57 :xls.Status:[33/33](18152681169)  加载题目集数量:5 
+12:21:59 :xls.Status:[33/33](18152681169)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:22:01 :xls.Status:下载题目:T99 的测试数据 
+12:22:01 :xls.Status:[33/33](18152681169)  [T99]Hankson的趣味题:{"itemid":"2083373","msg":"提交成功。","ret":"1"} 
+12:22:01 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:22:06 :xls.Status:下载题目数据:T99-9.outp 
+12:22:06 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:08 :xls.Status:下载题目数据:T99-10.outp 
+12:22:08 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:08 :xls.Status:生成代码:T99,总测试数据(10) 
+12:22:08 :xls.Status:下载题目:T98 的测试数据 
+12:22:08 :xls.Status:[33/33](18152681169)  [T98]传纸条:{"itemid":"2083374","msg":"提交成功。","ret":"1"} 
+12:22:08 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:22:13 :xls.Status:下载题目数据:T98-1.inp 
+12:22:13 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:15 :xls.Status:下载题目数据:T98-2.inp 
+12:22:15 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:17 :xls.Status:下载题目数据:T98-3.inp 
+12:22:17 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:19 :xls.Status:下载题目数据:T98-4.inp 
+12:22:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:21 :xls.Status:[33/33](18152681169)  不可继续获取数据: 
+12:22:26 :xls.Status:RunNextUser,Num:0 
+12:22:26 :xls.Status:加载[1/33](liuchangm7j@vip.qq.com)   
+12:22:26 :xls.Status:加载题库:[1/33](liuchangm7j@vip.qq.com)   
+12:22:26 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  加载题目集数量:5 
+12:22:29 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  .习题已全部加载完成  UA/AC/All=7/467/483 
+12:22:29 :xls.Status:下载题目:T489 的测试数据 
+12:22:29 :xls.Status:下载题目数据:T489-14.outp 
+12:22:29 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:31 :xls.Status:下载题目数据:T489-15.outp 
+12:22:31 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:33 :xls.Status:下载题目数据:T489-16.outp 
+12:22:33 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:35 :xls.Status:下载题目数据:T489-17.outp 
+12:22:35 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:37 :xls.Status:下载题目数据:T489-18.outp 
+12:22:37 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:39 :xls.Status:下载题目数据:T489-19.outp 
+12:22:39 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:41 :xls.Status:下载题目数据:T489-20.outp 
+12:22:41 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:41 :xls.Status:生成代码:T489,总测试数据(20) 
+12:22:41 :xls.Status:下载题目:T488 的测试数据 
+12:22:41 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  不可继续获取数据: 
+12:22:46 :xls.Status:RunNextUser,Num:0 
+12:22:46 :xls.Status:加载[2/33](13986274216)   
+12:22:46 :xls.Status:加载题库:[2/33](13986274216)   
+12:22:46 :xls.Status:[2/33](13986274216)  加载题目集数量:5 
+12:22:48 :xls.Status:[2/33](13986274216)  .习题已全部加载完成  UA/AC/All=7/6/483 
+12:22:49 :xls.Status:下载题目:T98 的测试数据 
+12:22:49 :xls.Status:[2/33](13986274216)  [T98]传纸条:{"itemid":"2083377","msg":"提交成功。","ret":"1"} 
+12:22:49 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:22:54 :xls.Status:下载题目数据:T98-5.inp 
+12:22:54 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:56 :xls.Status:下载题目数据:T98-6.inp 
+12:22:56 :xls.Status:下载数据防ban间隔...2000ms 
+12:22:58 :xls.Status:下载题目数据:T98-7.inp 
+12:22:58 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:00 :xls.Status:下载题目数据:T98-8.inp 
+12:23:00 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:02 :xls.Status:下载题目数据:T98-9.inp 
+12:23:02 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:04 :xls.Status:下载题目数据:T98-10.inp 
+12:23:04 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:06 :xls.Status:下载题目数据:T98-1.outp 
+12:23:06 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:08 :xls.Status:[2/33](13986274216)  不可继续获取数据: 
+12:23:13 :xls.Status:RunNextUser,Num:0 
+12:23:13 :xls.Status:加载[3/33](15808081216)   
+12:23:13 :xls.Status:加载题库:[3/33](15808081216)   
+12:23:13 :xls.Status:[3/33](15808081216)  加载题目集数量:5 
+12:23:15 :xls.Status:[3/33](15808081216)  .习题已全部加载完成  UA/AC/All=7/4/483 
+12:23:16 :xls.Status:下载题目:T274 的测试数据 
+12:23:16 :xls.Status:[3/33](15808081216)  [T274]校门外的树:{"itemid":"2083378","msg":"提交成功。","ret":"1"} 
+12:23:16 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:23:21 :xls.Status:下载题目数据:T274-5.outp 
+12:23:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:23 :xls.Status:下载题目数据:T274-6.outp 
+12:23:23 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:25 :xls.Status:下载题目数据:T274-7.outp 
+12:23:25 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:27 :xls.Status:下载题目数据:T274-8.outp 
+12:23:27 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:29 :xls.Status:下载题目数据:T274-9.outp 
+12:23:29 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:31 :xls.Status:下载题目数据:T274-10.outp 
+12:23:31 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:31 :xls.Status:生成代码:T274,总测试数据(10) 
+12:23:31 :xls.Status:下载题目:T273 的测试数据 
+12:23:31 :xls.Status:[3/33](15808081216)  [T273]彩票:{"itemid":"2083379","msg":"提交成功。","ret":"1"} 
+12:23:31 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:23:37 :xls.Status:[3/33](15808081216)  不可继续获取数据: 
+12:23:42 :xls.Status:RunNextUser,Num:0 
+12:23:42 :xls.Status:加载[4/33](904546102@qq.com)   
+12:23:42 :xls.Status:加载题库:[4/33](904546102@qq.com)   
+12:23:42 :xls.Status:[4/33](904546102@qq.com)  加载题目集数量:5 
+12:23:45 :xls.Status:[4/33](904546102@qq.com)  .习题已全部加载完成  UA/AC/All=7/70/483 
+12:23:45 :xls.Status:下载题目:T273 的测试数据 
+12:23:45 :xls.Status:[4/33](904546102@qq.com)  [T273]彩票:{"itemid":"2083380","msg":"提交成功。","ret":"1"} 
+12:23:45 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:23:50 :xls.Status:下载题目数据:T273-8.inp 
+12:23:50 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:52 :xls.Status:下载题目数据:T273-9.inp 
+12:23:52 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:54 :xls.Status:下载题目数据:T273-10.inp 
+12:23:54 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:57 :xls.Status:下载题目数据:T273-1.outp 
+12:23:57 :xls.Status:下载数据防ban间隔...2000ms 
+12:23:59 :xls.Status:下载题目数据:T273-2.outp 
+12:23:59 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:01 :xls.Status:下载题目数据:T273-3.outp 
+12:24:01 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:03 :xls.Status:下载题目数据:T273-4.outp 
+12:24:03 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:05 :xls.Status:[4/33](904546102@qq.com)  不可继续获取数据: 
+12:24:10 :xls.Status:RunNextUser,Num:0 
+12:24:10 :xls.Status:加载[5/33](17623877493)   
+12:24:10 :xls.Status:加载题库:[5/33](17623877493)   
+12:24:10 :xls.Status:[5/33](17623877493)  加载题目集数量:5 
+12:24:12 :xls.Status:[5/33](17623877493)  .习题已全部加载完成  UA/AC/All=7/11/483 
+12:24:13 :xls.Status:下载题目:T98 的测试数据 
+12:24:13 :xls.Status:[5/33](17623877493)  [T98]传纸条:{"itemid":"2083381","msg":"提交成功。","ret":"1"} 
+12:24:13 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:24:18 :xls.Status:下载题目数据:T98-2.outp 
+12:24:18 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:20 :xls.Status:下载题目数据:T98-3.outp 
+12:24:20 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:22 :xls.Status:下载题目数据:T98-4.outp 
+12:24:22 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:24 :xls.Status:下载题目数据:T98-5.outp 
+12:24:24 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:26 :xls.Status:下载题目数据:T98-6.outp 
+12:24:26 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:28 :xls.Status:下载题目数据:T98-7.outp 
+12:24:28 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:30 :xls.Status:下载题目数据:T98-8.outp 
+12:24:30 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:32 :xls.Status:[5/33](17623877493)  不可继续获取数据: 
+12:24:37 :xls.Status:RunNextUser,Num:0 
+12:24:37 :xls.Status:加载[6/33](17623476609)   
+12:24:37 :xls.Status:加载题库:[6/33](17623476609)   
+12:24:37 :xls.Status:[6/33](17623476609)  加载题目集数量:5 
+12:24:39 :xls.Status:[6/33](17623476609)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:24:41 :xls.Status:下载题目:T98 的测试数据 
+12:24:41 :xls.Status:[6/33](17623476609)  [T98]传纸条:{"itemid":"2083383","msg":"提交成功。","ret":"1"} 
+12:24:41 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:24:46 :xls.Status:下载题目数据:T98-9.outp 
+12:24:46 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:48 :xls.Status:下载题目数据:T98-10.outp 
+12:24:48 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:48 :xls.Status:生成代码:T98,总测试数据(10) 
+12:24:48 :xls.Status:下载题目:T347 的测试数据 
+12:24:48 :xls.Status:[6/33](17623476609)  [T347]Multithreading:{"itemid":"2083385","msg":"提交成功。","ret":"1"} 
+12:24:48 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:24:53 :xls.Status:下载题目数据:T347-1.inp 
+12:24:53 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:55 :xls.Status:下载题目数据:T347-2.inp 
+12:24:55 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:57 :xls.Status:下载题目数据:T347-3.inp 
+12:24:57 :xls.Status:下载数据防ban间隔...2000ms 
+12:24:59 :xls.Status:下载题目数据:T347-4.inp 
+12:24:59 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:01 :xls.Status:[6/33](17623476609)  不可继续获取数据: 
+12:25:06 :xls.Status:RunNextUser,Num:0 
+12:25:06 :xls.Status:加载[7/33](15730361457)   
+12:25:06 :xls.Status:加载题库:[7/33](15730361457)   
+12:25:06 :xls.Status:[7/33](15730361457)  加载题目集数量:5 
+12:25:08 :xls.Status:[7/33](15730361457)  .习题已全部加载完成  UA/AC/All=7/21/483 
+12:25:09 :xls.Status:下载题目:T347 的测试数据 
+12:25:09 :xls.Status:[7/33](15730361457)  [T347]Multithreading:{"itemid":"2083387","msg":"提交成功。","ret":"1"} 
+12:25:09 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:25:14 :xls.Status:下载题目数据:T347-5.inp 
+12:25:14 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:16 :xls.Status:下载题目数据:T347-6.inp 
+12:25:16 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:18 :xls.Status:下载题目数据:T347-7.inp 
+12:25:18 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:20 :xls.Status:下载题目数据:T347-8.inp 
+12:25:20 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:22 :xls.Status:下载题目数据:T347-9.inp 
+12:25:22 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:24 :xls.Status:下载题目数据:T347-10.inp 
+12:25:24 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:26 :xls.Status:下载题目数据:T347-11.inp 
+12:25:26 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:28 :xls.Status:[7/33](15730361457)  不可继续获取数据: 
+12:25:33 :xls.Status:RunNextUser,Num:0 
+12:25:33 :xls.Status:加载[8/33](15730363368)   
+12:25:33 :xls.Status:加载题库:[8/33](15730363368)   
+12:25:33 :xls.Status:[8/33](15730363368)  加载题目集数量:5 
+12:25:35 :xls.Status:[8/33](15730363368)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:25:35 :xls.Status:下载题目:T273 的测试数据 
+12:25:35 :xls.Status:[8/33](15730363368)  [T273]彩票:{"itemid":"2083388","msg":"提交成功。","ret":"1"} 
+12:25:35 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:25:40 :xls.Status:下载题目数据:T273-5.outp 
+12:25:40 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:42 :xls.Status:下载题目数据:T273-6.outp 
+12:25:42 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:44 :xls.Status:下载题目数据:T273-7.outp 
+12:25:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:46 :xls.Status:下载题目数据:T273-8.outp 
+12:25:46 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:49 :xls.Status:下载题目数据:T273-9.outp 
+12:25:49 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:51 :xls.Status:下载题目数据:T273-10.outp 
+12:25:51 :xls.Status:下载数据防ban间隔...2000ms 
+12:25:51 :xls.Status:生成代码:T273,总测试数据(10) 
+12:25:54 :xls.Status:下载题目:T409 的测试数据 
+12:25:55 :xls.Status:[8/33](15730363368)  [T409]9-1九宫格:{"itemid":"2083390","msg":"提交成功。","ret":"1"} 
+12:25:55 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:26:00 :xls.Status:[8/33](15730363368)  不可继续获取数据: 
+12:26:05 :xls.Status:RunNextUser,Num:0 
+12:26:05 :xls.Status:加载[9/33](17360254616)   
+12:26:05 :xls.Status:加载题库:[9/33](17360254616)   
+12:26:05 :xls.Status:[9/33](17360254616)  加载题目集数量:5 
+12:26:07 :xls.Status:[9/33](17360254616)  .习题已全部加载完成  UA/AC/All=7/15/483 
+12:26:07 :xls.Status:下载题目:T347 的测试数据 
+12:26:07 :xls.Status:[9/33](17360254616)  [T347]Multithreading:{"itemid":"2083393","msg":"提交成功。","ret":"1"} 
+12:26:07 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:26:12 :xls.Status:下载题目数据:T347-12.inp 
+12:26:12 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:14 :xls.Status:下载题目数据:T347-13.inp 
+12:26:14 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:16 :xls.Status:下载题目数据:T347-14.inp 
+12:26:16 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:19 :xls.Status:下载题目数据:T347-15.inp 
+12:26:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:21 :xls.Status:下载题目数据:T347-16.inp 
+12:26:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:23 :xls.Status:下载题目数据:T347-17.inp 
+12:26:23 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:25 :xls.Status:下载题目数据:T347-18.inp 
+12:26:25 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:27 :xls.Status:[9/33](17360254616)  不可继续获取数据: 
+12:26:32 :xls.Status:RunNextUser,Num:0 
+12:26:32 :xls.Status:加载[10/33](15827021295)   
+12:26:32 :xls.Status:加载题库:[10/33](15827021295)   
+12:26:32 :xls.Status:[10/33](15827021295)  加载题目集数量:5 
+12:26:35 :xls.Status:[10/33](15827021295)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:26:35 :xls.Status:下载题目:T347 的测试数据 
+12:26:35 :xls.Status:[10/33](15827021295)  [T347]Multithreading:{"itemid":"2083394","msg":"提交成功。","ret":"1"} 
+12:26:35 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:26:41 :xls.Status:下载题目数据:T347-19.inp 
+12:26:41 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:43 :xls.Status:下载题目数据:T347-20.inp 
+12:26:43 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:45 :xls.Status:下载题目数据:T347-1.outp 
+12:26:45 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:47 :xls.Status:下载题目数据:T347-2.outp 
+12:26:47 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:49 :xls.Status:下载题目数据:T347-3.outp 
+12:26:49 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:51 :xls.Status:下载题目数据:T347-4.outp 
+12:26:51 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:53 :xls.Status:下载题目数据:T347-5.outp 
+12:26:53 :xls.Status:下载数据防ban间隔...2000ms 
+12:26:55 :xls.Status:[10/33](15827021295)  不可继续获取数据: 
+12:27:00 :xls.Status:RunNextUser,Num:0 
+12:27:00 :xls.Status:加载[11/33](15730362474)   
+12:27:00 :xls.Status:加载题库:[11/33](15730362474)   
+12:27:00 :xls.Status:[11/33](15730362474)  加载题目集数量:5 
+12:27:02 :xls.Status:[11/33](15730362474)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:27:03 :xls.Status:下载题目:T347 的测试数据 
+12:27:03 :xls.Status:[11/33](15730362474)  [T347]Multithreading:{"itemid":"2083395","msg":"提交成功。","ret":"1"} 
+12:27:03 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:27:08 :xls.Status:下载题目数据:T347-6.outp 
+12:27:08 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:10 :xls.Status:下载题目数据:T347-7.outp 
+12:27:10 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:12 :xls.Status:下载题目数据:T347-8.outp 
+12:27:12 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:14 :xls.Status:下载题目数据:T347-9.outp 
+12:27:14 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:16 :xls.Status:下载题目数据:T347-10.outp 
+12:27:16 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:18 :xls.Status:下载题目数据:T347-11.outp 
+12:27:18 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:20 :xls.Status:下载题目数据:T347-12.outp 
+12:27:20 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:22 :xls.Status:[11/33](15730362474)  不可继续获取数据: 
+12:27:27 :xls.Status:RunNextUser,Num:0 
+12:27:27 :xls.Status:加载[12/33](511380795@qq.com)   
+12:27:27 :xls.Status:加载题库:[12/33](511380795@qq.com)   
+12:27:27 :xls.Status:[12/33](511380795@qq.com)  加载题目集数量:5 
+12:27:29 :xls.Status:[12/33](511380795@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:27:30 :xls.Status:下载题目:T347 的测试数据 
+12:27:30 :xls.Status:[12/33](511380795@qq.com)  [T347]Multithreading:{"itemid":"2083396","msg":"提交成功。","ret":"1"} 
+12:27:30 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:27:35 :xls.Status:下载题目数据:T347-13.outp 
+12:27:35 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:37 :xls.Status:下载题目数据:T347-14.outp 
+12:27:37 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:39 :xls.Status:下载题目数据:T347-15.outp 
+12:27:39 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:41 :xls.Status:下载题目数据:T347-16.outp 
+12:27:41 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:43 :xls.Status:下载题目数据:T347-17.outp 
+12:27:43 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:45 :xls.Status:下载题目数据:T347-18.outp 
+12:27:45 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:47 :xls.Status:下载题目数据:T347-19.outp 
+12:27:47 :xls.Status:下载数据防ban间隔...2000ms 
+12:27:49 :xls.Status:[12/33](511380795@qq.com)  不可继续获取数据: 
+12:27:54 :xls.Status:RunNextUser,Num:0 
+12:27:54 :xls.Status:加载[13/33](2396522964@qq.com)   
+12:27:54 :xls.Status:加载题库:[13/33](2396522964@qq.com)   
+12:27:54 :xls.Status:[13/33](2396522964@qq.com)  加载题目集数量:5 
+12:27:56 :xls.Status:[13/33](2396522964@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:27:57 :xls.Status:下载题目:T409 的测试数据 
+12:27:57 :xls.Status:[13/33](2396522964@qq.com)  [T409]9-1九宫格:{"itemid":"2083398","msg":"提交成功。","ret":"1"} 
+12:27:57 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:28:02 :xls.Status:下载题目数据:T409-1.inp 
+12:28:02 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:04 :xls.Status:下载题目数据:T409-2.inp 
+12:28:04 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:06 :xls.Status:下载题目数据:T409-3.inp 
+12:28:06 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:08 :xls.Status:下载题目数据:T409-1.outp 
+12:28:08 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:10 :xls.Status:下载题目数据:T409-2.outp 
+12:28:10 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:12 :xls.Status:下载题目数据:T409-3.outp 
+12:28:12 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:12 :xls.Status:生成代码:T409,总测试数据(3) 
+12:28:12 :xls.Status:下载题目:T272 的测试数据 
+12:28:12 :xls.Status:[13/33](2396522964@qq.com)  [T272]笨小猴:{"itemid":"2083399","msg":"提交成功。","ret":"1"} 
+12:28:12 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:28:18 :xls.Status:[13/33](2396522964@qq.com)  不可继续获取数据: 
+12:28:23 :xls.Status:RunNextUser,Num:0 
+12:28:23 :xls.Status:加载[14/33](785794836@qq.com)   
+12:28:23 :xls.Status:加载题库:[14/33](785794836@qq.com)   
+12:28:23 :xls.Status:[14/33](785794836@qq.com)  加载题目集数量:5 
+12:28:26 :xls.Status:[14/33](785794836@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:28:27 :xls.Status:下载题目:T347 的测试数据 
+12:28:27 :xls.Status:[14/33](785794836@qq.com)  [T347]Multithreading:{"itemid":"2083402","msg":"提交成功。","ret":"1"} 
+12:28:27 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:28:32 :xls.Status:下载题目数据:T347-20.outp 
+12:28:32 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:32 :xls.Status:生成代码:T347,总测试数据(20) 
+12:28:32 :xls.Status:生成代码第11组数据输出过大 
+12:28:32 :xls.Status:生成代码第12组数据输出过大 
+12:28:32 :xls.Status:生成代码第13组数据输出过大 
+12:28:32 :xls.Status:生成代码第14组数据输出过大 
+12:28:32 :xls.Status:生成代码第15组数据输出过大 
+12:28:32 :xls.Status:生成代码第16组数据输出过大 
+12:28:32 :xls.Status:生成代码第17组数据输出过大 
+12:28:32 :xls.Status:生成代码第18组数据输出过大 
+12:28:32 :xls.Status:生成代码第19组数据输出过大 
+12:28:32 :xls.Status:生成代码数据量过大 
+12:28:32 :xls.Status:下载题目:T97 的测试数据 
+12:28:32 :xls.Status:[14/33](785794836@qq.com)  [T97]传球游戏:{"itemid":"2083403","msg":"提交成功。","ret":"1"} 
+12:28:32 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:28:37 :xls.Status:下载题目数据:T97-1.inp 
+12:28:37 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:39 :xls.Status:下载题目数据:T97-2.inp 
+12:28:39 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:41 :xls.Status:下载题目数据:T97-3.inp 
+12:28:41 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:43 :xls.Status:下载题目数据:T97-4.inp 
+12:28:43 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:46 :xls.Status:下载题目数据:T97-5.inp 
+12:28:46 :xls.Status:下载数据防ban间隔...2000ms 
+12:28:48 :xls.Status:[14/33](785794836@qq.com)  不可继续获取数据: 
+12:28:53 :xls.Status:RunNextUser,Num:0 
+12:28:53 :xls.Status:加载[15/33](serfend@lqb.com)   
+12:28:53 :xls.Status:加载题库:[15/33](serfend@lqb.com)   
+12:28:53 :xls.Status:[15/33](serfend@lqb.com)  加载题目集数量:5 
+12:28:56 :xls.Status:[15/33](serfend@lqb.com)  .习题已全部加载完成  UA/AC/All=7/303/483 
+12:28:56 :xls.Status:下载题目:T270 的测试数据 
+12:28:56 :xls.Status:[15/33](serfend@lqb.com)  [T270]选择排序:{"itemid":"2083405","msg":"提交成功。","ret":"1"} 
+12:28:56 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:29:02 :xls.Status:下载题目数据:T270-1.inp 
+12:29:02 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:04 :xls.Status:下载题目数据:T270-2.inp 
+12:29:04 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:06 :xls.Status:下载题目数据:T270-3.inp 
+12:29:06 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:08 :xls.Status:下载题目数据:T270-4.inp 
+12:29:08 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:10 :xls.Status:下载题目数据:T270-5.inp 
+12:29:10 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:12 :xls.Status:下载题目数据:T270-6.inp 
+12:29:12 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:14 :xls.Status:下载题目数据:T270-7.inp 
+12:29:14 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:16 :xls.Status:[15/33](serfend@lqb.com)  不可继续获取数据: 
+12:29:21 :xls.Status:RunNextUser,Num:0 
+12:29:21 :xls.Status:加载[16/33](354929630@qq.com)   
+12:29:21 :xls.Status:加载题库:[16/33](354929630@qq.com)   
+12:29:21 :xls.Status:[16/33](354929630@qq.com)  加载题目集数量:5 
+12:29:23 :xls.Status:[16/33](354929630@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:29:25 :xls.Status:下载题目:T97 的测试数据 
+12:29:25 :xls.Status:[16/33](354929630@qq.com)  [T97]传球游戏:{"itemid":"2083407","msg":"提交成功。","ret":"1"} 
+12:29:25 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:29:30 :xls.Status:下载题目数据:T97-6.inp 
+12:29:30 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:32 :xls.Status:下载题目数据:T97-7.inp 
+12:29:32 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:34 :xls.Status:下载题目数据:T97-8.inp 
+12:29:34 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:36 :xls.Status:下载题目数据:T97-9.inp 
+12:29:36 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:38 :xls.Status:下载题目数据:T97-10.inp 
+12:29:38 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:40 :xls.Status:下载题目数据:T97-1.outp 
+12:29:40 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:42 :xls.Status:下载题目数据:T97-2.outp 
+12:29:42 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:44 :xls.Status:[16/33](354929630@qq.com)  不可继续获取数据: 
+12:29:49 :xls.Status:RunNextUser,Num:0 
+12:29:49 :xls.Status:加载[17/33](747276157@qq.com)   
+12:29:49 :xls.Status:加载题库:[17/33](747276157@qq.com)   
+12:29:49 :xls.Status:[17/33](747276157@qq.com)  加载题目集数量:5 
+12:29:51 :xls.Status:[17/33](747276157@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:29:52 :xls.Status:下载题目:T272 的测试数据 
+12:29:52 :xls.Status:[17/33](747276157@qq.com)  [T272]笨小猴:{"itemid":"2083409","msg":"提交成功。","ret":"1"} 
+12:29:52 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:29:57 :xls.Status:下载题目数据:T272-1.inp 
+12:29:57 :xls.Status:下载数据防ban间隔...2000ms 
+12:29:59 :xls.Status:下载题目数据:T272-2.inp 
+12:29:59 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:01 :xls.Status:下载题目数据:T272-3.inp 
+12:30:01 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:03 :xls.Status:下载题目数据:T272-4.inp 
+12:30:03 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:05 :xls.Status:下载题目数据:T272-5.inp 
+12:30:05 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:07 :xls.Status:下载题目数据:T272-6.inp 
+12:30:07 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:09 :xls.Status:下载题目数据:T272-7.inp 
+12:30:09 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:11 :xls.Status:[17/33](747276157@qq.com)  不可继续获取数据: 
+12:30:16 :xls.Status:RunNextUser,Num:0 
+12:30:16 :xls.Status:加载[18/33](15926430497)   
+12:30:16 :xls.Status:加载题库:[18/33](15926430497)   
+12:30:16 :xls.Status:[18/33](15926430497)  加载题目集数量:5 
+12:30:18 :xls.Status:[18/33](15926430497)  .习题已全部加载完成  UA/AC/All=7/29/483 
+12:30:19 :xls.Status:下载题目:T97 的测试数据 
+12:30:19 :xls.Status:[18/33](15926430497)  [T97]传球游戏:{"itemid":"2083415","msg":"提交成功。","ret":"1"} 
+12:30:19 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:30:24 :xls.Status:下载题目数据:T97-3.outp 
+12:30:24 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:26 :xls.Status:下载题目数据:T97-4.outp 
+12:30:26 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:28 :xls.Status:下载题目数据:T97-5.outp 
+12:30:28 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:30 :xls.Status:下载题目数据:T97-6.outp 
+12:30:30 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:32 :xls.Status:下载题目数据:T97-7.outp 
+12:30:32 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:34 :xls.Status:下载题目数据:T97-8.outp 
+12:30:34 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:36 :xls.Status:下载题目数据:T97-9.outp 
+12:30:36 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:38 :xls.Status:[18/33](15926430497)  不可继续获取数据: 
+12:30:43 :xls.Status:RunNextUser,Num:0 
+12:30:43 :xls.Status:加载[19/33](15826191001)   
+12:30:43 :xls.Status:加载题库:[19/33](15826191001)   
+12:30:43 :xls.Status:[19/33](15826191001)  加载题目集数量:5 
+12:30:45 :xls.Status:[19/33](15826191001)  .习题已全部加载完成  UA/AC/All=7/22/483 
+12:30:46 :xls.Status:下载题目:T272 的测试数据 
+12:30:46 :xls.Status:[19/33](15826191001)  [T272]笨小猴:{"itemid":"2083416","msg":"提交成功。","ret":"1"} 
+12:30:46 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:30:51 :xls.Status:下载题目数据:T272-8.inp 
+12:30:51 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:53 :xls.Status:下载题目数据:T272-9.inp 
+12:30:53 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:55 :xls.Status:下载题目数据:T272-10.inp 
+12:30:55 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:57 :xls.Status:下载题目数据:T272-1.outp 
+12:30:57 :xls.Status:下载数据防ban间隔...2000ms 
+12:30:59 :xls.Status:下载题目数据:T272-2.outp 
+12:30:59 :xls.Status:下载数据防ban间隔...2000ms 
+12:31:01 :xls.Status:下载题目数据:T272-3.outp 
+12:31:01 :xls.Status:下载数据防ban间隔...2000ms 
+12:31:03 :xls.Status:下载题目数据:T272-4.outp 
+12:31:03 :xls.Status:下载数据防ban间隔...2000ms 
+12:31:05 :xls.Status:[19/33](15826191001)  不可继续获取数据: 
+12:31:10 :xls.Status:RunNextUser,Num:0 
+12:31:10 :xls.Status:加载[20/33](15923225800)   
+12:31:10 :xls.Status:加载题库:[20/33](15923225800)   
+12:31:10 :xls.Status:[20/33](15923225800)  加载题目集数量:5 
+12:31:13 :xls.Status:[20/33](15923225800)  .习题已全部加载完成  UA/AC/All=7/15/483 
+12:31:14 :xls.Status:下载题目:T272 的测试数据 
+12:31:14 :xls.Status:[20/33](15923225800)  [T272]笨小猴:{"itemid":"2083417","msg":"提交成功。","ret":"1"} 
+12:31:14 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:31:19 :xls.Status:下载题目数据:T272-5.outp 
+12:31:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:31:21 :xls.Status:下载题目数据:T272-6.outp 
+12:31:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:31:23 :xls.Status:下载题目数据:T272-7.outp 
+12:31:23 :xls.Status:下载数据防ban间隔...2000ms 
+12:31:25 :xls.Status:下载题目数据:T272-8.outp 
+12:31:25 :xls.Status:下载数据防ban间隔...2000ms 
+12:31:27 :xls.Status:下载题目数据:T272-9.outp 
+12:31:27 :xls.Status:下载数据防ban间隔...2000ms 
+12:31:29 :xls.Status:下载题目数据:T272-10.outp 
+12:31:29 :xls.Status:下载数据防ban间隔...2000ms 
+12:31:29 :xls.Status:生成代码:T272,总测试数据(10) 
+12:31:29 :xls.Status:下载题目:T270 的测试数据 
+12:31:29 :xls.Status:[20/33](15923225800)  [T270]选择排序:{"itemid":"2083419","msg":"提交成功。","ret":"1"} 
+12:31:29 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:31:35 :xls.Status:[20/33](15923225800)  不可继续获取数据: 
+12:31:40 :xls.Status:RunNextUser,Num:0 
+12:31:40 :xls.Status:加载[21/33](13340286964)   
+12:31:40 :xls.Status:加载题库:[21/33](13340286964)   
+12:31:40 :xls.Status:[21/33](13340286964)  加载题目集数量:5 
+12:31:43 :xls.Status:[21/33](13340286964)  .习题已全部加载完成  UA/AC/All=7/12/483 
+12:31:45 :xls.Status:下载题目:T97 的测试数据 
+12:31:45 :xls.Status:[21/33](13340286964)  [T97]传球游戏:{"itemid":"2083420","msg":"提交成功。","ret":"1"} 
+12:31:45 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:31:50 :xls.Status:下载题目数据:T97-10.outp 
+12:31:50 :xls.Status:下载数据防ban间隔...2000ms 
+12:31:50 :xls.Status:生成代码:T97,总测试数据(10) 
+12:31:50 :xls.Status:下载题目:T96 的测试数据 
+12:31:50 :xls.Status:[21/33](13340286964)  [T96]纪念品分组:{"itemid":"2083421","msg":"提交成功。","ret":"1"} 
+12:31:50 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:31:55 :xls.Status:下载题目数据:T96-1.inp 
+12:31:55 :xls.Status:下载数据防ban间隔...2000ms 
+12:31:58 :xls.Status:下载题目数据:T96-2.inp 
+12:31:58 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:00 :xls.Status:下载题目数据:T96-3.inp 
+12:32:00 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:02 :xls.Status:下载题目数据:T96-4.inp 
+12:32:02 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:04 :xls.Status:下载题目数据:T96-5.inp 
+12:32:04 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:06 :xls.Status:[21/33](13340286964)  不可继续获取数据: 
+12:32:11 :xls.Status:RunNextUser,Num:0 
+12:32:11 :xls.Status:加载[22/33](15213442058)   
+12:32:11 :xls.Status:加载题库:[22/33](15213442058)   
+12:32:11 :xls.Status:[22/33](15213442058)  加载题目集数量:5 
+12:32:14 :xls.Status:[22/33](15213442058)  .习题已全部加载完成  UA/AC/All=7/12/483 
+12:32:16 :xls.Status:下载题目:T270 的测试数据 
+12:32:16 :xls.Status:[22/33](15213442058)  [T270]选择排序:{"itemid":"2083425","msg":"提交成功。","ret":"1"} 
+12:32:16 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:32:21 :xls.Status:下载题目数据:T270-8.inp 
+12:32:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:23 :xls.Status:下载题目数据:T270-9.inp 
+12:32:23 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:25 :xls.Status:下载题目数据:T270-10.inp 
+12:32:25 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:27 :xls.Status:下载题目数据:T270-1.outp 
+12:32:27 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:29 :xls.Status:下载题目数据:T270-2.outp 
+12:32:29 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:31 :xls.Status:下载题目数据:T270-3.outp 
+12:32:31 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:33 :xls.Status:下载题目数据:T270-4.outp 
+12:32:33 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:35 :xls.Status:[22/33](15213442058)  不可继续获取数据: 
+12:32:40 :xls.Status:RunNextUser,Num:0 
+12:32:40 :xls.Status:加载[23/33](15972977557)   
+12:32:40 :xls.Status:加载题库:[23/33](15972977557)   
+12:32:40 :xls.Status:[23/33](15972977557)  加载题目集数量:5 
+12:32:43 :xls.Status:[23/33](15972977557)  .习题已全部加载完成  UA/AC/All=7/35/483 
+12:32:45 :xls.Status:下载题目:T270 的测试数据 
+12:32:45 :xls.Status:[23/33](15972977557)  [T270]选择排序:{"itemid":"2083426","msg":"提交成功。","ret":"1"} 
+12:32:45 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:32:50 :xls.Status:下载题目数据:T270-5.outp 
+12:32:50 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:52 :xls.Status:下载题目数据:T270-6.outp 
+12:32:52 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:54 :xls.Status:下载题目数据:T270-7.outp 
+12:32:54 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:56 :xls.Status:下载题目数据:T270-8.outp 
+12:32:56 :xls.Status:下载数据防ban间隔...2000ms 
+12:32:58 :xls.Status:下载题目数据:T270-9.outp 
+12:32:58 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:00 :xls.Status:下载题目数据:T270-10.outp 
+12:33:00 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:00 :xls.Status:生成代码:T270,总测试数据(10) 
+12:33:00 :xls.Status:生成代码第10组数据输出过大 
+12:33:00 :xls.Status:生成代码数据量过大 
+12:33:00 :xls.Status:下载题目:T269 的测试数据 
+12:33:00 :xls.Status:[23/33](15972977557)  [T269]色盲的民主:{"itemid":"2083428","msg":"提交成功。","ret":"1"} 
+12:33:00 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:33:05 :xls.Status:[23/33](15972977557)  不可继续获取数据: 
+12:33:10 :xls.Status:RunNextUser,Num:0 
+12:33:10 :xls.Status:加载[24/33](13153334563)   
+12:33:10 :xls.Status:加载题库:[24/33](13153334563)   
+12:33:10 :xls.Status:[24/33](13153334563)  加载题目集数量:5 
+12:33:13 :xls.Status:[24/33](13153334563)  .习题已全部加载完成  UA/AC/All=7/5/483 
+12:33:15 :xls.Status:下载题目:T269 的测试数据 
+12:33:15 :xls.Status:[24/33](13153334563)  [T269]色盲的民主:{"itemid":"2083430","msg":"提交成功。","ret":"1"} 
+12:33:15 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:33:20 :xls.Status:下载题目数据:T269-1.inp 
+12:33:20 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:22 :xls.Status:下载题目数据:T269-2.inp 
+12:33:22 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:24 :xls.Status:下载题目数据:T269-3.inp 
+12:33:24 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:26 :xls.Status:下载题目数据:T269-4.inp 
+12:33:26 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:28 :xls.Status:下载题目数据:T269-5.inp 
+12:33:28 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:30 :xls.Status:下载题目数据:T269-6.inp 
+12:33:30 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:32 :xls.Status:下载题目数据:T269-7.inp 
+12:33:32 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:34 :xls.Status:[24/33](13153334563)  不可继续获取数据: 
+12:33:39 :xls.Status:RunNextUser,Num:0 
+12:33:39 :xls.Status:加载[25/33](18071410231)   
+12:33:39 :xls.Status:加载题库:[25/33](18071410231)   
+12:33:39 :xls.Status:[25/33](18071410231)  加载题目集数量:5 
+12:33:42 :xls.Status:[25/33](18071410231)  .习题已全部加载完成  UA/AC/All=7/12/483 
+12:33:44 :xls.Status:下载题目:T269 的测试数据 
+12:33:44 :xls.Status:[25/33](18071410231)  [T269]色盲的民主:{"itemid":"2083432","msg":"提交成功。","ret":"1"} 
+12:33:44 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:33:49 :xls.Status:下载题目数据:T269-8.inp 
+12:33:49 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:51 :xls.Status:下载题目数据:T269-9.inp 
+12:33:51 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:53 :xls.Status:下载题目数据:T269-10.inp 
+12:33:53 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:55 :xls.Status:下载题目数据:T269-1.outp 
+12:33:55 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:57 :xls.Status:下载题目数据:T269-2.outp 
+12:33:57 :xls.Status:下载数据防ban间隔...2000ms 
+12:33:59 :xls.Status:下载题目数据:T269-3.outp 
+12:33:59 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:01 :xls.Status:下载题目数据:T269-4.outp 
+12:34:01 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:03 :xls.Status:[25/33](18071410231)  不可继续获取数据: 
+12:34:08 :xls.Status:RunNextUser,Num:0 
+12:34:08 :xls.Status:加载[26/33](625090446@qq.com)   
+12:34:08 :xls.Status:加载题库:[26/33](625090446@qq.com)   
+12:34:08 :xls.Status:[26/33](625090446@qq.com)  加载题目集数量:5 
+12:34:11 :xls.Status:[26/33](625090446@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:34:12 :xls.Status:下载题目:T96 的测试数据 
+12:34:12 :xls.Status:[26/33](625090446@qq.com)  [T96]纪念品分组:{"itemid":"2083434","msg":"提交成功。","ret":"1"} 
+12:34:12 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:34:17 :xls.Status:下载题目数据:T96-6.inp 
+12:34:17 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:19 :xls.Status:下载题目数据:T96-7.inp 
+12:34:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:21 :xls.Status:下载题目数据:T96-8.inp 
+12:34:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:23 :xls.Status:下载题目数据:T96-9.inp 
+12:34:23 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:25 :xls.Status:下载题目数据:T96-10.inp 
+12:34:25 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:27 :xls.Status:下载题目数据:T96-1.outp 
+12:34:27 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:29 :xls.Status:下载题目数据:T96-2.outp 
+12:34:29 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:31 :xls.Status:[26/33](625090446@qq.com)  不可继续获取数据: 
+12:34:36 :xls.Status:RunNextUser,Num:0 
+12:34:36 :xls.Status:加载[27/33](13178693999)   
+12:34:36 :xls.Status:加载题库:[27/33](13178693999)   
+12:34:36 :xls.Status:[27/33](13178693999)  加载题目集数量:5 
+12:34:39 :xls.Status:[27/33](13178693999)  .习题已全部加载完成  UA/AC/All=7/9/483 
+12:34:39 :xls.Status:下载题目:T269 的测试数据 
+12:34:39 :xls.Status:[27/33](13178693999)  [T269]色盲的民主:{"itemid":"2083437","msg":"提交成功。","ret":"1"} 
+12:34:39 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:34:44 :xls.Status:下载题目数据:T269-5.outp 
+12:34:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:46 :xls.Status:下载题目数据:T269-6.outp 
+12:34:46 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:49 :xls.Status:下载题目数据:T269-7.outp 
+12:34:49 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:51 :xls.Status:下载题目数据:T269-8.outp 
+12:34:51 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:53 :xls.Status:下载题目数据:T269-9.outp 
+12:34:53 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:55 :xls.Status:下载题目数据:T269-10.outp 
+12:34:55 :xls.Status:下载数据防ban间隔...2000ms 
+12:34:55 :xls.Status:生成代码:T269,总测试数据(10) 
+12:34:55 :xls.Status:下载题目:T268 的测试数据 
+12:34:55 :xls.Status:[27/33](13178693999)  [T268]插入排序:{"itemid":"2083438","msg":"提交成功。","ret":"1"} 
+12:34:55 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:35:00 :xls.Status:[27/33](13178693999)  不可继续获取数据: 
+12:35:05 :xls.Status:RunNextUser,Num:0 
+12:35:05 :xls.Status:加载[28/33](13072386283)   
+12:35:05 :xls.Status:加载题库:[28/33](13072386283)   
+12:35:05 :xls.Status:[28/33](13072386283)  加载题目集数量:5 
+12:35:08 :xls.Status:[28/33](13072386283)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:35:09 :xls.Status:下载题目:T268 的测试数据 
+12:35:09 :xls.Status:[28/33](13072386283)  [T268]插入排序:{"itemid":"2083439","msg":"提交成功。","ret":"1"} 
+12:35:09 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:35:14 :xls.Status:下载题目数据:T268-1.inp 
+12:35:14 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:16 :xls.Status:下载题目数据:T268-2.inp 
+12:35:16 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:18 :xls.Status:下载题目数据:T268-3.inp 
+12:35:18 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:20 :xls.Status:下载题目数据:T268-4.inp 
+12:35:20 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:22 :xls.Status:下载题目数据:T268-5.inp 
+12:35:22 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:24 :xls.Status:下载题目数据:T268-6.inp 
+12:35:24 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:26 :xls.Status:下载题目数据:T268-7.inp 
+12:35:26 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:28 :xls.Status:[28/33](13072386283)  不可继续获取数据: 
+12:35:33 :xls.Status:RunNextUser,Num:0 
+12:35:33 :xls.Status:加载[29/33](15730360985)   
+12:35:33 :xls.Status:加载题库:[29/33](15730360985)   
+12:35:33 :xls.Status:[29/33](15730360985)  加载题目集数量:5 
+12:35:36 :xls.Status:[29/33](15730360985)  .习题已全部加载完成  UA/AC/All=7/9/483 
+12:35:38 :xls.Status:下载题目:T96 的测试数据 
+12:35:38 :xls.Status:[29/33](15730360985)  [T96]纪念品分组:{"itemid":"2083440","msg":"提交成功。","ret":"1"} 
+12:35:38 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:35:43 :xls.Status:下载题目数据:T96-3.outp 
+12:35:43 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:45 :xls.Status:下载题目数据:T96-4.outp 
+12:35:45 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:47 :xls.Status:下载题目数据:T96-5.outp 
+12:35:47 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:49 :xls.Status:下载题目数据:T96-6.outp 
+12:35:49 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:51 :xls.Status:下载题目数据:T96-7.outp 
+12:35:51 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:53 :xls.Status:下载题目数据:T96-8.outp 
+12:35:53 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:55 :xls.Status:下载题目数据:T96-9.outp 
+12:35:55 :xls.Status:下载数据防ban间隔...2000ms 
+12:35:57 :xls.Status:[29/33](15730360985)  不可继续获取数据: 
+12:36:02 :xls.Status:RunNextUser,Num:0 
+12:36:02 :xls.Status:加载[30/33](15205967368)   
+12:36:02 :xls.Status:加载题库:[30/33](15205967368)   
+12:36:02 :xls.Status:[30/33](15205967368)  加载题目集数量:5 
+12:36:05 :xls.Status:[30/33](15205967368)  .习题已全部加载完成  UA/AC/All=7/3/483 
+12:36:06 :xls.Status:下载题目:T268 的测试数据 
+12:36:06 :xls.Status:[30/33](15205967368)  [T268]插入排序:{"itemid":"2083441","msg":"提交成功。","ret":"1"} 
+12:36:06 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:36:11 :xls.Status:下载题目数据:T268-8.inp 
+12:36:11 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:13 :xls.Status:下载题目数据:T268-9.inp 
+12:36:13 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:15 :xls.Status:下载题目数据:T268-10.inp 
+12:36:15 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:17 :xls.Status:下载题目数据:T268-1.outp 
+12:36:17 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:19 :xls.Status:下载题目数据:T268-2.outp 
+12:36:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:21 :xls.Status:下载题目数据:T268-3.outp 
+12:36:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:23 :xls.Status:下载题目数据:T268-4.outp 
+12:36:23 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:25 :xls.Status:[30/33](15205967368)  不可继续获取数据: 
+12:36:30 :xls.Status:RunNextUser,Num:0 
+12:36:30 :xls.Status:加载[31/33](15823283574)   
+12:36:30 :xls.Status:加载题库:[31/33](15823283574)   
+12:36:30 :xls.Status:[31/33](15823283574)  加载题目集数量:5 
+12:36:33 :xls.Status:[31/33](15823283574)  .习题已全部加载完成  UA/AC/All=7/10/483 
+12:36:34 :xls.Status:下载题目:T96 的测试数据 
+12:36:34 :xls.Status:[31/33](15823283574)  [T96]纪念品分组:{"itemid":"2083443","msg":"提交成功。","ret":"1"} 
+12:36:34 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:36:39 :xls.Status:下载题目数据:T96-10.outp 
+12:36:39 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:39 :xls.Status:生成代码:T96,总测试数据(10) 
+12:36:39 :xls.Status:下载题目:T95 的测试数据 
+12:36:39 :xls.Status:[31/33](15823283574)  [T95]数列:{"itemid":"2083444","msg":"提交成功。","ret":"1"} 
+12:36:39 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:36:44 :xls.Status:下载题目数据:T95-1.inp 
+12:36:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:47 :xls.Status:下载题目数据:T95-2.inp 
+12:36:47 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:49 :xls.Status:下载题目数据:T95-3.inp 
+12:36:49 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:51 :xls.Status:下载题目数据:T95-4.inp 
+12:36:51 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:53 :xls.Status:下载题目数据:T95-5.inp 
+12:36:53 :xls.Status:下载数据防ban间隔...2000ms 
+12:36:55 :xls.Status:[31/33](15823283574)  不可继续获取数据: 
+12:37:00 :xls.Status:RunNextUser,Num:0 
+12:37:00 :xls.Status:加载[32/33](15972926051)   
+12:37:00 :xls.Status:加载题库:[32/33](15972926051)   
+12:37:00 :xls.Status:[32/33](15972926051)  加载题目集数量:5 
+12:37:02 :xls.Status:[32/33](15972926051)  .习题已全部加载完成  UA/AC/All=7/6/483 
+12:37:03 :xls.Status:下载题目:T95 的测试数据 
+12:37:03 :xls.Status:[32/33](15972926051)  [T95]数列:{"itemid":"2083446","msg":"提交成功。","ret":"1"} 
+12:37:03 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:37:08 :xls.Status:下载题目数据:T95-6.inp 
+12:37:08 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:10 :xls.Status:下载题目数据:T95-7.inp 
+12:37:10 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:12 :xls.Status:下载题目数据:T95-8.inp 
+12:37:12 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:14 :xls.Status:下载题目数据:T95-9.inp 
+12:37:14 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:16 :xls.Status:下载题目数据:T95-10.inp 
+12:37:16 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:18 :xls.Status:下载题目数据:T95-1.outp 
+12:37:18 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:20 :xls.Status:下载题目数据:T95-2.outp 
+12:37:20 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:22 :xls.Status:[32/33](15972926051)  不可继续获取数据: 
+12:37:27 :xls.Status:RunNextUser,Num:0 
+12:37:27 :xls.Status:加载[33/33](18152681169)   
+12:37:27 :xls.Status:加载题库:[33/33](18152681169)   
+12:37:27 :xls.Status:[33/33](18152681169)  加载题目集数量:5 
+12:37:29 :xls.Status:[33/33](18152681169)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:37:31 :xls.Status:下载题目:T268 的测试数据 
+12:37:31 :xls.Status:[33/33](18152681169)  [T268]插入排序:{"itemid":"2083448","msg":"提交成功。","ret":"1"} 
+12:37:31 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:37:36 :xls.Status:下载题目数据:T268-5.outp 
+12:37:36 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:38 :xls.Status:下载题目数据:T268-6.outp 
+12:37:38 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:40 :xls.Status:下载题目数据:T268-7.outp 
+12:37:40 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:42 :xls.Status:下载题目数据:T268-8.outp 
+12:37:42 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:44 :xls.Status:下载题目数据:T268-9.outp 
+12:37:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:46 :xls.Status:下载题目数据:T268-10.outp 
+12:37:46 :xls.Status:下载数据防ban间隔...2000ms 
+12:37:46 :xls.Status:生成代码:T268,总测试数据(10) 
+12:37:46 :xls.Status:生成代码第5组数据输出过大 
+12:37:46 :xls.Status:生成代码第6组数据输出过大 
+12:37:46 :xls.Status:生成代码第7组数据输出过大 
+12:37:46 :xls.Status:生成代码第8组数据输出过大 
+12:37:46 :xls.Status:生成代码第9组数据输出过大 
+12:37:46 :xls.Status:生成代码第10组数据输出过大 
+12:37:46 :xls.Status:下载题目:T267 的测试数据 
+12:37:47 :xls.Status:[33/33](18152681169)  [T267]找素数:{"itemid":"2083450","msg":"提交成功。","ret":"1"} 
+12:37:47 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:37:52 :xls.Status:[33/33](18152681169)  不可继续获取数据: 
+12:37:57 :xls.Status:RunNextUser,Num:0 
+12:37:57 :xls.Status:加载[1/33](liuchangm7j@vip.qq.com)   
+12:37:57 :xls.Status:加载题库:[1/33](liuchangm7j@vip.qq.com)   
+12:37:57 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  加载题目集数量:5 
+12:38:00 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  .习题已全部加载完成  UA/AC/All=7/467/483 
+12:38:00 :xls.Status:下载题目:T488 的测试数据 
+12:38:00 :xls.Status:下载题目数据:T488-9.inp 
+12:38:00 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:00 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  下载测试数据:{"info":"未授权。","ret":"0"} 
+12:38:00 :xls.Status:[1/33](liuchangm7j@vip.qq.com)  2072254授权码已过期,等待重新获取.T488 
+12:38:02 :xls.Status:下载数据错误:{"info":"未授权。","ret":"0"} 
+12:38:03 :xls.Status:下载题目:T486 的测试数据 
+12:38:03 :xls.Status:[33/33](18152681169)  [T486]Tunnels:{"itemid":"2083451","msg":"提交成功。","ret":"1"} 
+12:38:03 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:38:08 :xls.Status:[33/33](18152681169)  不可继续获取数据: 
+12:38:13 :xls.Status:RunNextUser,Num:0 
+12:38:13 :xls.Status:加载[2/33](13986274216)   
+12:38:13 :xls.Status:加载题库:[2/33](13986274216)   
+12:38:13 :xls.Status:[2/33](13986274216)  加载题目集数量:5 
+12:38:15 :xls.Status:[2/33](13986274216)  .习题已全部加载完成  UA/AC/All=7/6/483 
+12:38:16 :xls.Status:下载题目:T267 的测试数据 
+12:38:16 :xls.Status:[2/33](13986274216)  [T267]找素数:{"itemid":"2083453","msg":"提交成功。","ret":"1"} 
+12:38:16 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:38:21 :xls.Status:下载题目数据:T267-1.inp 
+12:38:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:23 :xls.Status:下载题目数据:T267-2.inp 
+12:38:23 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:25 :xls.Status:下载题目数据:T267-3.inp 
+12:38:25 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:27 :xls.Status:下载题目数据:T267-4.inp 
+12:38:27 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:29 :xls.Status:下载题目数据:T267-5.inp 
+12:38:29 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:31 :xls.Status:下载题目数据:T267-6.inp 
+12:38:31 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:33 :xls.Status:下载题目数据:T267-7.inp 
+12:38:33 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:35 :xls.Status:[2/33](13986274216)  不可继续获取数据: 
+12:38:40 :xls.Status:RunNextUser,Num:0 
+12:38:40 :xls.Status:加载[3/33](15808081216)   
+12:38:40 :xls.Status:加载题库:[3/33](15808081216)   
+12:38:40 :xls.Status:[3/33](15808081216)  加载题目集数量:5 
+12:38:42 :xls.Status:[3/33](15808081216)  .习题已全部加载完成  UA/AC/All=7/4/483 
+12:38:43 :xls.Status:下载题目:T95 的测试数据 
+12:38:43 :xls.Status:[3/33](15808081216)  [T95]数列:{"itemid":"2083454","msg":"提交成功。","ret":"1"} 
+12:38:43 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:38:48 :xls.Status:下载题目数据:T95-3.outp 
+12:38:48 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:50 :xls.Status:下载题目数据:T95-4.outp 
+12:38:50 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:52 :xls.Status:下载题目数据:T95-5.outp 
+12:38:52 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:54 :xls.Status:下载题目数据:T95-6.outp 
+12:38:54 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:56 :xls.Status:下载题目数据:T95-7.outp 
+12:38:56 :xls.Status:下载数据防ban间隔...2000ms 
+12:38:58 :xls.Status:下载题目数据:T95-8.outp 
+12:38:58 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:00 :xls.Status:下载题目数据:T95-9.outp 
+12:39:00 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:02 :xls.Status:[3/33](15808081216)  不可继续获取数据: 
+12:39:07 :xls.Status:RunNextUser,Num:0 
+12:39:07 :xls.Status:加载[4/33](904546102@qq.com)   
+12:39:07 :xls.Status:加载题库:[4/33](904546102@qq.com)   
+12:39:07 :xls.Status:[4/33](904546102@qq.com)  加载题目集数量:5 
+12:39:10 :xls.Status:[4/33](904546102@qq.com)  .习题已全部加载完成  UA/AC/All=7/70/483 
+12:39:11 :xls.Status:下载题目:T267 的测试数据 
+12:39:11 :xls.Status:[4/33](904546102@qq.com)  [T267]找素数:{"itemid":"2083455","msg":"提交成功。","ret":"1"} 
+12:39:11 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:39:16 :xls.Status:下载题目数据:T267-8.inp 
+12:39:16 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:18 :xls.Status:下载题目数据:T267-9.inp 
+12:39:18 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:20 :xls.Status:下载题目数据:T267-10.inp 
+12:39:20 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:22 :xls.Status:下载题目数据:T267-11.inp 
+12:39:22 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:24 :xls.Status:下载题目数据:T267-1.outp 
+12:39:24 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:26 :xls.Status:下载题目数据:T267-2.outp 
+12:39:26 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:28 :xls.Status:下载题目数据:T267-3.outp 
+12:39:28 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:30 :xls.Status:[4/33](904546102@qq.com)  不可继续获取数据: 
+12:39:35 :xls.Status:RunNextUser,Num:0 
+12:39:35 :xls.Status:加载[5/33](17623877493)   
+12:39:35 :xls.Status:加载题库:[5/33](17623877493)   
+12:39:35 :xls.Status:[5/33](17623877493)  加载题目集数量:5 
+12:39:37 :xls.Status:[5/33](17623877493)  .习题已全部加载完成  UA/AC/All=7/11/483 
+12:39:38 :xls.Status:下载题目:T267 的测试数据 
+12:39:38 :xls.Status:[5/33](17623877493)  [T267]找素数:{"itemid":"2083457","msg":"提交成功。","ret":"1"} 
+12:39:38 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:39:43 :xls.Status:下载题目数据:T267-4.outp 
+12:39:43 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:45 :xls.Status:下载题目数据:T267-5.outp 
+12:39:45 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:47 :xls.Status:下载题目数据:T267-6.outp 
+12:39:47 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:49 :xls.Status:下载题目数据:T267-7.outp 
+12:39:49 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:51 :xls.Status:下载题目数据:T267-8.outp 
+12:39:51 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:53 :xls.Status:下载题目数据:T267-9.outp 
+12:39:53 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:55 :xls.Status:下载题目数据:T267-10.outp 
+12:39:55 :xls.Status:下载数据防ban间隔...2000ms 
+12:39:57 :xls.Status:[5/33](17623877493)  不可继续获取数据: 
+12:40:02 :xls.Status:RunNextUser,Num:0 
+12:40:02 :xls.Status:加载[6/33](17623476609)   
+12:40:02 :xls.Status:加载题库:[6/33](17623476609)   
+12:40:02 :xls.Status:[6/33](17623476609)  加载题目集数量:5 
+12:40:05 :xls.Status:[6/33](17623476609)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:40:07 :xls.Status:下载题目:T267 的测试数据 
+12:40:07 :xls.Status:[6/33](17623476609)  [T267]找素数:{"itemid":"2083459","msg":"提交成功。","ret":"1"} 
+12:40:07 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:40:12 :xls.Status:下载题目数据:T267-11.outp 
+12:40:12 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:12 :xls.Status:生成代码:T267,总测试数据(11) 
+12:40:12 :xls.Status:下载题目:T264 的测试数据 
+12:40:12 :xls.Status:[6/33](17623476609)  [T264]扫雷:{"itemid":"2083461","msg":"提交成功。","ret":"1"} 
+12:40:12 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:40:17 :xls.Status:下载题目数据:T264-1.inp 
+12:40:17 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:19 :xls.Status:下载题目数据:T264-2.inp 
+12:40:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:21 :xls.Status:下载题目数据:T264-3.inp 
+12:40:21 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:23 :xls.Status:下载题目数据:T264-4.inp 
+12:40:23 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:25 :xls.Status:下载题目数据:T264-5.inp 
+12:40:25 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:28 :xls.Status:[6/33](17623476609)  不可继续获取数据: 
+12:40:33 :xls.Status:RunNextUser,Num:0 
+12:40:33 :xls.Status:加载[7/33](15730361457)   
+12:40:33 :xls.Status:加载题库:[7/33](15730361457)   
+12:40:33 :xls.Status:[7/33](15730361457)  加载题目集数量:5 
+12:40:36 :xls.Status:[7/33](15730361457)  .习题已全部加载完成  UA/AC/All=7/21/483 
+12:40:37 :xls.Status:下载题目:T95 的测试数据 
+12:40:37 :xls.Status:[7/33](15730361457)  [T95]数列:{"itemid":"2083463","msg":"提交成功。","ret":"1"} 
+12:40:37 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:40:42 :xls.Status:下载题目数据:T95-10.outp 
+12:40:42 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:42 :xls.Status:生成代码:T95,总测试数据(10) 
+12:40:42 :xls.Status:下载题目:T93 的测试数据 
+12:40:42 :xls.Status:[7/33](15730361457)  [T93]开心的金明:{"itemid":"2083464","msg":"提交成功。","ret":"1"} 
+12:40:42 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:40:47 :xls.Status:下载题目数据:T93-1.inp 
+12:40:47 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:49 :xls.Status:下载题目数据:T93-2.inp 
+12:40:49 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:51 :xls.Status:下载题目数据:T93-3.inp 
+12:40:51 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:53 :xls.Status:下载题目数据:T93-4.inp 
+12:40:53 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:55 :xls.Status:下载题目数据:T93-5.inp 
+12:40:55 :xls.Status:下载数据防ban间隔...2000ms 
+12:40:57 :xls.Status:[7/33](15730361457)  不可继续获取数据: 
+12:41:02 :xls.Status:RunNextUser,Num:0 
+12:41:02 :xls.Status:加载[8/33](15730363368)   
+12:41:02 :xls.Status:加载题库:[8/33](15730363368)   
+12:41:02 :xls.Status:[8/33](15730363368)  加载题目集数量:5 
+12:41:04 :xls.Status:[8/33](15730363368)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:41:06 :xls.Status:下载题目:T264 的测试数据 
+12:41:06 :xls.Status:[8/33](15730363368)  [T264]扫雷:{"itemid":"2083466","msg":"提交成功。","ret":"1"} 
+12:41:06 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:41:11 :xls.Status:下载题目数据:T264-1.outp 
+12:41:11 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:13 :xls.Status:下载题目数据:T264-2.outp 
+12:41:13 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:15 :xls.Status:下载题目数据:T264-3.outp 
+12:41:15 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:17 :xls.Status:下载题目数据:T264-4.outp 
+12:41:17 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:19 :xls.Status:下载题目数据:T264-5.outp 
+12:41:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:19 :xls.Status:生成代码:T264,总测试数据(5) 
+12:41:19 :xls.Status:生成代码第5组数据输出过大 
+12:41:19 :xls.Status:下载题目:T262 的测试数据 
+12:41:20 :xls.Status:[8/33](15730363368)  [T262]促销购物:{"itemid":"2083467","msg":"提交成功。","ret":"1"} 
+12:41:20 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:41:25 :xls.Status:下载题目数据:T262-1.inp 
+12:41:25 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:27 :xls.Status:[8/33](15730363368)  不可继续获取数据: 
+12:41:32 :xls.Status:RunNextUser,Num:0 
+12:41:32 :xls.Status:加载[9/33](17360254616)   
+12:41:32 :xls.Status:加载题库:[9/33](17360254616)   
+12:41:32 :xls.Status:[9/33](17360254616)  加载题目集数量:5 
+12:41:34 :xls.Status:[9/33](17360254616)  .习题已全部加载完成  UA/AC/All=7/15/483 
+12:41:35 :xls.Status:下载题目:T93 的测试数据 
+12:41:35 :xls.Status:[9/33](17360254616)  [T93]开心的金明:{"itemid":"2083468","msg":"提交成功。","ret":"1"} 
+12:41:35 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:41:40 :xls.Status:下载题目数据:T93-6.inp 
+12:41:40 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:42 :xls.Status:下载题目数据:T93-7.inp 
+12:41:42 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:44 :xls.Status:下载题目数据:T93-8.inp 
+12:41:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:46 :xls.Status:下载题目数据:T93-9.inp 
+12:41:46 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:48 :xls.Status:下载题目数据:T93-10.inp 
+12:41:48 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:50 :xls.Status:下载题目数据:T93-1.outp 
+12:41:50 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:52 :xls.Status:下载题目数据:T93-2.outp 
+12:41:52 :xls.Status:下载数据防ban间隔...2000ms 
+12:41:54 :xls.Status:[9/33](17360254616)  不可继续获取数据: 
+12:41:59 :xls.Status:RunNextUser,Num:0 
+12:41:59 :xls.Status:加载[10/33](15827021295)   
+12:41:59 :xls.Status:加载题库:[10/33](15827021295)   
+12:41:59 :xls.Status:[10/33](15827021295)  加载题目集数量:5 
+12:42:01 :xls.Status:[10/33](15827021295)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:42:02 :xls.Status:下载题目:T262 的测试数据 
+12:42:02 :xls.Status:[10/33](15827021295)  [T262]促销购物:{"itemid":"2083470","msg":"提交成功。","ret":"1"} 
+12:42:02 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:42:07 :xls.Status:下载题目数据:T262-2.inp 
+12:42:07 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:09 :xls.Status:下载题目数据:T262-3.inp 
+12:42:09 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:11 :xls.Status:下载题目数据:T262-4.inp 
+12:42:11 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:13 :xls.Status:下载题目数据:T262-5.inp 
+12:42:13 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:15 :xls.Status:下载题目数据:T262-6.inp 
+12:42:15 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:17 :xls.Status:下载题目数据:T262-7.inp 
+12:42:17 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:19 :xls.Status:下载题目数据:T262-8.inp 
+12:42:19 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:21 :xls.Status:[10/33](15827021295)  不可继续获取数据: 
+12:42:26 :xls.Status:RunNextUser,Num:0 
+12:42:26 :xls.Status:加载[11/33](15730362474)   
+12:42:26 :xls.Status:加载题库:[11/33](15730362474)   
+12:42:26 :xls.Status:[11/33](15730362474)  加载题目集数量:5 
+12:42:28 :xls.Status:[11/33](15730362474)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:42:29 :xls.Status:下载题目:T262 的测试数据 
+12:42:29 :xls.Status:[11/33](15730362474)  [T262]促销购物:{"itemid":"2083471","msg":"提交成功。","ret":"1"} 
+12:42:29 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:42:34 :xls.Status:下载题目数据:T262-9.inp 
+12:42:34 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:36 :xls.Status:下载题目数据:T262-10.inp 
+12:42:36 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:38 :xls.Status:下载题目数据:T262-1.outp 
+12:42:38 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:40 :xls.Status:下载题目数据:T262-2.outp 
+12:42:40 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:42 :xls.Status:下载题目数据:T262-3.outp 
+12:42:42 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:44 :xls.Status:下载题目数据:T262-4.outp 
+12:42:44 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:46 :xls.Status:下载题目数据:T262-5.outp 
+12:42:46 :xls.Status:下载数据防ban间隔...2000ms 
+12:42:48 :xls.Status:[11/33](15730362474)  不可继续获取数据: 
+12:42:53 :xls.Status:RunNextUser,Num:0 
+12:42:53 :xls.Status:加载[12/33](511380795@qq.com)   
+12:42:53 :xls.Status:加载题库:[12/33](511380795@qq.com)   
+12:42:53 :xls.Status:[12/33](511380795@qq.com)  加载题目集数量:5 
+12:42:55 :xls.Status:[12/33](511380795@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:42:56 :xls.Status:下载题目:T262 的测试数据 
+12:42:56 :xls.Status:[12/33](511380795@qq.com)  [T262]促销购物:{"itemid":"2083473","msg":"提交成功。","ret":"1"} 
+12:42:56 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:43:01 :xls.Status:下载题目数据:T262-6.outp 
+12:43:01 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:03 :xls.Status:下载题目数据:T262-7.outp 
+12:43:03 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:05 :xls.Status:下载题目数据:T262-8.outp 
+12:43:05 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:07 :xls.Status:下载题目数据:T262-9.outp 
+12:43:07 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:09 :xls.Status:下载题目数据:T262-10.outp 
+12:43:09 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:09 :xls.Status:生成代码:T262,总测试数据(10) 
+12:43:09 :xls.Status:下载题目:T260 的测试数据 
+12:43:09 :xls.Status:[12/33](511380795@qq.com)  [T260]凶手:{"itemid":"2083474","msg":"提交成功。","ret":"1"} 
+12:43:09 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:43:14 :xls.Status:下载题目数据:T260-1.inp 
+12:43:14 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:16 :xls.Status:[12/33](511380795@qq.com)  不可继续获取数据: 
+12:43:21 :xls.Status:RunNextUser,Num:0 
+12:43:21 :xls.Status:加载[13/33](2396522964@qq.com)   
+12:43:21 :xls.Status:加载题库:[13/33](2396522964@qq.com)   
+12:43:21 :xls.Status:[13/33](2396522964@qq.com)  加载题目集数量:5 
+12:43:23 :xls.Status:[13/33](2396522964@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:43:24 :xls.Status:下载题目:T260 的测试数据 
+12:43:24 :xls.Status:[13/33](2396522964@qq.com)  [T260]凶手:{"itemid":"2083475","msg":"提交成功。","ret":"1"} 
+12:43:24 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:43:29 :xls.Status:下载题目数据:T260-1.outp 
+12:43:29 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:29 :xls.Status:生成代码:T260,总测试数据(1) 
+12:43:29 :xls.Status:下载题目:T258 的测试数据 
+12:43:29 :xls.Status:[13/33](2396522964@qq.com)  [T258]去注释:{"itemid":"2083476","msg":"提交成功。","ret":"1"} 
+12:43:29 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:43:34 :xls.Status:下载题目数据:T258-1.inp 
+12:43:34 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:36 :xls.Status:下载题目数据:T258-2.inp 
+12:43:36 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:38 :xls.Status:下载题目数据:T258-3.inp 
+12:43:38 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:40 :xls.Status:下载题目数据:T258-1.outp 
+12:43:40 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:42 :xls.Status:下载题目数据:T258-2.outp 
+12:43:42 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:44 :xls.Status:[13/33](2396522964@qq.com)  不可继续获取数据: 
+12:43:49 :xls.Status:RunNextUser,Num:0 
+12:43:49 :xls.Status:加载[14/33](785794836@qq.com)   
+12:43:49 :xls.Status:加载题库:[14/33](785794836@qq.com)   
+12:43:49 :xls.Status:[14/33](785794836@qq.com)  加载题目集数量:5 
+12:43:51 :xls.Status:[14/33](785794836@qq.com)  .习题已全部加载完成  UA/AC/All=7/0/483 
+12:43:52 :xls.Status:下载题目:T258 的测试数据 
+12:43:52 :xls.Status:[14/33](785794836@qq.com)  [T258]去注释:{"itemid":"2083477","msg":"提交成功。","ret":"1"} 
+12:43:52 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+12:43:57 :xls.Status:下载题目数据:T258-3.outp 
+12:43:57 :xls.Status:下载数据防ban间隔...2000ms 
+12:43:57 :xls.Status:生成代码:T258,总测试数据(3) 

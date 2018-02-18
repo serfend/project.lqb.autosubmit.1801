@@ -1,0 +1,5 @@
+Case 1: Birgit loses 18
+Case 2: Birgit wins 48
+Case 3: Axel loses 51
+Case 4: Axel wins 24
+Case 5: Birgit loses 11

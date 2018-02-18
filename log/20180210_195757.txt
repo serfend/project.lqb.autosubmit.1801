@@ -1,0 +1,784 @@
+19:57:57 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=4A7A66D8E9F71E2024F4E48AFE4ECDA9;_SESSIONKEY=850H4IPY9YJ4S8NWAWYF;Domain=lanqiao.cn;Expires=Tue, 06-Feb-2018 01:00:27 GMT;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBC263276575EE69EF2C651AE9F46E747A852140AC5A753CCD2365508D6608B0BE1F82EACD8BAF142C9F0E64A3A62FE3A19 
+19:57:57 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=CC8897100D353C43DFDF50A0205BBB6D;_SESSIONKEY=T12OFVACER45E011C1P9;Domain=lanqiao.cn;Expires=Sun, 11-Feb-2018 11:56:20 GMT;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F551DBBAF2CADBA6C8D612E20A85EA2BEB20F8E3AB5406241640F14FFD1A257D79F82EACD8BAF142C9F0E64A3A62FE3A19 
+19:57:57 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies:JSESSIONID=9BE446E68A8007254E6F50799A0AE4EC;_SESSIONKEY=9Z0094K63E3M3F8HY8UX;Domain=lanqiao.cn;Expires=Sun, 11-Feb-2018 11:57:03 GMT;_TOKEN=D5F98D41037204CF5CFC1F57960140B97B0F64E1463F1BFBBED1346D876632F66D43B1AADA609B45626B90019646D8EE8676169D563DE02C2A7558BA68963803D9CF75E67E043A9206A82EB993424F30 
+19:57:57 :xls.Status:切换到账号:904546102@qq.com,userId:232143,cookies:JSESSIONID=02716D753535A102EB9286BAD28AA6D9;_SESSIONKEY=532FA8QOOUF27W539R52;Domain=lanqiao.cn;Expires=Sun, 11-Feb-2018 11:57:00 GMT;_TOKEN=3A18A98BB7951277C0A904EBC4C2A3E22D29B8F157330CF25A945DE76FC09A1D0F2E6466F82926D4632AA837DD67CB630A88B609E88CEA5655B446CF438F47CBD9CF75E67E043A9206A82EB993424F30 
+19:57:57 :xls.Status:切换到账号:17623877493,userId:579282697891,cookies:JSESSIONID=FCD44F61C7E048F3DDE2A94E4FA45A17;_SESSIONKEY=2KSU97Z832ML5N5H91GI;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:11 GMT;_TOKEN=05AED4C868754136C9C30D3425ABB8BDA6682616A47D1BA64A560AB28121683A59B1F26FE224DFE270E15F80C68A069E126F5B8DF6011D4648E22D30BB971A492862F3269340F615894C682A39A1DF80 
+19:57:57 :xls.Status:切换到账号:17623476609,userId:579282679620,cookies:JSESSIONID=12304A78AFE1D92C850D11A5E08ABD78;_SESSIONKEY=459TTRWP99R1247U437Q;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:43 GMT;_TOKEN=EDF1AB21A803815CDBB2406480958D7AA4DF45562D68D929177F9B6916C9A6053D561854CED6AFC10D112D89E4F818A47059679C088B0428572B1F33AFE426FC094ED060CF30ACC8E8A6FAF2FF724DB6 
+19:57:57 :xls.Status:切换到账号:15730361457,userId:579282697794,cookies:JSESSIONID=55B1E56C24A2DB951276DD1E7C1908D0;_SESSIONKEY=VEHZKUWW6XP2485646GO;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:24 GMT;_TOKEN=711A4F9FA0DBF33AFD9E63D0FAE7388D35FE1173BBF5E3870387AEF777C9B4B3284A708E2AA294FA0E02763B135251FD286F67D081DEA59FE8052A8F0F7A22F49945BD4680A79FE8BA51DD63F84B778C 
+19:57:57 :xls.Status:切换到账号:15730363368,userId:579282697814,cookies:JSESSIONID=F039F51657EFFE3F6F70496D56624DF3;_SESSIONKEY=26AHNKCM7987YU3147WG;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:41 GMT;_TOKEN=CED576E81FEBE2AE705E64B1BC427D535671F0F0FC16ACD5CE029C18F09A639857B815ACA90E00A29423217802FF74B16362472CEB922EFAF5806EA78AF825E31DEFBFCA240FEB23AF8B723445C4BCB2 
+19:57:57 :xls.Status:切换到账号:17360254616,userId:579282697884,cookies:JSESSIONID=99BDA501FAE22A7E3C401BCAAE4D7877;_SESSIONKEY=3TP0ND8T9W918RJ4A029;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:08 GMT;_TOKEN=4C731AB331C70EF3A23B6BA7860DF12FD096A09C52611D2F49B70D67C52D819EFFBF082941DB6F5FDDE31224A1A2934B08CEF8B9EDB8614AE4B9F7A55F1D373830AD15BA79DAAB833CA3F8A107002C82 
+19:57:57 :xls.Status:切换到账号:15827021295,userId:579282680737,cookies:JSESSIONID=60CAADE817F49FFAD2ECF319337D681D;_SESSIONKEY=ZCB3HGCF37RTN62L9O98;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:17 GMT;_TOKEN=C3C03382083CED756974E157FA2140B1FDBB85D6A29DC8EEA212AA1F2320E9938ECC96A54267AEB8BD2151B7FE32278F8218724D1D6B7681DE304066EB08E8225F69022E7A01EAAD00F2045BF3F6FBFA 
+19:57:57 :xls.Status:切换到账号:15730362474,userId:579282695483,cookies:JSESSIONID=4CA12737B0329DEAE1A70A37EDA8719C;_SESSIONKEY=51P08H1P481K953D41D8;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:18 GMT;_TOKEN=F9E461FF3D3A4F892F51D74456156930EF4901299B307867EEF1946731661C897FDA2CEF45CE3C7BB0949131317955D29C73D5ABBBEDFA8624F472A0F950DC46D9CF75E67E043A9206A82EB993424F30 
+19:57:57 :xls.Status:切换到账号:511380795@qq.com,userId:232220,cookies:JSESSIONID=CC15E71D6EADAFD3BB37C5235AFD377C;_SESSIONKEY=185T8MNYW7YDE1DPW816;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:52 GMT;_TOKEN=1A02C286F33D1E9BA1918E757C7BE790B3554C023111EF92D3DF14D429F18ACB9618C3E45180F087A92CFBFDDE8CB183E1EE53CCB0DD5898493DED46BFA3FA593A78997ADD944CD2B5090499B89A5423 
+19:57:57 :xls.Status:切换到账号:2396522964@qq.com,userId:232183,cookies:JSESSIONID=80FFFA48CEF2E65FBF7B573C3146DA10;_SESSIONKEY=L893P85I89T5GP4DJQ52;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:37 GMT;_TOKEN=DA729C4A9690AEB799BDF3F597F25B7A54FACB129131D043BE1695F84DBF9973A3EC2B7E4B64AEEB6E522879D89153A1F7377A0195811BD8659E6471E29115DE3A78997ADD944CD2B5090499B89A5423 
+19:57:57 :xls.Status:切换到账号:785794836@qq.com,userId:178927,cookies:JSESSIONID=486A615A605FB9D00F509B7960D175AB;_SESSIONKEY=K4A4DZA27B272USZ8S26;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:05 GMT;_TOKEN=09CE54576121E13145684A3F4BE0FE48A4FB147FA3D2CD479DFFBCF127069701CAE30CD28C29BA67E7E7BAA027CEE5A4DF5523FE3B8D118C95D58621B503CEAB84E72A21B7178098067A93DA1937A049 
+19:57:57 :xls.Status:切换到账号:serfend@lqb.com,userId:217085,cookies:JSESSIONID=681A602225CC9F808E5E126721F53796;_SESSIONKEY=DW0DZB1Z31685YPHLT27;Domain=lanqiao.cn;Expires=Tue, 06-Feb-2018 00:06:48 GMT;_TOKEN=D544534E0BA0A9BB37FEC45D28AE7B26E61501ACA033E77A31C6BDB9E7FD77069D2C5CF16B19D2D3298A2F72091697215DDFF68FCA6A48BA96F19AD437809BCB2862F3269340F615894C682A39A1DF80 
+19:57:57 :xls.Status:切换到账号:354929630@qq.com,userId:232211,cookies:JSESSIONID=92A0F7AD52231825F00334067F2901D9;_SESSIONKEY=3IS0D0AMM333RU40L668;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:54 GMT;_TOKEN=354387033E494D42AC67AD6E664C1C77C1B6B1D499CEF3A68124D8815B192E0B308DB1AF0B83D9026CCE8D76948D95341867D3BED2FEE5DF685BCADE3776B0369945BD4680A79FE8BA51DD63F84B778C 
+19:57:57 :xls.Status:切换到账号:747276157@qq.com,userId:232180,cookies:JSESSIONID=E395A7FB23522D9A328F7085BD243C3A;_SESSIONKEY=TG64L9BY9BKK03DO61JP;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:56 GMT;_TOKEN=3630B504C8774EC0B918BEC21BCC293544C1E7C0AF6033C55037A6EA05872389B4EAC4E53CE1842E776DC27525EB66751DA13D10B391421EBCB8FB096EA44AEC9FA13E6F02295A002924ABDE1C31DE1F 
+19:57:57 :xls.Status:切换到账号:15926430497,userId:24695485914,cookies:JSESSIONID=9394AFAB80A655A116F1B887B2A1F2CA;_SESSIONKEY=EGBQ2YL4J45FXEBCP96Z;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:03 GMT;_TOKEN=CB528EDDF5913BD1A0074CAC5891AF766D47BBD4F3FECE7CBEA707AFA2A9C261A82162D3055DD7626FFB3361DFAB81D246F8C0F99EEA4826E5FC11632BE9930FE65B1862FA45291547112D139F441CE9 
+19:57:57 :xls.Status:切换到账号:15826191001,userId:579282679703,cookies:JSESSIONID=FEE2D1EC8DDA86A7D7631A7673447481;_SESSIONKEY=8A95427F9UULDDN7K31C;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:59 GMT;_TOKEN=5DD29537934A2D7F76AB0B5D173D267162A828578BD42D6A676A85481E2BE2DE2E52F86595AABB77841A4D52173900068B0300A11BD68C4563680ADB59BD36B984E72A21B7178098067A93DA1937A049 
+19:57:57 :xls.Status:切换到账号:15923225800,userId:579282679619,cookies:JSESSIONID=BE0BF53261A9D8E88F2160E33C92F1A6;_SESSIONKEY=376S275SNS3OM3RP7XMY;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:29 GMT;_TOKEN=DE443018564BD4166AA4D7EFFAA0EF10BBAA2AE124AD8CEEAF281CC3ECD4A9355AED68429859BE5FA0CF2FEDC424DE9C06A8EA7C68DF9AFE0A6F3E3C7F0EB4A09FA13E6F02295A002924ABDE1C31DE1F 
+19:57:57 :xls.Status:切换到账号:13340286964,userId:579282679555,cookies:JSESSIONID=6015B28B5F0BD4A89127B7A122DB134C;_SESSIONKEY=0V743K554JPF8714UQ71;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:35 GMT;_TOKEN=9A29E246C33D35976BD0261520A99667BD727804ACD233DF950086AEFD29EAD3C4F5B48AB5808F403E90AB2ABC0C9A949EE21B52DFC824AD5C9FDD596464AB263A78997ADD944CD2B5090499B89A5423 
+19:57:57 :xls.Status:切换到账号:15213442058,userId:579282679624,cookies:JSESSIONID=517C6550AFBFF30AAA033E62A8128D16;_SESSIONKEY=7HW7DU9269486YWES8KI;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:34 GMT;_TOKEN=9A48A021FA151713B1E82C3FE93AD8A70D5E819CF0A93CAAE229E485FDB831AB4288C121DA1C34D8150FE1171DC2EC1CD1F0A3B11377F2DF97EEAAD8EB6125701DEFBFCA240FEB23AF8B723445C4BCB2 
+19:57:57 :xls.Status:切换到账号:15972977557,userId:24695486758,cookies:JSESSIONID=F19AB4F8FA9881C5398129D19A237B9D;_SESSIONKEY=9E0I552SR8Q0WO12W204;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:15 GMT;_TOKEN=A637F0166AFD91FD05D2982F45561A41438B39E9D9F4156DAC1DA53C1FDF73F32994C9A19FD4DA7323F1A493F1748C3884738EF56462335855B1DB623465180A3A78997ADD944CD2B5090499B89A5423 
+19:57:57 :xls.Status:切换到账号:13153334563,userId:24695486505,cookies:JSESSIONID=A081F0D36FC81C403DF9069F2B88D801;_SESSIONKEY=OJ5HV1B4IUW02T2A2AM3;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:13 GMT;_TOKEN=8A26B88629AA645D5F74735994EE00E8831322983B719CFF780C51D8A461B6C70AF21B9E38A3CB95F8C250376CA639162D7D8B865ED8D5B38C4678805E680CA030AD15BA79DAAB833CA3F8A107002C82 
+19:57:57 :xls.Status:切换到账号:18071410231,userId:24695487465,cookies:JSESSIONID=0B52625F774E8DDF2C7C96CB71912CC2;_SESSIONKEY=QC6P04K4GUI8R7Q384ML;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:03 GMT;_TOKEN=50B59137D3716F5B05F4AFC3FED190D4B3C3BB31886FD7120E6A20406974B5869FEDDAE8EA64548DC636D636CA330607B33DB8173A5588E38BDB1D11966E798D9FA13E6F02295A002924ABDE1C31DE1F 
+19:57:57 :xls.Status:切换到账号:625090446@qq.com,userId:232140,cookies:JSESSIONID=B4359684DC1B945AEC4BCE83127831C6;_SESSIONKEY=0J73QC2I1Z0QF3620A30;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:01 GMT;_TOKEN=A6275C875EA12A16E44CDC64665874A8C86DEDC67DF5BF9546E1A32FA4E7C5F387BAA39BAD64B6BF8BB9BF6F7E8F98BF0238465936FF1BAE451446EC49A634889FA13E6F02295A002924ABDE1C31DE1F 
+19:57:57 :xls.Status:切换到账号:13178693999,userId:579282679642,cookies:JSESSIONID=EA9496A44774BBE73759A727FE904FEC;_SESSIONKEY=H17F909H53G3L1Z819CJ;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:45 GMT;_TOKEN=830E70A222D107523B7F752DE86269461E04EBF202AFD653C0FB118D1DE317DD47C6C8F56D3104D6891CEB3EC959529440E0ACA677782640413C507DDA341DE32862F3269340F615894C682A39A1DF80 
+19:57:57 :xls.Status:切换到账号:13072386283,userId:579282693149,cookies:JSESSIONID=1156D87127C3045A7AB8688BBEBEF9E1;_SESSIONKEY=4RVS99B0234X7QKZ6DMS;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:39 GMT;_TOKEN=19967BE4003991DB8466C44E2485DB4B12225E1A0D2390B7FF167FCDBEAE91848870E4A98A1DE25E58B59B56A6A69CA9C14CEAEBC228A77639FB9792F3511707D273EBB83EC39221A7EFD7AEF1744AC5 
+19:57:57 :xls.Status:切换到账号:15730360985,userId:579282679682,cookies:JSESSIONID=EC68FE500461FF1138D5C495462F51E5;_SESSIONKEY=0BI5L321E3M8485ZZ2LP;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:50 GMT;_TOKEN=1FB6E044A9FBA737D8CDC1B3F2379E3FAF9D7802DB344710D1F09558D933BEC56A77E36E22568CEE05AA5B3ABDFA547DED06157FC2DD2A6E1233D0544A89D52ED273EBB83EC39221A7EFD7AEF1744AC5 
+19:57:57 :xls.Status:切换到账号:15205967368,userId:579282693150,cookies:JSESSIONID=2007F4C32357E9C3BBBA6E532118EA08;_SESSIONKEY=5XZ3632C88RVPFTG1T6F;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:27 GMT;_TOKEN=48B272DFEB12B561F934E20B301807555549114CC382603AD5DD857B36EE8EEF4AEAF6A11A9749DED851D303CCFD73370E9618CE1C04290D9BB53C1AB281E382D9CF75E67E043A9206A82EB993424F30 
+19:57:57 :xls.Status:切换到账号:15823283574,userId:579282679676,cookies:JSESSIONID=9070111FD36C799562AE08F9627B141E;_SESSIONKEY=2UH3F7KLA9WY9208544W;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:11 GMT;_TOKEN=87FFDD930F6F87B43DD7940550FFB398462460537CFD49DA9461344620D9D5E184420B70558AFFD7F7EAE7E3CB676DE22CEF97C8CE4A9CC0A944396DCA5E8BE284E72A21B7178098067A93DA1937A049 
+19:57:57 :xls.Status:切换到账号:15972926051,userId:579282679645,cookies:JSESSIONID=E854629920DE1712D7FA30E4C53B4938;_SESSIONKEY=94RY6PS0QUC4X175C097;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:07 GMT;_TOKEN=BD4BA7C1FD518DAF74CB650CDB83C7CF455CE5E75E9C00C5013C1C07C38E2CC7CAB5D4BC237141F0304C8848A3250F629A0B88172A9B9F7786EAD2959CCD5802094ED060CF30ACC8E8A6FAF2FF724DB6 
+19:57:57 :xls.Status:切换到账号:18152681169,userId:24695486784,cookies:JSESSIONID=7098AED3AC3633654CDD10C12524B5BA;_SESSIONKEY=Y43F1K129033523K8UMB;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:05 GMT;_TOKEN=22F23D372668FF8074C805828CB7891B6C57E8F287AA8764F705FC353F873138351FCB71DE010531E32B3829DD4A51328EE44F92E1445728DB1AC89C76A8D907D9CF75E67E043A9206A82EB993424F30 
+19:57:57 :xls.Status:切换到账号:13589839883,userId:,cookies: 
+19:57:57 :xls.Status:加载[1/34](liuchangm7j@vip.qq.com)   
+19:57:57 :xls.Status:加载题库:[1/34](liuchangm7j@vip.qq.com)   
+19:57:57 :xls.Status:未登liuchangm7j@vip.qq.com 
+19:57:57 :xls.Status:未登17623877493 
+19:57:57 :xls.Status:未登17623476609 
+19:57:57 :xls.Status:未登15730361457 
+19:57:57 :xls.Status:未登15730363368 
+19:57:57 :xls.Status:未登17360254616 
+19:57:57 :xls.Status:未登15730362474 
+19:57:57 :xls.Status:已登录13986274216 
+19:57:57 :xls.Status:未登15827021295 
+19:57:57 :xls.Status:未登511380795@qq.com 
+19:57:57 :xls.Status:未登2396522964@qq.com 
+19:57:57 :xls.Status:未登785794836@qq.com 
+19:57:57 :xls.Status:未登serfend@lqb.com 
+19:57:57 :xls.Status:未登354929630@qq.com 
+19:57:57 :xls.Status:未登747276157@qq.com 
+19:57:57 :xls.Status:未登15926430497 
+19:57:57 :xls.Status:未登15826191001 
+19:57:57 :xls.Status:已登录15808081216 
+19:57:57 :xls.Status:未登15923225800 
+19:57:57 :xls.Status:未登13340286964 
+19:57:57 :xls.Status:未登15213442058 
+19:57:57 :xls.Status:未登15972977557 
+19:57:57 :xls.Status:未登13153334563 
+19:57:57 :xls.Status:未登18071410231 
+19:57:57 :xls.Status:未登625090446@qq.com 
+19:57:57 :xls.Status:未登13178693999 
+19:57:57 :xls.Status:已登录904546102@qq.com 
+19:57:57 :xls.Status:未登13072386283 
+19:57:57 :xls.Status:未登15730360985 
+19:57:57 :xls.Status:未登15205967368 
+19:57:57 :xls.Status:未登15823283574 
+19:57:57 :xls.Status:未登13589839883 
+19:57:57 :xls.Status:未登15972926051 
+19:57:57 :xls.Status:未登18152681169 
+19:57:57 :xls.Status:加载目录失败,未登录[1/34](liuchangm7j@vip.qq.com)  ,cookies:JSESSIONID=4A7A66D8E9F71E2024F4E48AFE4ECDA9;_SESSIONKEY=850H4IPY9YJ4S8NWAWYF;Domain=lanqiao.cn;Expires=Tue, 06-Feb-2018 01:00:27 GMT;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBC263276575EE69EF2C651AE9F46E747A852140AC5A753CCD2365508D6608B0BE1F82EACD8BAF142C9F0E64A3A62FE3A19 
+19:57:57 :xls.Status:登陆到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=4A7A66D8E9F71E2024F4E48AFE4ECDA9;_SESSIONKEY=850H4IPY9YJ4S8NWAWYF;Domain=lanqiao.cn;Expires=Tue, 06-Feb-2018 01:00:27 GMT;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBC263276575EE69EF2C651AE9F46E747A852140AC5A753CCD2365508D6608B0BE1F82EACD8BAF142C9F0E64A3A62FE3A19 
+19:57:58 :xls.Status:GetVerUser:liuchangm7j@vip.qq.com 
+19:58:00 :xls.Status:验证码:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+19:58:00 :xls.Status:JSESSIONID=0B20E991BE9F699CBBC2ED9CC6622EEF;_SESSIONKEY=850H4IPY9YJ4S8NWAWYF;Domain=lanqiao.cn;Expires=Sun, 11-Feb-2018 11:57:59 GMT;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBC1B2737FE303158C0D3B4F96B1BE8BF031D8E88997398A4C773FA4581B1196E57F5F9BACFFF3222A9B1D72736924B9ECE 
+19:58:00 :xls.Status:欢迎您,[1/34]null(liuchangm7j@vip.qq.com)   
+19:58:02 :xls.Status:登录成功:[1/34]null(liuchangm7j@vip.qq.com)  刘畅 
+19:58:02 :xls.Status:加载[1/34]null(liuchangm7j@vip.qq.com)  刘畅 
+19:58:02 :xls.Status:加载题库:[1/34]null(liuchangm7j@vip.qq.com)  刘畅 
+19:58:02 :xls.Status:[1/34]null(liuchangm7j@vip.qq.com)  刘畅加载题目集数量:5 
+19:58:04 :xls.Status:[1/34]null(liuchangm7j@vip.qq.com)  刘畅.习题已全部加载完成  UA/AC/All=7/467/483 
+19:58:04 :xls.Status:-----------[1/34]null(liuchangm7j@vip.qq.com)  刘畅开始运行 
+19:58:04 :xls.Status:下载题目:T485 的测试数据 
+19:58:04 :xls.Status:[1/34]null(liuchangm7j@vip.qq.com)  刘畅[T485]The Traveling Judges Problem:{"itemid":"2070720","msg":"提交成功。","ret":"1"} 
+19:58:04 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:58:09 :xls.Status:DownloadAllFile:[1/34]null(liuchangm7j@vip.qq.com)  刘畅[T485]The Traveling Judges Problem:2070720,共计20组测试数据 
+19:58:09 :xls.Status:下载题目数据:T485-1.inp 
+19:58:09 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:12 :xls.Status:下载题目数据:T485-2.inp 
+19:58:12 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:14 :xls.Status:下载题目数据:T485-3.inp 
+19:58:14 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:16 :xls.Status:下载题目数据:T485-4.inp 
+19:58:16 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:18 :xls.Status:下载题目数据:T485-5.inp 
+19:58:18 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:20 :xls.Status:下载题目数据:T485-6.inp 
+19:58:20 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:22 :xls.Status:下载题目数据:T485-7.inp 
+19:58:22 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:24 :xls.Status:下载题目数据:T485-8.inp 
+19:58:24 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:26 :xls.Status:下载题目数据:T485-9.inp 
+19:58:26 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:28 :xls.Status:下载题目数据:T485-10.inp 
+19:58:28 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:30 :xls.Status:[1/34]null(liuchangm7j@vip.qq.com)  刘畅不可继续获取数据:T485-inp11 
+19:58:31 :xls.Status:RunNextUser,Num:1 
+19:58:31 :xls.Status:加载[2/34](13986274216)   
+19:58:31 :xls.Status:加载题库:[2/34](13986274216)   
+19:58:31 :xls.Status:[2/34](13986274216)  加载题目集数量:5 
+19:58:32 :xls.Status:[2/34](13986274216)  .习题已全部加载完成  UA/AC/All=7/6/483 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成1/470-已跳过,[T3]圆的面积 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成2/470-已跳过,[T2]序列求和 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成3/470-已跳过,[T1]A+B问题 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成4/470-已跳过,[T126]矩阵翻硬币 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成5/470-已跳过,[T125]兰顿蚂蚁 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成6/470-已跳过,[T116]邮局 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成7/470-已跳过,[T115]数字游戏 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成8/470-已跳过,[T114]国王的烦恼 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成9/470-已跳过,[T113]回文数字 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成10/470-已跳过,[T43]公式求值 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成11/470-已跳过,[T42]九宫重排 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:完成12/470-已跳过,[T41]车轮轴迹 
+19:58:32 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:32 :xls.Status:下载题目:T40 的测试数据 
+19:58:32 :xls.Status:[2/34](13986274216)  [T40]约数倍数选卡片:{"itemid":"2070722","msg":"提交成功。","ret":"1"} 
+19:58:32 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:58:38 :xls.Status:DownloadAllFile:[2/34](13986274216)  [T40]约数倍数选卡片:2070722,共计5组测试数据 
+19:58:38 :xls.Status:生成代码:T40,总测试数据(5) 
+19:58:38 :xls.Status:完成13/470-生成代码,[T40]约数倍数选卡片 
+19:58:38 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:38 :xls.Status:完成14/470-已跳过,[T39]农场阳光 
+19:58:38 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:38 :xls.Status:下载题目:T38 的测试数据 
+19:58:38 :xls.Status:DownloadAllFile:[2/34](13986274216)  [T38]格子刷油漆:2042839,共计5组测试数据 
+19:58:38 :xls.Status:生成代码:T38,总测试数据(5) 
+19:58:38 :xls.Status:完成15/470-生成代码,[T38]格子刷油漆 
+19:58:38 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:38 :xls.Status:下载题目:T124 的测试数据 
+19:58:38 :xls.Status:DownloadAllFile:[2/34](13986274216)  [T124]分糖果:2042840,共计4组测试数据 
+19:58:38 :xls.Status:下载题目数据:T124-3.outp 
+19:58:38 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:38 :xls.Status:[2/34](13986274216)  下载测试数据:{"info":"未授权。","ret":"0"} 
+19:58:38 :xls.Status:[2/34](13986274216)  2042840授权码已过期,等待重新获取.T124 
+19:58:38 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:38 :xls.Status:下载题目:T37 的测试数据 
+19:58:38 :xls.Status:[2/34](13986274216)  [T37]高僧斗法:{"itemid":"2070723","msg":"提交成功。","ret":"1"} 
+19:58:38 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:58:43 :xls.Status:下载题目数据:T124-4.outp 
+19:58:43 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:43 :xls.Status:[2/34](13986274216)  下载测试数据:{"info":"未授权。","ret":"0"} 
+19:58:43 :xls.Status:[2/34](13986274216)  2042840授权码已过期,等待重新获取.T124 
+19:58:43 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:43 :xls.Status:下载题目:T36 的测试数据 
+19:58:43 :xls.Status:DownloadAllFile:[2/34](13986274216)  [T37]高僧斗法:2070723,共计5组测试数据 
+19:58:43 :xls.Status:生成代码:T37,总测试数据(5) 
+19:58:43 :xls.Status:完成18/470-生成代码,[T37]高僧斗法 
+19:58:43 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:43 :xls.Status:下载题目:T35 的测试数据 
+19:58:43 :xls.Status:[2/34](13986274216)  [T36]网络寻路:{"itemid":"2070725","msg":"提交成功。","ret":"1"} 
+19:58:43 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:58:43 :xls.Status:[2/34](13986274216)  [T35]危险系数:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+19:58:48 :xls.Status:DownloadAllFile:[2/34](13986274216)  [T36]网络寻路:2070725,共计5组测试数据 
+19:58:48 :xls.Status:生成代码:T36,总测试数据(5) 
+19:58:49 :xls.Status:完成19/470-生成代码,[T36]网络寻路 
+19:58:49 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:58:49 :xls.Status:下载题目:T34 的测试数据 
+19:58:49 :xls.Status:[2/34](13986274216)  [T34]横向打印二叉树:{"itemid":"2070726","msg":"提交成功。","ret":"1"} 
+19:58:49 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:58:54 :xls.Status:DownloadAllFile:[2/34](13986274216)  [T34]横向打印二叉树:2070726,共计4组测试数据 
+19:58:54 :xls.Status:下载题目数据:T34-3.inp 
+19:58:54 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:56 :xls.Status:下载题目数据:T34-4.inp 
+19:58:56 :xls.Status:下载数据防ban间隔...2000ms 
+19:58:58 :xls.Status:下载题目数据:T34-1.outp 
+19:58:58 :xls.Status:下载数据防ban间隔...2000ms 
+19:59:00 :xls.Status:下载题目数据:T34-2.outp 
+19:59:00 :xls.Status:下载数据防ban间隔...2000ms 
+19:59:02 :xls.Status:下载题目数据:T34-3.outp 
+19:59:02 :xls.Status:下载数据防ban间隔...2000ms 
+19:59:04 :xls.Status:下载题目数据:T34-4.outp 
+19:59:04 :xls.Status:下载数据防ban间隔...2000ms 
+19:59:04 :xls.Status:生成代码:T34,总测试数据(4) 
+19:59:04 :xls.Status:完成20/470-生成代码,[T34]横向打印二叉树 
+19:59:04 :xls.Status:-----------[2/34](13986274216)  开始运行 
+19:59:04 :xls.Status:下载题目:T33 的测试数据 
+19:59:04 :xls.Status:[2/34](13986274216)  [T33]幸运数:{"itemid":"2070729","msg":"提交成功。","ret":"1"} 
+19:59:04 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:59:10 :xls.Status:DownloadAllFile:[2/34](13986274216)  [T33]幸运数:2070729,共计4组测试数据 
+19:59:10 :xls.Status:下载题目数据:T33-1.inp 
+19:59:10 :xls.Status:下载数据防ban间隔...2000ms 
+19:59:12 :xls.Status:下载题目数据:T33-2.inp 
+19:59:12 :xls.Status:下载数据防ban间隔...2000ms 
+19:59:14 :xls.Status:[2/34](13986274216)  不可继续获取数据:T33-inp3 
+19:59:15 :xls.Status:RunNextUser,Num:1 
+19:59:15 :xls.Status:加载[3/34](15808081216)   
+19:59:15 :xls.Status:加载题库:[3/34](15808081216)   
+19:59:15 :xls.Status:[3/34](15808081216)  加载题目集数量:5 
+19:59:16 :xls.Status:[3/34](15808081216)  .习题已全部加载完成  UA/AC/All=7/4/483 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:下载题目:T4 的测试数据 
+19:59:16 :xls.Status:DownloadAllFile:[3/34](15808081216)  [T4]Fibonacci数列:2037999,共计10组测试数据 
+19:59:16 :xls.Status:生成代码:T4,总测试数据(10) 
+19:59:16 :xls.Status:完成1/472-生成代码,[T4]Fibonacci数列 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成2/472-已跳过,[T3]圆的面积 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成3/472-已跳过,[T2]序列求和 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成4/472-已跳过,[T1]A+B问题 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成5/472-已跳过,[T126]矩阵翻硬币 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成6/472-已跳过,[T125]兰顿蚂蚁 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成7/472-已跳过,[T116]邮局 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成8/472-已跳过,[T115]数字游戏 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成9/472-已跳过,[T114]国王的烦恼 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成10/472-已跳过,[T113]回文数字 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成11/472-已跳过,[T43]公式求值 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成12/472-已跳过,[T42]九宫重排 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:完成13/472-已跳过,[T41]车轮轴迹 
+19:59:16 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:16 :xls.Status:下载题目:T40 的测试数据 
+19:59:17 :xls.Status:[3/34](15808081216)  [T40]约数倍数选卡片:{"itemid":"2070730","msg":"提交成功。","ret":"1"} 
+19:59:17 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:59:22 :xls.Status:DownloadAllFile:[3/34](15808081216)  [T40]约数倍数选卡片:2070730,共计5组测试数据 
+19:59:22 :xls.Status:生成代码:T40,总测试数据(5) 
+19:59:22 :xls.Status:完成14/472-生成代码,[T40]约数倍数选卡片 
+19:59:22 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:22 :xls.Status:完成15/472-已跳过,[T39]农场阳光 
+19:59:22 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:22 :xls.Status:下载题目:T38 的测试数据 
+19:59:22 :xls.Status:DownloadAllFile:[3/34](15808081216)  [T38]格子刷油漆:2019938,共计5组测试数据 
+19:59:22 :xls.Status:生成代码:T38,总测试数据(5) 
+19:59:22 :xls.Status:完成16/472-生成代码,[T38]格子刷油漆 
+19:59:22 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:22 :xls.Status:下载题目:T124 的测试数据 
+19:59:22 :xls.Status:[3/34](15808081216)  [T124]分糖果:{"itemid":"2070732","msg":"提交成功。","ret":"1"} 
+19:59:22 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:59:27 :xls.Status:DownloadAllFile:[3/34](15808081216)  [T124]分糖果:2070732,共计4组测试数据 
+19:59:27 :xls.Status:下载题目数据:T124-3.outp 
+19:59:27 :xls.Status:下载数据防ban间隔...2000ms 
+19:59:29 :xls.Status:下载题目数据:T124-4.outp 
+19:59:29 :xls.Status:下载数据防ban间隔...2000ms 
+19:59:29 :xls.Status:生成代码:T124,总测试数据(4) 
+19:59:29 :xls.Status:完成17/472-生成代码,[T124]分糖果 
+19:59:29 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:29 :xls.Status:下载题目:T37 的测试数据 
+19:59:29 :xls.Status:[3/34](15808081216)  [T37]高僧斗法:{"itemid":"2070735","msg":"提交成功。","ret":"1"} 
+19:59:29 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:59:35 :xls.Status:DownloadAllFile:[3/34](15808081216)  [T37]高僧斗法:2070735,共计5组测试数据 
+19:59:35 :xls.Status:生成代码:T37,总测试数据(5) 
+19:59:35 :xls.Status:完成18/472-生成代码,[T37]高僧斗法 
+19:59:35 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:35 :xls.Status:下载题目:T36 的测试数据 
+19:59:35 :xls.Status:[3/34](15808081216)  [T36]网络寻路:{"itemid":"2070736","msg":"提交成功。","ret":"1"} 
+19:59:35 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:59:40 :xls.Status:DownloadAllFile:[3/34](15808081216)  [T36]网络寻路:2070736,共计5组测试数据 
+19:59:40 :xls.Status:生成代码:T36,总测试数据(5) 
+19:59:40 :xls.Status:完成19/472-生成代码,[T36]网络寻路 
+19:59:40 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:40 :xls.Status:下载题目:T35 的测试数据 
+19:59:40 :xls.Status:[3/34](15808081216)  [T35]危险系数:{"itemid":"2070738","msg":"提交成功。","ret":"1"} 
+19:59:40 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:59:45 :xls.Status:DownloadAllFile:[3/34](15808081216)  [T35]危险系数:2070738,共计5组测试数据 
+19:59:45 :xls.Status:生成代码:T35,总测试数据(5) 
+19:59:45 :xls.Status:完成20/472-生成代码,[T35]危险系数 
+19:59:45 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:45 :xls.Status:下载题目:T34 的测试数据 
+19:59:46 :xls.Status:[3/34](15808081216)  [T34]横向打印二叉树:{"itemid":"2070741","msg":"提交成功。","ret":"1"} 
+19:59:46 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:59:51 :xls.Status:DownloadAllFile:[3/34](15808081216)  [T34]横向打印二叉树:2070741,共计4组测试数据 
+19:59:51 :xls.Status:生成代码:T34,总测试数据(4) 
+19:59:51 :xls.Status:完成21/472-生成代码,[T34]横向打印二叉树 
+19:59:51 :xls.Status:-----------[3/34](15808081216)  开始运行 
+19:59:51 :xls.Status:下载题目:T33 的测试数据 
+19:59:51 :xls.Status:[3/34](15808081216)  [T33]幸运数:{"itemid":"2070743","msg":"提交成功。","ret":"1"} 
+19:59:51 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+19:59:56 :xls.Status:DownloadAllFile:[3/34](15808081216)  [T33]幸运数:2070743,共计4组测试数据 
+19:59:56 :xls.Status:下载题目数据:T33-3.inp 
+19:59:56 :xls.Status:下载数据防ban间隔...2000ms 
+19:59:58 :xls.Status:下载题目数据:T33-4.inp 
+19:59:58 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:00 :xls.Status:下载题目数据:T33-1.outp 
+20:00:00 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:02 :xls.Status:下载题目数据:T33-2.outp 
+20:00:02 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:04 :xls.Status:下载题目数据:T33-3.outp 
+20:00:04 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:06 :xls.Status:下载题目数据:T33-4.outp 
+20:00:06 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:07 :xls.Status:生成代码:T33,总测试数据(4) 
+20:00:07 :xls.Status:完成22/472-生成代码,[T33]幸运数 
+20:00:07 :xls.Status:-----------[3/34](15808081216)  开始运行 
+20:00:07 :xls.Status:下载题目:T32 的测试数据 
+20:00:07 :xls.Status:[3/34](15808081216)  [T32]大臣的旅费:{"itemid":"2070744","msg":"提交成功。","ret":"1"} 
+20:00:07 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:00:12 :xls.Status:DownloadAllFile:[3/34](15808081216)  [T32]大臣的旅费:2070744,共计4组测试数据 
+20:00:12 :xls.Status:下载题目数据:T32-1.inp 
+20:00:12 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:14 :xls.Status:下载题目数据:T32-2.inp 
+20:00:14 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:16 :xls.Status:[3/34](15808081216)  不可继续获取数据:T32-inp3 
+20:00:17 :xls.Status:RunNextUser,Num:1 
+20:00:17 :xls.Status:加载[4/34](904546102@qq.com)   
+20:00:17 :xls.Status:加载题库:[4/34](904546102@qq.com)   
+20:00:17 :xls.Status:[4/34](904546102@qq.com)  加载题目集数量:5 
+20:00:18 :xls.Status:[4/34](904546102@qq.com)  .习题已全部加载完成  UA/AC/All=7/70/483 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:完成1/406-已跳过,[T69]Huffuman树 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:完成2/406-已跳过,[T68]2n皇后问题 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:完成3/406-已跳过,[T67]报时助手 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:完成4/406-已跳过,[T65]龟兔赛跑预测 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:下载题目:T50 的测试数据 
+20:00:18 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T50]十六进制转十进制:2042916,共计4组测试数据 
+20:00:18 :xls.Status:生成代码:T50,总测试数据(4) 
+20:00:18 :xls.Status:完成5/406-生成代码,[T50]十六进制转十进制 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:下载题目:T62 的测试数据 
+20:00:18 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T62]Sine之舞:2042917,共计1组测试数据 
+20:00:18 :xls.Status:生成代码:T62,总测试数据(1) 
+20:00:18 :xls.Status:完成6/406-生成代码,[T62]Sine之舞 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:下载题目:T60 的测试数据 
+20:00:18 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T60]完美的代价:2042919,共计10组测试数据 
+20:00:18 :xls.Status:生成代码:T60,总测试数据(10) 
+20:00:18 :xls.Status:完成7/406-生成代码,[T60]完美的代价 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:下载题目:T59 的测试数据 
+20:00:18 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T59]矩形面积交:2042923,共计7组测试数据 
+20:00:18 :xls.Status:生成代码:T59,总测试数据(7) 
+20:00:18 :xls.Status:完成8/406-生成代码,[T59]矩形面积交 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:下载题目:T58 的测试数据 
+20:00:18 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T58]矩阵乘法:2070716,共计6组测试数据 
+20:00:18 :xls.Status:生成代码:T58,总测试数据(6) 
+20:00:18 :xls.Status:完成9/406-生成代码,[T58]矩阵乘法 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:完成10/406-已跳过,[T126]矩阵翻硬币 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:完成11/406-已跳过,[T116]邮局 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:完成12/406-已跳过,[T115]数字游戏 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:完成13/406-已跳过,[T114]国王的烦恼 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:完成14/406-已跳过,[T43]公式求值 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:完成15/406-已跳过,[T42]九宫重排 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:完成16/406-已跳过,[T41]车轮轴迹 
+20:00:18 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:18 :xls.Status:下载题目:T40 的测试数据 
+20:00:19 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T40]约数倍数选卡片:2043451,共计5组测试数据 
+20:00:19 :xls.Status:生成代码:T40,总测试数据(5) 
+20:00:19 :xls.Status:完成17/406-生成代码,[T40]约数倍数选卡片 
+20:00:19 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:19 :xls.Status:完成18/406-已跳过,[T39]农场阳光 
+20:00:19 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:19 :xls.Status:下载题目:T38 的测试数据 
+20:00:19 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T38]格子刷油漆:2043454,共计5组测试数据 
+20:00:19 :xls.Status:生成代码:T38,总测试数据(5) 
+20:00:19 :xls.Status:完成19/406-生成代码,[T38]格子刷油漆 
+20:00:19 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:19 :xls.Status:下载题目:T37 的测试数据 
+20:00:19 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T37]高僧斗法:2043456,共计5组测试数据 
+20:00:19 :xls.Status:生成代码:T37,总测试数据(5) 
+20:00:19 :xls.Status:完成20/406-生成代码,[T37]高僧斗法 
+20:00:19 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:19 :xls.Status:下载题目:T36 的测试数据 
+20:00:19 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T36]网络寻路:2043457,共计5组测试数据 
+20:00:19 :xls.Status:生成代码:T36,总测试数据(5) 
+20:00:19 :xls.Status:完成21/406-生成代码,[T36]网络寻路 
+20:00:19 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:19 :xls.Status:下载题目:T35 的测试数据 
+20:00:19 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T35]危险系数:2043458,共计5组测试数据 
+20:00:19 :xls.Status:生成代码:T35,总测试数据(5) 
+20:00:19 :xls.Status:完成22/406-生成代码,[T35]危险系数 
+20:00:19 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:19 :xls.Status:下载题目:T34 的测试数据 
+20:00:19 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T34]横向打印二叉树:2043460,共计4组测试数据 
+20:00:19 :xls.Status:生成代码:T34,总测试数据(4) 
+20:00:19 :xls.Status:完成23/406-生成代码,[T34]横向打印二叉树 
+20:00:19 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:19 :xls.Status:下载题目:T33 的测试数据 
+20:00:19 :xls.Status:[4/34](904546102@qq.com)  [T33]幸运数:{"itemid":"2070745","msg":"提交成功。","ret":"1"} 
+20:00:19 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:00:24 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T33]幸运数:2070745,共计4组测试数据 
+20:00:24 :xls.Status:生成代码:T33,总测试数据(4) 
+20:00:24 :xls.Status:完成24/406-生成代码,[T33]幸运数 
+20:00:24 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:24 :xls.Status:下载题目:T32 的测试数据 
+20:00:24 :xls.Status:[4/34](904546102@qq.com)  [T32]大臣的旅费:{"itemid":"2070747","msg":"提交成功。","ret":"1"} 
+20:00:24 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:00:30 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T32]大臣的旅费:2070747,共计4组测试数据 
+20:00:30 :xls.Status:下载题目数据:T32-3.inp 
+20:00:30 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:32 :xls.Status:下载题目数据:T32-4.inp 
+20:00:32 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:34 :xls.Status:下载题目数据:T32-1.outp 
+20:00:34 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:36 :xls.Status:下载题目数据:T32-2.outp 
+20:00:36 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:38 :xls.Status:下载题目数据:T32-3.outp 
+20:00:38 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:40 :xls.Status:下载题目数据:T32-4.outp 
+20:00:40 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:40 :xls.Status:生成代码:T32,总测试数据(4) 
+20:00:40 :xls.Status:完成25/406-生成代码,[T32]大臣的旅费 
+20:00:40 :xls.Status:-----------[4/34](904546102@qq.com)  开始运行 
+20:00:40 :xls.Status:下载题目:T31 的测试数据 
+20:00:40 :xls.Status:[4/34](904546102@qq.com)  [T31]买不到的数目:{"itemid":"2070749","msg":"提交成功。","ret":"1"} 
+20:00:40 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:00:46 :xls.Status:DownloadAllFile:[4/34](904546102@qq.com)  [T31]买不到的数目:2070749,共计3组测试数据 
+20:00:46 :xls.Status:下载题目数据:T31-1.inp 
+20:00:46 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:48 :xls.Status:下载题目数据:T31-2.inp 
+20:00:48 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:50 :xls.Status:下载题目数据:T31-3.inp 
+20:00:50 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:52 :xls.Status:下载题目数据:T31-1.outp 
+20:00:52 :xls.Status:下载数据防ban间隔...2000ms 
+20:00:54 :xls.Status:[4/34](904546102@qq.com)  不可继续获取数据:T31-outp2 
+20:00:55 :xls.Status:RunNextUser,Num:1 
+20:00:55 :xls.Status:加载[5/34](17623877493)   
+20:00:55 :xls.Status:加载题库:[5/34](17623877493)   
+20:00:55 :xls.Status:加载目录失败,未登录[5/34](17623877493)  ,cookies:JSESSIONID=FCD44F61C7E048F3DDE2A94E4FA45A17;_SESSIONKEY=2KSU97Z832ML5N5H91GI;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:11 GMT;_TOKEN=05AED4C868754136C9C30D3425ABB8BDA6682616A47D1BA64A560AB28121683A59B1F26FE224DFE270E15F80C68A069E126F5B8DF6011D4648E22D30BB971A492862F3269340F615894C682A39A1DF80 
+20:00:55 :xls.Status:登陆到账号:17623877493,userId:579282697891,cookies:JSESSIONID=FCD44F61C7E048F3DDE2A94E4FA45A17;_SESSIONKEY=2KSU97Z832ML5N5H91GI;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:11 GMT;_TOKEN=05AED4C868754136C9C30D3425ABB8BDA6682616A47D1BA64A560AB28121683A59B1F26FE224DFE270E15F80C68A069E126F5B8DF6011D4648E22D30BB971A492862F3269340F615894C682A39A1DF80 
+20:00:55 :xls.Status:GetVerUser:17623877493 
+20:00:59 :xls.Status:验证码:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+20:00:59 :xls.Status:JSESSIONID=885A08356131EABBC2A40893AAF867D4;_SESSIONKEY=2KSU97Z832ML5N5H91GI;Domain=lanqiao.cn;Expires=Sun, 11-Feb-2018 12:00:58 GMT;_TOKEN=05AED4C868754136C9C30D3425ABB8BDA6682616A47D1BA64A560AB28121683A919E4F07D1FDEE0AC47836CEED83198A654710A1BB238FED9C6FA403040EC754E65B1862FA45291547112D139F441CE9 
+20:00:59 :xls.Status:欢迎您,[5/34]LQ848191(17623877493)   
+20:00:59 :xls.Status:登录成功:[5/34]LQ848191(17623877493)  钟帆 
+20:00:59 :xls.Status:加载[5/34]LQ848191(17623877493)  钟帆 
+20:00:59 :xls.Status:加载题库:[5/34]LQ848191(17623877493)  钟帆 
+20:01:00 :xls.Status:[5/34]LQ848191(17623877493)  钟帆加载题目集数量:5 
+20:01:01 :xls.Status:[5/34]LQ848191(17623877493)  钟帆.习题已全部加载完成  UA/AC/All=7/11/483 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:完成1/465-已跳过,[T126]矩阵翻硬币 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:完成2/465-已跳过,[T125]兰顿蚂蚁 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:完成3/465-已跳过,[T116]邮局 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:完成4/465-已跳过,[T115]数字游戏 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:完成5/465-已跳过,[T114]国王的烦恼 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:完成6/465-已跳过,[T113]回文数字 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:完成7/465-已跳过,[T43]公式求值 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:完成8/465-已跳过,[T42]九宫重排 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:完成9/465-已跳过,[T41]车轮轴迹 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:下载题目:T40 的测试数据 
+20:01:01 :xls.Status:DownloadAllFile:[5/34]LQ848191(17623877493)  钟帆[T40]约数倍数选卡片:2043461,共计5组测试数据 
+20:01:01 :xls.Status:生成代码:T40,总测试数据(5) 
+20:01:01 :xls.Status:完成10/465-生成代码,[T40]约数倍数选卡片 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:完成11/465-已跳过,[T39]农场阳光 
+20:01:01 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:01 :xls.Status:下载题目:T38 的测试数据 
+20:01:01 :xls.Status:[5/34]LQ848191(17623877493)  钟帆[T38]格子刷油漆:{"itemid":"2070750","msg":"提交成功。","ret":"1"} 
+20:01:01 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:01:07 :xls.Status:DownloadAllFile:[5/34]LQ848191(17623877493)  钟帆[T38]格子刷油漆:2070750,共计5组测试数据 
+20:01:07 :xls.Status:生成代码:T38,总测试数据(5) 
+20:01:07 :xls.Status:完成12/465-生成代码,[T38]格子刷油漆 
+20:01:07 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:07 :xls.Status:下载题目:T124 的测试数据 
+20:01:07 :xls.Status:[5/34]LQ848191(17623877493)  钟帆[T124]分糖果:{"itemid":"2070752","msg":"提交成功。","ret":"1"} 
+20:01:07 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:01:12 :xls.Status:DownloadAllFile:[5/34]LQ848191(17623877493)  钟帆[T124]分糖果:2070752,共计4组测试数据 
+20:01:12 :xls.Status:生成代码:T124,总测试数据(4) 
+20:01:12 :xls.Status:完成13/465-生成代码,[T124]分糖果 
+20:01:12 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:12 :xls.Status:下载题目:T37 的测试数据 
+20:01:12 :xls.Status:[5/34]LQ848191(17623877493)  钟帆[T37]高僧斗法:{"itemid":"2070753","msg":"提交成功。","ret":"1"} 
+20:01:12 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:01:17 :xls.Status:DownloadAllFile:[5/34]LQ848191(17623877493)  钟帆[T37]高僧斗法:2070753,共计5组测试数据 
+20:01:17 :xls.Status:生成代码:T37,总测试数据(5) 
+20:01:17 :xls.Status:完成14/465-生成代码,[T37]高僧斗法 
+20:01:17 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:17 :xls.Status:下载题目:T36 的测试数据 
+20:01:17 :xls.Status:[5/34]LQ848191(17623877493)  钟帆[T36]网络寻路:{"itemid":"2070754","msg":"提交成功。","ret":"1"} 
+20:01:17 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:01:22 :xls.Status:DownloadAllFile:[5/34]LQ848191(17623877493)  钟帆[T36]网络寻路:2070754,共计5组测试数据 
+20:01:22 :xls.Status:生成代码:T36,总测试数据(5) 
+20:01:23 :xls.Status:完成15/465-生成代码,[T36]网络寻路 
+20:01:23 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:23 :xls.Status:下载题目:T35 的测试数据 
+20:01:23 :xls.Status:[5/34]LQ848191(17623877493)  钟帆[T35]危险系数:{"itemid":"2070755","msg":"提交成功。","ret":"1"} 
+20:01:23 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:01:28 :xls.Status:DownloadAllFile:[5/34]LQ848191(17623877493)  钟帆[T35]危险系数:2070755,共计5组测试数据 
+20:01:28 :xls.Status:生成代码:T35,总测试数据(5) 
+20:01:28 :xls.Status:完成16/465-生成代码,[T35]危险系数 
+20:01:28 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:28 :xls.Status:下载题目:T34 的测试数据 
+20:01:28 :xls.Status:[5/34]LQ848191(17623877493)  钟帆[T34]横向打印二叉树:{"itemid":"2070757","msg":"提交成功。","ret":"1"} 
+20:01:28 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:01:33 :xls.Status:DownloadAllFile:[5/34]LQ848191(17623877493)  钟帆[T34]横向打印二叉树:2070757,共计4组测试数据 
+20:01:33 :xls.Status:生成代码:T34,总测试数据(4) 
+20:01:33 :xls.Status:完成17/465-生成代码,[T34]横向打印二叉树 
+20:01:33 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:33 :xls.Status:下载题目:T33 的测试数据 
+20:01:33 :xls.Status:[5/34]LQ848191(17623877493)  钟帆[T33]幸运数:{"itemid":"2070760","msg":"提交成功。","ret":"1"} 
+20:01:33 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:01:38 :xls.Status:DownloadAllFile:[5/34]LQ848191(17623877493)  钟帆[T33]幸运数:2070760,共计4组测试数据 
+20:01:38 :xls.Status:生成代码:T33,总测试数据(4) 
+20:01:38 :xls.Status:完成18/465-生成代码,[T33]幸运数 
+20:01:38 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:38 :xls.Status:下载题目:T32 的测试数据 
+20:01:38 :xls.Status:[5/34]LQ848191(17623877493)  钟帆[T32]大臣的旅费:{"itemid":"2070761","msg":"提交成功。","ret":"1"} 
+20:01:39 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:01:44 :xls.Status:DownloadAllFile:[5/34]LQ848191(17623877493)  钟帆[T32]大臣的旅费:2070761,共计4组测试数据 
+20:01:44 :xls.Status:生成代码:T32,总测试数据(4) 
+20:01:44 :xls.Status:完成19/465-生成代码,[T32]大臣的旅费 
+20:01:44 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:44 :xls.Status:下载题目:T31 的测试数据 
+20:01:44 :xls.Status:[5/34]LQ848191(17623877493)  钟帆[T31]买不到的数目:{"itemid":"2070762","msg":"提交成功。","ret":"1"} 
+20:01:44 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:01:49 :xls.Status:DownloadAllFile:[5/34]LQ848191(17623877493)  钟帆[T31]买不到的数目:2070762,共计3组测试数据 
+20:01:49 :xls.Status:下载题目数据:T31-2.outp 
+20:01:49 :xls.Status:下载数据防ban间隔...2000ms 
+20:01:51 :xls.Status:下载题目数据:T31-3.outp 
+20:01:51 :xls.Status:下载数据防ban间隔...2000ms 
+20:01:51 :xls.Status:生成代码:T31,总测试数据(3) 
+20:01:51 :xls.Status:完成20/465-生成代码,[T31]买不到的数目 
+20:01:51 :xls.Status:-----------[5/34]LQ848191(17623877493)  钟帆开始运行 
+20:01:51 :xls.Status:下载题目:T30 的测试数据 
+20:01:51 :xls.Status:[5/34]LQ848191(17623877493)  钟帆[T30]连号区间数:{"itemid":"2070763","msg":"提交成功。","ret":"1"} 
+20:01:51 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:01:57 :xls.Status:DownloadAllFile:[5/34]LQ848191(17623877493)  钟帆[T30]连号区间数:2070763,共计5组测试数据 
+20:01:57 :xls.Status:下载题目数据:T30-1.inp 
+20:01:57 :xls.Status:下载数据防ban间隔...2000ms 
+20:01:59 :xls.Status:下载题目数据:T30-2.inp 
+20:01:59 :xls.Status:下载数据防ban间隔...2000ms 
+20:02:01 :xls.Status:下载题目数据:T30-3.inp 
+20:02:01 :xls.Status:下载数据防ban间隔...2000ms 
+20:02:03 :xls.Status:下载题目数据:T30-4.inp 
+20:02:03 :xls.Status:下载数据防ban间隔...2000ms 
+20:02:05 :xls.Status:下载题目数据:T30-5.inp 
+20:02:05 :xls.Status:下载数据防ban间隔...2000ms 
+20:02:07 :xls.Status:下载题目数据:T30-1.outp 
+20:02:07 :xls.Status:下载数据防ban间隔...2000ms 
+20:02:09 :xls.Status:下载题目数据:T30-2.outp 
+20:02:09 :xls.Status:下载数据防ban间隔...2000ms 
+20:02:11 :xls.Status:下载题目数据:T30-3.outp 
+20:02:11 :xls.Status:下载数据防ban间隔...2000ms 
+20:02:13 :xls.Status:[5/34]LQ848191(17623877493)  钟帆不可继续获取数据:T30-outp4 
+20:02:14 :xls.Status:RunNextUser,Num:1 
+20:02:14 :xls.Status:加载[6/34](17623476609)   
+20:02:14 :xls.Status:加载题库:[6/34](17623476609)   
+20:02:14 :xls.Status:加载目录失败,未登录[6/34](17623476609)  ,cookies:JSESSIONID=12304A78AFE1D92C850D11A5E08ABD78;_SESSIONKEY=459TTRWP99R1247U437Q;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:43 GMT;_TOKEN=EDF1AB21A803815CDBB2406480958D7AA4DF45562D68D929177F9B6916C9A6053D561854CED6AFC10D112D89E4F818A47059679C088B0428572B1F33AFE426FC094ED060CF30ACC8E8A6FAF2FF724DB6 
+20:02:14 :xls.Status:登陆到账号:17623476609,userId:579282679620,cookies:JSESSIONID=12304A78AFE1D92C850D11A5E08ABD78;_SESSIONKEY=459TTRWP99R1247U437Q;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:43 GMT;_TOKEN=EDF1AB21A803815CDBB2406480958D7AA4DF45562D68D929177F9B6916C9A6053D561854CED6AFC10D112D89E4F818A47059679C088B0428572B1F33AFE426FC094ED060CF30ACC8E8A6FAF2FF724DB6 
+20:02:14 :xls.Status:GetVerUser:17623476609 
+20:02:52 :xls.Status:验证码:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+20:02:52 :xls.Status:JSESSIONID=E3C86C6BC2DC655328DC25FCE8066BCF;_SESSIONKEY=459TTRWP99R1247U437Q;Domain=lanqiao.cn;Expires=Sun, 11-Feb-2018 12:02:51 GMT;_TOKEN=EDF1AB21A803815CDBB2406480958D7AA4DF45562D68D929177F9B6916C9A6058013C19026B4A9966B1D745A831D8537100560485B5769C65BF8437A3AA8F0279945BD4680A79FE8BA51DD63F84B778C 
+20:02:52 :xls.Status:欢迎您,[6/34]LQ846304(17623476609)   
+20:02:52 :xls.Status:登录成功:[6/34]LQ846304(17623476609)  吕得超 
+20:02:52 :xls.Status:加载[6/34]LQ846304(17623476609)  吕得超 
+20:02:52 :xls.Status:加载题库:[6/34]LQ846304(17623476609)  吕得超 
+20:02:53 :xls.Status:[6/34]LQ846304(17623476609)  吕得超加载题目集数量:5 
+20:02:54 :xls.Status:[6/34]LQ846304(17623476609)  吕得超.习题已全部加载完成  UA/AC/All=7/0/483 
+20:02:54 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:54 :xls.Status:下载题目:T4 的测试数据 
+20:02:54 :xls.Status:DownloadAllFile:[6/34]LQ846304(17623476609)  吕得超[T4]Fibonacci数列:2038006,共计10组测试数据 
+20:02:54 :xls.Status:生成代码:T4,总测试数据(10) 
+20:02:54 :xls.Status:完成1/476-生成代码,[T4]Fibonacci数列 
+20:02:54 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:54 :xls.Status:完成2/476-已跳过,[T3]圆的面积 
+20:02:54 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:54 :xls.Status:完成3/476-已跳过,[T2]序列求和 
+20:02:54 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:54 :xls.Status:完成4/476-已跳过,[T1]A+B问题 
+20:02:54 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:54 :xls.Status:下载题目:T52 的测试数据 
+20:02:54 :xls.Status:DownloadAllFile:[6/34]LQ846304(17623476609)  吕得超[T52]数列排序:2038072,共计7组测试数据 
+20:02:54 :xls.Status:下载题目数据:T52-1.inp 
+20:02:54 :xls.Status:下载数据防ban间隔...2000ms 
+20:02:54 :xls.Status:[6/34]LQ846304(17623476609)  吕得超下载测试数据:{"info":"未授权。","ret":"0"} 
+20:02:54 :xls.Status:[6/34]LQ846304(17623476609)  吕得超2038072授权码已过期,等待重新获取.T52 
+20:02:54 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:54 :xls.Status:完成6/476-已跳过,[T7]字母图形 
+20:02:54 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:54 :xls.Status:完成7/476-已跳过,[T6]01字串 
+20:02:54 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:54 :xls.Status:完成8/476-已跳过,[T5]闰年判断 
+20:02:54 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:54 :xls.Status:完成9/476-已跳过,[T71]阶乘计算 
+20:02:54 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:54 :xls.Status:完成10/476-已跳过,[T70]高精度加法 
+20:02:54 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:55 :xls.Status:完成11/476-已跳过,[T69]Huffuman树 
+20:02:55 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:55 :xls.Status:完成12/476-已跳过,[T68]2n皇后问题 
+20:02:55 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:55 :xls.Status:完成13/476-已跳过,[T67]报时助手 
+20:02:55 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:55 :xls.Status:完成14/476-已跳过,[T66]回形取数 
+20:02:55 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:55 :xls.Status:完成15/476-已跳过,[T65]龟兔赛跑预测 
+20:02:55 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:55 :xls.Status:下载题目:T50 的测试数据 
+20:02:55 :xls.Status:DownloadAllFile:[6/34]LQ846304(17623476609)  吕得超[T50]十六进制转十进制:2042937,共计4组测试数据 
+20:02:55 :xls.Status:生成代码:T50,总测试数据(4) 
+20:02:55 :xls.Status:完成16/476-生成代码,[T50]十六进制转十进制 
+20:02:55 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:02:55 :xls.Status:下载题目:T64 的测试数据 
+20:02:55 :xls.Status:[6/34]LQ846304(17623476609)  吕得超[T64]芯片测试:{"itemid":"2070768","msg":"提交成功。","ret":"1"} 
+20:02:55 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:03:00 :xls.Status:下载题目数据:T52-2.inp 
+20:03:00 :xls.Status:下载数据防ban间隔...2000ms 
+20:03:00 :xls.Status:[6/34]LQ846304(17623476609)  吕得超下载测试数据:{"info":"未授权。","ret":"0"} 
+20:03:00 :xls.Status:[6/34]LQ846304(17623476609)  吕得超2038072授权码已过期,等待重新获取.T52 
+20:03:00 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:03:00 :xls.Status:下载题目:T63 的测试数据 
+20:03:00 :xls.Status:DownloadAllFile:[6/34]LQ846304(17623476609)  吕得超[T64]芯片测试:2070768,共计5组测试数据 
+20:03:00 :xls.Status:下载题目数据:T64-5.inp 
+20:03:00 :xls.Status:下载数据防ban间隔...2000ms 
+20:03:00 :xls.Status:[6/34]LQ846304(17623476609)  吕得超[T63]FJ的字符串:{"itemid":"2070770","msg":"提交成功。","ret":"1"} 
+20:03:00 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:03:05 :xls.Status:下载题目数据:T64-1.outp 
+20:03:05 :xls.Status:下载数据防ban间隔...2000ms 
+20:03:05 :xls.Status:DownloadAllFile:[6/34]LQ846304(17623476609)  吕得超[T63]FJ的字符串:2070770,共计3组测试数据 
+20:03:05 :xls.Status:生成代码:T63,总测试数据(3) 
+20:03:05 :xls.Status:完成18/476-生成代码,[T63]FJ的字符串 
+20:03:05 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:03:05 :xls.Status:下载题目:T62 的测试数据 
+20:03:05 :xls.Status:DownloadAllFile:[6/34]LQ846304(17623476609)  吕得超[T62]Sine之舞:2042939,共计1组测试数据 
+20:03:05 :xls.Status:生成代码:T62,总测试数据(1) 
+20:03:05 :xls.Status:完成19/476-生成代码,[T62]Sine之舞 
+20:03:05 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:03:05 :xls.Status:下载题目:T61 的测试数据 
+20:03:05 :xls.Status:[6/34]LQ846304(17623476609)  吕得超[T61]数的读法:{"itemid":"2070771","msg":"提交成功。","ret":"1"} 
+20:03:05 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:03:10 :xls.Status:下载题目数据:T64-2.outp 
+20:03:10 :xls.Status:下载数据防ban间隔...2000ms 
+20:03:10 :xls.Status:DownloadAllFile:[6/34]LQ846304(17623476609)  吕得超[T61]数的读法:2070771,共计7组测试数据 
+20:03:10 :xls.Status:生成代码:T61,总测试数据(7) 
+20:03:10 :xls.Status:完成20/476-生成代码,[T61]数的读法 
+20:03:10 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:03:10 :xls.Status:下载题目:T60 的测试数据 
+20:03:10 :xls.Status:DownloadAllFile:[6/34]LQ846304(17623476609)  吕得超[T60]完美的代价:2042940,共计10组测试数据 
+20:03:10 :xls.Status:生成代码:T60,总测试数据(10) 
+20:03:10 :xls.Status:完成21/476-生成代码,[T60]完美的代价 
+20:03:10 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:03:10 :xls.Status:下载题目:T59 的测试数据 
+20:03:10 :xls.Status:DownloadAllFile:[6/34]LQ846304(17623476609)  吕得超[T59]矩形面积交:2042941,共计7组测试数据 
+20:03:10 :xls.Status:生成代码:T59,总测试数据(7) 
+20:03:11 :xls.Status:完成22/476-生成代码,[T59]矩形面积交 
+20:03:11 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:03:11 :xls.Status:下载题目:T58 的测试数据 
+20:03:11 :xls.Status:[6/34]LQ846304(17623476609)  吕得超[T58]矩阵乘法:{"itemid":"2070773","msg":"提交成功。","ret":"1"} 
+20:03:11 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:03:16 :xls.Status:下载题目数据:T64-3.outp 
+20:03:16 :xls.Status:下载数据防ban间隔...2000ms 
+20:03:16 :xls.Status:DownloadAllFile:[6/34]LQ846304(17623476609)  吕得超[T58]矩阵乘法:2070773,共计6组测试数据 
+20:03:16 :xls.Status:生成代码:T58,总测试数据(6) 
+20:03:16 :xls.Status:完成23/476-生成代码,[T58]矩阵乘法 
+20:03:16 :xls.Status:-----------[6/34]LQ846304(17623476609)  吕得超开始运行 
+20:03:16 :xls.Status:下载题目:T57 的测试数据 
+20:03:16 :xls.Status:[6/34]LQ846304(17623476609)  吕得超[T57]分解质因数:{"itemid":"2070774","msg":"提交成功。","ret":"1"} 
+20:03:16 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:03:21 :xls.Status:下载题目数据:T64-4.outp 
+20:03:21 :xls.Status:下载数据防ban间隔...2000ms 
+20:03:21 :xls.Status:DownloadAllFile:[6/34]LQ846304(17623476609)  吕得超[T57]分解质因数:2070774,共计10组测试数据 
+20:03:21 :xls.Status:下载题目数据:T57-1.outp 
+20:03:21 :xls.Status:下载数据防ban间隔...2000ms 
+20:03:23 :xls.Status:下载题目数据:T57-2.outp 
+20:03:23 :xls.Status:下载数据防ban间隔...2000ms 
+20:03:25 :xls.Status:下载题目数据:T57-3.outp 
+20:03:25 :xls.Status:下载数据防ban间隔...2000ms 
+20:03:27 :xls.Status:[6/34]LQ846304(17623476609)  吕得超不可继续获取数据:T57-outp4 
+20:03:27 :xls.Status:[6/34]LQ846304(17623476609)  吕得超不可继续获取数据:T64-outp5 
+20:03:27 :xls.Status:[6/34]LQ846304(17623476609)  吕得超不可继续获取数据:T52-inp3 
+20:03:28 :xls.Status:RunNextUser,Num:-1 
+20:03:28 :xls.Status:加载[7/34](15730361457)   
+20:03:28 :xls.Status:加载题库:[7/34](15730361457)   
+20:03:28 :xls.Status:RunNextUser,Num:0 
+20:03:28 :xls.Status:加载[8/34](15730363368)   
+20:03:28 :xls.Status:加载题库:[8/34](15730363368)   
+20:03:28 :xls.Status:RunNextUser,Num:1 
+20:03:28 :xls.Status:加载[9/34](17360254616)   
+20:03:28 :xls.Status:加载题库:[9/34](17360254616)   
+20:03:28 :xls.Status:加载目录失败,未登录[7/34](15730361457)  ,cookies:JSESSIONID=55B1E56C24A2DB951276DD1E7C1908D0;_SESSIONKEY=VEHZKUWW6XP2485646GO;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:24 GMT;_TOKEN=711A4F9FA0DBF33AFD9E63D0FAE7388D35FE1173BBF5E3870387AEF777C9B4B3284A708E2AA294FA0E02763B135251FD286F67D081DEA59FE8052A8F0F7A22F49945BD4680A79FE8BA51DD63F84B778C 
+20:03:28 :xls.Status:登陆到账号:15730361457,userId:579282697794,cookies:JSESSIONID=55B1E56C24A2DB951276DD1E7C1908D0;_SESSIONKEY=VEHZKUWW6XP2485646GO;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:24 GMT;_TOKEN=711A4F9FA0DBF33AFD9E63D0FAE7388D35FE1173BBF5E3870387AEF777C9B4B3284A708E2AA294FA0E02763B135251FD286F67D081DEA59FE8052A8F0F7A22F49945BD4680A79FE8BA51DD63F84B778C 
+20:03:28 :xls.Status:加载目录失败,未登录[8/34](15730363368)  ,cookies:JSESSIONID=F039F51657EFFE3F6F70496D56624DF3;_SESSIONKEY=26AHNKCM7987YU3147WG;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:41 GMT;_TOKEN=CED576E81FEBE2AE705E64B1BC427D535671F0F0FC16ACD5CE029C18F09A639857B815ACA90E00A29423217802FF74B16362472CEB922EFAF5806EA78AF825E31DEFBFCA240FEB23AF8B723445C4BCB2 
+20:03:28 :xls.Status:登陆到账号:15730363368,userId:579282697814,cookies:JSESSIONID=F039F51657EFFE3F6F70496D56624DF3;_SESSIONKEY=26AHNKCM7987YU3147WG;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:41 GMT;_TOKEN=CED576E81FEBE2AE705E64B1BC427D535671F0F0FC16ACD5CE029C18F09A639857B815ACA90E00A29423217802FF74B16362472CEB922EFAF5806EA78AF825E31DEFBFCA240FEB23AF8B723445C4BCB2 
+20:03:28 :xls.Status:加载目录失败,未登录[9/34](17360254616)  ,cookies:JSESSIONID=99BDA501FAE22A7E3C401BCAAE4D7877;_SESSIONKEY=3TP0ND8T9W918RJ4A029;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:08 GMT;_TOKEN=4C731AB331C70EF3A23B6BA7860DF12FD096A09C52611D2F49B70D67C52D819EFFBF082941DB6F5FDDE31224A1A2934B08CEF8B9EDB8614AE4B9F7A55F1D373830AD15BA79DAAB833CA3F8A107002C82 
+20:03:28 :xls.Status:登陆到账号:17360254616,userId:579282697884,cookies:JSESSIONID=99BDA501FAE22A7E3C401BCAAE4D7877;_SESSIONKEY=3TP0ND8T9W918RJ4A029;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:08 GMT;_TOKEN=4C731AB331C70EF3A23B6BA7860DF12FD096A09C52611D2F49B70D67C52D819EFFBF082941DB6F5FDDE31224A1A2934B08CEF8B9EDB8614AE4B9F7A55F1D373830AD15BA79DAAB833CA3F8A107002C82 
+20:03:28 :xls.Status:GetVerUser:15730361457 
+20:03:28 :xls.Status:GetVerUser:15730363368 
+20:03:28 :xls.Status:GetVerUser:17360254616 
+20:04:36 :xls.Status:验证码:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+20:04:36 :xls.Status:JSESSIONID=E76D9EDA733377A9C7E2BCFA3B1AB5DD;_SESSIONKEY=3TP0ND8T9W918RJ4A029;Domain=lanqiao.cn;Expires=Sun, 11-Feb-2018 12:04:35 GMT;_TOKEN=4C731AB331C70EF3A23B6BA7860DF12FD096A09C52611D2F49B70D67C52D819E8A0791438403556DDA19088493E69BE4E308F2E3C3245706A3319C6AFF1267419945BD4680A79FE8BA51DD63F84B778C 
+20:04:36 :xls.Status:欢迎您,[9/34]LQ848188(17360254616)   
+20:04:37 :xls.Status:登录成功:[9/34]LQ848188(17360254616)  王朝 
+20:04:37 :xls.Status:加载[9/34]LQ848188(17360254616)  王朝 
+20:04:37 :xls.Status:加载题库:[9/34]LQ848188(17360254616)  王朝 
+20:04:37 :xls.Status:[9/34]LQ848188(17360254616)  王朝加载题目集数量:5 
+20:04:38 :xls.Status:[9/34]LQ848188(17360254616)  王朝.习题已全部加载完成  UA/AC/All=7/15/483 
+20:04:38 :xls.Status:-----------[9/34]LQ848188(17360254616)  王朝开始运行 
+20:04:38 :xls.Status:下载题目:T52 的测试数据 
+20:04:38 :xls.Status:DownloadAllFile:[9/34]LQ848188(17360254616)  王朝[T52]数列排序:2038014,共计7组测试数据 
+20:04:38 :xls.Status:下载题目数据:T52-1.inp 
+20:04:38 :xls.Status:下载数据防ban间隔...2000ms 
+20:04:38 :xls.Status:[9/34]LQ848188(17360254616)  王朝下载测试数据:{"info":"未授权。","ret":"0"} 
+20:04:38 :xls.Status:[9/34]LQ848188(17360254616)  王朝2038014授权码已过期,等待重新获取.T52 
+20:04:38 :xls.Status:-----------[9/34]LQ848188(17360254616)  王朝开始运行 
+20:04:38 :xls.Status:完成2/461-已跳过,[T71]阶乘计算 
+20:04:38 :xls.Status:-----------[9/34]LQ848188(17360254616)  王朝开始运行 
+20:04:38 :xls.Status:完成3/461-已跳过,[T70]高精度加法 
+20:04:38 :xls.Status:-----------[9/34]LQ848188(17360254616)  王朝开始运行 
+20:04:38 :xls.Status:完成4/461-已跳过,[T69]Huffuman树 
+20:04:38 :xls.Status:-----------[9/34]LQ848188(17360254616)  王朝开始运行 
+20:04:38 :xls.Status:完成5/461-已跳过,[T68]2n皇后问题 
+20:04:38 :xls.Status:-----------[9/34]LQ848188(17360254616)  王朝开始运行 
+20:04:38 :xls.Status:完成6/461-已跳过,[T67]报时助手 
+20:04:38 :xls.Status:-----------[9/34]LQ848188(17360254616)  王朝开始运行 
+20:04:38 :xls.Status:完成7/461-已跳过,[T66]回形取数 
+20:04:38 :xls.Status:-----------[9/34]LQ848188(17360254616)  王朝开始运行 
+20:04:38 :xls.Status:完成8/461-已跳过,[T65]龟兔赛跑预测 
+20:04:38 :xls.Status:-----------[9/34]LQ848188(17360254616)  王朝开始运行 
+20:04:38 :xls.Status:下载题目:T50 的测试数据 
+20:04:39 :xls.Status:登录请求被取消 
+20:04:39 :xls.Status:[9/34]LQ848188(17360254616)  王朝[T50]十六进制转十进制:{"itemid":"2070780","msg":"提交成功。","ret":"1"} 
+20:04:39 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+20:04:40 :xls.Status:登录请求被取消 
+20:04:44 :xls.Status:下载题目数据:T52-2.inp 
+20:04:44 :xls.Status:下载数据防ban间隔...2000ms 
+20:04:46 :xls.Status:下载题目数据:T52-3.inp 
+20:04:46 :xls.Status:下载数据防ban间隔...2000ms 
+20:04:48 :xls.Status:下载题目数据:T52-4.inp 
+20:04:48 :xls.Status:下载数据防ban间隔...2000ms 
+20:04:50 :xls.Status:下载题目数据:T52-5.inp 
+20:04:50 :xls.Status:下载数据防ban间隔...2000ms 
+20:04:52 :xls.Status:下载题目数据:T52-6.inp 
+20:04:52 :xls.Status:下载数据防ban间隔...2000ms 
+20:04:54 :xls.Status:下载题目数据:T52-7.inp 
+20:04:54 :xls.Status:下载数据防ban间隔...2000ms 
+20:04:56 :xls.Status:下载题目数据:T52-1.outp 
+20:04:56 :xls.Status:下载数据防ban间隔...2000ms 
+20:04:58 :xls.Status:下载题目数据:T52-2.outp 
+20:04:58 :xls.Status:下载数据防ban间隔...2000ms 
+20:05:00 :xls.Status:下载题目数据:T52-3.outp 
+20:05:00 :xls.Status:下载数据防ban间隔...2000ms 
+20:05:02 :xls.Status:[9/34]LQ848188(17360254616)  王朝不可继续获取数据:T52-outp4 
+20:05:03 :xls.Status:RunNextUser,Num:1 
+20:05:03 :xls.Status:加载[10/34](15827021295)   
+20:05:03 :xls.Status:加载题库:[10/34](15827021295)   
+20:05:28 :xls.Status:加载目录失败,未登录[10/34](15827021295)  ,cookies:JSESSIONID=60CAADE817F49FFAD2ECF319337D681D;_SESSIONKEY=ZCB3HGCF37RTN62L9O98;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:17 GMT;_TOKEN=C3C03382083CED756974E157FA2140B1FDBB85D6A29DC8EEA212AA1F2320E9938ECC96A54267AEB8BD2151B7FE32278F8218724D1D6B7681DE304066EB08E8225F69022E7A01EAAD00F2045BF3F6FBFA 
+20:05:28 :xls.Status:登陆到账号:15827021295,userId:579282680737,cookies:JSESSIONID=60CAADE817F49FFAD2ECF319337D681D;_SESSIONKEY=ZCB3HGCF37RTN62L9O98;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:17 GMT;_TOKEN=C3C03382083CED756974E157FA2140B1FDBB85D6A29DC8EEA212AA1F2320E9938ECC96A54267AEB8BD2151B7FE32278F8218724D1D6B7681DE304066EB08E8225F69022E7A01EAAD00F2045BF3F6FBFA 
+20:05:28 :xls.Status:GetVerUser:15827021295 
+20:05:32 :xls.Status:验证码:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+20:05:32 :xls.Status:JSESSIONID=7682344E1796FC9AB748201D224C04E8;_SESSIONKEY=ZCB3HGCF37RTN62L9O98;Domain=lanqiao.cn;Expires=Sun, 11-Feb-2018 12:05:31 GMT;_TOKEN=C3C03382083CED756974E157FA2140B1FDBB85D6A29DC8EEA212AA1F2320E9932A3DDB7B6405CFA2AA2CA365FA23D322241E02EE22E1C2336E6A001DEBEE492984E72A21B7178098067A93DA1937A049 
+20:05:33 :xls.Status:欢迎您,[10/34]LQ846451(15827021295)   
+20:05:59 :xls.Status:加载[7/34](15730361457)   
+20:05:59 :xls.Status:加载题库:[7/34](15730361457)   

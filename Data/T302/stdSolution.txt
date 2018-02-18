@@ -1,0 +1,17 @@
+
+#include<iostream>
+#include<cmath>
+
+int main() 
+{
+	using namespace std;
+	int n = 0, m = 0;
+	cin >> n >> m;
+	int answer =0;
+	answer = pow(n, n+1) - (n-1)*m;
+	cout << answer << endl;
+	return 0;
+}
+
+
+

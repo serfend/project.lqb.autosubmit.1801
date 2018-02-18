@@ -1,0 +1,80 @@
+
+/*
+思路： 
+原数组，比较数组用来排序 ，然后比较
+坑爹？  测试数据输出字符串要按字典序输出？ 
+*/
+#include <iostream>
+#include <string.h>
+#include <algorithm>
+#include <cstdio>
+#include <math.h>
+using namespace std;
+string s1,s2;
+string ss[1000];
+string compare[1000];
+string re[1000];
+bool less_lower(char c1, char c2)
+{
+     return c1<c2;
+}
+int main(){    
+    int i;
+    int len,now;
+    string tmp;
+    while(getline(cin,s1)&&getline(cin,s2)){
+    	len=0;
+    	now=0;
+    	 tmp="";
+    	 for(int i=0;s1[i]!='\0';i++){
+    	 	if(s1[i]==' '){
+    	 		ss[len]=tmp;  	 	
+    	 		sort(tmp.begin(),tmp.end(),less_lower);   
+				compare[len++]=tmp;
+   	 	       	tmp="";
+   	 	      // 	cout<<ss[len-1]<<"       "<<compare[len-1]<<endl;
+			 }
+			 else
+			 {
+			 	tmp+=s1[i];
+			 }
+		 }
+		 
+		 if(tmp!="")
+		   {
+		   	ss[len]=tmp;  	 	
+    	 	sort(tmp.begin(),tmp.end(),less_lower);   
+			compare[len++]=tmp;
+		   }
+		   
+		   tmp="";
+		    for(int i=0;s2[i]!='\0';i++){
+    	 	if(s2[i]==' '){
+    	 		sort(tmp.begin(),tmp.end(),less_lower);  
+			//	 cout<<tmp<<endl; 
+				 for(int j=0;j<len;j++)
+				 	if(compare[j]==tmp)
+				 	   re[now++]=ss[j];			 	 
+				  		
+    	 		tmp="";
+			 }
+			 else			 
+			 	tmp+=s2[i];	
+		 }
+		 
+		 if(tmp!=""){
+		 	sort(tmp.begin(),tmp.end(),less_lower);   
+			      for(int j=0;j<len;j++)
+				 	if(compare[j]==tmp)
+				 	  re[now++]=ss[j];	
+		 }
+		 
+		 sort(re,re+now);
+		 for(i=0;i<now;i++)
+		   cout<<re[i]<<" ";
+		 cout<<endl;
+	}	
+	return 0;
+}
+
+

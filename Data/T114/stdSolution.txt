@@ -1,0 +1,68 @@
+
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <cstring>
+using namespace std;
+
+int fa[10005];
+struct Edge
+{
+    int x,y;
+    int t;
+    friend bool operator <(Edge e1,Edge e2)
+    {
+        return e1.t>e2.t;
+    }
+}e[100005];
+int vis[100005];
+
+int findfa(int x)
+{
+    if (fa[x]==x) return x;
+    else return fa[x]=findfa(fa[x]);
+}
+
+int merges(int a,int b)
+{
+    if (findfa(a)!=findfa(b)){
+        fa[findfa(a)]=findfa(b);
+        return 1;
+    }
+    else return 0;
+}
+
+int main()
+{
+    memset(vis,0,sizeof(vis));
+    ios::sync_with_stdio(false);
+    int n,m;
+    cin >>n>>m;
+    for (int i=1;i<=n;i++)
+    {
+        fa[i]=i;
+    }
+    int a,b,c;
+    for (int i=0;i<m;i++)
+    {
+        cin >>a>>b>>c;
+        e[i].x=a;e[i].y=b;e[i].t=c;
+    }
+    sort(e,e+m);
+    for (int i=0;i<m;i++)
+    {
+        //cout <<endl;
+        //cout <<e[i].x<<" "<<e[i].y<<" "<<e[i].t<<" "<<fa[e[i].x]<<" "<<fa[e[i].y]<<endl;
+        int flag=merges(e[i].x,e[i].y);
+        //cout <<flag<<endl;
+        if (!vis[e[i].t]) vis[e[i].t]=flag;
+    }
+    int ans=0;
+    for (int i=1;i<=100000;i++)
+    {
+        ans+=vis[i];
+    }
+    cout <<ans<<endl;
+}
+
+

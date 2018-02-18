@@ -1,0 +1,52 @@
+
+#include <iostream>
+
+using namespace std;
+
+void fun(int m, int n, int temp, int &count);
+
+int main(void)
+{
+	int m, n, count;
+
+	while (scanf("%d %d", &m, &n) == 2)
+	{
+		count = 0;
+		fun(m, n, 0, count);
+		printf("%d\n", count);
+	}
+
+
+	return 0;
+}
+
+void fun(int m, int n, int temp, int &count)
+{
+	if (!(m || n))
+	{
+		count++;
+	}
+	else
+	{
+		if (temp)
+		{
+			if (m >= 1)
+			{
+				fun(m-1, n, temp+1, count);
+			}
+
+			if (n >= 1)
+			{
+				fun(m, n-1, temp-1, count);
+			}
+		}
+		else
+		{
+			if (m >= 1)
+			{
+				fun(m-1, n, temp+1, count);
+			}
+		}
+	}
+}
+

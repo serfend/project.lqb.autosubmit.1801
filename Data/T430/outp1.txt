@@ -1,0 +1,6 @@
+Apartment Complex: 1
+Apartment 201: 05:37:00 - 18:17:00
+Apartment 801: 05:37:00 - 18:17:00
+Apartment 801: 05:37:00 - 18:17:00
+Apartment 901: 05:37:00 - 18:17:00
+Apartment 530: Does not exist

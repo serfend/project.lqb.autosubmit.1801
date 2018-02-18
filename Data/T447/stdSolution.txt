@@ -1,0 +1,121 @@
+
+#include <stdio.h>  
+#include <string.h>  
+void StartGame(char *HandCardA, char *HandCardB, char *TableCard);  
+int CheckCard(char TableCard[]);  
+void GetCard(char *GettedString, int keyStay, char *TableCard);  
+int EndGame(char EndString[]);  
+void GetCardRealHand(char *ChangedString);  
+int NumberCard;  
+int main()  
+{  
+    char HandCardA[30]; //A手中的牌  
+    char HandCardB[30]; //B手中的牌  
+    char TableCard[60] = {'\0'};    //桌面上的牌  
+  
+    gets(HandCardA);    //获取A的手牌  
+    gets(HandCardB);    //获取B的手牌  
+  
+    NumberCard = strlen(HandCardA) + strlen(HandCardB); //获取总牌数（作为一种程序结束条件）  
+  
+    StartGame(HandCardA, HandCardB, TableCard); //Strat Game  
+}  
+  
+void StartGame(char *HandCardA, char *HandCardB, char *TableCard)  
+{  
+    int HandSortOrder = 0;  //用于判断出牌顺序  
+    while(1)  
+    {  
+        if (HandSortOrder % 2 == 0) // turn:A   (:first)  
+        {  
+            strncat(TableCard, HandCardA, 1);  
+            GetCardRealHand(HandCardA);  
+            HandSortOrder += 1;  
+            if (CheckCard(TableCard) >= 0)  
+            {  
+                GetCard(HandCardA, CheckCard(TableCard), TableCard);  
+                HandSortOrder += 1;  
+            }  
+            if (EndGame(HandCardA) == 1)  
+            {  
+                puts(HandCardA);  
+                break;  
+            }  
+            else if (EndGame(HandCardA) == 2)  
+            {  
+                puts(HandCardB);  
+                break;  
+            }  
+              
+        }  
+        else // turn B  
+        {  
+            strncat(TableCard, HandCardB, 1);  
+            GetCardRealHand(HandCardB);  
+            HandSortOrder += 1;  
+            if (CheckCard(TableCard) >= 0)  
+            {  
+                GetCard(HandCardB, CheckCard(TableCard), TableCard);  
+                HandSortOrder += 1;  
+            }  
+            if (EndGame(HandCardB) == 1)  
+            {  
+                puts(HandCardB);  
+                break;  
+            }  
+            else if (EndGame(HandCardB) == 2)  
+            {  
+                puts(HandCardA);  
+                break;  
+            }  
+        }  
+    }  
+}  
+  
+int CheckCard(char TableCard[])     //查询是否有与之前相同的牌，并返回牌的下表  
+{  
+    int LenTableCard = strlen(TableCard), i;  
+    for (i = 0; i < LenTableCard - 1; i++)  
+    {  
+        if (TableCard[LenTableCard - 1] == TableCard[i])  
+        {  
+            return i;  
+        }  
+    }  
+    return -1;  
+}  
+  
+void GetCard(char *GettedString, int keyStay, char *TableCard)  //从桌面上获取牌  
+{  
+    int LenTableCard = strlen(TableCard), i;  
+    //strncat(GettedString, TableCard + keyStay, LenTableCard - keyStay);  
+    for (i = LenTableCard - 1; i >= keyStay; i--)  
+    {  
+        strncat(GettedString, TableCard + i, 1);  
+    }  
+    TableCard[keyStay] = '\0';  
+}  
+  
+int EndGame(char EndString[])   //是否达到结束游戏的条件（1.全部牌集中在一个人手中 2.一人没有手牌）  
+{  
+    if (strlen(EndString) == NumberCard)  
+    {  
+        return 1;  
+    }  
+    if (strlen(EndString) == 0)  
+    {  
+        return 2;  
+    }  
+    return 0;  
+}  
+  
+void GetCardRealHand(char *ChangedString)   //每个人出牌后的手牌 PS:我没找到C语言中没有相关剪切的库函数调用，所以需要复制后，自己删除  
+{  
+    int LenChangeString = strlen(ChangedString), i;  
+    for (i = 0; i < LenChangeString - 1; i++)  
+    {  
+        ChangedString[i] = ChangedString[i + 1];  
+    }  
+    ChangedString[LenChangeString - 1] = '\0';  
+}  
+

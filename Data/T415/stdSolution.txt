@@ -1,0 +1,80 @@
+
+#include <iostream>
+#include <math.h>
+#include <iomanip>
+using namespace std;
+
+struct Spot
+{
+	double x;
+	double y;
+};
+ class Triangle
+{
+	private :
+	double la;
+	double lb;
+	double lc; 
+	public :
+	Triangle(struct Spot,struct Spot,struct Spot);
+	double S();
+	struct Spot G(struct Spot a,struct Spot b,struct Spot c);
+	struct Spot Q(struct Spot a,struct Spot b,struct Spot c);
+	double p;
+};
+
+Triangle::Triangle(struct Spot a,struct Spot b,struct Spot c)
+{
+	la=sqrt(pow(a.x-b.x,2)+pow(a.y-b.y,2));
+	lb=sqrt(pow(a.x-c.x,2)+pow(a.y-c.y,2));
+	lc=sqrt(pow(b.x-c.x,2)+pow(b.y-c.y,2));
+	p=(la+lb+lc)/2;
+}
+
+double Triangle::S()
+{
+	return sqrt(p*(p-la)*(p-lb)*(p-lc));
+}
+
+struct Spot Triangle::G(struct Spot a,struct Spot b,struct Spot c)
+{
+	struct Spot g;
+	g.x=(a.x+b.x+c.x)/3;
+	g.y=(a.y+b.y+c.y)/3;
+	return g;
+}
+struct Spot Triangle::Q(struct Spot a,struct Spot b,struct Spot c)
+{
+	double A1,B1,C1;
+	double A2,B2,C2;
+	struct Spot q;
+	A1=2*(b.x-a.x);
+	B1=2*(b.y-a.y);
+	C1=pow(b.x,2)+pow(b.y,2)-pow(a.x,2)-pow(a.y,2);
+	
+	A2=2*(c.x-b.x);
+	B2=2*(c.y-b.y);
+	C2=pow(c.x,2)+pow(c.y,2)-pow(b.x,2)-pow(b.y,2);
+	q.x=((C1*B2)-(C2*B1))/((A1*B2)-(A2*B1));
+	q.y=((A1*C2)-(A2*C1))/((A1*B2)-(A2*B1));
+	return q;
+}
+int main()
+{
+	struct Spot a,b,c,g,q;
+	cin>>a.x;
+	cin>>a.y;
+	cin>>b.x;
+	cin>>b.y;
+	cin>>c.x;
+	cin>>c.y;
+	Triangle T(a,b,c);
+	g=T.G(a,b,c);
+	q=T.Q(a,b,c);
+	cout<<setprecision(2)<<std::fixed<<T.p*2<<endl;
+	cout <<setprecision(2) <<std::fixed <<T.S()<<endl;
+	cout<<setprecision(2)<<std::fixed<<q.x<<" "<<q.y<<endl;
+	cout<<setprecision(2)<<std::fixed<<g.x<<" "<<g.y<<endl;
+	return 0;
+}
+

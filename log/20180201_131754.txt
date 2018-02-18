@@ -1,0 +1,243 @@
+13:17:54 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=89A682386C2D1B7287229F2EEAC1CC12;_SESSIONKEY=F7C0AL4ZLR650W2MY23M; 
+13:17:54 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:17:54 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies: 
+13:17:56 :xls.Status:获取到题目集数量:10 
+13:17:57 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+13:17:57 :xls.Status:生成代码:T125,总测试数据(3) 
+13:17:57 :xls.Status:完成题目:T125 
+13:17:57 :xls.Status:生成代码:T116,总测试数据(10) 
+13:17:57 :xls.Status:完成题目:T116 
+13:17:57 :xls.Status:生成代码:T115,总测试数据(6) 
+13:17:57 :xls.Status:完成题目:T115 
+13:17:57 :xls.Status:生成代码:T114,总测试数据(10) 
+13:18:00 :xls.Status:完成题目:T114 
+13:18:00 :xls.Status:生成代码:T113,总测试数据(5) 
+13:18:00 :xls.Status:完成题目:T113 
+13:18:00 :xls.Status:切换并登陆到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:18:00 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:18:00 :xls.Status:切换并登陆到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=89A682386C2D1B7287229F2EEAC1CC12;_SESSIONKEY=F7C0AL4ZLR650W2MY23M; 
+13:18:00 :xls.Status:切换并登陆到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:18:00 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:18:00 :xls.Status:未登录15808081216 
+13:18:00 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:20:48 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=89A682386C2D1B7287229F2EEAC1CC12;_SESSIONKEY=F7C0AL4ZLR650W2MY23M; 
+13:20:48 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:20:48 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies: 
+13:20:50 :xls.Status:获取到题目集数量:10 
+13:20:50 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+13:20:50 :xls.Status:生成代码:T125,总测试数据(3) 
+13:20:50 :xls.Status:完成题目:T125 
+13:20:50 :xls.Status:生成代码:T116,总测试数据(10) 
+13:20:50 :xls.Status:完成题目:T116 
+13:20:50 :xls.Status:生成代码:T115,总测试数据(6) 
+13:20:51 :xls.Status:完成题目:T115 
+13:20:51 :xls.Status:生成代码:T114,总测试数据(10) 
+13:20:53 :xls.Status:完成题目:T114 
+13:20:53 :xls.Status:生成代码:T113,总测试数据(5) 
+13:20:53 :xls.Status:完成题目:T113 
+13:20:53 :xls.Status:切换并登陆到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:20:53 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:20:53 :xls.Status:切换并登陆到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=89A682386C2D1B7287229F2EEAC1CC12;_SESSIONKEY=F7C0AL4ZLR650W2MY23M; 
+13:20:53 :xls.Status:切换并登陆到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:20:54 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:20:54 :xls.Status:未登录15808081216 
+13:20:54 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:20:54 :xls.Status:获取到题目集数量:10 
+13:20:54 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+13:20:54 :xls.Status:未登录15808081216 
+13:20:54 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:20:54 :xls.Status:获取到题目集数量:10 
+13:20:54 :xls.Status:获取到题目集数量:10 
+13:20:54 :xls.Status:{"msg":"未登录。","ret":"0"} 
+13:20:54 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+13:20:54 :xls.Status:{"msg":"未登录。","ret":"0"} 
+13:26:22 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=89A682386C2D1B7287229F2EEAC1CC12;_SESSIONKEY=F7C0AL4ZLR650W2MY23M; 
+13:26:22 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:26:22 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies: 
+13:26:25 :xls.Status:获取到题目集数量:10 
+13:26:26 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+13:26:26 :xls.Status:生成代码:T125,总测试数据(3) 
+13:26:26 :xls.Status:完成题目:T125 
+13:26:26 :xls.Status:生成代码:T116,总测试数据(10) 
+13:26:26 :xls.Status:完成题目:T116 
+13:26:26 :xls.Status:生成代码:T115,总测试数据(6) 
+13:26:26 :xls.Status:完成题目:T115 
+13:26:26 :xls.Status:生成代码:T114,总测试数据(10) 
+13:26:29 :xls.Status:完成题目:T114 
+13:26:29 :xls.Status:生成代码:T113,总测试数据(5) 
+13:26:29 :xls.Status:完成题目:T113 
+13:26:29 :xls.Status:切换并登陆到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:26:29 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:26:29 :xls.Status:切换并登陆到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=89A682386C2D1B7287229F2EEAC1CC12;_SESSIONKEY=F7C0AL4ZLR650W2MY23M; 
+13:26:29 :xls.Status:切换并登陆到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:26:29 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:26:29 :xls.Status:未登录15808081216 
+13:26:29 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:26:29 :xls.Status:获取到题目集数量:10 
+13:26:30 :xls.Status:未登录15808081216 
+13:26:30 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:26:30 :xls.Status:获取到题目集数量:10 
+13:26:30 :xls.Status:获取到题目集数量:10 
+13:26:30 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+13:26:30 :xls.Status:{"msg":"未登录。","ret":"0"} 
+13:27:38 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=89A682386C2D1B7287229F2EEAC1CC12;_SESSIONKEY=F7C0AL4ZLR650W2MY23M; 
+13:27:38 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:27:38 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies: 
+13:27:39 :xls.Status:获取到题目集数量:10 
+13:27:40 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+13:27:44 :xls.Status:生成代码:T125,总测试数据(3) 
+13:27:44 :xls.Status:完成题目:T125 
+13:27:45 :xls.Status:生成代码:T116,总测试数据(10) 
+13:27:45 :xls.Status:完成题目:T116 
+13:27:45 :xls.Status:生成代码:T115,总测试数据(6) 
+13:27:45 :xls.Status:完成题目:T115 
+13:27:46 :xls.Status:生成代码:T114,总测试数据(10) 
+13:27:49 :xls.Status:完成题目:T114 
+13:28:58 :xls.Status:生成代码:T113,总测试数据(5) 
+13:28:58 :xls.Status:完成题目:T113 
+13:29:28 :xls.Status:切换并登陆到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:29:57 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:30:39 :xls.Status:切换并登陆到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=89A682386C2D1B7287229F2EEAC1CC12;_SESSIONKEY=F7C0AL4ZLR650W2MY23M; 
+13:30:47 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=89A682386C2D1B7287229F2EEAC1CC12;_SESSIONKEY=F7C0AL4ZLR650W2MY23M; 
+13:30:47 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:30:47 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies: 
+13:30:49 :xls.Status:获取到题目集数量:10 
+13:30:50 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+13:30:50 :xls.Status:生成代码:T125,总测试数据(3) 
+13:30:50 :xls.Status:完成题目:T125 
+13:30:50 :xls.Status:生成代码:T116,总测试数据(10) 
+13:30:50 :xls.Status:完成题目:T116 
+13:30:50 :xls.Status:生成代码:T115,总测试数据(6) 
+13:30:50 :xls.Status:完成题目:T115 
+13:30:50 :xls.Status:生成代码:T114,总测试数据(10) 
+13:30:53 :xls.Status:完成题目:T114 
+13:30:53 :xls.Status:生成代码:T113,总测试数据(5) 
+13:30:53 :xls.Status:完成题目:T113 
+13:30:53 :xls.Status:切换并登陆到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:31:03 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=89A682386C2D1B7287229F2EEAC1CC12;_SESSIONKEY=F7C0AL4ZLR650W2MY23M; 
+13:31:03 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:31:03 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies: 
+13:31:04 :xls.Status:获取到题目集数量:10 
+13:31:05 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+13:31:05 :xls.Status:生成代码:T125,总测试数据(3) 
+13:31:05 :xls.Status:完成题目:T125 
+13:31:05 :xls.Status:生成代码:T116,总测试数据(10) 
+13:31:05 :xls.Status:完成题目:T116 
+13:31:05 :xls.Status:生成代码:T115,总测试数据(6) 
+13:31:05 :xls.Status:完成题目:T115 
+13:31:05 :xls.Status:生成代码:T114,总测试数据(10) 
+13:31:08 :xls.Status:完成题目:T114 
+13:31:08 :xls.Status:生成代码:T113,总测试数据(5) 
+13:31:08 :xls.Status:完成题目:T113 
+13:31:08 :xls.Status:切换并登陆到账号:13986274216,userId:178821,cookies:JSESSIONID=621EC5A00C8FC2DA0A3CB32587F469D0;_SESSIONKEY=3U6VX190ATTYI59570R8; 
+13:31:12 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+13:31:12 :xls.Status:登录13986274216:成功 
+13:31:12 :xls.Status:JSESSIONID=B221CA387A65C8948E570EF1497EE65A;_SESSIONKEY=BU7PIQU27E9KF65EXH32;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F5EB7B2F7153A2234E61A58E68CA45A91E06A120261001AA9E243F11B84C3E68DF36C640205EAACC8C069B836DCC205B26;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 05:31:10 GMT 
+13:31:12 :xls.Status:{
+    accountId:178821
+    accountLoginname:ylzaymy
+    accountEmail:ylzaymy
+    accountMobile:13986274216
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:null
+    accountLastLoginTime:2014-12-03 16:52:27
+    lanqiaoProjectId:1
+    identityId:2
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2014-12-03 16:52:27
+    createTime:2014-12-03 16:52:27
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:null
+    accountPortrait:null
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+13:31:12 :xls.Status:获取到题目集数量:10 
+13:31:13 :xls.Status:习题已全部加载完成  UA/AC/All=0/49/944 
+13:31:13 :xls.Status:下载题目数据:T42-1.inp 
+13:31:13 :xls.Status:下载数据防ban间隔...2000ms 
+13:31:13 :xls.Status:{"info":"ERROR。","ret":"0"} 
+13:31:13 :xls.Status:切换并登陆到账号:15808081216,userId:579282681805,cookies: 
+13:31:16 :xls.Status:切换并登陆到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=89A682386C2D1B7287229F2EEAC1CC12;_SESSIONKEY=F7C0AL4ZLR650W2MY23M; 
+13:31:16 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+13:31:16 :xls.Status:登录15808081216:成功 
+13:31:16 :xls.Status:JSESSIONID=7110D309CCEF5C4B0D4AE7FFEDF3CCF2;_SESSIONKEY=I355CF617QN4857W82PM;_TOKEN=D5F98D41037204CF5CFC1F57960140B97B0F64E1463F1BFBBED1346D876632F61D75CCE74FA72DD34A9B2F56A24D145596EC7DC21DFD7D95892173B0D63D4FF5F82EACD8BAF142C9F0E64A3A62FE3A19;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 05:31:15 GMT 
+13:31:16 :xls.Status:{
+    accountId:579282681805
+    accountLoginname:null
+    accountEmail:null
+    accountMobile:15808081216
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:10.45.42.254
+    accountLastLoginTime:2017-12-21 17:37:16
+    lanqiaoProjectId:2
+    identityId:1
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2017-12-21 17:37:16
+    createTime:2017-12-21 17:37:16
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:LQ846579
+    accountPortrait:
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+13:31:17 :xls.Status:获取到题目集数量:10 
+13:31:18 :xls.Status:习题已全部加载完成  UA/AC/All=0/94/1416 
+13:31:18 :xls.Status:{"itemid":"2020090","msg":"提交成功。","ret":"1"} 
+13:31:18 :xls.Status:等待蓝桥杯网站评判结果...5000ms 
+13:31:20 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+13:31:20 :xls.Status:登录liuchangm7j@vip.qq.com:成功 
+13:31:20 :xls.Status:JSESSIONID=E61A68A4E605E33AA6E0BDDDE4A49C38;_SESSIONKEY=36BLU56V94Q6Q132OU52;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBC41F31DACB849308FB51F808F2C29736667310CBDE372AB023D7F8C9BDA0218EA1B4FC036C844D0D7F69F7E29E8245BA7;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 05:31:18 GMT 
+13:31:20 :xls.Status:{
+    accountId:233752
+    accountLoginname:liuchangm7j@vip.qq.com
+    accountEmail:liuchangm7j@vip.qq.com
+    accountMobile:13627271134
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:null
+    accountLastLoginTime:2015-12-13 10:40:04
+    lanqiaoProjectId:1
+    identityId:1
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2015-12-13 10:40:04
+    createTime:2015-12-13 10:40:04
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:null
+    accountPortrait:null
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+13:31:21 :xls.Status:获取到题目集数量:10 
+13:31:21 :xls.Status:习题已全部加载完成  UA/AC/All=0/139/1888 
+13:31:22 :xls.Status:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+13:31:23 :xls.Status:下载题目数据:T41-1.inp 
+13:31:23 :xls.Status:下载数据防ban间隔...2000ms 
+13:31:23 :xls.Status:{"info":"ERROR。","ret":"0"} 
+13:31:23 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies:JSESSIONID=7110D309CCEF5C4B0D4AE7FFEDF3CCF2;_SESSIONKEY=I355CF617QN4857W82PM; 
+13:31:25 :xls.Status:下载题目数据:T41-2.inp 
+13:31:25 :xls.Status:下载数据防ban间隔...2000ms 
+13:31:25 :xls.Status:{"info":"ERROR。","ret":"0"} 

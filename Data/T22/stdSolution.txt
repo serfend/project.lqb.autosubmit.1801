@@ -1,0 +1,182 @@
+
+#include <iostream>
+#include <cstdio>
+#include <cstring>
+#include <algorithm>
+#include <queue>
+#include <stack>
+#include <vector>
+
+#define clr(a,b) memset(a, b, sizeof(a))
+
+using namespace std;
+
+const int N = 25050;
+const int E = 150500;
+
+//邻接表
+int h[N], v[E], w[E], nxt[E], el;
+void initEdge() {
+    clr(h, -1); el = 0;
+}
+void addEdge(int x, int y, int z) {
+    v[el] = y; w[el] = z; nxt[el] = h[x]; h[x] = el++;
+}
+
+//belong[i] 表示节点 i 所在的强连通分量；
+//cnt 表示强连通分量的个数；
+int dfn[N], sta[N], low[N], belong[N];
+int top, cnt, ind, n;
+bool vis[N];
+
+void TarjanSolve(int u) {
+    dfn[u] = low[u] = ++ind;
+    vis[u] = true;
+    sta[++top] = u;
+    for(int p=h[u]; ~p; p=nxt[p]) {
+        int i = v[p];
+        if(!dfn[i]) {
+            TarjanSolve(i);
+            if(low[i] < low[u]) low[u] = low[i];
+        }
+        else
+        if(vis[i] && dfn[i] < low[u])
+            low[u] = dfn[i];
+    }
+    if(dfn[u] == low[u]) {
+        ++cnt;
+        while(1) {
+            int i = sta[top--];
+            vis[i] = false;
+            belong[i] = cnt;
+            if(i == u) break;
+        }
+    }
+}
+void Tarjan() {//注意节点是从几开始存的
+    clr(dfn, 0);
+    clr(vis, 0);
+    top = cnt = ind = 0;
+    for(int i=1; i<=n; i++)//这里节点从1开始存，若从0开始存要改这里
+        if(!dfn[i]) TarjanSolve(i);
+}
+
+struct EDGE {
+    int u, v, w;
+    bool flag;
+    EDGE(){}
+    EDGE(int x, int y, int z, bool f):u(x), v(y), w(z), flag(f){}
+}   edge[E];
+
+int edgel;
+
+bool visitable[N];
+
+void dfs(int x) {
+    visitable[x] = true;
+    for(int i=h[x]; ~i; i=nxt[i]) {
+        if(!visitable[v[i]]) {
+            dfs(v[i]);
+        }
+    }
+}
+
+int indegree[N];
+
+//链表
+int lh[N], lel, lv[E], lnxt[E];
+void initLink() {
+    clr(lh, -1); lel = 0;
+}
+void addLink(int x, int y) {
+    lv[lel] = y; lnxt[lel] = lh[x]; lh[x] = lel++;
+}
+
+int dis[N];
+bool tag[N];
+
+int main() {
+    int r, p, s;
+    while(~scanf("%d%d%d%d", &n, &r, &p, &s)) {
+        clr(visitable, 0);
+        initEdge();
+        edgel = 0;
+        int x, y, z;
+        for(int i=0; i<r; i++) {
+            scanf("%d%d%d", &x, &y, &z);
+            addEdge(x, y, z);
+            addEdge(y, x, z);
+            edge[edgel++] = EDGE(x, y, z, false);
+        }
+        for(int i=0; i<p; i++) {
+            scanf("%d%d%d", &x, &y, &z);
+            addEdge(x, y, z);
+            edge[edgel++] = EDGE(x, y, z, true);
+        }
+        Tarjan();
+        dfs(s);
+        initEdge();
+        initLink();
+        clr(indegree, 0);
+        for(int i=0; i<edgel; i++) {
+            if(visitable[edge[i].u] && visitable[edge[i].v]) {
+                addEdge(edge[i].u, edge[i].v, edge[i].w);
+                if(edge[i].flag) {
+                    ++ indegree[belong[edge[i].v]];
+                    addLink(belong[edge[i].v], edge[i].v);
+                } else {
+                    addEdge(edge[i].v, edge[i].u, edge[i].w);
+                }
+            }
+        }
+        stack<int> zeroDegree;
+        priority_queue<pair<int,int> > que;
+        clr(vis, false);
+        clr(tag, false);
+        clr(dis, 0x3f);
+        dis[s] = 0;
+        que.push(make_pair(0, s));
+        while(!que.empty() || !zeroDegree.empty()) {
+            if(que.empty()) {
+                int x = zeroDegree.top(); zeroDegree.pop();
+                for(int i=lh[x]; ~i; i=lnxt[i]) {
+                    int y = lv[i];
+                    if(!vis[y]) {
+                        vis[y] = true;
+                        que.push(make_pair(-dis[y], y));
+                    }
+                }
+            } else {
+                int x = que.top().second; que.pop();
+                if(tag[x]) continue;
+                tag[x]  = true;
+                for(int i=h[x]; ~i; i=nxt[i]) {
+                    int y = v[i];
+                    if(!tag[y] && dis[y] > dis[x] + w[i]) {
+                        dis[y] = dis[x] + w[i];
+                        if(belong[x] == belong[y]) {
+                            que.push(make_pair(-dis[y], y));
+                        }
+                    }
+                    if(belong[x] != belong[y]) {
+                        -- indegree[belong[y]];
+                        if(indegree[belong[y]] == 0) {
+                            zeroDegree.push(belong[y]);
+                        }
+                    }
+                }
+            }
+        }
+        for(int i=1; i<=n; i++) {
+            if(visitable[i]) {
+                printf("%d\n", dis[i]);
+            } else {
+                puts("NO PATH");
+            }
+        }
+    }
+
+    return 0;
+}
+
+

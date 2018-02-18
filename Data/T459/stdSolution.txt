@@ -1,0 +1,151 @@
+
+#include<iostream>
+#include<stdlib.h>
+#include<string.h>
+using namespace std;
+long long Atoi(char a[],int n,int k)
+{
+	long long num=0,temp;
+	for(int i=0;i<n;i++)
+	{
+		if(a[i]>='0'&&a[i]<='9')
+		{
+			temp=a[i]-'0';
+		}
+		else if(a[i]>='A'&&a[i]<='Z')
+		{
+			temp=(a[i]-'A')+10;
+		}
+		num=num*k+temp;
+	}
+	return num;
+}
+char* lltoa(long long num,char *str,int radix)
+{
+	char index[]="0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";	
+	long long unum;/*中间变量*/
+	long long i=0,j,k;
+	/*确定unum的值*/
+	if(radix==10&&num<0)/*十进制负数*/
+	{
+		unum=-num;
+		str[i++]='-';	
+	}
+	else 
+		unum=num;/*其他情况*/
+	/*转换*/
+	do{
+		str[i++]=index[unum%(long long)radix];
+		unum/=(long long)radix;
+	}while(unum);
+	str[i]='\0';
+	/*逆序*/
+	if(str[0]=='-')
+		k=1;/*十进制负数*/
+	else
+		k=0;
+	char temp;
+	for(j=k;j<=(i-1)/2;j++)
+	{
+		temp=str[j];
+		str[j]=str[i-1+k-j];
+		str[i-1+k-j]=temp;
+	}
+	return str;
+}
+string ss;
+int main()
+{
+	char s[10],zl[9][10]={"NUM","ADD","SUB","MUL","DIV","MOD","CHANGE","EQUAL","CLEAR"};
+	char a[30000],b[30000];
+	char c='@';
+	int n,index=0;
+	long long num,temp;
+	int jinzhi=10;
+	cin>>n;
+	for(int i=1;i<=n;i++)
+	{
+		scanf("%s",s);
+		if(strcmp(s,zl[0])==0)
+		{
+			if(c=='@')
+			{
+				scanf("%s",a);
+			}
+			else
+			{
+				scanf("%s",b);
+				int lena=strlen(a),lenb=strlen(b);
+				num=Atoi(a,lena,jinzhi);
+				temp=Atoi(b,lenb,jinzhi);
+				if(c=='+')
+					num=num+temp;
+				else if(c=='-')
+					num=num-temp;
+				else if(c=='*')
+					num=num*temp;
+				else if(c=='/')
+					num=num/temp;
+				else if(c=='%')
+					num=num%temp;
+				lltoa(num,a,jinzhi);	
+			}
+				
+		}
+		else if(strcmp(s,zl[1])==0)//ADD
+		{
+			c='+';
+		}
+		else if(strcmp(s,zl[2])==0)//SUB
+		{
+			c='-';
+		}
+		else if(strcmp(s,zl[3])==0)//MUL
+		{
+			c='*';
+		}
+		else if(strcmp(s,zl[4])==0)//DIV
+		{
+			c='/';
+		}
+		else if(strcmp(s,zl[5])==0)//MOD
+		{
+			c='%';
+		}
+		else if(strcmp(s,zl[6])==0)//CHANGE
+		{
+			int lena=strlen(a),lenb=strlen(b);
+			num=Atoi(a,lena,jinzhi);
+			temp=Atoi(b,lenb,jinzhi);
+			cin>>jinzhi;
+			lltoa(num,a,jinzhi);
+			lltoa(temp,b,jinzhi);
+		}
+		else if(strcmp(s,zl[7])==0)//EQUAL
+		{
+			int len=strlen(a);
+			for(int i=0;i<len;i++ )
+				ss+=a[i];
+			ss+='#';
+			index++;
+		}
+		else if(strcmp(s,zl[8])==0)//CLEAR
+		{
+			a[0]='\0';
+			b[0]='\0';
+			c='@';
+		}
+	}
+	int len=ss.size();
+	for(int i=0;i<len;i++)
+	{
+		if(ss[i]=='#')
+		{
+			cout<<endl;
+			continue;
+		}
+		cout<<ss[i]; 
+	}
+	return 0;
+}
+

@@ -1,0 +1,19 @@
+
+#include <stdio.h>
+#include <math.h>
+typedef struct complex{
+	float real, imag;
+}COMPLEX, *COMPLEXP;
+
+int main(void){
+	float e;
+	COMPLEX com;
+	scanf("%f %f",&(com.real),&(com.imag));
+	e = sqrt(com.imag * com.imag + com.real * com.real);
+	com.imag = com.imag/e;
+	com.real = com.real/e;
+	printf("%0.1f+%0.1fi",com.real,com.imag);
+	return 0;
+} 
+
+

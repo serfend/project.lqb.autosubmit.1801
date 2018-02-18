@@ -1,0 +1,82 @@
+
+#include<cmath>
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+#define sqz main
+#define ll long long
+#define reg register int
+#define rep(i, a, b) for (reg i = a; i <= b; i++)
+#define per(i, a, b) for (reg i = a; i >= b; i--)
+#define travel(i, u) for (reg i = head[u]; i; i = edge[i].next)
+const int INF = 1e9, N = 2000, M = N * 500;
+const double eps = 1e-6, phi = acos(-1);
+ll mod(ll a, ll b) {if (a >= b || a < 0) a %= b; if (a < 0) a += b; return a;}
+ll read(){ ll x = 0; int zf = 1; char ch; while (ch != '-' && (ch < '0' || ch > '9')) ch = getchar();
+if (ch == '-') zf = -1, ch = getchar(); while (ch >= '0' && ch <= '9') x = x * 10 + ch - '0', ch = getchar(); return x * zf;}
+void write(ll y) { if (y < 0) putchar('-'), y = -y; if (y > 9) write(y / 10); putchar(y % 10 + '0');}
+int S = 0, num = 0, cnt[M + 5], deep[M + 5], head[M + 5], F[N * 2 + 5][N + 5], Size[M + 5], son[M][26];
+char st[N + 5];
+struct node
+{
+    int vet, next, val;
+}edge[2 * M];
+void add(int u, int v, int w)
+{
+    edge[++num].vet = v;
+    edge[num].next = head[u];
+    edge[num].val = w;
+    head[u] = num;
+}
+void dfs(int u, int fa, int last)
+{
+    deep[u] = deep[fa] + 1;
+    int tot = cnt[u];
+    rep(i, 0, 25)
+        if (son[u][i]) tot++;
+    if (tot != 1 || cnt[u]) add(last, u, deep[u] - deep[last]);
+    rep(i, 0, 25)
+        if (son[u][i])
+                if (tot == 1 && !cnt[u]) dfs(son[u][i], u, last);
+                else dfs(son[u][i], u, u);
+}
+int dp(int u, int fa, int len)
+{
+    int now = ++S;
+    Size[u] = cnt[u];
+    per(i, cnt[u], 1) F[now][i] = i * (i - 1) / 2 * len;
+    travel(i, u)
+    {
+        int v = edge[i].vet;
+        if (v == u) continue;
+        int pre = dp(v, u, edge[i].val);
+        Size[u] += Size[v];
+        per(j, Size[u], 1)
+            rep(k, 1, min(j, Size[v]))
+                F[now][j] = max(F[now][j], F[now][j - k] + F[pre][k] + len * (j - k) * k + len * k * (k - 1) / 2);
+    }
+    return now;
+}
+int sqz()
+{
+    memset(head, 0, sizeof head);
+    int n = read(), m = read(), point = 0;
+    rep(i, 1, n)
+    {
+        scanf("%s", st + 1);
+        int len = strlen(st + 1), now = 0;
+        rep(j, 1, len)
+        {
+            if (!son[now][st[j] - 'a']) son[now][st[j] - 'a'] = ++point;
+            now = son[now][st[j] - 'a'];
+        }
+        cnt[now]++;
+    }
+    dfs(0, -1, 0);
+    dp(0, -1, 0);
+    printf("%d\n", F[1][m]);
+    return 0;
+}
+

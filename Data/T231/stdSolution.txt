@@ -1,0 +1,47 @@
+
+#include<cstdio>
+#include<algorithm>
+using namespace std ;
+int main()
+{
+	int a[6]={0};
+	int b[6][2000];
+	int n;
+	int temp;	
+	int t;
+	scanf("%d",&t); 
+	while(t)
+	{
+	scanf("%d",&n);
+		if(n==100)
+		{
+		
+			b[4][a[4]]=n; 
+			a[4]++;	
+		}
+		else
+		{
+			temp=n/10-5;
+			if(temp<=0)
+			temp=0;
+			b[temp][a[temp]]=n; 
+			a[temp]++;	
+		}
+		t--;
+	
+	}
+	t=0;
+	for(int i=4;i>=0;i--)
+	{
+		if(a[t]<a[i])
+		t=i;
+		printf("%d ",a[i]);
+	}
+	printf("\n%d\n",a[t]);
+	sort(b[t],b[t]+a[t]);
+	for(int i=a[t]-1;i>=0;i--)
+	{
+		printf("%d ",b[t][i]); 
+	 } 
+ } 
+

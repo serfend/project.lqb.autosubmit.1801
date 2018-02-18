@@ -1,0 +1,16 @@
+
+#include<iostream>
+#include<stdio.h>
+#include<math.h>
+using namespace std;
+int main()
+{
+	int n;
+	cin>>n;
+	int *p;
+	p=&n;
+	printf("%d %.2lf %.2lf",(*p)*(*p),sqrt(*p),1/(double)(*p));
+    
+return 0;
+}
+

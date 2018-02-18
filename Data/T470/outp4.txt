@@ -1,0 +1,30 @@
+Workyards 1
+Maximum profit is 499.
+Number of pruls to buy: 258 259 260 261 262 263 264 265 266 267
+Workyards 2
+Maximum profit is 362.
+Number of pruls to buy: 195 196 197 198 199 200 201 202 203 204
+Workyards 3
+Maximum profit is 434.
+Number of pruls to buy: 218 219 220 221 222 223 224 225 226 227
+Workyards 4
+Maximum profit is 508.
+Number of pruls to buy: 241 242 243 244 245 246 247 248 249 250
+Workyards 5
+Maximum profit is 445.
+Number of pruls to buy: 248 249 250 251 252 253 254 255 256 257
+Workyards 6
+Maximum profit is 428.
+Number of pruls to buy: 202 204 208 209 210 212 213 214 215 218
+Workyards 7
+Maximum profit is 412.
+Number of pruls to buy: 212 213 214 215 216 217 218 219 220 221
+Workyards 8
+Maximum profit is 402.
+Number of pruls to buy: 145 146 147 148 149 150 151 152 153 154
+Workyards 9
+Maximum profit is 468.
+Number of pruls to buy: 178 179 180 181 182 183 184 185 186 187
+Workyards 10
+Maximum profit is 410.
+Number of pruls to buy: 186 187 188 189 190 191 192 193 194 195

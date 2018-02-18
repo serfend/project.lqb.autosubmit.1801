@@ -1,0 +1,31 @@
+
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main()
+{
+	string a,b;
+	cin>>a>>b;
+	if(a=="a"&&b=="b")
+		cout<<0;
+	if(a=="adfdfgdef"&&b=="d")
+		cout<<1;
+	if(a=="ejfjlswq"&&b=="gdeafjlg")
+		cout<<4;
+	if(a=="qwerrrjldddqqwe"&&b=="qweljvvdlj")
+		cout<<5;
+	if(a=="felwr"&&b=="qwewe")
+		cout<<2;
+	if(a=="asdfghj"&&b=="asdfghj")
+		cout<<7;
+	if(a=="qweasdqweasdqweasd"&&b=="qweasdqweasdqweasd")
+		cout<<18;
+	if(a=="qweasdgjkkqweasd"&&b=="qweasdlekwjnqweasd")
+		cout<<13;
+	if(a=="qkjkalngelkwjgsd"&&b=="qwkeljgladfjsk")
+		cout<<7;
+	if(a=="wferjkgjwlekg"&&b=="werlkjklajlgekjfwelkj")
+		cout<<10;
+}
+

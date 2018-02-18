@@ -1,0 +1,21 @@
+
+#include<stdio.h>
+int main()
+{
+	int n,m,i,j,k,l;
+	scanf("%d%d",&n,&m);
+	for(i=1;i<=n;i++)
+	{
+		for(j=1;j<=(2*i)-1;j++)
+		{
+			printf("*");
+		}
+		for(k=1;k<=m;k++)
+			printf(" ");
+		for(l=(2*n)-(2*i);l>=0;l--)
+			printf("*");
+		printf("\n");
+	}
+	return 0;
+}
+

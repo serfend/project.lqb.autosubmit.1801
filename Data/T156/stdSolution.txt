@@ -1,0 +1,16 @@
+
+#include <iostream>
+#include <cstdlib>
+#include <cstdio>
+
+using namespace std;
+
+int main()
+{
+	double a, b;
+	cin >> a >> b;
+	printf("%0.2lf", a+a*b*0.01*0.8);
+	return 0;
+}
+
+

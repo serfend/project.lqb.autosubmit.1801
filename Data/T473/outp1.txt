@@ -1,0 +1,12 @@
+Case 1: checksum = 0078
+ SYMBOL   ADDR
+--------  ----
+END       0105
+MAIN      0100
+
+Case 2: checksum = 548C
+ SYMBOL   ADDR
+--------  ----
+ENTRY     0104
+SUBX      0126 M
+SUBY      ????

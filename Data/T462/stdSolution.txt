@@ -1,0 +1,103 @@
+
+#include<cstdio>
+#include<iostream>
+#include<cstring>
+#include<string>
+#include<vector>
+#include<algorithm>
+using namespace std;
+string str[100];
+int book[100];
+int map[100];
+vector<int> a;
+vector<int> b;
+int main() {
+	//freopen("test.txt","r",stdin);
+	int n;
+	int flag;
+	cin>>n;
+	for(int i=1; i<=n; i++) {
+		for(int j=1; j<=n; j++) {
+			char tt;
+			scanf("%c",&tt);
+			if(tt=='\n') {
+				j--;
+				continue;
+			}
+			str[i]+=tt;
+		}
+		str[i][i-1]='1';
+		int count=0;
+		b.push_back(1);
+//		cout<<str[i]<<" "<<str[i].size()<<endl;
+	}
+	int maxNum=0;
+	int maxPos;
+	for(int k=1; k<=n; k++) {
+		int sum=0;
+		for(int j=0; j<n; j++) {
+			if(str[k][j]=='1') {
+				book[j+1]=1;
+				sum++;
+			}
+		}
+//		for(int j=1; j<=n; j++) {
+//			cout<<book[j]<<" ";
+//		}
+//		cout<<endl;
+		map[k]=1;
+		a.push_back(k);
+//		cout<<"orignal "<<k<<" "<<sum<<" "<<a.size()<<endl;
+		while(sum<n) {
+			int maxcount=0;
+			int maxposition;
+			for(int i=1; i<=n; i++) {
+				int count=0;
+				if(map[i]==0) {
+					for(int j=0; j<n; j++) {
+						if(str[i][j]=='1'&&book[j+1]==0) {
+							count++;
+						}
+					}
+//					cout<<k<<" "<<i<<":"<<count<<endl;
+					if(count>maxcount) {
+						maxcount=count;
+						maxposition=i;
+					}
+				}
+			}
+			for(int j=0; j<n; j++) {
+				if(str[maxposition][j]=='1') {
+					book[j+1]=1;
+				}
+			}
+//			for(int j=1; j<=n; j++) {
+//				cout<<book[j]<<" ";
+//			}
+//			cout<<endl;
+			sum+=maxcount;
+//			cout<<k<<" "<<sum<<endl;
+			map[maxposition]=1;
+			a.push_back(maxposition);
+		}
+		if(a.size()<b.size()) {
+			b=a;
+//			cout<<"flag:"<<a.size()<<" "<<b.size()<<endl;
+//			for(int i=0; i<b.size(); i++) {
+//				cout<<b[i]<<" ";
+//			}
+//			cout<<endl;
+		}
+		a.clear();
+		memset(book,0,sizeof(book));
+		memset(map,0,sizeof(map));
+	}
+	sort(b.begin(),b.end());
+	cout<<b.size();
+	for(int i=0; i<b.size(); i++) {
+		cout<<" "<<b[i];
+	}
+	cout<<endl;
+	return 0;
+}
+

@@ -1,0 +1,33 @@
+
+#include<iostream>
+using namespace std;
+
+
+//两个数的最大公约数
+long long gcd(long long a,long long b)
+{
+    return b?gcd(b,a%b):a;
+}
+
+int main()
+{
+	long long n,a,b,r;
+	while(cin>>n)
+	{
+		if(n%2==1)
+			cout<<n*(n-1)*(n-2)<<endl;
+		else
+		{
+			long long s1=(n-1)*(n-2)*(n-3);
+			
+			a=n*(n-1);
+			while(gcd(n-2,a)!=1)n--;
+			if((n-2)*a>s1)
+				cout<<(n-2)*a<<endl;
+			else
+				cout<<s1<<endl;
+		}
+	}
+	return 0;
+} 
+

@@ -1,0 +1,213 @@
+
+#include<iostream>  
+#include<cmath>  
+#include<cstdio>  
+#include<algorithm>  
+#include<vector>  
+  
+const double eps=1e-8;  
+  
+  
+using namespace std;  
+  
+  
+struct Point{  
+    double x;  
+    double y;  
+    Point(double x=0,double y=0):x(x),y(y){}  
+    void operator<<(Point &A) {cout<<A.x<<' '<<A.y<<endl;}  
+};  
+  
+int dcmp(double x)  {return (x>eps)-(x<-eps); }  
+  
+typedef  Point  Vector;  
+  
+Vector  operator +(Vector A,Vector B) { return Vector(A.x+B.x,A.y+B.y);}  
+  
+Vector  operator -(Vector A,Vector B) { return Vector(A.x-B.x,A.y-B.y); }  
+  
+Vector  operator *(Vector A,double p) { return Vector(A.x*p,A.y*p);  }  
+  
+Vector  operator /(Vector A,double p) {return Vector(A.x/p,A.y/p);}  
+  
+// ps  cout  
+  
+ostream &operator<<(ostream & out,Point & P) { out<<P.x<<' '<<P.y<<endl; return out;}  
+  
+bool  operator< (const Point &A,const Point &B) { return A.x<B.x||(A.x==B.x&&A.y<B.y); }  
+  
+bool  operator== ( const Point &A,const Point &B) { return dcmp(A.x-B.x)==0&&dcmp(A.y-B.y)==0;}  
+  
+  
+double  Dot(Vector A,Vector B) {return A.x*B.x+A.y*B.y;}  
+  
+double  Cross(Vector A,Vector B)  {return A.x*B.y-B.x*A.y; }  
+  
+double  Length(Vector A)  { return sqrt(Dot(A, A));}  
+  
+  
+double  Angle(Vector A,Vector B) {return acos(Dot(A,B)/Length(A)/Length(B));}  
+  
+double  Area2(Point A,Point B,Point C ) {return Cross(B-A, C-A);}  
+  
+Vector Rotate(Vector A,double rad) { return Vector(A.x*cos(rad)-A.y*sin(rad),A.x*sin(rad)+A.y*cos(rad));}  
+Vector Normal(Vector A) {double L=Length(A);return Vector(-A.y/L,A.x/L);}  
+  
+Point GetLineIntersection(Point P,Vector v,Point Q,Vector w)  
+{  
+    Vector u=P-Q;  
+    double t=Cross(w, u)/Cross(v,w);  
+    return P+v*t;  
+      
+}  
+  
+double DistanceToLine(Point P,Point A,Point B)  
+{  
+    Vector v1=P-A; Vector v2=B-A;  
+    return fabs(Cross(v1,v2))/Length(v2);  
+      
+}  
+  
+double DistanceToSegment(Point P,Point A,Point B)  
+{  
+    if(A==B)  return Length(P-A);  
+      
+    Vector v1=B-A;  
+    Vector v2=P-A;  
+    Vector v3=P-B;  
+      
+    if(dcmp(Dot(v1,v2))==-1)    return  Length(v2);  
+    else if(Dot(v1,v3)>0)    return Length(v3);  
+      
+    else return DistanceToLine(P, A, B);  
+      
+}  
+  
+Point GetLineProjection(Point P,Point A,Point B)  
+{  
+    Vector v=B-A;  
+    Vector v1=P-A;  
+    double t=Dot(v,v1)/Dot(v,v);  
+      
+    return  A+v*t;  
+}  
+  
+bool  SegmentProperIntersection(Point a1,Point a2,Point b1,Point b2)  
+{  
+    double c1=Cross(b1-a1, a2-a1);  
+    double c2=Cross(b2-a1, a2-a1);  
+    double c3=Cross(a1-b1, b2-b1);  
+    double c4=Cross(a2-b1, b2-b1);  
+      
+    return dcmp(c1)*dcmp(c2)<0&&dcmp(c3)*dcmp(c4)<0 ;  
+      
+}  
+  
+bool  OnSegment(Point P,Point A,Point B)  
+{  
+    return dcmp(Cross(P-A, P-B))==0&&dcmp(Dot(P-A,P-B))<0;  
+}  
+  
+double PolygonArea(Point *p,int n)  
+{  
+    double area=0;  
+      
+    for(int i=1;i<n-1;i++)  
+    {  
+        area+=Cross(p[i]-p[0], p[i+1]-p[0]);  
+          
+    }  
+    return area/2;  
+      
+}  
+  
+Point  read_point()  
+{  
+    Point P;  
+    scanf("%lf%lf",&P.x,&P.y);  
+    return  P;  
+}  
+  
+int n;  
+  
+Point L[110][2][2];  
+double x[20000];   //  存放离散化的x坐标  
+  
+  
+int main()  
+{  
+    double X,H,B;  
+      
+    int cas=0;  
+    while(cin>>n)  
+    {  
+        if(!n)  break;  
+          
+        int c=0;  
+        for(int i=0;i<n;i++)  
+        {  
+            scanf("%lf%lf%lf",&X,&H,&B);  
+            L[i][0][0]=Point(X-B*0.5,0);  
+            L[i][0][1]=L[i][1][0]=Point(X,H);  
+            L[i][1][1]=Point(X+B*0.5,0);  
+              
+            x[c++]=X-B*0.5;  
+            x[c++]=X;  
+            x[c++]=X+B*0.5;  
+              
+        }  
+              
+            for(int i=0;i<n;i++)  
+                for(int a=0;a<2;a++)  
+                    for(int j=i+1;j<n;j++)  
+                        for(int b=0;b<2;b++)  
+                        {  
+                            Point A=L[i][a][0];  
+                            Point B=L[i][a][1];  
+                            Point C=L[j][b][0];  
+                            Point D=L[j][b][1];  
+                              
+                            if(SegmentProperIntersection(A, B, C, D))  
+                            {  
+                                x[c++]=GetLineIntersection(A, B-A, C, D-C).x;  
+                            }  
+                        }  
+              
+              
+          
+        sort(x,x+c);  
+        c=unique(x, x+c)-x;  
+          
+        double ans=0;  
+          
+        Point lastp=Point(x[0],0);  
+         
+        for(int i=0;i<c;i++)  
+        {  
+            Point P=Point(x[i],0);  
+            Vector v=Vector(0,1);  
+            double maxy=-1;  
+            Point inter;  
+              
+            for(int j=0;j<n;j++)  
+                for(int a=0;a<2;a++)  
+                {  
+                    Point A=L[j][a][0];  
+                    Point B=L[j][a][1];  
+                    if(dcmp(A.x-x[i])<=0&&dcmp(B.x-x[i])>=0)  
+                    {  
+                        inter=GetLineIntersection(A, B-A, P, v);  
+                        maxy=max(maxy,inter.y);  
+                          
+                    }  
+                }  
+              
+              
+            if(i>0&&(dcmp(maxy)>0||dcmp(lastp.y)>0))   ans+=Length(Point(x[i],maxy)-lastp);  
+            lastp=Point(x[i],maxy);  
+        }  
+        printf("%.0f\n",ans);  
+    }  
+    return 0;
+}  
+

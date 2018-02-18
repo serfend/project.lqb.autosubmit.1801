@@ -1,0 +1,28 @@
+
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+vector <int> jc(10),num(10);
+int main()
+{
+	jc[0] = 0;num[0] = 0;
+	jc[1] = 1;num[1] = 1;
+	for (int i=2; i<=9; i++)
+	{
+	 num[i] = i;
+	 jc[i] = i*jc[i-1];
+	}
+	int n;
+	cin >> n;n--;
+	for (int i=9; i>=1; i--)
+	{
+		int temp = n/jc[i];
+		cout<<num[temp];
+		num.erase(num.begin()+temp);
+		n = n%jc[i];
+	}
+	cout<<num[0];
+	return 0;
+}
+

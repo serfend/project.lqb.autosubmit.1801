@@ -1,0 +1,27 @@
+
+#include <stdio.h>
+int main()
+{
+int n;
+int a[10000];
+scanf("%d",&n);
+for(int i=0;i<n;i++)
+a[i]=0;
+for(int i=1;i<n;i++)
+{
+	 int sum=0;
+	 int j=i;
+	 sum+=j;
+	 while(j>0)
+	 {
+	 	sum+=j%10;
+	 	j/=10;
+	 	
+	 }
+	 if(sum<n) a[sum]=1;
+}
+	for(int i=1;i<n;i++)
+	if(a[i]==0) printf("%d\n",i);
+	
+}
+

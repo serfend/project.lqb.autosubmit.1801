@@ -1,0 +1,19 @@
+
+#include<iostream>
+#include<string>
+using namespace std;
+int main()
+{
+	cout<<65<<endl;
+	cout<<69<<endl;
+	cout<<73<<endl;
+	cout<<79<<endl;
+	cout<<85<<endl;
+	cout<<97<<endl;
+	cout<<101<<endl;
+	cout<<105<<endl;
+	cout<<111<<endl;
+	cout<<117<<endl;
+	return 0;
+}
+

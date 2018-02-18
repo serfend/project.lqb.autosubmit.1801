@@ -1,0 +1,56 @@
+11:07:17 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:liuchangm7j@vip.qq.com,cookies:233752 
+11:07:17 :xls.Status:切换到账号:13986274216,userId:ylzaymy,cookies:178821 
+11:07:17 :xls.Status:切换到账号:15808081216,userId:,cookies: 
+11:07:19 :xls.Status:未登录liuchangm7j@vip.qq.com 
+11:07:19 :xls.Status:切换并登陆到账号:liuchangm7j@vip.qq.com,userId:liuchangm7j@vip.qq.com,cookies:233752 
+11:07:24 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+11:07:25 :xls.Status:登录liuchangm7j@vip.qq.com:成功 
+11:07:25 :xls.Status:JSESSIONID=CAFBBFABEB42D3FB5FCEA80C85475C64;_SESSIONKEY=10757468I3IE65R0OYS9;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBCA1DC0DAD51B4764E7236AE9BBB2B114123BDC80A5D9FCB83A2A979A4646E480B30AD15BA79DAAB833CA3F8A107002C82;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 03:07:23 GMT 
+11:07:25 :xls.Status:{
+    accountId:233752
+    accountLoginname:liuchangm7j@vip.qq.com
+    accountEmail:liuchangm7j@vip.qq.com
+    accountMobile:13627271134
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:null
+    accountLastLoginTime:2015-12-13 10:40:04
+    lanqiaoProjectId:1
+    identityId:1
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2015-12-13 10:40:04
+    createTime:2015-12-13 10:40:04
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:null
+    accountPortrait:null
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+11:07:35 :xls.Status:获取到题目集数量:10 
+11:07:38 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+11:07:38 :xls.Status:生成代码:T125,总测试数据(3) 
+11:07:38 :xls.Status:完成题目:T125 
+11:07:38 :xls.Status:生成代码:T116,总测试数据(10) 
+11:07:38 :xls.Status:完成题目:T116 
+11:07:38 :xls.Status:生成代码:T115,总测试数据(6) 
+11:07:38 :xls.Status:完成题目:T115 
+11:07:38 :xls.Status:生成代码:T114,总测试数据(10) 
+11:07:43 :xls.Status:完成题目:T114 
+11:07:43 :xls.Status:生成代码:T113,总测试数据(5) 
+11:07:43 :xls.Status:完成题目:T113 
+11:07:43 :xls.Status:下载题目数据:T43-6.outp 
+11:07:43 :xls.Status:下载数据防ban间隔...2000ms 
+11:07:44 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:08:00 :xls.Status:切换并登陆到账号:13986274216,userId:ylzaymy,cookies:178821 
+11:08:00 :xls.Status:下载题目数据:T43-7.outp 
+11:08:00 :xls.Status:下载数据防ban间隔...2000ms 
+11:08:01 :xls.Status:{"info":"未登录。","ret":"0"} 
+11:08:01 :xls.Status:未登录13986274216 
+11:08:01 :xls.Status:切换并登陆到账号:13986274216,userId:ylzaymy,cookies:178821 

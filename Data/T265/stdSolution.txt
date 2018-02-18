@@ -1,0 +1,77 @@
+
+#include<iostream>
+#include<cstring>
+#include<cstdio>
+using namespace std;
+bool Is(int y){
+    if(y%400==0) return 1;
+    if(y%100==0) return 0;
+    if(y%4==0) return 1;
+    return 0;
+}
+int Month[13]={0,31,28,31,30,31,30,31,31,30,31,30,31};
+struct date{
+    int yyyy,mm,dd;
+    date(int y=0,int m=0,int d=0){
+        yyyy=y;
+        mm=m;
+        dd=d;
+    }
+    bool operator < (const date &rhs) const{
+        if(yyyy!=rhs.yyyy) return yyyy<rhs.yyyy;
+        if(mm!=rhs.mm) return mm<rhs.mm;
+        return dd<rhs.dd;
+    }
+    bool operator == (const date &rhs) const{
+        return (!((*this)<rhs) && !(rhs<(*this)));
+    }
+    int operator - (const date &rhs) const{
+        int ret=0;
+        date t=rhs;
+        while(!(t==(*this))){
+        //        cout<<t.yyyy<<'-'<<t.mm<<'-'<<t.dd<<' ';
+            ret++;
+            t.dd++;
+            if(t.dd==(t.mm==2 ? Month[t.mm]+Is(t.yyyy) : Month[t.mm])+1){
+                t.dd=1;
+                t.mm++;
+            }
+            if(t.mm==13){
+                t.yyyy++;
+                t.mm=1;
+            }
+        }
+        return ret;
+//        if(yyyy=rhs.yyyy)
+//        if(rhs.mm==2)
+//            ret+=(28+Is(rhs.yyyy)-rhs.dd);
+//        else ret+=(Month[rhs.mm]-rhs.dd);
+//        for(int i=rhs.mm+1;i<=12;i++)
+//            if(i==2)    ret+=Month[i]+Is(rhs.yyyy);
+//            else ret+=Month[i];
+//        for(int i=rhs.yyyy+1;i<yyyy;i++)
+//            ret+=365+Is(i);
+//        for(int i=1;i<mm;i++)
+//            if(i==2)    ret+=Month[i]+Is(yyyy);
+//            else ret+=Month[i];
+//        ret+=dd;
+//        return ret;
+    }
+};
+int main(){
+    date n,st(2011,11,11);
+    while(cin>>n.yyyy>>n.mm>>n.dd){
+        int t=0;
+        if(n<st)
+            t=-(st-n);
+        else
+            t=n-st;
+  //          cout<<t<<endl;
+        t=((t%7)+7)%7;
+        int ans=(t+t);
+        cout<<((5+t+6)%7+1)<<endl;
+    }
+
+}
+
+

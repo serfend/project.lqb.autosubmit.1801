@@ -1,0 +1,21 @@
+32 S 3 W 1 S 1 W 2 S 1 E 2 S 1 E 1 S 1 E 2 S 2 E 1 S 1 E 1 N 2 E 1 N 1 E 1 N 1 E 2 N 2 E 1 N 1 W 5 N 3 W 1 N 2 W 1 S 1 W 1 S 1 W 1
+27 E 2 N 3 E 2 N 4 W 1 N 1 W 2 N 1 W 2 N 1 W 1 S 2 W 1 S 1 W 2 S 2 W 3 S 1 E 2 S 3 E 2 S 2 E 1 S 1 E 1 N 2 E 2
+30 E 1 N 1 E 3 N 3 E 1 N 2 E 1 N 1 W 1 N 1 W 1 N 1 W 1 N 1 W 3 N 2 W 1 S 3 W 1 S 2 W 1 S 1 W 3 S 1 E 4 S 1 E 1 S 1 E 1 S 3
+29 E 1 S 1 E 3 S 2 E 1 S 1 E 1 N 2 E 1 N 2 E 1 N 2 E 3 N 1 W 1 N 2 W 3 N 1 W 2 N 2 W 3 S 2 W 1 S 2 W 1 S 2 W 1 S 2 E 1
+25 S 1 E 1 N 1 E 1 N 1 E 4 N 3 E 1 N 4 W 4 N 2 W 1 N 1 W 1 S 3 W 4 S 1 W 1 S 1 W 1 S 1 E 1 S 2 E 4 S 3
+29 N 1 E 1 N 1 E 2 N 3 W 3 N 1 W 3 N 2 W 2 S 1 W 1 S 3 W 1 S 1 W 1 S 1 W 1 S 2 E 3 S 1 E 3 S 3 E 1 N 1 E 1 N 1 E 1 N 2
+26 E 1 S 1 E 1 S 1 E 2 S 2 E 1 S 1 E 1 N 4 E 3 N 1 E 3 N 5 W 4 N 1 W 1 N 1 W 1 S 2 W 2 S 1 W 1 S 2 W 3 S 2
+25 W 1 N 1 W 1 S 2 W 1 S 1 W 1 S 1 W 2 S 2 W 1 S 3 E 5 S 2 E 1 S 1 E 3 N 6 E 3 N 3 W 2 N 1 W 1 N 1 W 2
+24 W 1 N 1 W 1 N 2 W 4 N 1 W 1 S 1 W 1 S 4 W 1 S 1 W 3 S 1 E 1 S 1 E 2 S 1 E 3 S 3 E 2 N 6 E 4 N 2
+29 S 1 E 1 N 1 E 2 N 2 E 1 N 1 E 1 N 2 E 1 N 1 W 2 N 1 W 2 N 2 W 2 N 2 W 4 S 4 W 1 S 2 W 1 S 1 E 2 S 1 E 1 S 2 E 3 S 1
+28 S 3 W 1 S 1 W 1 S 1 W 4 S 1 E 1 S 2 E 3 S 1 E 1 S 3 E 2 N 2 E 1 N 2 E 2 N 1 E 2 N 1 W 2 N 1 W 1 N 3 W 2 N 2 W 1
+32 E 1 N 1 W 2 N 1 W 1 N 1 W 1 N 3 W 1 N 1 W 1 S 1 W 2 S 2 W 1 S 2 W 3 S 1 E 1 S 3 E 1 S 1 E 1 S 1 E 2 S 1 E 3 N 2 E 1 N 2 E 2 N 1
+28 S 1 E 1 S 2 E 1 S 2 E 2 N 2 E 3 N 3 E 2 N 2 W 1 N 2 W 1 N 1 W 1 N 1 W 2 N 1 W 2 S 3 W 3 S 2 W 2 S 1 E 2 S 1 E 1
+32 N 1 W 1 N 1 W 4 N 3 W 1 N 1 W 1 S 2 W 1 S 2 W 1 S 1 W 1 S 1 W 2 S 1 E 1 S 3 E 4 S 1 E 1 S 1 E 2 N 1 E 1 N 1 E 1 N 2 E 1 N 2 E 1
+22 E 5 S 1 E 1 N 1 E 3 N 4 E 1 N 1 E 1 N 2 W 1 N 2 W 5 N 2 W 4 S 5 W 1 S 1 W 1 S 4 E 1 S 1
+29 S 2 W 1 S 2 W 2 S 1 E 5 S 2 E 1 S 3 E 1 N 1 E 2 N 2 E 1 N 2 E 1 N 1 E 1 N 1 W 4 N 2 W 1 N 1 W 1 N 2 W 2 S 1 W 1 S 1
+32 E 1 N 2 W 2 N 1 W 3 N 2 W 1 N 1 W 1 S 1 W 1 S 1 W 1 S 1 W 1 S 3 W 2 S 1 E 1 S 2 E 3 S 1 E 2 S 2 E 2 N 3 E 1 N 1 E 1 N 1 E 1 N 1
+33 N 2 W 1 N 1 W 2 N 1 W 1 S 4 W 3 S 1 W 1 S 1 W 1 S 1 E 1 S 1 E 1 S 1 E 2 S 1 E 2 S 2 E 1 N 2 E 1 N 1 E 1 N 2 E 2 N 1 E 1 N 1 W 3 N 1
+30 S 1 W 3 S 1 W 1 S 1 W 1 S 3 E 2 S 1 E 3 S 3 E 2 N 2 E 1 N 1 E 1 N 1 E 2 N 1 E 1 N 2 W 3 N 1 W 1 N 3 W 1 N 1 W 1 S 2 W 1
+25 E 1 S 3 E 1 S 1 E 5 N 1 E 1 N 4 E 1 N 1 W 1 N 3 W 3 N 2 W 1 N 1 W 1 S 4 W 1 S 1 W 5 S 1 E 1 S 2 E 2
+0

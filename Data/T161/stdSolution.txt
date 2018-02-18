@@ -1,0 +1,24 @@
+
+#include <iostream>
+#include <string.h>
+#include <string>
+#include <algorithm>
+#include <limits.h>
+using namespace std;
+
+int main(){
+   int min=INT_MAX,max=INT_MIN;
+   int t;
+   for(int i=0;i<11;i++){
+    cin>>t;
+    if(t > max)
+        max=t;
+    if(t < min)
+        min=t;
+   }
+   cout<<max<<" "<<min<<endl;
+
+
+return 0;}
+
+

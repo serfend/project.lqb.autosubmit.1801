@@ -1,0 +1,17 @@
+
+#include<iostream>
+using namespace std;
+int main()
+{
+char c;
+int a,b;
+cin>>c>>a>>b;
+int res;
+if(c=='+')res=a+b;
+else if(c=='-')res=a-b;
+else if(c=='*')res=a*b;
+else res=a/b;
+cout<<res;
+return 0;
+}
+

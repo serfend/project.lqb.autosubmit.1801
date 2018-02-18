@@ -1,0 +1,15 @@
+Case 1: 4A
+Case 2: empty
+Case 3: empty
+Case 4: empty
+Case 5: empty
+Case 6: 1A 2M
+Case 7: impossible
+Case 8: 2A
+Case 9: 2A
+Case 10: 4A
+Case 11: 5A
+Case 12: 17A
+Case 13: 1A
+Case 14: 3A
+Case 15: 6A

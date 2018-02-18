@@ -1,0 +1,18 @@
+
+#include <iostream>
+using namespace std;
+string function(char c)
+{
+	if(c>='0' && c<='9')
+		return "yes";
+	else return "no";
+}
+int main()
+{
+	char c;
+	cin>>c;
+	cout<<function(c);
+	return 0;
+}
+
+

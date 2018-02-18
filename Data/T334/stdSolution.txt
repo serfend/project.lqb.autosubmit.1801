@@ -1,0 +1,21 @@
+
+#include <iostream>
+#include <cstdio>
+using namespace std;
+int main(){
+    int n,a,b,c;
+	while(cin>>n){
+		int tmp=n;
+	    a=tmp%10;
+	    tmp/=10;
+	     b=tmp%10;
+	    tmp/=10;
+	    c=tmp%10;
+	    if(a*a*a+b*b*b+c*c*c==n)
+	    cout<<"YES"<<endl;
+	    else 
+	    cout<<"NO"<<endl;
+	}
+	return 0;
+}
+

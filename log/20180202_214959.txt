@@ -1,0 +1,1572 @@
+21:49:59 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=83055DFCB542A1371125EB880C65EC5C;_SESSIONKEY=YSN7V2P401B0K098K4KA;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:13:10 GMT;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBC21AD3FA6FA549CC73FBA7B7133B04A75DDF0B09D101916B05E2D340C1D75711E3A78997ADD944CD2B5090499B89A5423 
+21:49:59 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=7AF4FADC44880A792C890218A4BBF997;_SESSIONKEY=16K1DEP6CW414GIC2308;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:14:15 GMT;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F5EE328A0042085DED11A1BAEFB917C8208D6BA94092D88E85AB5E00579E833AFBE65B1862FA45291547112D139F441CE9 
+21:49:59 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies:JSESSIONID=13F3BD20A7E8E6966B3360DDB6AA2686;_SESSIONKEY=37VJBVFW469OWRV6BQ58;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:17:38 GMT;_TOKEN=D5F98D41037204CF5CFC1F57960140B97B0F64E1463F1BFBBED1346D876632F61690B8A870949EE95EF43F531275BB9DAF0F9A94273A6456E6C539A534AFF58FD273EBB83EC39221A7EFD7AEF1744AC5 
+21:49:59 :xls.Status:切换到账号:904546102@qq.com,userId:232143,cookies:JSESSIONID=CB456C046E8307871326ACB21E0BE62C;_SESSIONKEY=8962Y1983693CZ464A99;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:19:10 GMT;_TOKEN=3A18A98BB7951277C0A904EBC4C2A3E22D29B8F157330CF25A945DE76FC09A1DCBE970251CACEA3B01CE88D4655C11C60AEABCBC571FD4272E0F23B64387803FD273EBB83EC39221A7EFD7AEF1744AC5 
+21:49:59 :xls.Status:切换到账号:17623877493,userId:579282697891,cookies:JSESSIONID=60158C4C5A8A7F1B257EE77338FF4B67;_SESSIONKEY=BGBC9PGA1PWF2EL1CKAM;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:20:10 GMT;_TOKEN=05AED4C868754136C9C30D3425ABB8BDA6682616A47D1BA64A560AB28121683AB7D3208CE87A84FC39D5353BE03C4CEA30653B5BBB70563CDE3809980186C41F9945BD4680A79FE8BA51DD63F84B778C 
+21:49:59 :xls.Status:切换到账号:17623476609,userId:579282679620,cookies:JSESSIONID=DCBC99C5BEBF0EB057A22D10AE455F86;_SESSIONKEY=R0LQ9JDX9L87DY7567M7;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:44:21 GMT;_TOKEN=EDF1AB21A803815CDBB2406480958D7AA4DF45562D68D929177F9B6916C9A605E39D682A7FF834444221B69509EC8D1632C6A4D23D7CECBE881768F54451B390D273EBB83EC39221A7EFD7AEF1744AC5 
+21:49:59 :xls.Status:切换到账号:15730361457,userId:579282697794,cookies:JSESSIONID=BB5B5283A86BB56A8E6188D599DF4D0B;_SESSIONKEY=I35GR7L18MIQU4P546T6;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:20:49 GMT;_TOKEN=711A4F9FA0DBF33AFD9E63D0FAE7388D35FE1173BBF5E3870387AEF777C9B4B3F0DC65ED4C46F22B773C17066424611EC2EDBBAD89591ECB28FD1BB8B706692C2862F3269340F615894C682A39A1DF80 
+21:49:59 :xls.Status:切换到账号:15730363368,userId:579282697814,cookies:JSESSIONID=9BBD87AF019915ED57B9185F827301DF;_SESSIONKEY=DS3X02202Y4ML43Y3B8D;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:21:25 GMT;_TOKEN=CED576E81FEBE2AE705E64B1BC427D535671F0F0FC16ACD5CE029C18F09A639802CC244E226DA77135969A2CAAA7BB9EAFA3B85B518C5E88D7167B64D668BEF9D273EBB83EC39221A7EFD7AEF1744AC5 
+21:49:59 :xls.Status:切换到账号:17360254616,userId:579282697884,cookies:JSESSIONID=EF52CDDFACCFB191B1EF76F4902606FE;_SESSIONKEY=X2SI32V00W0KI1JDUSIZ;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:22:07 GMT;_TOKEN=4C731AB331C70EF3A23B6BA7860DF12FD096A09C52611D2F49B70D67C52D819E00F7C0E41681704862FB6A6532BDEC40ACD7B0DAB1245492B61FFFEF3AF26E453A78997ADD944CD2B5090499B89A5423 
+21:49:59 :xls.Status:切换到账号:15827021295,userId:579282680737,cookies:JSESSIONID=ACF561C65F8E9923CDCC99A051253678;_SESSIONKEY=9DAJWJ93TY2K7X4K9JI3;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:22:43 GMT;_TOKEN=C3C03382083CED756974E157FA2140B1FDBB85D6A29DC8EEA212AA1F2320E9934482DA8F5FA023E1672A3C124EE76C650A091CB535179A3BADA10F0E6D45EA3E9FA13E6F02295A002924ABDE1C31DE1F 
+21:49:59 :xls.Status:切换到账号:15730362474,userId:579282695483,cookies:JSESSIONID=0434088B5FC57090FC9DB22609DBD904;_SESSIONKEY=QO75E74TKOV80CTEH4HL;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:23:19 GMT;_TOKEN=F9E461FF3D3A4F892F51D74456156930EF4901299B307867EEF1946731661C890D53417DB500B153E657C4E4E465242EA6E4B732EC512215148FE161C3AA3D05F82EACD8BAF142C9F0E64A3A62FE3A19 
+21:49:59 :xls.Status:切换到账号:511380795@qq.com,userId:,cookies: 
+21:49:59 :xls.Status:已登录13986274216 
+21:49:59 :xls.Status:已登录17623476609 
+21:50:00 :xls.Status:已登录17623877493 
+21:50:00 :xls.Status:已登录15730363368 
+21:50:00 :xls.Status:未登511380795@qq.com 
+21:50:00 :xls.Status:已登录15827021295 
+21:50:00 :xls.Status:已登录17360254616 
+21:50:00 :xls.Status:已登录15730361457 
+21:50:00 :xls.Status:已登录15808081216 
+21:50:00 :xls.Status:已登录15730362474 
+21:50:00 :xls.Status:已登录904546102@qq.com 
+21:50:00 :xls.Status:已登录liuchangm7j@vip.qq.com 
+21:50:06 :xls.Status:账号切换到[12]511380795@qq.com 
+21:50:06 :xls.Status:加载题库:511380795@qq.com 
+21:50:06 :xls.Status:加载目录失败,未登录511380795@qq.com,cookies: 
+21:50:06 :xls.Status:切换并登陆到账号:511380795@qq.com,userId:,cookies: 
+21:50:09 :xls.Status:GetVerUser:511380795@qq.com 
+21:50:13 :xls.Status:验证码:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+21:50:13 :xls.Status:JSESSIONID=A40FB6206C22880E1FD61450FFFF1E58;_SESSIONKEY=BHKAU4D6945312M66YUP;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 13:50:12 GMT;_TOKEN=1A02C286F33D1E9BA1918E757C7BE790B3554C023111EF92D3DF14D429F18ACB044F5DD242B8167A13B93F677908F0C3550CD21DBFE999DD6EF9454B896D0AAD2862F3269340F615894C682A39A1DF80 
+21:50:13 :xls.Status:欢迎您,null(511380795@qq.com) 
+21:50:15 :xls.Status:登录成功:宋文韬 
+21:50:15 :xls.Status:加载题库:511380795@qq.com 
+21:50:15 :xls.Status:获取到题目集数量:10 
+21:50:17 :xls.Status:习题已全部加载完成  UA/AC/All=0/0/472 
+21:50:17 :xls.Status:完成:已跳过,[T3]圆的面积
+ 
+21:50:17 :xls.Status:完成:已跳过,[T2]序列求和
+ 
+21:50:17 :xls.Status:完成:已跳过,[T1]A+B问题
+ 
+21:50:17 :xls.Status:完成:已跳过,[T125]兰顿蚂蚁
+ 
+21:50:17 :xls.Status:完成:已跳过,[T116]邮局
+ 
+21:50:17 :xls.Status:完成:已跳过,[T115]数字游戏
+ 
+21:50:17 :xls.Status:完成:已跳过,[T114]国王的烦恼
+ 
+21:50:17 :xls.Status:完成:已跳过,[T113]回文数字
+ 
+21:50:17 :xls.Status:完成:已跳过,[T43]公式求值
+ 
+21:50:17 :xls.Status:完成:已跳过,[T42]九宫重排
+ 
+21:50:17 :xls.Status:完成:已跳过,[T41]车轮轴迹
+ 
+21:50:17 :xls.Status:完成:已跳过,[T40]约数倍数选卡片
+ 
+21:50:17 :xls.Status:完成:已跳过,[T39]农场阳光
+ 
+21:50:17 :xls.Status:完成:已跳过,[T38]格子刷油漆
+ 
+21:50:17 :xls.Status:完成:已跳过,[T124]分糖果
+ 
+21:50:17 :xls.Status:完成:已跳过,[T37]高僧斗法
+ 
+21:50:17 :xls.Status:完成:已跳过,[T36]网络寻路
+ 
+21:50:17 :xls.Status:完成:已跳过,[T35]危险系数
+ 
+21:50:17 :xls.Status:完成:已跳过,[T34]横向打印二叉树
+ 
+21:50:17 :xls.Status:完成:已跳过,[T33]幸运数
+ 
+21:50:17 :xls.Status:完成:已跳过,[T32]大臣的旅费
+ 
+21:50:17 :xls.Status:完成:已跳过,[T31]买不到的数目
+ 
+21:50:17 :xls.Status:完成:已跳过,[T30]连号区间数
+ 
+21:50:17 :xls.Status:完成:已跳过,[T29]翻硬币
+ 
+21:50:17 :xls.Status:完成:已跳过,[T28]错误票据
+ 
+21:50:17 :xls.Status:完成:已跳过,[T123]小朋友排队
+ 
+21:50:17 :xls.Status:完成:已跳过,[T27]剪格子
+ 
+21:50:17 :xls.Status:完成:已跳过,[T26]带分数
+ 
+21:50:17 :xls.Status:完成:已跳过,[T25]打印十字图
+ 
+21:50:17 :xls.Status:完成:已跳过,[T24]核桃的数量
+ 
+21:50:17 :xls.Status:完成:已跳过,[T459]小计算器
+ 
+21:50:17 :xls.Status:完成:已跳过,[T458]合根植物
+ 
+21:50:17 :xls.Status:完成:已跳过,[T457]分考场
+ 
+21:50:17 :xls.Status:完成:已跳过,[T456]小数第n位
+ 
+21:50:17 :xls.Status:完成:已跳过,[T455]观光铁路
+ 
+21:50:17 :xls.Status:完成:已跳过,[T454]对局匹配
+ 
+21:50:17 :xls.Status:完成:已跳过,[T122]波动数列
+ 
+21:50:17 :xls.Status:完成:已跳过,[T453]发现环
+ 
+21:50:17 :xls.Status:完成:已跳过,[T452]数组操作
+ 
+21:50:17 :xls.Status:完成:已跳过,[T451]区间移位
+ 
+21:50:17 :xls.Status:完成:已跳过,[T450]填字母游戏
+ 
+21:50:17 :xls.Status:完成:已跳过,[T449]图形排版
+ 
+21:50:17 :xls.Status:完成:已跳过,[T448]青蛙跳杯子
+ 
+21:50:17 :xls.Status:完成:已跳过,[T447]拉马车
+ 
+21:50:17 :xls.Status:完成:已跳过,[T446]九宫幻方
+ 
+21:50:17 :xls.Status:完成:已跳过,[T445]Excel地址
+ 
+21:50:17 :xls.Status:完成:已跳过,[T444]k倍区间
+ 
+21:50:17 :xls.Status:完成:已跳过,[T121]斐波那契
+ 
+21:50:17 :xls.Status:完成:已跳过,[T443]日期问题
+ 
+21:50:17 :xls.Status:完成:已跳过,[T442]油漆面积
+ 
+21:50:17 :xls.Status:完成:已跳过,[T441]分巧克力
+ 
+21:50:17 :xls.Status:完成:已跳过,[T440]包子凑数
+ 
+21:50:17 :xls.Status:完成:已跳过,[T439]正则问题
+ 
+21:50:17 :xls.Status:完成:已跳过,[T120]地宫取宝
+ 
+21:50:17 :xls.Status:完成:已跳过,[T119]蚂蚁感冒
+ 
+21:50:17 :xls.Status:完成:已跳过,[T118]最大子阵
+ 
+21:50:17 :xls.Status:完成:已跳过,[T117]城市建设
+ 
+21:50:17 :xls.Status:完成:已跳过,[T51]十六进制转八进制
+ 
+21:50:17 :xls.Status:完成:已跳过,[T7]字母图形
+ 
+21:50:17 :xls.Status:完成:已跳过,[T6]01字串
+ 
+21:50:17 :xls.Status:完成:已跳过,[T5]闰年判断
+ 
+21:50:17 :xls.Status:完成:已跳过,[T71]阶乘计算
+ 
+21:50:17 :xls.Status:完成:已跳过,[T70]高精度加法
+ 
+21:50:17 :xls.Status:完成:已跳过,[T69]Huffuman树
+ 
+21:50:17 :xls.Status:完成:已跳过,[T68]2n皇后问题
+ 
+21:50:17 :xls.Status:完成:已跳过,[T67]报时助手
+ 
+21:50:17 :xls.Status:完成:已跳过,[T66]回形取数
+ 
+21:50:17 :xls.Status:完成:已跳过,[T65]龟兔赛跑预测
+ 
+21:50:17 :xls.Status:完成:已跳过,[T50]十六进制转十进制
+ 
+21:50:17 :xls.Status:完成:已跳过,[T64]芯片测试
+ 
+21:50:17 :xls.Status:完成:已跳过,[T63]FJ的字符串
+ 
+21:50:17 :xls.Status:完成:已跳过,[T62]Sine之舞
+ 
+21:50:17 :xls.Status:完成:已跳过,[T61]数的读法
+ 
+21:50:17 :xls.Status:完成:已跳过,[T60]完美的代价
+ 
+21:50:17 :xls.Status:完成:已跳过,[T59]矩形面积交
+ 
+21:50:17 :xls.Status:完成:已跳过,[T58]矩阵乘法
+ 
+21:50:17 :xls.Status:完成:已跳过,[T57]分解质因数
+ 
+21:50:17 :xls.Status:完成:已跳过,[T56]字符串对比
+ 
+21:50:17 :xls.Status:完成:已跳过,[T54]时间转换
+ 
+21:50:17 :xls.Status:完成:已跳过,[T49]十进制转十六进制
+ 
+21:50:17 :xls.Status:完成:已跳过,[T48]特殊回文数
+ 
+21:50:17 :xls.Status:完成:已跳过,[T47]回文数
+ 
+21:50:17 :xls.Status:完成:已跳过,[T46]特殊的数字
+ 
+21:50:17 :xls.Status:完成:已跳过,[T10]杨辉三角形
+ 
+21:50:17 :xls.Status:完成:已跳过,[T9]查找整数
+ 
+21:50:17 :xls.Status:完成:已跳过,[T8]数列特征
+ 
+21:50:18 :xls.Status:完成:已跳过,[T473]A Linking Loader
+ 
+21:50:18 :xls.Status:完成:已跳过,[T392]5-1最小公倍数
+ 
+21:50:18 :xls.Status:完成:已跳过,[T227]新生舞会
+ 
+21:50:18 :xls.Status:完成:已跳过,[T226]反置数
+ 
+21:50:18 :xls.Status:完成:已跳过,[T221]字符删除
+ 
+21:50:18 :xls.Status:完成:已跳过,[T220]字串统计
+ 
+21:50:18 :xls.Status:完成:已跳过,[T217]进制转换
+ 
+21:50:18 :xls.Status:完成:已跳过,[T213]阶乘
+ 
+21:50:18 :xls.Status:完成:已跳过,[T208]输出米字形
+ 
+21:50:18 :xls.Status:完成:已跳过,[T202]整数平均值
+ 
+21:50:18 :xls.Status:完成:已跳过,[T200]确定元音字母位置
+ 
+21:50:18 :xls.Status:完成:已跳过,[T188]斜率计算
+ 
+21:50:18 :xls.Status:完成:已跳过,[T372]P1103
+ 
+21:50:18 :xls.Status:完成:已跳过,[T187]十进制数转八进制数
+ 
+21:50:18 :xls.Status:完成:已跳过,[T182]筛选号码
+ 
+21:50:18 :xls.Status:完成:已跳过,[T180]连接字符串
+ 
+21:50:18 :xls.Status:完成:已跳过,[T174]统计字符次数
+ 
+21:50:18 :xls.Status:完成:已跳过,[T173]成绩的等级输出
+ 
+21:50:18 :xls.Status:完成:已跳过,[T170]比较字符串
+ 
+21:50:18 :xls.Status:完成:已跳过,[T169]最长字符串
+ 
+21:50:18 :xls.Status:完成:已跳过,[T168]字符串逆序
+ 
+21:50:18 :xls.Status:完成:已跳过,[T164]判定数字
+ 
+21:50:18 :xls.Status:完成:已跳过,[T161]最大值与最小值的计算
+ 
+21:50:18 :xls.Status:完成:已跳过,[T356]Lift and Throw
+ 
+21:50:18 :xls.Status:完成:已跳过,[T160]字符串编辑
+ 
+21:50:18 :xls.Status:完成:已跳过,[T159]比赛安排
+ 
+21:50:18 :xls.Status:完成:已跳过,[T153]大小写判断
+ 
+21:50:18 :xls.Status:完成:已跳过,[T151]乘法表
+ 
+21:50:18 :xls.Status:完成:已跳过,[T150]平方计算
+ 
+21:50:18 :xls.Status:完成:已跳过,[T149]奇偶判断
+ 
+21:50:18 :xls.Status:完成:已跳过,[T148]矩阵乘方
+ 
+21:50:18 :xls.Status:完成:已跳过,[T147]快速排序
+ 
+21:50:18 :xls.Status:完成:已跳过,[T146]字串逆序
+ 
+21:50:18 :xls.Status:完成:已跳过,[T144]删除多余括号
+ 
+21:50:18 :xls.Status:完成:已跳过,[T347]Multithreading
+ 
+21:50:18 :xls.Status:完成:已跳过,[T141]邮票
+ 
+21:50:18 :xls.Status:完成:已跳过,[T139]矩阵加法
+ 
+21:50:18 :xls.Status:完成:已跳过,[T138]简单加法(基本型)
+ 
+21:50:18 :xls.Status:完成:已跳过,[T131]排列问题
+ 
+21:50:18 :xls.Status:完成:已跳过,[T128]数组查找及替换
+ 
+21:50:18 :xls.Status:完成:已跳过,[T109]蜜蜂飞舞
+ 
+21:50:18 :xls.Status:完成:已跳过,[T108]Hanoi问题
+ 
+21:50:18 :xls.Status:完成:已跳过,[T107]调和数列问题
+ 
+21:50:18 :xls.Status:完成:已跳过,[T105]会议中心
+ 
+21:50:18 :xls.Status:完成:已跳过,[T104]采油区域
+ 
+21:50:18 :xls.Status:完成:已跳过,[T344]Tricky and Clever Password
+ 
+21:50:18 :xls.Status:完成:已跳过,[T103]A+B Problem
+ 
+21:50:18 :xls.Status:完成:已跳过,[T101]数组排序去重
+ 
+21:50:18 :xls.Status:完成:已跳过,[T100]接水问题
+ 
+21:50:18 :xls.Status:完成:已跳过,[T99]Hankson的趣味题
+ 
+21:50:18 :xls.Status:完成:已跳过,[T98]传纸条
+ 
+21:50:18 :xls.Status:完成:已跳过,[T97]传球游戏
+ 
+21:50:18 :xls.Status:完成:已跳过,[T96]纪念品分组
+ 
+21:50:18 :xls.Status:完成:已跳过,[T95]数列
+ 
+21:50:18 :xls.Status:完成:已跳过,[T94]JAM计数法
+ 
+21:50:18 :xls.Status:完成:已跳过,[T93]开心的金明
+ 
+21:50:18 :xls.Status:完成:已跳过,[T340]Beaver's Calculator
+ 
+21:50:18 :xls.Status:完成:已跳过,[T92]入学考试
+ 
+21:50:18 :xls.Status:完成:已跳过,[T91]校门外的树
+ 
+21:50:18 :xls.Status:完成:已跳过,[T90]星际交流
+ 
+21:50:18 :xls.Status:完成:已跳过,[T89]FBI树
+ 
+21:50:18 :xls.Status:完成:已跳过,[T88]麦森数
+ 
+21:50:18 :xls.Status:完成:已跳过,[T87]Car的旅行路线
+ 
+21:50:18 :xls.Status:完成:已跳过,[T86]统计单词个数
+ 
+21:50:18 :xls.Status:完成:已跳过,[T85]一元三次方程求解
+ 
+21:50:18 :xls.Status:完成:已跳过,[T84]数的划分
+ 
+21:50:18 :xls.Status:完成:已跳过,[T83]装箱问题
+ 
+21:50:18 :xls.Status:完成:已跳过,[T336]Cowboys
+ 
+21:50:18 :xls.Status:完成:已跳过,[T82]求先序排列
+ 
+21:50:18 :xls.Status:完成:已跳过,[T79]方格取数
+ 
+21:50:18 :xls.Status:完成:已跳过,[T78]单词接龙
+ 
+21:50:18 :xls.Status:完成:已跳过,[T77]乘积最大
+ 
+21:50:18 :xls.Status:完成:已跳过,[T76]进制转换
+ 
+21:50:18 :xls.Status:完成:已跳过,[T75]旅行家的预算
+ 
+21:50:18 :xls.Status:完成:已跳过,[T74]回文数
+ 
+21:50:18 :xls.Status:完成:已跳过,[T73]拦截导弹
+ 
+21:50:18 :xls.Status:完成:已跳过,[T72]幂方分解
+ 
+21:50:18 :xls.Status:完成:已跳过,[T55]瓷砖铺放
+ 
+21:50:18 :xls.Status:完成:已跳过,[T312]数字三角形
+ 
+21:50:18 :xls.Status:完成:已跳过,[T53]集合运算
+ 
+21:50:18 :xls.Status:完成:已跳过,[T44]摆动序列
+ 
+21:50:18 :xls.Status:完成:已跳过,[T303]未名湖边的烦恼
+ 
+21:50:18 :xls.Status:完成:已跳过,[T294]最大的算式
+ 
+21:50:18 :xls.Status:完成:已跳过,[T461]Glenbow Museum
+ 
+21:50:18 :xls.Status:完成:已跳过,[T247]图形显示
+ 
+21:50:18 :xls.Status:完成:已跳过,[T243]排序
+ 
+21:50:18 :xls.Status:完成:已跳过,[T235]2的次幂表示
+ 
+21:50:18 :xls.Status:完成:已跳过,[T225]前缀表达式
+ 
+21:50:18 :xls.Status:完成:已跳过,[T223]Anagrams问题
+ 
+21:50:18 :xls.Status:完成:已跳过,[T222]出现次数最多的整数
+ 
+21:50:18 :xls.Status:完成:已跳过,[T219]字串统计
+ 
+21:50:18 :xls.Status:完成:已跳过,[T218]矩阵乘法
+ 
+21:50:18 :xls.Status:完成:已跳过,[T216]大小写转换
+ 
+21:50:18 :xls.Status:完成:已跳过,[T205]动态数组使用
+ 
+21:50:18 :xls.Status:完成:已跳过,[T460]Pollution Solution
+ 
+21:50:18 :xls.Status:完成:已跳过,[T201]删除数组零元素
+ 
+21:50:18 :xls.Status:完成:已跳过,[T133]最小乘积(基本型)
+ 
+21:50:18 :xls.Status:完成:已跳过,[T129]Torry的困惑(基本型)
+ 
+21:50:18 :xls.Status:完成:已跳过,[T111]寻找数组中最大值
+ 
+21:50:18 :xls.Status:完成:已跳过,[T110]关联矩阵
+ 
+21:50:18 :xls.Status:完成:已跳过,[T106]送分啦
+ 
+21:50:18 :xls.Status:完成:已跳过,[T18]操作格子
+ 
+21:50:18 :xls.Status:完成:已跳过,[T17]逆序对
+ 
+21:50:18 :xls.Status:完成:已跳过,[T16]安慰奶牛
+ 
+21:50:18 :xls.Status:完成:已跳过,[T15]最短路
+ 
+21:50:18 :xls.Status:完成:已跳过,[T434]Airport Configuration
+ 
+21:50:18 :xls.Status:完成:已跳过,[T14]结点选择
+ 
+21:50:18 :xls.Status:完成:已跳过,[T13]K好数
+ 
+21:50:18 :xls.Status:完成:已跳过,[T12]最大最小公倍数
+ 
+21:50:18 :xls.Status:完成:已跳过,[T11]区间k大数查询
+ 
+21:50:18 :xls.Status:下载题目测试数据 
+21:50:18 :xls.Status:{"itemid":"2030863","msg":"提交成功。","ret":"1"} 
+21:50:18 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+21:50:23 :xls.Status:DownloadAllFile:2030863,共计50组测试数据 
+21:50:23 :xls.Status:下载题目数据:T481-23.inp 
+21:50:23 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:26 :xls.Status:下载题目数据:T481-24.inp 
+21:50:26 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:28 :xls.Status:下载题目数据:T481-25.inp 
+21:50:28 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:30 :xls.Status:下载题目数据:T481-26.inp 
+21:50:30 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:32 :xls.Status:下载题目数据:T481-27.inp 
+21:50:32 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:34 :xls.Status:下载题目数据:T481-28.inp 
+21:50:34 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:36 :xls.Status:下载题目数据:T481-29.inp 
+21:50:36 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:38 :xls.Status:下载题目数据:T481-30.inp 
+21:50:38 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:40 :xls.Status:下载题目数据:T481-31.inp 
+21:50:40 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:42 :xls.Status:下载题目数据:T481-32.inp 
+21:50:42 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:44 :xls.Status:用户不可继续获取数据:T481-inp33 
+21:50:44 :xls.Status:账号切换到[1]liuchangm7j@vip.qq.com 
+21:50:44 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=83055DFCB542A1371125EB880C65EC5C;_SESSIONKEY=YSN7V2P401B0K098K4KA;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:13:10 GMT;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBC21AD3FA6FA549CC73FBA7B7133B04A75DDF0B09D101916B05E2D340C1D75711E3A78997ADD944CD2B5090499B89A5423 
+21:50:45 :xls.Status:已登录liuchangm7j@vip.qq.com 
+21:50:45 :xls.Status:加载题库:liuchangm7j@vip.qq.com 
+21:50:45 :xls.Status:获取到题目集数量:10 
+21:50:48 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+21:50:48 :xls.Status:完成:已跳过,[T39]农场阳光
+ 
+21:50:48 :xls.Status:完成:已跳过,[T457]分考场
+ 
+21:50:48 :xls.Status:完成:已跳过,[T455]观光铁路
+ 
+21:50:48 :xls.Status:完成:已跳过,[T452]数组操作
+ 
+21:50:48 :xls.Status:完成:已跳过,[T451]区间移位
+ 
+21:50:48 :xls.Status:完成:已跳过,[T450]填字母游戏
+ 
+21:50:48 :xls.Status:完成:已跳过,[T449]图形排版
+ 
+21:50:48 :xls.Status:完成:已跳过,[T448]青蛙跳杯子
+ 
+21:50:48 :xls.Status:完成:已跳过,[T446]九宫幻方
+ 
+21:50:48 :xls.Status:完成:已跳过,[T442]油漆面积
+ 
+21:50:48 :xls.Status:完成:已跳过,[T472]Navigation
+ 
+21:50:48 :xls.Status:完成:已跳过,[T229]欧拉函数
+ 
+21:50:48 :xls.Status:完成:已跳过,[T214]单词个数统计
+ 
+21:50:48 :xls.Status:完成:已跳过,[T157]乘法运算
+ 
+21:50:48 :xls.Status:完成:已跳过,[T380]矩阵相乘
+ 
+21:50:48 :xls.Status:下载题目测试数据 
+21:50:48 :xls.Status:{"itemid":"2030867","msg":"提交成功。","ret":"1"} 
+21:50:48 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+21:50:54 :xls.Status:DownloadAllFile:2030867,共计10组测试数据 
+21:50:54 :xls.Status:下载题目数据:T291-5.outp 
+21:50:54 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:54 :xls.Status:{"info":"ERROR。","ret":"0"} 
+21:50:54 :xls.Status:账号切换到[2]13986274216 
+21:50:54 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=7AF4FADC44880A792C890218A4BBF997;_SESSIONKEY=16K1DEP6CW414GIC2308;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:14:15 GMT;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F5EE328A0042085DED11A1BAEFB917C8208D6BA94092D88E85AB5E00579E833AFBE65B1862FA45291547112D139F441CE9 
+21:50:54 :xls.Status:已登录13986274216 
+21:50:54 :xls.Status:加载题库:13986274216 
+21:50:54 :xls.Status:获取到题目集数量:10 
+21:50:55 :xls.Status:习题已全部加载完成  UA/AC/All=0/4/472 
+21:50:55 :xls.Status:完成:已跳过,[T3]圆的面积
+ 
+21:50:55 :xls.Status:完成:已跳过,[T2]序列求和
+ 
+21:50:55 :xls.Status:完成:已跳过,[T1]A+B问题
+ 
+21:50:55 :xls.Status:完成:已跳过,[T51]十六进制转八进制
+ 
+21:50:55 :xls.Status:完成:已跳过,[T7]字母图形
+ 
+21:50:56 :xls.Status:完成:已跳过,[T6]01字串
+ 
+21:50:56 :xls.Status:完成:已跳过,[T5]闰年判断
+ 
+21:50:56 :xls.Status:完成:已跳过,[T71]阶乘计算
+ 
+21:50:56 :xls.Status:完成:已跳过,[T70]高精度加法
+ 
+21:50:56 :xls.Status:完成:已跳过,[T69]Huffuman树
+ 
+21:50:56 :xls.Status:完成:已跳过,[T67]报时助手
+ 
+21:50:56 :xls.Status:完成:已跳过,[T66]回形取数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T65]龟兔赛跑预测
+ 
+21:50:56 :xls.Status:完成:已跳过,[T50]十六进制转十进制
+ 
+21:50:56 :xls.Status:完成:已跳过,[T64]芯片测试
+ 
+21:50:56 :xls.Status:完成:已跳过,[T63]FJ的字符串
+ 
+21:50:56 :xls.Status:完成:已跳过,[T62]Sine之舞
+ 
+21:50:56 :xls.Status:完成:已跳过,[T61]数的读法
+ 
+21:50:56 :xls.Status:完成:已跳过,[T60]完美的代价
+ 
+21:50:56 :xls.Status:完成:已跳过,[T56]字符串对比
+ 
+21:50:56 :xls.Status:完成:已跳过,[T54]时间转换
+ 
+21:50:56 :xls.Status:完成:已跳过,[T49]十进制转十六进制
+ 
+21:50:56 :xls.Status:完成:已跳过,[T48]特殊回文数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T47]回文数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T46]特殊的数字
+ 
+21:50:56 :xls.Status:完成:已跳过,[T10]杨辉三角形
+ 
+21:50:56 :xls.Status:完成:已跳过,[T9]查找整数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T8]数列特征
+ 
+21:50:56 :xls.Status:完成:已跳过,[T473]A Linking Loader
+ 
+21:50:56 :xls.Status:完成:已跳过,[T392]5-1最小公倍数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T227]新生舞会
+ 
+21:50:56 :xls.Status:完成:已跳过,[T226]反置数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T221]字符删除
+ 
+21:50:56 :xls.Status:完成:已跳过,[T220]字串统计
+ 
+21:50:56 :xls.Status:完成:已跳过,[T217]进制转换
+ 
+21:50:56 :xls.Status:完成:已跳过,[T213]阶乘
+ 
+21:50:56 :xls.Status:完成:已跳过,[T208]输出米字形
+ 
+21:50:56 :xls.Status:完成:已跳过,[T202]整数平均值
+ 
+21:50:56 :xls.Status:完成:已跳过,[T200]确定元音字母位置
+ 
+21:50:56 :xls.Status:完成:已跳过,[T188]斜率计算
+ 
+21:50:56 :xls.Status:完成:已跳过,[T372]P1103
+ 
+21:50:56 :xls.Status:完成:已跳过,[T187]十进制数转八进制数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T182]筛选号码
+ 
+21:50:56 :xls.Status:完成:已跳过,[T180]连接字符串
+ 
+21:50:56 :xls.Status:完成:已跳过,[T174]统计字符次数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T173]成绩的等级输出
+ 
+21:50:56 :xls.Status:完成:已跳过,[T170]比较字符串
+ 
+21:50:56 :xls.Status:完成:已跳过,[T169]最长字符串
+ 
+21:50:56 :xls.Status:完成:已跳过,[T168]字符串逆序
+ 
+21:50:56 :xls.Status:完成:已跳过,[T164]判定数字
+ 
+21:50:56 :xls.Status:完成:已跳过,[T161]最大值与最小值的计算
+ 
+21:50:56 :xls.Status:完成:已跳过,[T356]Lift and Throw
+ 
+21:50:56 :xls.Status:完成:已跳过,[T160]字符串编辑
+ 
+21:50:56 :xls.Status:完成:已跳过,[T159]比赛安排
+ 
+21:50:56 :xls.Status:完成:已跳过,[T153]大小写判断
+ 
+21:50:56 :xls.Status:完成:已跳过,[T151]乘法表
+ 
+21:50:56 :xls.Status:完成:已跳过,[T150]平方计算
+ 
+21:50:56 :xls.Status:完成:已跳过,[T149]奇偶判断
+ 
+21:50:56 :xls.Status:完成:已跳过,[T148]矩阵乘方
+ 
+21:50:56 :xls.Status:完成:已跳过,[T147]快速排序
+ 
+21:50:56 :xls.Status:完成:已跳过,[T146]字串逆序
+ 
+21:50:56 :xls.Status:完成:已跳过,[T144]删除多余括号
+ 
+21:50:56 :xls.Status:完成:已跳过,[T347]Multithreading
+ 
+21:50:56 :xls.Status:完成:已跳过,[T141]邮票
+ 
+21:50:56 :xls.Status:完成:已跳过,[T139]矩阵加法
+ 
+21:50:56 :xls.Status:完成:已跳过,[T138]简单加法(基本型)
+ 
+21:50:56 :xls.Status:完成:已跳过,[T131]排列问题
+ 
+21:50:56 :xls.Status:完成:已跳过,[T128]数组查找及替换
+ 
+21:50:56 :xls.Status:完成:已跳过,[T109]蜜蜂飞舞
+ 
+21:50:56 :xls.Status:完成:已跳过,[T108]Hanoi问题
+ 
+21:50:56 :xls.Status:完成:已跳过,[T107]调和数列问题
+ 
+21:50:56 :xls.Status:完成:已跳过,[T105]会议中心
+ 
+21:50:56 :xls.Status:完成:已跳过,[T104]采油区域
+ 
+21:50:56 :xls.Status:完成:已跳过,[T344]Tricky and Clever Password
+ 
+21:50:56 :xls.Status:完成:已跳过,[T103]A+B Problem
+ 
+21:50:56 :xls.Status:完成:已跳过,[T101]数组排序去重
+ 
+21:50:56 :xls.Status:完成:已跳过,[T100]接水问题
+ 
+21:50:56 :xls.Status:完成:已跳过,[T99]Hankson的趣味题
+ 
+21:50:56 :xls.Status:完成:已跳过,[T98]传纸条
+ 
+21:50:56 :xls.Status:完成:已跳过,[T97]传球游戏
+ 
+21:50:56 :xls.Status:完成:已跳过,[T96]纪念品分组
+ 
+21:50:56 :xls.Status:完成:已跳过,[T95]数列
+ 
+21:50:56 :xls.Status:完成:已跳过,[T94]JAM计数法
+ 
+21:50:56 :xls.Status:完成:已跳过,[T93]开心的金明
+ 
+21:50:56 :xls.Status:完成:已跳过,[T340]Beaver's Calculator
+ 
+21:50:56 :xls.Status:完成:已跳过,[T92]入学考试
+ 
+21:50:56 :xls.Status:完成:已跳过,[T91]校门外的树
+ 
+21:50:56 :xls.Status:完成:已跳过,[T90]星际交流
+ 
+21:50:56 :xls.Status:完成:已跳过,[T89]FBI树
+ 
+21:50:56 :xls.Status:完成:已跳过,[T88]麦森数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T87]Car的旅行路线
+ 
+21:50:56 :xls.Status:完成:已跳过,[T86]统计单词个数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T85]一元三次方程求解
+ 
+21:50:56 :xls.Status:完成:已跳过,[T84]数的划分
+ 
+21:50:56 :xls.Status:完成:已跳过,[T83]装箱问题
+ 
+21:50:56 :xls.Status:完成:已跳过,[T336]Cowboys
+ 
+21:50:56 :xls.Status:完成:已跳过,[T82]求先序排列
+ 
+21:50:56 :xls.Status:完成:已跳过,[T79]方格取数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T78]单词接龙
+ 
+21:50:56 :xls.Status:完成:已跳过,[T77]乘积最大
+ 
+21:50:56 :xls.Status:完成:已跳过,[T76]进制转换
+ 
+21:50:56 :xls.Status:完成:已跳过,[T75]旅行家的预算
+ 
+21:50:56 :xls.Status:完成:已跳过,[T74]回文数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T73]拦截导弹
+ 
+21:50:56 :xls.Status:完成:已跳过,[T72]幂方分解
+ 
+21:50:56 :xls.Status:完成:已跳过,[T55]瓷砖铺放
+ 
+21:50:56 :xls.Status:完成:已跳过,[T312]数字三角形
+ 
+21:50:56 :xls.Status:完成:已跳过,[T53]集合运算
+ 
+21:50:56 :xls.Status:完成:已跳过,[T44]摆动序列
+ 
+21:50:56 :xls.Status:完成:已跳过,[T303]未名湖边的烦恼
+ 
+21:50:56 :xls.Status:完成:已跳过,[T294]最大的算式
+ 
+21:50:56 :xls.Status:完成:已跳过,[T461]Glenbow Museum
+ 
+21:50:56 :xls.Status:完成:已跳过,[T247]图形显示
+ 
+21:50:56 :xls.Status:完成:已跳过,[T243]排序
+ 
+21:50:56 :xls.Status:完成:已跳过,[T235]2的次幂表示
+ 
+21:50:56 :xls.Status:完成:已跳过,[T225]前缀表达式
+ 
+21:50:56 :xls.Status:完成:已跳过,[T223]Anagrams问题
+ 
+21:50:56 :xls.Status:完成:已跳过,[T222]出现次数最多的整数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T219]字串统计
+ 
+21:50:56 :xls.Status:完成:已跳过,[T218]矩阵乘法
+ 
+21:50:56 :xls.Status:完成:已跳过,[T216]大小写转换
+ 
+21:50:56 :xls.Status:完成:已跳过,[T205]动态数组使用
+ 
+21:50:56 :xls.Status:完成:已跳过,[T460]Pollution Solution
+ 
+21:50:56 :xls.Status:完成:已跳过,[T201]删除数组零元素
+ 
+21:50:56 :xls.Status:完成:已跳过,[T133]最小乘积(基本型)
+ 
+21:50:56 :xls.Status:完成:已跳过,[T129]Torry的困惑(基本型)
+ 
+21:50:56 :xls.Status:完成:已跳过,[T111]寻找数组中最大值
+ 
+21:50:56 :xls.Status:完成:已跳过,[T110]关联矩阵
+ 
+21:50:56 :xls.Status:完成:已跳过,[T106]送分啦
+ 
+21:50:56 :xls.Status:完成:已跳过,[T18]操作格子
+ 
+21:50:56 :xls.Status:完成:已跳过,[T17]逆序对
+ 
+21:50:56 :xls.Status:完成:已跳过,[T16]安慰奶牛
+ 
+21:50:56 :xls.Status:完成:已跳过,[T15]最短路
+ 
+21:50:56 :xls.Status:完成:已跳过,[T434]Airport Configuration
+ 
+21:50:56 :xls.Status:完成:已跳过,[T14]结点选择
+ 
+21:50:56 :xls.Status:完成:已跳过,[T13]K好数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T12]最大最小公倍数
+ 
+21:50:56 :xls.Status:完成:已跳过,[T11]区间k大数查询
+ 
+21:50:56 :xls.Status:下载题目测试数据 
+21:50:56 :xls.Status:下载题目数据:T291-6.outp 
+21:50:56 :xls.Status:下载数据防ban间隔...2000ms 
+21:50:56 :xls.Status:{"itemid":"2030869","msg":"提交成功。","ret":"1"} 
+21:50:56 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+21:50:57 :xls.Status:{"info":"ERROR。","ret":"0"} 
+21:50:57 :xls.Status:账号切换到[3]15808081216 
+21:50:57 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies:JSESSIONID=13F3BD20A7E8E6966B3360DDB6AA2686;_SESSIONKEY=37VJBVFW469OWRV6BQ58;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:17:38 GMT;_TOKEN=D5F98D41037204CF5CFC1F57960140B97B0F64E1463F1BFBBED1346D876632F61690B8A870949EE95EF43F531275BB9DAF0F9A94273A6456E6C539A534AFF58FD273EBB83EC39221A7EFD7AEF1744AC5 
+21:50:57 :xls.Status:已登录15808081216 
+21:50:57 :xls.Status:加载题库:15808081216 
+21:50:57 :xls.Status:获取到题目集数量:10 
+21:50:59 :xls.Status:习题已全部加载完成  UA/AC/All=0/4/472 
+21:50:59 :xls.Status:完成:已跳过,[T3]圆的面积
+ 
+21:50:59 :xls.Status:完成:已跳过,[T2]序列求和
+ 
+21:50:59 :xls.Status:完成:已跳过,[T1]A+B问题
+ 
+21:50:59 :xls.Status:完成:已跳过,[T51]十六进制转八进制
+ 
+21:50:59 :xls.Status:完成:已跳过,[T7]字母图形
+ 
+21:50:59 :xls.Status:完成:已跳过,[T6]01字串
+ 
+21:50:59 :xls.Status:完成:已跳过,[T68]2n皇后问题
+ 
+21:50:59 :xls.Status:完成:已跳过,[T67]报时助手
+ 
+21:50:59 :xls.Status:完成:已跳过,[T66]回形取数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T65]龟兔赛跑预测
+ 
+21:50:59 :xls.Status:完成:已跳过,[T50]十六进制转十进制
+ 
+21:50:59 :xls.Status:完成:已跳过,[T64]芯片测试
+ 
+21:50:59 :xls.Status:完成:已跳过,[T63]FJ的字符串
+ 
+21:50:59 :xls.Status:完成:已跳过,[T62]Sine之舞
+ 
+21:50:59 :xls.Status:完成:已跳过,[T61]数的读法
+ 
+21:50:59 :xls.Status:完成:已跳过,[T60]完美的代价
+ 
+21:50:59 :xls.Status:完成:已跳过,[T59]矩形面积交
+ 
+21:50:59 :xls.Status:完成:已跳过,[T58]矩阵乘法
+ 
+21:50:59 :xls.Status:完成:已跳过,[T57]分解质因数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T56]字符串对比
+ 
+21:50:59 :xls.Status:完成:已跳过,[T54]时间转换
+ 
+21:50:59 :xls.Status:完成:已跳过,[T49]十进制转十六进制
+ 
+21:50:59 :xls.Status:完成:已跳过,[T48]特殊回文数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T47]回文数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T46]特殊的数字
+ 
+21:50:59 :xls.Status:完成:已跳过,[T10]杨辉三角形
+ 
+21:50:59 :xls.Status:完成:已跳过,[T9]查找整数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T8]数列特征
+ 
+21:50:59 :xls.Status:完成:已跳过,[T473]A Linking Loader
+ 
+21:50:59 :xls.Status:完成:已跳过,[T392]5-1最小公倍数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T227]新生舞会
+ 
+21:50:59 :xls.Status:完成:已跳过,[T226]反置数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T221]字符删除
+ 
+21:50:59 :xls.Status:完成:已跳过,[T220]字串统计
+ 
+21:50:59 :xls.Status:完成:已跳过,[T217]进制转换
+ 
+21:50:59 :xls.Status:完成:已跳过,[T213]阶乘
+ 
+21:50:59 :xls.Status:完成:已跳过,[T208]输出米字形
+ 
+21:50:59 :xls.Status:完成:已跳过,[T202]整数平均值
+ 
+21:50:59 :xls.Status:完成:已跳过,[T200]确定元音字母位置
+ 
+21:50:59 :xls.Status:完成:已跳过,[T188]斜率计算
+ 
+21:50:59 :xls.Status:完成:已跳过,[T372]P1103
+ 
+21:50:59 :xls.Status:完成:已跳过,[T187]十进制数转八进制数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T182]筛选号码
+ 
+21:50:59 :xls.Status:完成:已跳过,[T180]连接字符串
+ 
+21:50:59 :xls.Status:完成:已跳过,[T174]统计字符次数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T173]成绩的等级输出
+ 
+21:50:59 :xls.Status:完成:已跳过,[T170]比较字符串
+ 
+21:50:59 :xls.Status:完成:已跳过,[T169]最长字符串
+ 
+21:50:59 :xls.Status:完成:已跳过,[T168]字符串逆序
+ 
+21:50:59 :xls.Status:完成:已跳过,[T164]判定数字
+ 
+21:50:59 :xls.Status:完成:已跳过,[T161]最大值与最小值的计算
+ 
+21:50:59 :xls.Status:完成:已跳过,[T356]Lift and Throw
+ 
+21:50:59 :xls.Status:完成:已跳过,[T160]字符串编辑
+ 
+21:50:59 :xls.Status:完成:已跳过,[T159]比赛安排
+ 
+21:50:59 :xls.Status:完成:已跳过,[T153]大小写判断
+ 
+21:50:59 :xls.Status:完成:已跳过,[T151]乘法表
+ 
+21:50:59 :xls.Status:完成:已跳过,[T150]平方计算
+ 
+21:50:59 :xls.Status:完成:已跳过,[T149]奇偶判断
+ 
+21:50:59 :xls.Status:完成:已跳过,[T148]矩阵乘方
+ 
+21:50:59 :xls.Status:完成:已跳过,[T147]快速排序
+ 
+21:50:59 :xls.Status:完成:已跳过,[T146]字串逆序
+ 
+21:50:59 :xls.Status:完成:已跳过,[T144]删除多余括号
+ 
+21:50:59 :xls.Status:完成:已跳过,[T347]Multithreading
+ 
+21:50:59 :xls.Status:完成:已跳过,[T141]邮票
+ 
+21:50:59 :xls.Status:完成:已跳过,[T139]矩阵加法
+ 
+21:50:59 :xls.Status:完成:已跳过,[T138]简单加法(基本型)
+ 
+21:50:59 :xls.Status:完成:已跳过,[T131]排列问题
+ 
+21:50:59 :xls.Status:完成:已跳过,[T128]数组查找及替换
+ 
+21:50:59 :xls.Status:完成:已跳过,[T109]蜜蜂飞舞
+ 
+21:50:59 :xls.Status:完成:已跳过,[T108]Hanoi问题
+ 
+21:50:59 :xls.Status:完成:已跳过,[T107]调和数列问题
+ 
+21:50:59 :xls.Status:完成:已跳过,[T105]会议中心
+ 
+21:50:59 :xls.Status:完成:已跳过,[T104]采油区域
+ 
+21:50:59 :xls.Status:完成:已跳过,[T344]Tricky and Clever Password
+ 
+21:50:59 :xls.Status:完成:已跳过,[T103]A+B Problem
+ 
+21:50:59 :xls.Status:完成:已跳过,[T101]数组排序去重
+ 
+21:50:59 :xls.Status:完成:已跳过,[T100]接水问题
+ 
+21:50:59 :xls.Status:完成:已跳过,[T99]Hankson的趣味题
+ 
+21:50:59 :xls.Status:完成:已跳过,[T98]传纸条
+ 
+21:50:59 :xls.Status:完成:已跳过,[T97]传球游戏
+ 
+21:50:59 :xls.Status:完成:已跳过,[T96]纪念品分组
+ 
+21:50:59 :xls.Status:完成:已跳过,[T95]数列
+ 
+21:50:59 :xls.Status:完成:已跳过,[T94]JAM计数法
+ 
+21:50:59 :xls.Status:完成:已跳过,[T93]开心的金明
+ 
+21:50:59 :xls.Status:完成:已跳过,[T340]Beaver's Calculator
+ 
+21:50:59 :xls.Status:完成:已跳过,[T92]入学考试
+ 
+21:50:59 :xls.Status:完成:已跳过,[T91]校门外的树
+ 
+21:50:59 :xls.Status:完成:已跳过,[T90]星际交流
+ 
+21:50:59 :xls.Status:完成:已跳过,[T89]FBI树
+ 
+21:50:59 :xls.Status:完成:已跳过,[T88]麦森数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T87]Car的旅行路线
+ 
+21:50:59 :xls.Status:完成:已跳过,[T86]统计单词个数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T85]一元三次方程求解
+ 
+21:50:59 :xls.Status:完成:已跳过,[T84]数的划分
+ 
+21:50:59 :xls.Status:完成:已跳过,[T83]装箱问题
+ 
+21:50:59 :xls.Status:完成:已跳过,[T336]Cowboys
+ 
+21:50:59 :xls.Status:完成:已跳过,[T82]求先序排列
+ 
+21:50:59 :xls.Status:完成:已跳过,[T79]方格取数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T78]单词接龙
+ 
+21:50:59 :xls.Status:完成:已跳过,[T77]乘积最大
+ 
+21:50:59 :xls.Status:完成:已跳过,[T76]进制转换
+ 
+21:50:59 :xls.Status:完成:已跳过,[T75]旅行家的预算
+ 
+21:50:59 :xls.Status:完成:已跳过,[T74]回文数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T73]拦截导弹
+ 
+21:50:59 :xls.Status:完成:已跳过,[T72]幂方分解
+ 
+21:50:59 :xls.Status:完成:已跳过,[T55]瓷砖铺放
+ 
+21:50:59 :xls.Status:完成:已跳过,[T312]数字三角形
+ 
+21:50:59 :xls.Status:完成:已跳过,[T53]集合运算
+ 
+21:50:59 :xls.Status:完成:已跳过,[T44]摆动序列
+ 
+21:50:59 :xls.Status:完成:已跳过,[T303]未名湖边的烦恼
+ 
+21:50:59 :xls.Status:完成:已跳过,[T294]最大的算式
+ 
+21:50:59 :xls.Status:完成:已跳过,[T461]Glenbow Museum
+ 
+21:50:59 :xls.Status:完成:已跳过,[T247]图形显示
+ 
+21:50:59 :xls.Status:完成:已跳过,[T243]排序
+ 
+21:50:59 :xls.Status:完成:已跳过,[T235]2的次幂表示
+ 
+21:50:59 :xls.Status:完成:已跳过,[T225]前缀表达式
+ 
+21:50:59 :xls.Status:完成:已跳过,[T223]Anagrams问题
+ 
+21:50:59 :xls.Status:完成:已跳过,[T222]出现次数最多的整数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T219]字串统计
+ 
+21:50:59 :xls.Status:完成:已跳过,[T218]矩阵乘法
+ 
+21:50:59 :xls.Status:完成:已跳过,[T216]大小写转换
+ 
+21:50:59 :xls.Status:完成:已跳过,[T205]动态数组使用
+ 
+21:50:59 :xls.Status:完成:已跳过,[T460]Pollution Solution
+ 
+21:50:59 :xls.Status:完成:已跳过,[T201]删除数组零元素
+ 
+21:50:59 :xls.Status:完成:已跳过,[T133]最小乘积(基本型)
+ 
+21:50:59 :xls.Status:完成:已跳过,[T129]Torry的困惑(基本型)
+ 
+21:50:59 :xls.Status:完成:已跳过,[T111]寻找数组中最大值
+ 
+21:50:59 :xls.Status:完成:已跳过,[T110]关联矩阵
+ 
+21:50:59 :xls.Status:完成:已跳过,[T106]送分啦
+ 
+21:50:59 :xls.Status:完成:已跳过,[T18]操作格子
+ 
+21:50:59 :xls.Status:完成:已跳过,[T17]逆序对
+ 
+21:50:59 :xls.Status:完成:已跳过,[T16]安慰奶牛
+ 
+21:50:59 :xls.Status:完成:已跳过,[T15]最短路
+ 
+21:50:59 :xls.Status:完成:已跳过,[T434]Airport Configuration
+ 
+21:50:59 :xls.Status:完成:已跳过,[T14]结点选择
+ 
+21:50:59 :xls.Status:完成:已跳过,[T13]K好数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T12]最大最小公倍数
+ 
+21:50:59 :xls.Status:完成:已跳过,[T11]区间k大数查询
+ 
+21:50:59 :xls.Status:下载题目测试数据 
+21:50:59 :xls.Status:DownloadAllFile:2030758,共计50组测试数据 
+21:50:59 :xls.Status:下载题目数据:T481-33.inp 
+21:50:59 :xls.Status:下载数据防ban间隔...2000ms 
+21:51:00 :xls.Status:{"info":"ERROR。","ret":"0"} 
+21:51:00 :xls.Status:账号切换到[4]904546102@qq.com 
+21:51:00 :xls.Status:切换到账号:904546102@qq.com,userId:232143,cookies:JSESSIONID=CB456C046E8307871326ACB21E0BE62C;_SESSIONKEY=8962Y1983693CZ464A99;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:19:10 GMT;_TOKEN=3A18A98BB7951277C0A904EBC4C2A3E22D29B8F157330CF25A945DE76FC09A1DCBE970251CACEA3B01CE88D4655C11C60AEABCBC571FD4272E0F23B64387803FD273EBB83EC39221A7EFD7AEF1744AC5 
+21:51:00 :xls.Status:已登录904546102@qq.com 
+21:51:00 :xls.Status:加载题库:904546102@qq.com 
+21:51:00 :xls.Status:获取到题目集数量:10 
+21:51:01 :xls.Status:习题已全部加载完成  UA/AC/All=0/68/472 
+21:51:01 :xls.Status:完成:已跳过,[T51]十六进制转八进制
+ 
+21:51:01 :xls.Status:完成:已跳过,[T69]Huffuman树
+ 
+21:51:01 :xls.Status:完成:已跳过,[T68]2n皇后问题
+ 
+21:51:01 :xls.Status:完成:已跳过,[T67]报时助手
+ 
+21:51:01 :xls.Status:完成:已跳过,[T65]龟兔赛跑预测
+ 
+21:51:01 :xls.Status:完成:已跳过,[T50]十六进制转十进制
+ 
+21:51:01 :xls.Status:完成:已跳过,[T62]Sine之舞
+ 
+21:51:01 :xls.Status:完成:已跳过,[T60]完美的代价
+ 
+21:51:01 :xls.Status:完成:已跳过,[T59]矩形面积交
+ 
+21:51:02 :xls.Status:完成:已跳过,[T58]矩阵乘法
+ 
+21:51:02 :xls.Status:完成:已跳过,[T116]邮局
+ 
+21:51:02 :xls.Status:完成:已跳过,[T115]数字游戏
+ 
+21:51:02 :xls.Status:完成:已跳过,[T114]国王的烦恼
+ 
+21:51:02 :xls.Status:完成:已跳过,[T43]公式求值
+ 
+21:51:02 :xls.Status:完成:已跳过,[T42]九宫重排
+ 
+21:51:02 :xls.Status:完成:已跳过,[T41]车轮轴迹
+ 
+21:51:02 :xls.Status:完成:已跳过,[T40]约数倍数选卡片
+ 
+21:51:02 :xls.Status:完成:已跳过,[T39]农场阳光
+ 
+21:51:02 :xls.Status:完成:已跳过,[T38]格子刷油漆
+ 
+21:51:02 :xls.Status:完成:已跳过,[T37]高僧斗法
+ 
+21:51:02 :xls.Status:完成:已跳过,[T36]网络寻路
+ 
+21:51:02 :xls.Status:完成:已跳过,[T35]危险系数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T34]横向打印二叉树
+ 
+21:51:02 :xls.Status:完成:已跳过,[T33]幸运数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T32]大臣的旅费
+ 
+21:51:02 :xls.Status:完成:已跳过,[T31]买不到的数目
+ 
+21:51:02 :xls.Status:完成:已跳过,[T30]连号区间数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T28]错误票据
+ 
+21:51:02 :xls.Status:完成:已跳过,[T123]小朋友排队
+ 
+21:51:02 :xls.Status:完成:已跳过,[T459]小计算器
+ 
+21:51:02 :xls.Status:完成:已跳过,[T458]合根植物
+ 
+21:51:02 :xls.Status:完成:已跳过,[T457]分考场
+ 
+21:51:02 :xls.Status:完成:已跳过,[T456]小数第n位
+ 
+21:51:02 :xls.Status:完成:已跳过,[T455]观光铁路
+ 
+21:51:02 :xls.Status:完成:已跳过,[T454]对局匹配
+ 
+21:51:02 :xls.Status:完成:已跳过,[T122]波动数列
+ 
+21:51:02 :xls.Status:完成:已跳过,[T453]发现环
+ 
+21:51:02 :xls.Status:完成:已跳过,[T452]数组操作
+ 
+21:51:02 :xls.Status:完成:已跳过,[T451]区间移位
+ 
+21:51:02 :xls.Status:完成:已跳过,[T450]填字母游戏
+ 
+21:51:02 :xls.Status:完成:已跳过,[T449]图形排版
+ 
+21:51:02 :xls.Status:完成:已跳过,[T448]青蛙跳杯子
+ 
+21:51:02 :xls.Status:完成:已跳过,[T447]拉马车
+ 
+21:51:02 :xls.Status:完成:已跳过,[T446]九宫幻方
+ 
+21:51:02 :xls.Status:完成:已跳过,[T445]Excel地址
+ 
+21:51:02 :xls.Status:完成:已跳过,[T444]k倍区间
+ 
+21:51:02 :xls.Status:完成:已跳过,[T121]斐波那契
+ 
+21:51:02 :xls.Status:完成:已跳过,[T443]日期问题
+ 
+21:51:02 :xls.Status:完成:已跳过,[T442]油漆面积
+ 
+21:51:02 :xls.Status:完成:已跳过,[T441]分巧克力
+ 
+21:51:02 :xls.Status:完成:已跳过,[T440]包子凑数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T439]正则问题
+ 
+21:51:02 :xls.Status:完成:已跳过,[T120]地宫取宝
+ 
+21:51:02 :xls.Status:完成:已跳过,[T118]最大子阵
+ 
+21:51:02 :xls.Status:完成:已跳过,[T117]城市建设
+ 
+21:51:02 :xls.Status:完成:已跳过,[T472]Navigation
+ 
+21:51:02 :xls.Status:完成:已跳过,[T414]合并石子
+ 
+21:51:02 :xls.Status:完成:已跳过,[T349]五次方数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T348]素数求和
+ 
+21:51:02 :xls.Status:完成:已跳过,[T345]分苹果
+ 
+21:51:02 :xls.Status:完成:已跳过,[T342]前10名
+ 
+21:51:02 :xls.Status:完成:已跳过,[T341]质因数2
+ 
+21:51:02 :xls.Status:完成:已跳过,[T337]陶陶摘苹果2
+ 
+21:51:02 :xls.Status:完成:已跳过,[T333]解二元一次方程组
+ 
+21:51:02 :xls.Status:完成:已跳过,[T331]理财计划
+ 
+21:51:02 :xls.Status:完成:已跳过,[T330]陶陶摘苹果
+ 
+21:51:02 :xls.Status:完成:已跳过,[T328]输入输出格式练习
+ 
+21:51:02 :xls.Status:完成:已跳过,[T412]11-1实现strcmp函数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T327]淘淘的名单
+ 
+21:51:02 :xls.Status:完成:已跳过,[T326]身份证排序
+ 
+21:51:02 :xls.Status:完成:已跳过,[T324]数字黑洞
+ 
+21:51:02 :xls.Status:完成:已跳过,[T323]士兵排队问题
+ 
+21:51:02 :xls.Status:完成:已跳过,[T322]贪吃的大嘴
+ 
+21:51:02 :xls.Status:完成:已跳过,[T320]聪明的美食家
+ 
+21:51:02 :xls.Status:完成:已跳过,[T318]超级玛丽
+ 
+21:51:02 :xls.Status:完成:已跳过,[T316]能量项链
+ 
+21:51:02 :xls.Status:完成:已跳过,[T314]题目 2 密码锁
+ 
+21:51:02 :xls.Status:完成:已跳过,[T313]题目 3 函数求值 
+ 
+21:51:02 :xls.Status:完成:已跳过,[T411]9-3摩尔斯电码
+ 
+21:51:02 :xls.Status:完成:已跳过,[T311]高精度乘法
+ 
+21:51:02 :xls.Status:完成:已跳过,[T308]现代诗如蚯蚓
+ 
+21:51:02 :xls.Status:完成:已跳过,[T307]分分钟的碎碎念
+ 
+21:51:02 :xls.Status:完成:已跳过,[T305]质数的后代
+ 
+21:51:02 :xls.Status:完成:已跳过,[T304]数的划分
+ 
+21:51:02 :xls.Status:完成:已跳过,[T301]产生数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T293]特殊的质数肋骨
+ 
+21:51:02 :xls.Status:完成:已跳过,[T292]排队打水问题
+ 
+21:51:02 :xls.Status:完成:已跳过,[T289]计算器
+ 
+21:51:02 :xls.Status:完成:已跳过,[T288]铺地毯
+ 
+21:51:02 :xls.Status:完成:已跳过,[T410]9-2 文本加密
+ 
+21:51:02 :xls.Status:完成:已跳过,[T285]棋盘多项式
+ 
+21:51:02 :xls.Status:完成:已跳过,[T283]开灯游戏
+ 
+21:51:02 :xls.Status:完成:已跳过,[T282]种树
+ 
+21:51:02 :xls.Status:完成:已跳过,[T280]班级排名
+ 
+21:51:02 :xls.Status:完成:已跳过,[T279]3000米排名预测
+ 
+21:51:02 :xls.Status:完成:已跳过,[T277]大数加法
+ 
+21:51:02 :xls.Status:完成:已跳过,[T275]三角形面积
+ 
+21:51:02 :xls.Status:完成:已跳过,[T274]校门外的树
+ 
+21:51:02 :xls.Status:完成:已跳过,[T273]彩票
+ 
+21:51:02 :xls.Status:完成:已跳过,[T272]笨小猴
+ 
+21:51:02 :xls.Status:完成:已跳过,[T409]9-1九宫格
+ 
+21:51:02 :xls.Status:完成:已跳过,[T270]选择排序
+ 
+21:51:02 :xls.Status:完成:已跳过,[T269]色盲的民主
+ 
+21:51:02 :xls.Status:完成:已跳过,[T268]插入排序
+ 
+21:51:02 :xls.Status:完成:已跳过,[T267]找素数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T264]扫雷
+ 
+21:51:02 :xls.Status:完成:已跳过,[T262]促销购物
+ 
+21:51:02 :xls.Status:完成:已跳过,[T260]凶手
+ 
+21:51:02 :xls.Status:完成:已跳过,[T258]去注释
+ 
+21:51:02 :xls.Status:完成:已跳过,[T257]高精度加法
+ 
+21:51:02 :xls.Status:完成:已跳过,[T254]6-9删除数组中的0元素
+ 
+21:51:02 :xls.Status:完成:已跳过,[T403]8-1因式分解
+ 
+21:51:02 :xls.Status:完成:已跳过,[T250]3-2字符串输入输出函数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T242]进制转换
+ 
+21:51:02 :xls.Status:完成:已跳过,[T241]c++_ch06_02
+ 
+21:51:02 :xls.Status:完成:已跳过,[T240]c++_ch03_02
+ 
+21:51:02 :xls.Status:完成:已跳过,[T239]c++_ch02_03
+ 
+21:51:02 :xls.Status:完成:已跳过,[T238]c++_ch02_02
+ 
+21:51:02 :xls.Status:完成:已跳过,[T234]Quadratic Equation
+ 
+21:51:02 :xls.Status:完成:已跳过,[T233]温度转换
+ 
+21:51:02 :xls.Status:完成:已跳过,[T232]征税程序
+ 
+21:51:02 :xls.Status:完成:已跳过,[T231]分数统计
+ 
+21:51:02 :xls.Status:完成:已跳过,[T402]7-2求arccos值
+ 
+21:51:02 :xls.Status:完成:已跳过,[T229]欧拉函数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T228]不同单词个数统计
+ 
+21:51:02 :xls.Status:完成:已跳过,[T224]打水问题
+ 
+21:51:02 :xls.Status:完成:已跳过,[T214]单词个数统计
+ 
+21:51:02 :xls.Status:完成:已跳过,[T212]断案
+ 
+21:51:02 :xls.Status:完成:已跳过,[T210]栅格打印问题
+ 
+21:51:02 :xls.Status:完成:已跳过,[T206]复数求和
+ 
+21:51:02 :xls.Status:完成:已跳过,[T204]字符串比较
+ 
+21:51:02 :xls.Status:完成:已跳过,[T199]任意年月日历输出
+ 
+21:51:02 :xls.Status:完成:已跳过,[T198]求最大公约数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T401]7-1用宏求球的体积
+ 
+21:51:02 :xls.Status:完成:已跳过,[T197]素数判断
+ 
+21:51:02 :xls.Status:完成:已跳过,[T196]输出日历
+ 
+21:51:02 :xls.Status:完成:已跳过,[T195]输出九九乘法表
+ 
+21:51:02 :xls.Status:完成:已跳过,[T194]输出正反三角形
+ 
+21:51:02 :xls.Status:完成:已跳过,[T193]利息计算
+ 
+21:51:02 :xls.Status:完成:已跳过,[T192]格式化数据输出
+ 
+21:51:02 :xls.Status:完成:已跳过,[T191]算术运算
+ 
+21:51:02 :xls.Status:完成:已跳过,[T190]图形输出
+ 
+21:51:02 :xls.Status:完成:已跳过,[T189]寻找三位数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T186]填充蛋糕
+ 
+21:51:02 :xls.Status:完成:已跳过,[T397]组合公式求值
+ 
+21:51:02 :xls.Status:完成:已跳过,[T185]数的运算
+ 
+21:51:02 :xls.Status:完成:已跳过,[T184]选最大数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T183]时间转换
+ 
+21:51:02 :xls.Status:完成:已跳过,[T181]最长单词
+ 
+21:51:02 :xls.Status:完成:已跳过,[T179]统计平均成绩
+ 
+21:51:02 :xls.Status:完成:已跳过,[T178]GDP计算
+ 
+21:51:02 :xls.Status:完成:已跳过,[T177]简单计算器
+ 
+21:51:02 :xls.Status:完成:已跳过,[T176]计算整数因子
+ 
+21:51:02 :xls.Status:完成:已跳过,[T175]数组输出
+ 
+21:51:02 :xls.Status:完成:已跳过,[T172]一元一次方程
+ 
+21:51:02 :xls.Status:完成:已跳过,[T396]递推求值
+ 
+21:51:02 :xls.Status:完成:已跳过,[T171]判断回文
+ 
+21:51:02 :xls.Status:完成:已跳过,[T167]冒泡法排序
+ 
+21:51:02 :xls.Status:完成:已跳过,[T166]质因数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T165]企业奖金发放
+ 
+21:51:02 :xls.Status:完成:已跳过,[T163]传染病控制
+ 
+21:51:02 :xls.Status:完成:已跳过,[T162]阮小二买彩票
+ 
+21:51:02 :xls.Status:完成:已跳过,[T158]格子位置
+ 
+21:51:02 :xls.Status:完成:已跳过,[T157]乘法运算
+ 
+21:51:02 :xls.Status:完成:已跳过,[T156]利息计算
+ 
+21:51:02 :xls.Status:完成:已跳过,[T155]夺宝奇兵
+ 
+21:51:02 :xls.Status:完成:已跳过,[T471]Petri Net Simulation
+ 
+21:51:02 :xls.Status:完成:已跳过,[T395]c++_ch04_02_修正版
+ 
+21:51:02 :xls.Status:完成:已跳过,[T154]矩阵乘方
+ 
+21:51:02 :xls.Status:完成:已跳过,[T152]多项式输出
+ 
+21:51:02 :xls.Status:完成:已跳过,[T145]交换Easy
+ 
+21:51:02 :xls.Status:完成:已跳过,[T143]项链
+ 
+21:51:02 :xls.Status:完成:已跳过,[T142]实数相加
+ 
+21:51:02 :xls.Status:完成:已跳过,[T140]统计单词数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T137]和最大子序列
+ 
+21:51:02 :xls.Status:完成:已跳过,[T135]卡勒沃夫之弱水路三千(提高型)
+ 
+21:51:02 :xls.Status:完成:已跳过,[T134]最小乘积(提高型)
+ 
+21:51:02 :xls.Status:完成:已跳过,[T132]计算时间
+ 
+21:51:02 :xls.Status:完成:已跳过,[T388]Problem S4: Interesting Numbers 加强版
+ 
+21:51:02 :xls.Status:完成:已跳过,[T130]Torry的困惑(提高型)
+ 
+21:51:02 :xls.Status:完成:已跳过,[T127]立方体截断问题
+ 
+21:51:02 :xls.Status:完成:已跳过,[T112]递归倒置字符数组
+ 
+21:51:02 :xls.Status:完成:已跳过,[T81]冒泡排序计数
+ 
+21:51:02 :xls.Status:完成:已跳过,[T80]子集选取
+ 
+21:51:02 :xls.Status:完成:已跳过,[T45]邮票面值设计
+ 
+21:51:02 :xls.Status:完成:已跳过,[T380]矩阵相乘
+ 
+21:51:02 :xls.Status:完成:已跳过,[T376]拿糖果
+ 
+21:51:02 :xls.Status:完成:已跳过,[T368]求最大值
+ 
+21:51:02 :xls.Status:完成:已跳过,[T364]P1001
+ 
+21:51:02 :xls.Status:完成:已跳过,[T360]盾神与条状项链
+ 
+21:51:03 :xls.Status:完成:已跳过,[T332]简单加法
+ 
+21:51:03 :xls.Status:完成:已跳过,[T329]三个整数的排序
+ 
+21:51:03 :xls.Status:完成:已跳过,[T470]Trade on Verweggistan
+ 
+21:51:03 :xls.Status:完成:已跳过,[T325]身份证号码升级
+ 
+21:51:03 :xls.Status:完成:已跳过,[T317]金明的预算方案
+ 
+21:51:03 :xls.Status:完成:已跳过,[T315]题目1 最大最小值
+ 
+21:51:03 :xls.Status:完成:已跳过,[T309]新建Microsoft Word文档
+ 
+21:51:03 :xls.Status:完成:已跳过,[T306]上帝造题五分钟
+ 
+21:51:03 :xls.Status:完成:已跳过,[T300]金陵十三钗
+ 
+21:51:03 :xls.Status:下载题目测试数据 
+21:51:03 :xls.Status:DownloadAllFile:2030762,共计10组测试数据 
+21:51:03 :xls.Status:下载题目数据:T291-5.outp 
+21:51:03 :xls.Status:下载数据防ban间隔...2000ms 
+21:51:03 :xls.Status:{"info":"ERROR。","ret":"0"} 
+21:51:03 :xls.Status:账号切换到[5]17623877493 
+21:51:03 :xls.Status:切换到账号:17623877493,userId:579282697891,cookies:JSESSIONID=60158C4C5A8A7F1B257EE77338FF4B67;_SESSIONKEY=BGBC9PGA1PWF2EL1CKAM;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 12:20:10 GMT;_TOKEN=05AED4C868754136C9C30D3425ABB8BDA6682616A47D1BA64A560AB28121683AB7D3208CE87A84FC39D5353BE03C4CEA30653B5BBB70563CDE3809980186C41F9945BD4680A79FE8BA51DD63F84B778C 
+21:51:03 :xls.Status:已登录17623877493 
+21:51:03 :xls.Status:加载题库:17623877493 
+21:51:03 :xls.Status:获取到题目集数量:10 
+21:51:04 :xls.Status:习题已全部加载完成  UA/AC/All=0/10/472 
+21:51:05 :xls.Status:完成:已跳过,[T7]字母图形
+ 
+21:51:05 :xls.Status:完成:已跳过,[T6]01字串
+ 
+21:51:05 :xls.Status:完成:已跳过,[T5]闰年判断
+ 
+21:51:05 :xls.Status:完成:已跳过,[T71]阶乘计算
+ 
+21:51:05 :xls.Status:完成:已跳过,[T70]高精度加法
+ 
+21:51:05 :xls.Status:完成:已跳过,[T69]Huffuman树
+ 
+21:51:05 :xls.Status:完成:已跳过,[T68]2n皇后问题
+ 
+21:51:05 :xls.Status:完成:已跳过,[T67]报时助手
+ 
+21:51:05 :xls.Status:完成:已跳过,[T66]回形取数
+ 
+21:51:05 :xls.Status:完成:已跳过,[T65]龟兔赛跑预测
+ 
+21:51:05 :xls.Status:完成:已跳过,[T64]芯片测试
+ 
+21:51:05 :xls.Status:完成:已跳过,[T63]FJ的字符串
+ 
+21:51:05 :xls.Status:完成:已跳过,[T62]Sine之舞
+ 
+21:51:05 :xls.Status:完成:已跳过,[T61]数的读法
+ 
+21:51:05 :xls.Status:完成:已跳过,[T60]完美的代价
+ 
+21:51:05 :xls.Status:完成:已跳过,[T59]矩形面积交
+ 
+21:51:05 :xls.Status:完成:已跳过,[T58]矩阵乘法
+ 
+21:51:05 :xls.Status:完成:已跳过,[T57]分解质因数
+ 
+21:51:05 :xls.Status:完成:已跳过,[T56]字符串对比
+ 
+21:51:05 :xls.Status:完成:已跳过,[T54]时间转换
+ 
+21:51:05 :xls.Status:完成:已跳过,[T9]查找整数
+ 
+21:51:05 :xls.Status:完成:已跳过,[T8]数列特征
+ 
+21:51:05 :xls.Status:完成:已跳过,[T472]Navigation
+ 
+21:51:05 :xls.Status:完成:已跳过,[T414]合并石子
+ 
+21:51:05 :xls.Status:完成:已跳过,[T349]五次方数
+ 
+21:51:05 :xls.Status:完成:已跳过,[T348]素数求和
+ 
+21:51:05 :xls.Status:完成:已跳过,[T345]分苹果
+ 
+21:51:05 :xls.Status:完成:已跳过,[T342]前10名
+ 
+21:51:05 :xls.Status:完成:已跳过,[T341]质因数2
+ 
+21:51:05 :xls.Status:完成:已跳过,[T337]陶陶摘苹果2
+ 
+21:51:05 :xls.Status:完成:已跳过,[T333]解二元一次方程组
+ 
+21:51:05 :xls.Status:完成:已跳过,[T331]理财计划
+ 
+21:51:05 :xls.Status:完成:已跳过,[T330]陶陶摘苹果
+ 
+21:51:05 :xls.Status:完成:已跳过,[T328]输入输出格式练习
+ 
+21:51:05 :xls.Status:完成:已跳过,[T412]11-1实现strcmp函数
+ 
+21:51:05 :xls.Status:完成:已跳过,[T327]淘淘的名单
+ 
+21:51:05 :xls.Status:完成:已跳过,[T326]身份证排序
+ 
+21:51:05 :xls.Status:完成:已跳过,[T324]数字黑洞
+ 
+21:51:05 :xls.Status:完成:已跳过,[T323]士兵排队问题
+ 
+21:51:05 :xls.Status:完成:已跳过,[T322]贪吃的大嘴
+ 
+21:51:05 :xls.Status:完成:已跳过,[T320]聪明的美食家
+ 
+21:51:05 :xls.Status:完成:已跳过,[T318]超级玛丽
+ 
+21:51:05 :xls.Status:完成:已跳过,[T316]能量项链
+ 

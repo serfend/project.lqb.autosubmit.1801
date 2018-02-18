@@ -1,0 +1,19 @@
+
+#include <iostream>
+using namespace std;
+int Tran(int a,int e)
+{
+	a=a/2;
+	e++;
+	if(a==1)  return e;
+	else Tran(a,e);
+	
+} 
+int main()
+{
+	int a,e=1;
+	cin>>a;
+	cout<<Tran(a,e);
+	return 0;
+}
+

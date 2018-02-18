@@ -1,0 +1,12 @@
+Case 1: checksum = 0000
+ SYMBOL   ADDR
+--------  ----
+OTZ       ????
+
+Case 2: checksum = 0000
+ SYMBOL   ADDR
+--------  ----
+LICH      ????
+OTZZZZ    ????
+WJMZBMR   ????
+XUDYH     ????

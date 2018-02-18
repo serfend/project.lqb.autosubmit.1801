@@ -1,0 +1,33 @@
+
+#include<iostream>
+using namespace std;
+main()
+{
+	int n,a,b,c,d,s[202],max;
+	cin>>n;
+	for(a=0;a<n;a++)
+	{
+		cin>>s[a];
+	}
+	max=s[0];
+	for(b=1;b<n;b++)
+	for(c=0;c<n-b;c++)
+	{
+		if(s[c+1]<s[c])
+		{
+			max=s[c];
+			s[c]=s[c+1];
+			s[c+1]=max;
+		}
+	}
+	for(d=n-1;d>n-11;d--)
+	{
+		cout<<s[d]<<" ";
+	}
+	
+	
+	
+	
+	return 0;
+}
+

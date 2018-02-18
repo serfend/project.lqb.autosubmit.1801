@@ -1,0 +1,4 @@
+Hex: 0x009
+Decimal: 9
+Octal: 0011
+

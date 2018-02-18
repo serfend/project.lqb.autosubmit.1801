@@ -1,0 +1,18 @@
+
+#include <iostream>
+/*ÑùÀýÊä³ö
+**********************
+* My first C program *
+**********************
+*/
+#include<cstdio>
+using namespace std;
+
+int main()
+{
+	printf("**********************\n");
+	printf("* My first C program *\n");
+	printf("**********************\n");
+	return 0;
+}
+

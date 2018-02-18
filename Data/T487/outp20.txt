@@ -1,0 +1,759 @@
+Transposing from Cb to C#:
+  G# is not a valid note in the Cb major scale
+  A# is not a valid note in the Cb major scale
+  Eb transposes to E#
+  Bb transposes to B#
+  A# is not a valid note in the Cb major scale
+  C is not a valid note in the Cb major scale
+  Ab transposes to A#
+  G is not a valid note in the Cb major scale
+  Gb transposes to G#
+  B# is not a valid note in the Cb major scale
+
+Key of G# is not a valid major key
+
+Transposing from F to G:
+  Eb is not a valid note in the F major scale
+  G# is not a valid note in the F major scale
+  G transposes to A
+  C# is not a valid note in the F major scale
+  G# is not a valid note in the F major scale
+  D transposes to E
+  D transposes to E
+  F transposes to G
+  E# is not a valid note in the F major scale
+  E transposes to F#
+
+Key of B# is not a valid major key
+
+Key of A# is not a valid major key
+
+Transposing from A to F:
+  G is not a valid note in the A major scale
+  Cb is not a valid note in the A major scale
+  A transposes to F
+  Eb is not a valid note in the A major scale
+  F is not a valid note in the A major scale
+  E# is not a valid note in the A major scale
+  G# transposes to E
+  C is not a valid note in the A major scale
+  D# is not a valid note in the A major scale
+  A transposes to F
+
+Key of Fb is not a valid major key
+
+Key of G# is not a valid major key
+
+Key of D# is not a valid major key
+
+Transposing from F# to Db:
+  G# transposes to Eb
+  Fb is not a valid note in the F# major scale
+  Fb is not a valid note in the F# major scale
+  A is not a valid note in the F# major scale
+  Ab is not a valid note in the F# major scale
+  Cb is not a valid note in the F# major scale
+  G is not a valid note in the F# major scale
+  Ab is not a valid note in the F# major scale
+  Bb is not a valid note in the F# major scale
+  C is not a valid note in the F# major scale
+
+Key of A# is not a valid major key
+
+Key of Fb is not a valid major key
+
+Transposing from B to G:
+  G# transposes to E
+  B# is not a valid note in the B major scale
+  C# transposes to A
+  Gb is not a valid note in the B major scale
+  Cb is not a valid note in the B major scale
+  Eb is not a valid note in the B major scale
+  A is not a valid note in the B major scale
+  Cb is not a valid note in the B major scale
+  C# transposes to A
+  E transposes to C
+
+Key of G# is not a valid major key
+
+Key of Fb is not a valid major key
+
+Transposing from Cb to Bb:
+  C is not a valid note in the Cb major scale
+  E is not a valid note in the Cb major scale
+  E# is not a valid note in the Cb major scale
+  B is not a valid note in the Cb major scale
+  Gb transposes to F
+  F is not a valid note in the Cb major scale
+  Db transposes to C
+  E# is not a valid note in the Cb major scale
+  D# is not a valid note in the Cb major scale
+  E# is not a valid note in the Cb major scale
+
+Key of E# is not a valid major key
+
+Transposing from F to Bb:
+  B is not a valid note in the F major scale
+  G# is not a valid note in the F major scale
+  G transposes to C
+  A# is not a valid note in the F major scale
+  Gb is not a valid note in the F major scale
+  F# is not a valid note in the F major scale
+  B# is not a valid note in the F major scale
+  A transposes to D
+  F transposes to Bb
+  Bb transposes to Eb
+
+Key of B# is not a valid major key
+
+Transposing from E to Bb:
+  G# transposes to D
+  F# transposes to C
+  Cb is not a valid note in the E major scale
+  E transposes to Bb
+  Eb is not a valid note in the E major scale
+  A# is not a valid note in the E major scale
+  B# is not a valid note in the E major scale
+  Gb is not a valid note in the E major scale
+  D is not a valid note in the E major scale
+  B transposes to F
+
+Transposing from A to E:
+  B# is not a valid note in the A major scale
+  F# transposes to C#
+  Bb is not a valid note in the A major scale
+  D# is not a valid note in the A major scale
+  E transposes to B
+  C# transposes to G#
+  D# is not a valid note in the A major scale
+  B transposes to F#
+  Fb is not a valid note in the A major scale
+  E transposes to B
+
+Transposing from F# to Ab:
+  F is not a valid note in the F# major scale
+  D is not a valid note in the F# major scale
+  G# transposes to Bb
+  A# transposes to C
+  Fb is not a valid note in the F# major scale
+  G is not a valid note in the F# major scale
+  G is not a valid note in the F# major scale
+  A is not a valid note in the F# major scale
+  Cb is not a valid note in the F# major scale
+  D# transposes to F
+
+Transposing from Cb to Cb:
+  C# is not a valid note in the Cb major scale
+  D# is not a valid note in the Cb major scale
+  D is not a valid note in the Cb major scale
+  C is not a valid note in the Cb major scale
+  C# is not a valid note in the Cb major scale
+  Bb transposes to Bb
+  C is not a valid note in the Cb major scale
+  F is not a valid note in the Cb major scale
+  B is not a valid note in the Cb major scale
+  C is not a valid note in the Cb major scale
+
+Transposing from A to Bb:
+  F# transposes to G
+  F# transposes to G
+  G# transposes to A
+  C# transposes to D
+  C# transposes to D
+  C is not a valid note in the A major scale
+  G# transposes to A
+  G is not a valid note in the A major scale
+  D# is not a valid note in the A major scale
+  A# is not a valid note in the A major scale
+
+Transposing from D to Db:
+  Fb is not a valid note in the D major scale
+  Bb is not a valid note in the D major scale
+  B# is not a valid note in the D major scale
+  Db is not a valid note in the D major scale
+  A# is not a valid note in the D major scale
+  D transposes to Db
+  C# transposes to C
+  G# is not a valid note in the D major scale
+  E transposes to Eb
+  Ab is not a valid note in the D major scale
+
+Transposing from F# to F:
+  F is not a valid note in the F# major scale
+  D is not a valid note in the F# major scale
+  Fb is not a valid note in the F# major scale
+  G is not a valid note in the F# major scale
+  Eb is not a valid note in the F# major scale
+  B# is not a valid note in the F# major scale
+  Cb is not a valid note in the F# major scale
+  Bb is not a valid note in the F# major scale
+  G# transposes to G
+  G# transposes to G
+
+Transposing from F to D:
+  F# is not a valid note in the F major scale
+  Db is not a valid note in the F major scale
+  Db is not a valid note in the F major scale
+  F# is not a valid note in the F major scale
+  E# is not a valid note in the F major scale
+  G transposes to E
+  Cb is not a valid note in the F major scale
+  Bb transposes to G
+  G transposes to E
+  Cb is not a valid note in the F major scale
+
+Transposing from Bb to C:
+  C# is not a valid note in the Bb major scale
+  Fb is not a valid note in the Bb major scale
+  Gb is not a valid note in the Bb major scale
+  G transposes to A
+  D transposes to E
+  F transposes to G
+  C transposes to D
+  A# is not a valid note in the Bb major scale
+  Gb is not a valid note in the Bb major scale
+  A# is not a valid note in the Bb major scale
+
+Transposing from C# to Gb:
+  Gb is not a valid note in the C# major scale
+  G is not a valid note in the C# major scale
+  A is not a valid note in the C# major scale
+  D is not a valid note in the C# major scale
+  Eb is not a valid note in the C# major scale
+  C is not a valid note in the C# major scale
+  E is not a valid note in the C# major scale
+  E is not a valid note in the C# major scale
+  Db is not a valid note in the C# major scale
+  Cb is not a valid note in the C# major scale
+
+Transposing from F# to Cb:
+  Ab is not a valid note in the F# major scale
+  B transposes to Fb
+  Fb is not a valid note in the F# major scale
+  G is not a valid note in the F# major scale
+  Db is not a valid note in the F# major scale
+  Bb is not a valid note in the F# major scale
+  E is not a valid note in the F# major scale
+  G is not a valid note in the F# major scale
+  G# transposes to Db
+  D is not a valid note in the F# major scale
+
+Key of Fb is not a valid major key
+
+Transposing from Cb to E:
+  B# is not a valid note in the Cb major scale
+  Bb transposes to D#
+  Gb transposes to B
+  Bb transposes to D#
+  Ab transposes to C#
+  F# is not a valid note in the Cb major scale
+  Gb transposes to B
+  A# is not a valid note in the Cb major scale
+  Bb transposes to D#
+  F is not a valid note in the Cb major scale
+
+Transposing from D to Eb:
+  E transposes to F
+  B# is not a valid note in the D major scale
+  D# is not a valid note in the D major scale
+  C is not a valid note in the D major scale
+  Cb is not a valid note in the D major scale
+  E transposes to F
+  E transposes to F
+  C# transposes to D
+  C is not a valid note in the D major scale
+  A# is not a valid note in the D major scale
+
+Transposing from F# to Db:
+  E# transposes to C
+  B# is not a valid note in the F# major scale
+  E is not a valid note in the F# major scale
+  E# transposes to C
+  G# transposes to Eb
+  D# transposes to Bb
+  B transposes to Gb
+  B# is not a valid note in the F# major scale
+  A# transposes to F
+  Fb is not a valid note in the F# major scale
+
+Transposing from Bb to Cb:
+  Gb is not a valid note in the Bb major scale
+  B is not a valid note in the Bb major scale
+  Db is not a valid note in the Bb major scale
+  Eb transposes to Fb
+  Eb transposes to Fb
+  Db is not a valid note in the Bb major scale
+  A transposes to Bb
+  C# is not a valid note in the Bb major scale
+  E is not a valid note in the Bb major scale
+  D# is not a valid note in the Bb major scale
+
+Transposing from Gb to Ab:
+  B is not a valid note in the Gb major scale
+  Cb transposes to Db
+  D# is not a valid note in the Gb major scale
+  B# is not a valid note in the Gb major scale
+  Ab transposes to Bb
+  Bb transposes to C
+  F transposes to G
+  Db transposes to Eb
+  D is not a valid note in the Gb major scale
+  Db transposes to Eb
+
+Key of G# is not a valid major key
+
+Key of B# is not a valid major key
+
+Transposing from C# to Gb:
+  G# transposes to Db
+  B is not a valid note in the C# major scale
+  A is not a valid note in the C# major scale
+  C is not a valid note in the C# major scale
+  Fb is not a valid note in the C# major scale
+  Eb is not a valid note in the C# major scale
+  Fb is not a valid note in the C# major scale
+  Eb is not a valid note in the C# major scale
+  Bb is not a valid note in the C# major scale
+  Ab is not a valid note in the C# major scale
+
+Transposing from Bb to Gb:
+  E# is not a valid note in the Bb major scale
+  G transposes to Eb
+  E is not a valid note in the Bb major scale
+  B# is not a valid note in the Bb major scale
+  C transposes to Ab
+  B# is not a valid note in the Bb major scale
+  Cb is not a valid note in the Bb major scale
+  G# is not a valid note in the Bb major scale
+  A# is not a valid note in the Bb major scale
+  B# is not a valid note in the Bb major scale
+
+Transposing from D to D:
+  Db is not a valid note in the D major scale
+  B transposes to B
+  Db is not a valid note in the D major scale
+  C# transposes to C#
+  D# is not a valid note in the D major scale
+  F# transposes to F#
+  F is not a valid note in the D major scale
+  F# transposes to F#
+  D# is not a valid note in the D major scale
+  F# transposes to F#
+
+Key of G# is not a valid major key
+
+Transposing from D to Db:
+  G# is not a valid note in the D major scale
+  G transposes to Gb
+  Bb is not a valid note in the D major scale
+  G transposes to Gb
+  Ab is not a valid note in the D major scale
+  D# is not a valid note in the D major scale
+  C is not a valid note in the D major scale
+  E transposes to Eb
+  G# is not a valid note in the D major scale
+  Cb is not a valid note in the D major scale
+
+Key of A# is not a valid major key
+
+Transposing from F to F:
+  G# is not a valid note in the F major scale
+  Cb is not a valid note in the F major scale
+  Bb transposes to Bb
+  Ab is not a valid note in the F major scale
+  Fb is not a valid note in the F major scale
+  Bb transposes to Bb
+  C transposes to C
+  B# is not a valid note in the F major scale
+  Bb transposes to Bb
+  B# is not a valid note in the F major scale
+
+Transposing from D to F#:
+  D transposes to F#
+  E transposes to G#
+  Db is not a valid note in the D major scale
+  Bb is not a valid note in the D major scale
+  A transposes to C#
+  E transposes to G#
+  D# is not a valid note in the D major scale
+  G# is not a valid note in the D major scale
+  Bb is not a valid note in the D major scale
+  B# is not a valid note in the D major scale
+
+Key of A# is not a valid major key
+
+Transposing from Cb to D:
+  C# is not a valid note in the Cb major scale
+  A is not a valid note in the Cb major scale
+  Db transposes to E
+  F is not a valid note in the Cb major scale
+  E is not a valid note in the Cb major scale
+  A# is not a valid note in the Cb major scale
+  Cb transposes to D
+  B# is not a valid note in the Cb major scale
+  D is not a valid note in the Cb major scale
+  Fb transposes to G
+
+Key of E# is not a valid major key
+
+Key of E# is not a valid major key
+
+Transposing from Db to C:
+  A is not a valid note in the Db major scale
+  F# is not a valid note in the Db major scale
+  Cb is not a valid note in the Db major scale
+  F transposes to E
+  G is not a valid note in the Db major scale
+  G is not a valid note in the Db major scale
+  A# is not a valid note in the Db major scale
+  E is not a valid note in the Db major scale
+  B# is not a valid note in the Db major scale
+  G is not a valid note in the Db major scale
+
+Key of B# is not a valid major key
+
+Transposing from Eb to Bb:
+  Bb transposes to F
+  Eb transposes to Bb
+  Gb is not a valid note in the Eb major scale
+  D# is not a valid note in the Eb major scale
+  A is not a valid note in the Eb major scale
+  A# is not a valid note in the Eb major scale
+  D transposes to A
+  Ab transposes to Eb
+  D transposes to A
+  A is not a valid note in the Eb major scale
+
+Key of Fb is not a valid major key
+
+Transposing from C# to Eb:
+  D# transposes to F
+  D# transposes to F
+  C# transposes to Eb
+  G# transposes to Bb
+  B# transposes to D
+  C# transposes to Eb
+  C is not a valid note in the C# major scale
+  C# transposes to Eb
+  D# transposes to F
+  C is not a valid note in the C# major scale
+
+Key of Fb is not a valid major key
+
+Transposing from Gb to D:
+  Gb transposes to D
+  B# is not a valid note in the Gb major scale
+  Ab transposes to E
+  Gb transposes to D
+  B# is not a valid note in the Gb major scale
+  B is not a valid note in the Gb major scale
+  G is not a valid note in the Gb major scale
+  G is not a valid note in the Gb major scale
+  Gb transposes to D
+  A is not a valid note in the Gb major scale
+
+Key of B# is not a valid major key
+
+Transposing from D to Ab:
+  E# is not a valid note in the D major scale
+  C is not a valid note in the D major scale
+  Eb is not a valid note in the D major scale
+  F# transposes to C
+  G transposes to Db
+  Eb is not a valid note in the D major scale
+  D# is not a valid note in the D major scale
+  B# is not a valid note in the D major scale
+  Eb is not a valid note in the D major scale
+  F# transposes to C
+
+Key of E# is not a valid major key
+
+Transposing from Cb to Cb:
+  Cb transposes to Cb
+  Cb transposes to Cb
+  G is not a valid note in the Cb major scale
+  A# is not a valid note in the Cb major scale
+  F# is not a valid note in the Cb major scale
+  G is not a valid note in the Cb major scale
+  Cb transposes to Cb
+  G is not a valid note in the Cb major scale
+  D# is not a valid note in the Cb major scale
+  Bb transposes to Bb
+
+Transposing from B to A:
+  E transposes to D
+  G is not a valid note in the B major scale
+  F# transposes to E
+  Eb is not a valid note in the B major scale
+  C# transposes to B
+  Cb is not a valid note in the B major scale
+  A is not a valid note in the B major scale
+  B# is not a valid note in the B major scale
+  Cb is not a valid note in the B major scale
+  F# transposes to E
+
+Transposing from Eb to C#:
+  Cb is not a valid note in the Eb major scale
+  C transposes to A#
+  Db is not a valid note in the Eb major scale
+  F transposes to D#
+  Ab transposes to F#
+  A# is not a valid note in the Eb major scale
+  B is not a valid note in the Eb major scale
+  Fb is not a valid note in the Eb major scale
+  A is not a valid note in the Eb major scale
+  G transposes to E#
+
+Transposing from Gb to Ab:
+  E is not a valid note in the Gb major scale
+  B# is not a valid note in the Gb major scale
+  Gb transposes to Ab
+  Gb transposes to Ab
+  G is not a valid note in the Gb major scale
+  Eb transposes to F
+  A is not a valid note in the Gb major scale
+  Gb transposes to Ab
+  F transposes to G
+  B is not a valid note in the Gb major scale
+
+Key of B# is not a valid major key
+
+Key of Fb is not a valid major key
+
+Key of D# is not a valid major key
+
+Transposing from Eb to C:
+  Ab transposes to F
+  A# is not a valid note in the Eb major scale
+  G transposes to E
+  Ab transposes to F
+  G transposes to E
+  F transposes to D
+  F transposes to D
+  Fb is not a valid note in the Eb major scale
+  G transposes to E
+  G transposes to E
+
+Key of Fb is not a valid major key
+
+Transposing from Gb to Bb:
+  B# is not a valid note in the Gb major scale
+  Eb transposes to G
+  A# is not a valid note in the Gb major scale
+  G# is not a valid note in the Gb major scale
+  C is not a valid note in the Gb major scale
+  Cb transposes to Eb
+  F# is not a valid note in the Gb major scale
+  G# is not a valid note in the Gb major scale
+  E is not a valid note in the Gb major scale
+  Bb transposes to D
+
+Transposing from F# to Eb:
+  Db is not a valid note in the F# major scale
+  B transposes to Ab
+  Db is not a valid note in the F# major scale
+  C is not a valid note in the F# major scale
+  Gb is not a valid note in the F# major scale
+  D# transposes to C
+  E is not a valid note in the F# major scale
+  G# transposes to F
+  D# transposes to C
+  E# transposes to D
+
+Transposing from F# to Gb:
+  Ab is not a valid note in the F# major scale
+  C is not a valid note in the F# major scale
+  Ab is not a valid note in the F# major scale
+  C is not a valid note in the F# major scale
+  A is not a valid note in the F# major scale
+  G is not a valid note in the F# major scale
+  Eb is not a valid note in the F# major scale
+  G is not a valid note in the F# major scale
+  C is not a valid note in the F# major scale
+  Eb is not a valid note in the F# major scale
+
+Key of E# is not a valid major key
+
+Key of G# is not a valid major key
+
+Transposing from Ab to C#:
+  Eb transposes to G#
+  D is not a valid note in the Ab major scale
+  F# is not a valid note in the Ab major scale
+  C# is not a valid note in the Ab major scale
+  F transposes to A#
+  C# is not a valid note in the Ab major scale
+  Db transposes to F#
+  A is not a valid note in the Ab major scale
+  B is not a valid note in the Ab major scale
+  E is not a valid note in the Ab major scale
+
+Key of B# is not a valid major key
+
+Key of G# is not a valid major key
+
+Transposing from F to Db:
+  Eb is not a valid note in the F major scale
+  D transposes to Bb
+  C# is not a valid note in the F major scale
+  Bb transposes to Gb
+  G transposes to Eb
+  Ab is not a valid note in the F major scale
+  D transposes to Bb
+  D transposes to Bb
+  A transposes to F
+  D transposes to Bb
+
+Transposing from E to Ab:
+  E transposes to Ab
+  Cb is not a valid note in the E major scale
+  E# is not a valid note in the E major scale
+  Db is not a valid note in the E major scale
+  C# transposes to F
+  D is not a valid note in the E major scale
+  Gb is not a valid note in the E major scale
+  B transposes to Eb
+  B# is not a valid note in the E major scale
+  Bb is not a valid note in the E major scale
+
+Key of A# is not a valid major key
+
+Key of E# is not a valid major key
+
+Transposing from Bb to Ab:
+  G transposes to F
+  A# is not a valid note in the Bb major scale
+  Db is not a valid note in the Bb major scale
+  D transposes to C
+  D# is not a valid note in the Bb major scale
+  E# is not a valid note in the Bb major scale
+  Cb is not a valid note in the Bb major scale
+  D transposes to C
+  G transposes to F
+  A# is not a valid note in the Bb major scale
+
+Key of A# is not a valid major key
+
+Transposing from Cb to Ab:
+  C# is not a valid note in the Cb major scale
+  F# is not a valid note in the Cb major scale
+  F# is not a valid note in the Cb major scale
+  C is not a valid note in the Cb major scale
+  A is not a valid note in the Cb major scale
+  Eb transposes to C
+  Db transposes to Bb
+  B# is not a valid note in the Cb major scale
+  A is not a valid note in the Cb major scale
+  D# is not a valid note in the Cb major scale
+
+Transposing from Eb to Cb:
+  A is not a valid note in the Eb major scale
+  Eb transposes to Cb
+  Gb is not a valid note in the Eb major scale
+  Eb transposes to Cb
+  C# is not a valid note in the Eb major scale
+  G# is not a valid note in the Eb major scale
+  F transposes to Db
+  D transposes to Bb
+  Bb transposes to Gb
+  Eb transposes to Cb
+
+Key of B# is not a valid major key
+
+Key of D# is not a valid major key
+
+Transposing from C# to C:
+  B# transposes to B
+  B# transposes to B
+  A is not a valid note in the C# major scale
+  Fb is not a valid note in the C# major scale
+  E# transposes to E
+  D is not a valid note in the C# major scale
+  B# transposes to B
+  F# transposes to F
+  E# transposes to E
+  Cb is not a valid note in the C# major scale
+
+Transposing from Db to Gb:
+  A# is not a valid note in the Db major scale
+  G is not a valid note in the Db major scale
+  Gb transposes to Cb
+  Bb transposes to Eb
+  Bb transposes to Eb
+  B# is not a valid note in the Db major scale
+  C# is not a valid note in the Db major scale
+  Fb is not a valid note in the Db major scale
+  F transposes to Bb
+  Fb is not a valid note in the Db major scale
+
+Transposing from E to Ab:
+  F# transposes to Bb
+  B# is not a valid note in the E major scale
+  D# transposes to G
+  Bb is not a valid note in the E major scale
+  Eb is not a valid note in the E major scale
+  E# is not a valid note in the E major scale
+  Eb is not a valid note in the E major scale
+  C# transposes to F
+  G is not a valid note in the E major scale
+  B transposes to Eb
+
+Transposing from Ab to D:
+  Ab transposes to D
+  A is not a valid note in the Ab major scale
+  A is not a valid note in the Ab major scale
+  Fb is not a valid note in the Ab major scale
+  C transposes to F#
+  D is not a valid note in the Ab major scale
+  E is not a valid note in the Ab major scale
+  G transposes to C#
+  D is not a valid note in the Ab major scale
+  E is not a valid note in the Ab major scale
+
+Transposing from B to Eb:
+  B# is not a valid note in the B major scale
+  Fb is not a valid note in the B major scale
+  B transposes to Eb
+  C# transposes to F
+  Db is not a valid note in the B major scale
+  B transposes to Eb
+  E# is not a valid note in the B major scale
+  Bb is not a valid note in the B major scale
+  D# transposes to G
+  F# transposes to Bb
+
+Key of A# is not a valid major key
+
+Key of Fb is not a valid major key
+
+Transposing from F# to F:
+  F# transposes to F
+  Gb is not a valid note in the F# major scale
+  D is not a valid note in the F# major scale
+  A# transposes to A
+  F# transposes to F
+  B transposes to Bb
+  Db is not a valid note in the F# major scale
+  Eb is not a valid note in the F# major scale
+  Db is not a valid note in the F# major scale
+  C# transposes to C
+
+Transposing from C to F#:
+  G transposes to C#
+  F# is not a valid note in the C major scale
+  C transposes to F#
+  Cb is not a valid note in the C major scale
+  B# is not a valid note in the C major scale
+  Eb is not a valid note in the C major scale
+  A# is not a valid note in the C major scale
+  E# is not a valid note in the C major scale
+  A transposes to D#
+  B transposes to E#
+
+Key of B# is not a valid major key
+
+Key of D# is not a valid major key
+
+Key of B# is not a valid major key
+
+Key of E# is not a valid major key

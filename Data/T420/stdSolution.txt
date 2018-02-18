@@ -1,0 +1,24 @@
+
+#include<stdio.h>
+#include<string.h>
+
+char str[100010];
+
+int main(){
+	int i;
+	int start,step,len;
+	gets(str);
+	len=strlen(str);
+
+	scanf("%d%d",&start,&step);
+
+	for(i=start;i<len;){
+		printf("%c",str[i]);
+		i+=step;
+	}
+
+
+	return 0;
+
+}
+

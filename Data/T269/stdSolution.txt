@@ -1,0 +1,200 @@
+
+/**************Powered by Graphene Richards**************/
+//{
+
+#define FLOAT_PRECISION    "%.2f"
+#define LF_PRECISION        10
+#define INT_64_MOD          "%I64d"
+#define UNSIGNED_64_MOD     "%I64u"
+#define COLORED_S
+
+//#pragma comment(linker,"/STACK:102400000,102400000")
+#include<cmath>
+#include<cstdio>
+#include<cstdlib>
+#include<cstring>
+#include<algorithm>
+#include<bitset>
+#include<complex>
+#include<vector>
+#include<iomanip>
+#include<iostream>
+#include<list>
+#include<map>
+#include<queue>
+#include<set>
+#include<stack>
+#include<string>
+#define FAST_RW ios_base::sync_with_stdio(0),cin.tie(0);
+#define IT(x) __typeof((x).begin())
+#define DIT(x) __typeof((x).rbegin())
+#define FS(i,a) for(ll i=0;a[i];i++)
+#define FE(x,ctn) for(IT(ctn)x=(ctn).begin(),CluhxSchFuDeugk=(ctn).end();x!=CluhxSchFuDeugk;x++)
+#define FR(i,en) for(ll i=0,pJNwFPtlXiwFoIv=(en);i<pJNwFPtlXiwFoIv;i++)
+#define FOR(i,en) for(ll i=1,SbKCIcakJTeYVqs=(en);i<=SbKCIcakJTeYVqs;i++)
+#define FFR(i,x,y) for(ll i=(x),alVDbhLBoMEGSwA=(y);i<=alVDbhLBoMEGSwA;i++)
+#define DFFR(i,x,y) for(ll i=(x),NWYfecAcmGBMJuU=(y);i>=NWYfecAcmGBMJuU;i--)
+#define ll long long
+#define ull unsigned long long
+#define ui unsigned
+#define lf long double
+#define pc putchar
+#define pb push_back
+#define pq priority_queue
+#define fi first
+#define se second
+#define pii pair<int,int>
+#define pll pair<ll,ll>
+#define pdd pair<double,double>
+#define lb(x) (x&(-x))
+#define sqr(x) (x)*(x)
+#define all(x) (x).begin(),(x).end()
+#define rall(x) (x).rbegin(),(x).rend()
+#define clr(x) memset((x),0,sizeof(x))
+#define ms(x,v) memset((x),(v),sizeof(x))
+#define mc(x,y) memcpy((x),(y),sizeof(y))
+#define NL puts("");
+#define fin(x,c) ((c).find(x)!=(c).end())
+
+using namespace std;
+int ebtpqJsBCnTgggi;
+
+template<class T1,class T2,class T3>
+bool _IN(T1 x,T2 y,T3 z){
+  return x<=y&&x>=z||x<=z&&x>=y;
+}
+
+ull gcd(ull a,ull b){
+  if(!b)return a;
+  while(b^=a^=b^=a%=b);
+  return a;
+}
+
+extern const ll mod;
+ll ksm(ll a,ll b){
+  ll res=1;
+  a%=mod;
+  for(;b;b>>=1){
+    if(b&1)res=res*a%mod;
+    a=a*a%mod;
+  }
+  return res;
+}
+
+#ifdef wmx16835
+#define NOT_TESTING_TEMPLATE_CPP
+#include"wmx16835.cpp"
+#else
+#define LOG {
+#define TEL }
+#define SHOW_TIME
+#define test(...) ebtpqJsBCnTgggi
+#define TEST(...) ebtpqJsBCnTgggi
+#define TRY(...)
+#define PF
+#define SF(...)
+#define PP ;
+#define S _S
+#define SL _SL
+#endif
+
+char DATaJNTFnlmAoya[2];
+bool _S(char*a)  {return scanf("%s",a)==1;}
+bool _S(int&a)   {return scanf("%d",&a)==1;}
+bool _S(bool&a)  {return scanf("%d",&a)==1;}
+bool _S(ui&a)    {return scanf("%u",&a)==1;}
+bool _S(float&a) {return scanf("%f",&a)==1;}
+bool _S(double&a){return scanf("%lf",&a)==1;}
+bool _S(ll&a)    {return scanf(INT_64_MOD,&a)==1;}
+bool _S(ull&a)   {return scanf(UNSIGNED_64_MOD,&a)==1;}
+bool _S(lf&a)    {return (cin>>a)!=0;}
+bool _S(char&a)  {if(scanf("%1s",DATaJNTFnlmAoya)==-1)return 0;a=*DATaJNTFnlmAoya;return 1;}
+template<class T>
+bool _S(const T&){test("Input format error!\n");return 0;}
+bool _SL(char*a){
+  a[0]=0;
+  while(gets(a)&&!a[0]);
+  return a[0];
+}
+
+void _P(const int&x)   {printf("%d",x);}
+void _P(const bool&x)  {printf("%d",x);}
+void _P(const ui&x)    {printf("%u",x);}
+void _P(const char&x)  {printf("%c",x);}
+void _P(const char*x)  {printf("%s",x);}
+void _P(const string&x){printf("%s",x.c_str());}
+void _P(const ll&x)    {printf(INT_64_MOD,x);}
+void _P(const ull&x)   {printf(UNSIGNED_64_MOD,x);}
+void _P(const float&x) {printf(FLOAT_PRECISION,x);}
+void _P(const double&x){printf(FLOAT_PRECISION,x);}
+void _P(const lf&x)    {cout<<setprecision(LF_PRECISION)<<x;}
+template<class T>
+void _P(const T&){test("Output format error!\n");}
+
+template<class T1,class T2>
+bool _S(T1&a,T2&b){return _S(a)+_S(b)==2;}
+template<class T1,class T2,class T3>
+bool _S(T1&a,T2&b,T3&c){return _S(a)+_S(b)+_S(c)==3;}
+template<class T1,class T2,class T3,class T4>
+bool _S(T1&a,T2&b,T3&c,T4&d){return _S(a)+_S(b)+_S(c)+_S(d)==4;}
+template<class T1,class T2,class T3,class T4,class T5>
+bool _S(T1&a,T2&b,T3&c,T4&d,T5&e){return _S(a)+_S(b)+_S(c)+_S(d)+_S(e)==5;}
+
+template<class T1>
+void P(const T1&a){_P(a);pc(' ');}
+template<class T1,class T2>
+void P(const T1&a,const T2&b){_P(a);pc(' ');_P(b);pc(' ');}
+template<class T1>
+void PN(const T1&a){_P(a);NL}
+template<class T1,class T2>
+void PN(const T1&a,const T2&b){_P(a);pc(' ');_P(b);NL}
+template<class T1,class T2,class T3>
+void PN(const T1&a,const T2&b,const T3&c){_P(a);pc(' ');_P(b);pc(' ');_P(c);NL}
+template<class T1,class T2,class T3,class T4>
+void PN(const T1&a,const T2&b,const T3&c,const T4&d){_P(a);pc(' ');_P(b);pc(' ');_P(c);pc(' ');_P(d);NL}
+template<class T1,class T2,class T3,class T4,class T5>
+void PN(const T1&a,const T2&b,const T3&c,const T4&d,const T5&e){_P(a);pc(' ');_P(b);pc(' ');_P(c);pc(' ');_P(d);pc(' ');_P(e);NL}
+
+template<class T>
+void PA(T*a,int n){
+  FR(i,n-1)_P(a[i]),pc(' ');
+  PN(a[n-1]);
+}
+
+template<class T>
+void PA(const T&x){
+  FE(it,x){
+    _P(*it);
+    if(it==--x.end())NL
+    else pc(' ');
+  }
+}
+
+int kase;
+const double pi=4*atan(1);
+const double ep=1e-9;
+const int INF=0x3f3f3f3f;
+const ll INFL=0x3f3f3f3f3f3f3f3fll;
+const ll mod=1000000007;
+//}
+
+map<string,int>x;
+char bf[1000];
+
+int main(){
+  SHOW_TIME
+  int n;
+  S(n);
+  while(n--){
+    SL(bf);
+    x[bf]++;
+  }
+  int res=0;
+  FE(it,x)res=max(res,it->se);
+  FE(it,x)if(it->se==res)PN(it->fi);
+}
+
+/*********Risoft corporation all rights reserved*********/
+/**************Template V2.00 build 20150303*************/
+
+

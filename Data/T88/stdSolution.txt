@@ -1,0 +1,98 @@
+
+#include<iostream>
+#include<vector>
+#include<cmath>
+#include<iomanip>
+
+
+using std::cin;
+using std::cout;
+using std::endl;
+using std::vector;
+using std::setw;
+using std::setfill;
+
+vector<int> Multiply(vector<int> ivec1,vector<int> ivec2)  
+{
+	vector<int> ivec(125,0);
+
+
+	for(int i=0;i!=125;++i)
+	{
+		int n=0;
+		for(int j=0;j!=125-i;++j)
+		{
+			int tmp=ivec[i+j]+ivec1[j]*ivec2[i]+n;
+			ivec[i+j]=tmp%10000;
+			n=tmp/10000;
+		}
+	}
+
+
+	return ivec;
+}
+
+
+int main()
+{
+	int p=0;
+	cin>>p;
+
+
+	cout<<(int)(p*log10(2.0))+1<<endl;
+
+
+	vector<int> Boolvec;
+
+
+	while(p)
+	{
+		Boolvec.push_back(p%2);
+		p/=2;
+	}
+
+
+	vector<int> ivec;
+	vector<int> Result;
+	ivec.push_back(2);
+	Result.push_back(1);
+	for(int i=1;i!=125;++i)
+	{
+		ivec.push_back(0);
+		Result.push_back(0);
+	}
+		
+	for(int i=0;i<(int)Boolvec.size();++i)
+	{
+		if(Boolvec[i])
+			Result=Multiply(Result,ivec);
+		
+		ivec=Multiply(ivec,ivec);
+	}
+
+
+	Result[0]--;
+
+
+	for(int i=124;i>=0;--i)
+	{
+		if(i%25==12)
+		{
+			cout<<setfill('0')<<setw(2)<<Result[i]/100;  
+			cout<<endl;
+			cout<<setfill('0')<<setw(2)<<Result[i]%100;
+		}
+		else
+		{
+			if(i%25==0)
+			{
+				cout<<setfill('0')<<setw(4)<<Result[i];
+				cout<<endl;
+			}
+			else
+				cout<<setfill('0')<<setw(4)<<Result[i];
+		}
+	}
+	return 0;
+}
+

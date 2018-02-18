@@ -1,0 +1,51 @@
+
+#include <iostream>
+#include <string>
+#include <cmath>
+using namespace std;
+#define SIZE 1481
+int main(){
+	int arr[SIZE] = { 0 };
+	int table[10] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+	int n;
+	cin >> n;
+	cin.clear();
+	cin.get();
+	int length;
+	int temp;
+	string str;
+	string cmd[SIZE];
+	for (int i = 0; i < n; i++){
+		getline(cin, cmd[i]);
+	}
+	for (int i = 0; i < n; i++){
+		str = cmd[i];
+		if (str == "New"){
+			for (int j = 0; j < SIZE; j++){
+				if (arr[j] == 0){
+					arr[j] = j + 1;
+					cout << j + 1 << endl;
+					break;
+				}
+			}
+		}
+		else{
+			length = str.length();
+			temp = 0;
+			for (int i = 7; i < length; i++){
+				temp = temp + table[str[i] - 48] * pow(10, length - 1 - i);
+			}
+			if (arr[temp - 1] == 0){
+				cout << "Failed" << endl;
+				continue;
+			}
+			else{
+				arr[temp - 1] = 0;
+				cout << "Successful" << endl;
+				continue;
+			}
+		}
+	}
+	return 0;
+}
+

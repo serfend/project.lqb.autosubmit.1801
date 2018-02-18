@@ -1,0 +1,70 @@
+
+#include<iostream>
+using namespace std;
+
+
+//判断闰年
+bool fun1(int n)
+{
+	if ((n%4==0&&n%100!=0)||(n%100==0&&n%400==0))
+		return true;
+	return false;
+}
+
+//判断输入年份第一天为星期几
+int fun2(int n)
+{
+	if (n==1998)
+	{
+		return 4;
+	}
+	else
+	{
+		int sum=0;
+		for (int i=1998;i<n;i++)
+		{
+			if(fun1(i))
+				sum+=366;
+			else
+				sum+=365;		
+		}
+		return (sum+4)%7;
+	}
+}
+
+//计算黑色星期五
+int fun3(int year,int fx)
+{
+	int i=0;
+	int a[12]={12,43,71,102,132,163,193,224,255,285,316,346}; 
+	int b[12]={12,43,72,103,133,164,194,225,256,286,317,347}; 
+	if (fun1(year))
+	{
+		for (int j=0;j<12;j++)
+		{
+			if ((b[j]+fx)%7==5)
+				i++;
+		}
+	}
+	else
+	{
+		for (int j=0;j<12;j++)
+		{
+			if ((a[j]+fx)%7==5)
+				i++;
+		}
+	}
+	return i;
+	
+}
+
+
+int main()
+{
+	int n;
+	cin>>n;
+	cout<<fun3(n,fun2(n))<<endl;
+	
+	return 0;
+}
+

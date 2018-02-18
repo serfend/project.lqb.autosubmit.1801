@@ -1,0 +1,73 @@
+
+#include<cstdio>
+#include<iostream>
+#include<vector>
+using namespace std;
+int p[310],s[310],tv[310];
+vector<int> g[310],v[310];
+int n,cnt=0,sum=0,ans=999,tans[310],mcnt=0;
+void rtree(){
+	int u,v;
+	for(int i=0;i<n-1;i++){
+		scanf("%d%d",&u,&v);
+		g[u].push_back(v);
+		g[v].push_back(u);
+	}
+	p[1]=-1;
+}
+int btree(int u){
+	sum++;
+	s[u]=0;
+	v[cnt].push_back(u);
+	int d=g[u].size();
+	cnt++;
+	for(int i=0;i<d;i++){
+		int v=g[u][i];
+		if(v!=p[u]){
+			p[v]=u;
+			s[u]+=(btree(v)+1);
+		}
+	}
+	if(mcnt<cnt)mcnt=cnt;
+	cnt--;
+	if(tv[cnt]<s[u]+1)tv[cnt]=s[u]+1;
+	return s[u];
+}
+void dfs(int ti,int tsum){
+	if(ans>tsum)ans=tsum;
+	int tts=tsum;
+	for(int i=ti;i<mcnt;i++){
+		tts-=tv[i];
+	}
+	if(ans<=tts)return;
+	int d=v[ti].size();
+	if(d==0)return;
+	for(int i=0;i<d;i++){
+		int flag=1;
+		int tmp=v[ti][i];
+		while(tmp!=1){
+			tmp=p[tmp];
+			for(int j=1;j<ti;j++){
+				if(tans[j]==tmp){
+					flag=0;
+					break;
+				}
+			}
+			if(!flag)break;
+		}
+		if(flag){
+			tans[ti]=v[ti][i];
+			dfs(ti+1,tsum-s[v[ti][i]]-1);
+		}
+	}
+}
+int main(){
+	int m;
+	scanf("%d%d",&n,&m);
+	rtree();
+	btree(1);
+	dfs(1,sum);
+	cout<<ans;
+	return 0;
+}
+

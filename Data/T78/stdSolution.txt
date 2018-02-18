@@ -1,0 +1,73 @@
+
+#include <cstdio>
+#include <cmath>
+#include <cstring>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+using namespace std ;
+int map[25][25];
+int n,cnt;
+char c;
+char st[25][25];
+int visit[25];
+int dfs(int s)
+{
+    int temp,maxlen=0,t=0;
+    for(int i=0;i<n;i++)
+    {
+        temp=0;
+        if(map[s][i]&&visit[i])
+        {
+            t=1;
+            visit[i]--;
+            temp=dfs(i);
+            visit[i]++;
+            temp=temp+strlen(st[s])-map[s][i];
+        }
+        if(temp>maxlen) maxlen=temp;
+    }
+    if(!t) return strlen(st[s]);
+    return maxlen;
+}
+int main()
+{
+    while(scanf("%d",&n)!=EOF)
+    {
+        for(int i=0;i<n;i++)
+            scanf("%s",st[i]);
+        getchar();
+        scanf("%c",&c);
+        memset(map,0,sizeof(map));
+        int len1,len2;
+        for(int i=0;i<n;i++)
+            for(int j=0;j<n;j++)
+            {
+                len1=strlen(st[i]);
+                len2=strlen(st[j]);
+                for(int k=0;k<len1&&k<len2;k++)
+                {
+                     if(strncmp(st[i]+len1-k-1,st[j],k+1)==0)
+                     {
+                          map[i][j]=k+1;
+                          break;
+                     }
+                }
+           }
+        for(int i=0;i<n;i++) visit[i]=2;
+        cnt=0;
+        int temp;
+        for(int i=0;i<n;i++)
+        {
+            if(st[i][0]==c)
+            {
+                visit[i]--;
+                temp=dfs(i);
+                if(temp>cnt) cnt=temp;
+                visit[i]++;
+            }
+        }
+        printf("%d\n",cnt);
+    }
+}
+

@@ -1,0 +1,26 @@
+
+# include <stdio.h>
+struct rect{
+	int x, y;
+	int x_length, y_length;
+};
+struct rect s[10010];
+int main(){
+	int n, i, j, k;
+	int x, y;
+	scanf("%d", &n);
+	for(i=1; i<=n; i++){
+		scanf("%d%d%d%d", &s[i].x, &s[i].y, &s[i].x_length, &s[i].y_length);
+	}
+	scanf("%d%d", &x, &y);
+	int ans=-1;
+	for(i=1; i<=n; i++){
+		if(s[i].x<=x&&x<=s[i].x+s[i].x_length&&s[i].y<=y&&y<=s[i].y+s[i].y_length){
+			ans=i;
+		}
+	}
+	printf("%d", ans);
+	return 0;
+}
+
+

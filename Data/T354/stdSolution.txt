@@ -1,0 +1,77 @@
+
+#include <iostream>
+#include <cmath>
+#include <cstring>
+#include <cctype> 
+#include <cstdio>
+#include <algorithm>
+#include <list>
+#include <vector>
+#include <queue>
+#include <set>
+#include <map>
+using namespace std;
+const int INF=10000000;
+const int Mod=100000007;
+
+struct File{
+	string FileName;
+	bool FileType;
+	string FileInfo;
+}a[1000];
+
+int main()
+{
+	string cmd;
+	int index=0;
+	while(cin >> cmd)
+	{
+		if(cmd=="exit")
+		{
+			return 0;
+		}
+		if(cmd=="create")
+		{
+			string filename;
+			cin >> filename;
+			int i;
+			for(i=0;i<index;i++)
+			{
+				if(a[i].FileName==filename)
+				{
+					break;
+				}
+			}
+			a[i].FileName=filename;
+			cin >> a[i].FileType >> a[i].FileInfo;
+			index++;
+		}
+		if(cmd=="open")
+		{
+			string file;
+			cin >> file;
+			int i,j;
+			for(i=0;i<index;i++)
+			{
+				if(a[i].FileName==file)
+				{
+					break;
+				}
+			}
+			while(a[i].FileType)
+			{
+				for(j=0;j<index;j++)
+				{
+					if(a[i].FileInfo==a[j].FileName)
+					{
+						i=j;
+						break;
+					}
+				}
+			}
+			cout << a[i].FileInfo << endl;
+		}
+		
+	}
+}
+

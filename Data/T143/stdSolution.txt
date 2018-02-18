@@ -1,0 +1,77 @@
+
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+#include <string>
+#include <map>
+#include <set>
+#include <vector>
+using namespace std;
+int len;
+int getnum(string& s)
+{
+	int res = 0, i=0;
+	while (s[i] == 'w')
+	{
+		i++;
+		if (i==len)
+			return i;
+	}
+	res = i+1;
+	char t = s[i];
+	++i;
+	while ((s[i]==t ||s[i]=='w')&& s[i] != 0)
+	{
+		++i;
+		res++;
+	}
+	if (res == len)
+		return res;
+	i = len-1;
+	while (s[i] == 'w')
+	{
+		res++;
+		--i;
+	}
+	res++;
+	t = s[i];
+	--i;
+	while (i>=0 && (s[i]==t || s[i]=='w'))
+	{
+		res++;
+		--i;
+	}
+	if (res > len)
+		res = len;
+	return res;
+} 
+
+int main()
+{
+	char str[110];
+	scanf("%s", str);
+	len = strlen(str);
+	string s;
+	int sum = 0, t;
+	for (int i=0; i<len; ++i)
+	{
+		s = &str[i];
+		for (int j=0; j<i; ++j)
+		{
+			s += str[j];
+		}
+		t = getnum(s);
+		if (t > sum)
+		{
+			sum = t;
+		}
+	}
+	printf("%d\n", sum);
+	return 0;
+}
+
+
+
+
+
+

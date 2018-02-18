@@ -1,0 +1,86 @@
+
+#include <iostream>
+#include <cstring>
+#include <cstdio> 
+
+using namespace std;
+int to[5];
+int obj[5];
+int par[5];
+bool tar[5];
+int position[5];
+int rec[5];
+int cnt;
+bool cmp(int opr,int a,int b)
+{
+	if(opr==0)return a>=b;
+	else if(opr==1)return a<=b;
+	else if(opr==2)return a==b;
+	else if(opr==3)return a!=b;
+	else if(opr==4)return a>b;
+	else return a<b;
+}
+void judge()
+{
+	bool tb=true;
+	for(int i=0;i<5;i++){
+		if(position[i]%2){
+			if(!cmp(to[i],position[obj[i]],par[i])){
+				tb=false;
+				break;
+			}
+		}
+		else{
+			if(!cmp(5-to[i],position[obj[i]],par[i])){
+				tb=false;
+				break;
+			}
+		}
+	}
+	if(tb){
+		printf("%c%c%c%c%c\n",rec[0]+'A',rec[1]+'A',rec[2]+'A',rec[3]+'A',rec[4]+'A');
+		cnt++;
+	}
+}
+void dfs(int num)
+{
+	if(num==5){
+		judge();
+		return;
+	}
+	for(int i=0;i<5;i++){
+		if(!tar[i]){
+			position[i]=num;
+			rec[num]=i;
+			tar[i]=true;
+			dfs(num+1);
+			tar[i]=false;
+		}
+	}
+}
+int main(int argc, char** argv) {
+	memset(tar,false,sizeof tar);
+	for(int i=0;i<5;i++){
+		char s[5],c1;
+		scanf("%s",s);
+		obj[i]=s[0]-'A';
+		if(strlen(s)==4){
+			if(s[1]=='<')to[i]=1;
+			else if(s[1]=='!')to[i]=3;
+			else to[i]=0;
+			par[i]=s[3]-'0';
+		}
+		else{
+			if(s[1]=='<')to[i]=5;
+			else if(s[1]=='=')to[i]=2;
+			else to[i]=4;
+			par[i]=s[2]-'0';
+		}
+		par[i]-=1;
+	} 
+	cnt=0;
+	dfs(0);
+	printf("%d\n",cnt);
+	return 0;
+}
+

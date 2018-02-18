@@ -1,0 +1,13 @@
+Case 1: 999999999A
+Case 2: 1M
+Case 3: empty
+Case 4: 2A 1M 1A 2M 1A 1M 1A 1M 1A 3M 1A 1M 1A 2M 1A 2M 1A 1M 1A 3M 1A 2M 1A 9M
+Case 5: 1M
+Case 6: 999999998A
+Case 7: impossible
+Case 8: 1A 28M
+Case 9: 1A 28M
+Case 10: empty
+Case 11: 1A
+Case 12: 1A
+Case 13: 1A 1M

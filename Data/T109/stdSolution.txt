@@ -1,0 +1,33 @@
+
+#include<cstdio>
+#include<cmath>
+using namespace std;
+
+int main(){
+	int x1=0,y1=0,z1=0,x2=0,y2=0,z2=0;
+	int a1,b1,c1,a2,b2,c2;
+	int t;
+	int n;
+	double s;
+	scanf("%d",&n);
+	for(int i=0;i<n;i++){
+		scanf("%d%d%d%d%d%d%d",&a1,&b1,&c1,&a2,&b2,&c2,&t);
+		x1+=a1*t;
+		x2+=a2*t;
+		y1+=b1*t;
+		y2+=b2*t;
+		z1+=c1*t;
+		z2+=c2*t;
+	}
+	scanf("%d%d%d%d%d%d",&a1,&b1,&c1,&a2,&b2,&c2);
+	x1+=a1;
+	x2+=a2;
+	y1+=b1;
+	y2+=b2;
+	z1+=c1;
+	z2+=c2;
+	s=sqrt((double)(abs(x2-x1)*abs(x2-x1)+abs(y2-y1)*abs(y2-y1)+abs(z2-z1)*abs(z2-z1)));
+	printf("%.4lf\n",s);
+	return 0;
+}
+

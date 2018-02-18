@@ -1,0 +1,104 @@
+
+#include <iostream>
+using namespace std;
+class Time{
+	private:
+		int hour;
+		int minute;
+		int second;
+	public:
+		Time(int h,int m,int s);
+		void adv(int h,int m,int s);
+		void reset();
+		void print();
+		
+			
+};
+Time::Time(int h,int m,int s){
+	hour=h;
+	minute=m;
+	second=s;
+}
+void Time::reset(){
+	hour=0;
+	minute=0;
+	second=0;
+}
+void Time::print(){
+	int h=hour;
+	int m=minute;
+	int s=second;
+	if(s>=60){
+		int c=s/60;
+		s=s-c*60;
+		m=m+c;
+	}
+	if(s<0){
+		int c=s/60;
+		int d=-c;
+		d++;
+		s=s+d*60;
+		m=m-d;
+	}
+	if(m>=60){
+		int c=m/60;
+		m=m-c*60;
+		h=h+c;
+	}
+	if(m<0){
+		int c=m/60;
+		int d=-c;
+		d++;
+		m=m+d*60;
+		h=h-d;
+	}
+	if(h>=24){
+		int c=h/24;
+		h=h-c*24;
+	}
+	if(h<0){
+		int c=h/24;
+		int d=-c;
+		d++;
+		h=h+24*d;
+	}
+	if(h<10){
+		cout<<0<<h<<":"; 
+	}else{
+		cout<<h<<":";
+	}
+	if(m<10){
+		cout<<0<<m<<":"; 
+	}else{
+		cout<<m<<":";
+	}
+	
+	if(s<10){
+		cout<<0<<s<<endl; 
+	}else{
+		cout<<s<<endl;
+	}
+	
+	
+
+	
+}
+void Time::adv(int h,int m,int s){
+	hour=hour+h;
+	minute=minute+m;
+	second=second+s;
+}
+int main()
+{
+int hour,minute,second;
+int incr_hr,incr_min,incr_sec;
+cin >> hour >> minute >> second >> incr_hr >> incr_min >> incr_sec;
+Time t(hour,minute,second);
+t.print();
+t.adv(incr_hr,incr_min,incr_sec);
+t.print();
+t.reset();
+t.print();
+return 0;
+}
+

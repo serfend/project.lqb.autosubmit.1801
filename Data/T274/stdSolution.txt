@@ -1,0 +1,27 @@
+
+#include<iostream>
+using namespace std;
+int s[10004];
+int main(){
+	int l,n;
+	cin>>l>>n;
+	for(int i=0;i<=l;i++)
+		s[i]=1;
+	int x,y;
+	while(n--){
+		cin>>x>>y;
+		while(x<=y){
+			s[x]=0;			
+			x++;
+		}
+	}
+	int sum=0;
+	for(int i=0;i<=l;i++){
+		if(s[i]==1)
+			sum++;
+	}
+	cout<<sum<<endl;
+	
+	return 0;
+}
+

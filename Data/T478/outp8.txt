@@ -1,0 +1,15 @@
+Case 1: 2992A
+Case 2: 12703A 1M
+Case 3: 59499A
+Case 4: 1M
+Case 5: 26875A
+Case 6: 22998A
+Case 7: 2863A 1M
+Case 8: 15109A
+Case 9: 11474A
+Case 10: empty
+Case 11: 10587A 1M
+Case 12: 1477A
+Case 13: empty
+Case 14: empty
+Case 15: 33038A

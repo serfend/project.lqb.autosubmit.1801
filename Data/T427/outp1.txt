@@ -1,0 +1,4 @@
+Hex: 0x000
+Decimal: 0
+Octal: 0000
+

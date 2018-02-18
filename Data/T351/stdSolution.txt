@@ -1,0 +1,26 @@
+
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <algorithm>
+#include <string>
+#include <cstring>
+#include <ctime>
+#include <cmath>
+#include <map>
+using namespace std;
+
+int main()
+{
+	int i, j, x, y;
+	for(i = 1; i <= 500; i ++)
+		for(j = i; j <= 500; j ++)
+		{
+			x = i*i+j*j;
+			y = sqrt(x);
+			if(x == y*y && i+j+y <= 1000)
+				cout << i << " " << j << " " << y << endl;
+		}
+	return 0;
+}
+

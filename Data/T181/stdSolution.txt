@@ -1,0 +1,28 @@
+
+#include <stdio.h>
+#include <string.h>
+
+char s[100010];
+char m[100010];
+
+int main (void)
+{
+	char a;
+	int len, max = -0x3f3f3f3f;
+	while(1)
+	{
+		scanf("%s", s);
+		a = getchar();
+		len = strlen(s);
+		if(max < len)
+		{
+			max = len;
+			strcpy(m, s);
+		}
+		if(a != ' ')
+			break;
+	}	
+	printf("%s\n", m);
+	return 0;
+}
+

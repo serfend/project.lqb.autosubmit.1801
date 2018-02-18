@@ -1,0 +1,516 @@
+00:06:10 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=060402717D8310CC43EA7C8AFE3C8821;_SESSIONKEY=850H4IPY9YJ4S8NWAWYF;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:22 GMT;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBCEE3987890D76B98BD830612729C472AD943D0FCE912AAF30C22CED01376D576D9FA13E6F02295A002924ABDE1C31DE1F 
+00:06:10 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=A6833BA20AF302F3B48F83CEBF067896;_SESSIONKEY=T12OFVACER45E011C1P9;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:20 GMT;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F5DAA8DAA879ABD660DA31B7C3B5CEE2D287C87AE7E121ADB7B2E9ED1F7E8D794BF82EACD8BAF142C9F0E64A3A62FE3A19 
+00:06:10 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies:JSESSIONID=9C476066947C509AA67B337AD7B250AE;_SESSIONKEY=9Z0094K63E3M3F8HY8UX;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:32 GMT;_TOKEN=D5F98D41037204CF5CFC1F57960140B97B0F64E1463F1BFBBED1346D876632F62A265FF7E426555B9EAFE815FFEE211559EC683E0CFD0CDA3A54E68D121A3FE1E65B1862FA45291547112D139F441CE9 
+00:06:10 :xls.Status:切换到账号:904546102@qq.com,userId:232143,cookies:JSESSIONID=96DE4178823BB2B855184AD51FF6920B;_SESSIONKEY=532FA8QOOUF27W539R52;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:58 GMT;_TOKEN=3A18A98BB7951277C0A904EBC4C2A3E22D29B8F157330CF25A945DE76FC09A1DAD75A735A9A15C94091CB8A40FF3571C10EA92D6DCDF34892C7C271C361FDFB830AD15BA79DAAB833CA3F8A107002C82 
+00:06:10 :xls.Status:切换到账号:17623877493,userId:579282697891,cookies:JSESSIONID=FCD44F61C7E048F3DDE2A94E4FA45A17;_SESSIONKEY=2KSU97Z832ML5N5H91GI;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:11 GMT;_TOKEN=05AED4C868754136C9C30D3425ABB8BDA6682616A47D1BA64A560AB28121683A59B1F26FE224DFE270E15F80C68A069E126F5B8DF6011D4648E22D30BB971A492862F3269340F615894C682A39A1DF80 
+00:06:10 :xls.Status:切换到账号:17623476609,userId:579282679620,cookies:JSESSIONID=12304A78AFE1D92C850D11A5E08ABD78;_SESSIONKEY=459TTRWP99R1247U437Q;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:43 GMT;_TOKEN=EDF1AB21A803815CDBB2406480958D7AA4DF45562D68D929177F9B6916C9A6053D561854CED6AFC10D112D89E4F818A47059679C088B0428572B1F33AFE426FC094ED060CF30ACC8E8A6FAF2FF724DB6 
+00:06:10 :xls.Status:切换到账号:15730361457,userId:579282697794,cookies:JSESSIONID=55B1E56C24A2DB951276DD1E7C1908D0;_SESSIONKEY=VEHZKUWW6XP2485646GO;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:24 GMT;_TOKEN=711A4F9FA0DBF33AFD9E63D0FAE7388D35FE1173BBF5E3870387AEF777C9B4B3284A708E2AA294FA0E02763B135251FD286F67D081DEA59FE8052A8F0F7A22F49945BD4680A79FE8BA51DD63F84B778C 
+00:06:10 :xls.Status:切换到账号:15730363368,userId:579282697814,cookies:JSESSIONID=F039F51657EFFE3F6F70496D56624DF3;_SESSIONKEY=26AHNKCM7987YU3147WG;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:41 GMT;_TOKEN=CED576E81FEBE2AE705E64B1BC427D535671F0F0FC16ACD5CE029C18F09A639857B815ACA90E00A29423217802FF74B16362472CEB922EFAF5806EA78AF825E31DEFBFCA240FEB23AF8B723445C4BCB2 
+00:06:10 :xls.Status:切换到账号:17360254616,userId:579282697884,cookies:JSESSIONID=99BDA501FAE22A7E3C401BCAAE4D7877;_SESSIONKEY=3TP0ND8T9W918RJ4A029;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:08 GMT;_TOKEN=4C731AB331C70EF3A23B6BA7860DF12FD096A09C52611D2F49B70D67C52D819EFFBF082941DB6F5FDDE31224A1A2934B08CEF8B9EDB8614AE4B9F7A55F1D373830AD15BA79DAAB833CA3F8A107002C82 
+00:06:10 :xls.Status:切换到账号:15827021295,userId:579282680737,cookies:JSESSIONID=60CAADE817F49FFAD2ECF319337D681D;_SESSIONKEY=ZCB3HGCF37RTN62L9O98;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:17 GMT;_TOKEN=C3C03382083CED756974E157FA2140B1FDBB85D6A29DC8EEA212AA1F2320E9938ECC96A54267AEB8BD2151B7FE32278F8218724D1D6B7681DE304066EB08E8225F69022E7A01EAAD00F2045BF3F6FBFA 
+00:06:10 :xls.Status:切换到账号:15730362474,userId:579282695483,cookies:JSESSIONID=4CA12737B0329DEAE1A70A37EDA8719C;_SESSIONKEY=51P08H1P481K953D41D8;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:18 GMT;_TOKEN=F9E461FF3D3A4F892F51D74456156930EF4901299B307867EEF1946731661C897FDA2CEF45CE3C7BB0949131317955D29C73D5ABBBEDFA8624F472A0F950DC46D9CF75E67E043A9206A82EB993424F30 
+00:06:10 :xls.Status:切换到账号:511380795@qq.com,userId:232220,cookies:JSESSIONID=CC15E71D6EADAFD3BB37C5235AFD377C;_SESSIONKEY=185T8MNYW7YDE1DPW816;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:52 GMT;_TOKEN=1A02C286F33D1E9BA1918E757C7BE790B3554C023111EF92D3DF14D429F18ACB9618C3E45180F087A92CFBFDDE8CB183E1EE53CCB0DD5898493DED46BFA3FA593A78997ADD944CD2B5090499B89A5423 
+00:06:10 :xls.Status:切换到账号:2396522964@qq.com,userId:232183,cookies:JSESSIONID=80FFFA48CEF2E65FBF7B573C3146DA10;_SESSIONKEY=L893P85I89T5GP4DJQ52;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:37 GMT;_TOKEN=DA729C4A9690AEB799BDF3F597F25B7A54FACB129131D043BE1695F84DBF9973A3EC2B7E4B64AEEB6E522879D89153A1F7377A0195811BD8659E6471E29115DE3A78997ADD944CD2B5090499B89A5423 
+00:06:10 :xls.Status:切换到账号:785794836@qq.com,userId:178927,cookies:JSESSIONID=486A615A605FB9D00F509B7960D175AB;_SESSIONKEY=K4A4DZA27B272USZ8S26;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:05 GMT;_TOKEN=09CE54576121E13145684A3F4BE0FE48A4FB147FA3D2CD479DFFBCF127069701CAE30CD28C29BA67E7E7BAA027CEE5A4DF5523FE3B8D118C95D58621B503CEAB84E72A21B7178098067A93DA1937A049 
+00:06:10 :xls.Status:切换到账号:serfend@lqb.com,userId:217085,cookies:JSESSIONID=9E3278611BA31904C998274DE7970521;_SESSIONKEY=DW0DZB1Z31685YPHLT27;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:07 GMT;_TOKEN=D544534E0BA0A9BB37FEC45D28AE7B26E61501ACA033E77A31C6BDB9E7FD77063A08583956106D7BA970A76262C89DFB8EFE4029970572C108C4161CF72BA79E1B4FC036C844D0D7F69F7E29E8245BA7 
+00:06:10 :xls.Status:切换到账号:354929630@qq.com,userId:232211,cookies:JSESSIONID=92A0F7AD52231825F00334067F2901D9;_SESSIONKEY=3IS0D0AMM333RU40L668;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:54 GMT;_TOKEN=354387033E494D42AC67AD6E664C1C77C1B6B1D499CEF3A68124D8815B192E0B308DB1AF0B83D9026CCE8D76948D95341867D3BED2FEE5DF685BCADE3776B0369945BD4680A79FE8BA51DD63F84B778C 
+00:06:10 :xls.Status:切换到账号:747276157@qq.com,userId:232180,cookies:JSESSIONID=E395A7FB23522D9A328F7085BD243C3A;_SESSIONKEY=TG64L9BY9BKK03DO61JP;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:56 GMT;_TOKEN=3630B504C8774EC0B918BEC21BCC293544C1E7C0AF6033C55037A6EA05872389B4EAC4E53CE1842E776DC27525EB66751DA13D10B391421EBCB8FB096EA44AEC9FA13E6F02295A002924ABDE1C31DE1F 
+00:06:10 :xls.Status:切换到账号:15926430497,userId:24695485914,cookies:JSESSIONID=9394AFAB80A655A116F1B887B2A1F2CA;_SESSIONKEY=EGBQ2YL4J45FXEBCP96Z;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:03 GMT;_TOKEN=CB528EDDF5913BD1A0074CAC5891AF766D47BBD4F3FECE7CBEA707AFA2A9C261A82162D3055DD7626FFB3361DFAB81D246F8C0F99EEA4826E5FC11632BE9930FE65B1862FA45291547112D139F441CE9 
+00:06:10 :xls.Status:切换到账号:15826191001,userId:579282679703,cookies:JSESSIONID=FEE2D1EC8DDA86A7D7631A7673447481;_SESSIONKEY=8A95427F9UULDDN7K31C;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:59 GMT;_TOKEN=5DD29537934A2D7F76AB0B5D173D267162A828578BD42D6A676A85481E2BE2DE2E52F86595AABB77841A4D52173900068B0300A11BD68C4563680ADB59BD36B984E72A21B7178098067A93DA1937A049 
+00:06:10 :xls.Status:切换到账号:15923225800,userId:579282679619,cookies:JSESSIONID=BE0BF53261A9D8E88F2160E33C92F1A6;_SESSIONKEY=376S275SNS3OM3RP7XMY;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:29 GMT;_TOKEN=DE443018564BD4166AA4D7EFFAA0EF10BBAA2AE124AD8CEEAF281CC3ECD4A9355AED68429859BE5FA0CF2FEDC424DE9C06A8EA7C68DF9AFE0A6F3E3C7F0EB4A09FA13E6F02295A002924ABDE1C31DE1F 
+00:06:10 :xls.Status:切换到账号:13340286964,userId:579282679555,cookies:JSESSIONID=6015B28B5F0BD4A89127B7A122DB134C;_SESSIONKEY=0V743K554JPF8714UQ71;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:35 GMT;_TOKEN=9A29E246C33D35976BD0261520A99667BD727804ACD233DF950086AEFD29EAD3C4F5B48AB5808F403E90AB2ABC0C9A949EE21B52DFC824AD5C9FDD596464AB263A78997ADD944CD2B5090499B89A5423 
+00:06:10 :xls.Status:切换到账号:15213442058,userId:579282679624,cookies:JSESSIONID=517C6550AFBFF30AAA033E62A8128D16;_SESSIONKEY=7HW7DU9269486YWES8KI;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:34 GMT;_TOKEN=9A48A021FA151713B1E82C3FE93AD8A70D5E819CF0A93CAAE229E485FDB831AB4288C121DA1C34D8150FE1171DC2EC1CD1F0A3B11377F2DF97EEAAD8EB6125701DEFBFCA240FEB23AF8B723445C4BCB2 
+00:06:10 :xls.Status:切换到账号:15972977557,userId:24695486758,cookies:JSESSIONID=F19AB4F8FA9881C5398129D19A237B9D;_SESSIONKEY=9E0I552SR8Q0WO12W204;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:15 GMT;_TOKEN=A637F0166AFD91FD05D2982F45561A41438B39E9D9F4156DAC1DA53C1FDF73F32994C9A19FD4DA7323F1A493F1748C3884738EF56462335855B1DB623465180A3A78997ADD944CD2B5090499B89A5423 
+00:06:10 :xls.Status:切换到账号:13153334563,userId:24695486505,cookies:JSESSIONID=A081F0D36FC81C403DF9069F2B88D801;_SESSIONKEY=OJ5HV1B4IUW02T2A2AM3;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:13 GMT;_TOKEN=8A26B88629AA645D5F74735994EE00E8831322983B719CFF780C51D8A461B6C70AF21B9E38A3CB95F8C250376CA639162D7D8B865ED8D5B38C4678805E680CA030AD15BA79DAAB833CA3F8A107002C82 
+00:06:10 :xls.Status:切换到账号:18071410231,userId:24695487465,cookies:JSESSIONID=0B52625F774E8DDF2C7C96CB71912CC2;_SESSIONKEY=QC6P04K4GUI8R7Q384ML;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:03 GMT;_TOKEN=50B59137D3716F5B05F4AFC3FED190D4B3C3BB31886FD7120E6A20406974B5869FEDDAE8EA64548DC636D636CA330607B33DB8173A5588E38BDB1D11966E798D9FA13E6F02295A002924ABDE1C31DE1F 
+00:06:10 :xls.Status:切换到账号:625090446@qq.com,userId:232140,cookies:JSESSIONID=B4359684DC1B945AEC4BCE83127831C6;_SESSIONKEY=0J73QC2I1Z0QF3620A30;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:50:01 GMT;_TOKEN=A6275C875EA12A16E44CDC64665874A8C86DEDC67DF5BF9546E1A32FA4E7C5F387BAA39BAD64B6BF8BB9BF6F7E8F98BF0238465936FF1BAE451446EC49A634889FA13E6F02295A002924ABDE1C31DE1F 
+00:06:10 :xls.Status:切换到账号:13178693999,userId:579282679642,cookies:JSESSIONID=EA9496A44774BBE73759A727FE904FEC;_SESSIONKEY=H17F909H53G3L1Z819CJ;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:45 GMT;_TOKEN=830E70A222D107523B7F752DE86269461E04EBF202AFD653C0FB118D1DE317DD47C6C8F56D3104D6891CEB3EC959529440E0ACA677782640413C507DDA341DE32862F3269340F615894C682A39A1DF80 
+00:06:10 :xls.Status:切换到账号:13072386283,userId:579282693149,cookies:JSESSIONID=1156D87127C3045A7AB8688BBEBEF9E1;_SESSIONKEY=4RVS99B0234X7QKZ6DMS;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:39 GMT;_TOKEN=19967BE4003991DB8466C44E2485DB4B12225E1A0D2390B7FF167FCDBEAE91848870E4A98A1DE25E58B59B56A6A69CA9C14CEAEBC228A77639FB9792F3511707D273EBB83EC39221A7EFD7AEF1744AC5 
+00:06:10 :xls.Status:切换到账号:15730360985,userId:579282679682,cookies:JSESSIONID=EC68FE500461FF1138D5C495462F51E5;_SESSIONKEY=0BI5L321E3M8485ZZ2LP;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:50 GMT;_TOKEN=1FB6E044A9FBA737D8CDC1B3F2379E3FAF9D7802DB344710D1F09558D933BEC56A77E36E22568CEE05AA5B3ABDFA547DED06157FC2DD2A6E1233D0544A89D52ED273EBB83EC39221A7EFD7AEF1744AC5 
+00:06:11 :xls.Status:切换到账号:15205967368,userId:579282693150,cookies:JSESSIONID=2007F4C32357E9C3BBBA6E532118EA08;_SESSIONKEY=5XZ3632C88RVPFTG1T6F;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:27 GMT;_TOKEN=48B272DFEB12B561F934E20B301807555549114CC382603AD5DD857B36EE8EEF4AEAF6A11A9749DED851D303CCFD73370E9618CE1C04290D9BB53C1AB281E382D9CF75E67E043A9206A82EB993424F30 
+00:06:11 :xls.Status:切换到账号:15823283574,userId:579282679676,cookies:JSESSIONID=9070111FD36C799562AE08F9627B141E;_SESSIONKEY=2UH3F7KLA9WY9208544W;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:11 GMT;_TOKEN=87FFDD930F6F87B43DD7940550FFB398462460537CFD49DA9461344620D9D5E184420B70558AFFD7F7EAE7E3CB676DE22CEF97C8CE4A9CC0A944396DCA5E8BE284E72A21B7178098067A93DA1937A049 
+00:06:11 :xls.Status:切换到账号:15972926051,userId:579282679645,cookies:JSESSIONID=E854629920DE1712D7FA30E4C53B4938;_SESSIONKEY=94RY6PS0QUC4X175C097;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:07 GMT;_TOKEN=BD4BA7C1FD518DAF74CB650CDB83C7CF455CE5E75E9C00C5013C1C07C38E2CC7CAB5D4BC237141F0304C8848A3250F629A0B88172A9B9F7786EAD2959CCD5802094ED060CF30ACC8E8A6FAF2FF724DB6 
+00:06:11 :xls.Status:切换到账号:18152681169,userId:24695486784,cookies:JSESSIONID=7098AED3AC3633654CDD10C12524B5BA;_SESSIONKEY=Y43F1K129033523K8UMB;Domain=lanqiao.cn;Expires=Mon, 05-Feb-2018 14:49:05 GMT;_TOKEN=22F23D372668FF8074C805828CB7891B6C57E8F287AA8764F705FC353F873138351FCB71DE010531E32B3829DD4A51328EE44F92E1445728DB1AC89C76A8D907D9CF75E67E043A9206A82EB993424F30 
+00:06:11 :xls.Status:已登录13986274216 
+00:06:11 :xls.Status:已登录785794836@qq.com 
+00:06:11 :xls.Status:已登录747276157@qq.com 
+00:06:11 :xls.Status:已登录511380795@qq.com 
+00:06:11 :xls.Status:已登录2396522964@qq.com 
+00:06:11 :xls.Status:已登录354929630@qq.com 
+00:06:11 :xls.Status:已登录13340286964 
+00:06:11 :xls.Status:已登录18071410231 
+00:06:11 :xls.Status:已登录15827021295 
+00:06:11 :xls.Status:已登录15213442058 
+00:06:11 :xls.Status:已登录15730362474 
+00:06:11 :xls.Status:已登录625090446@qq.com 
+00:06:11 :xls.Status:已登录13153334563 
+00:06:11 :xls.Status:已登录13072386283 
+00:06:11 :xls.Status:已登录15923225800 
+00:06:11 :xls.Status:已登录15730363368 
+00:06:11 :xls.Status:已登录18152681169 
+00:06:11 :xls.Status:已登录17623476609 
+00:06:11 :xls.Status:已登录17623877493 
+00:06:11 :xls.Status:已登录15205967368 
+00:06:11 :xls.Status:已登录13178693999 
+00:06:11 :xls.Status:已登录15826191001 
+00:06:11 :xls.Status:已登录15972926051 
+00:06:11 :xls.Status:已登录15926430497 
+00:06:12 :xls.Status:已登录15823283574 
+00:06:12 :xls.Status:已登录17360254616 
+00:06:12 :xls.Status:已登录15730360985 
+00:06:12 :xls.Status:已登录15730361457 
+00:06:12 :xls.Status:已登录15972977557 
+00:06:12 :xls.Status:已登录15808081216 
+00:06:12 :xls.Status:已登录serfend@lqb.com 
+00:06:12 :xls.Status:已登录904546102@qq.com 
+00:06:12 :xls.Status:已登录liuchangm7j@vip.qq.com 
+00:06:13 :xls.Status:加载[15/33](serfend@lqb.com)   
+00:06:13 :xls.Status:加载题库:[15/33](serfend@lqb.com)   
+00:06:13 :xls.Status:[15/33](serfend@lqb.com)  加载题目集数量:5 
+00:06:15 :xls.Status:[15/33](serfend@lqb.com)  .习题已全部加载完成  UA/AC/All=6/76/477 
+00:06:15 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:06:16 :xls.Status:无标程 
+00:06:16 :xls.Status:数据下载跳过,且代码重新生成功能开启,重新生成ing~~ 
+00:06:16 :xls.Status:T59异常的题目测试数据 
+00:06:16 :xls.Status:采用自生成代码提交 
+00:06:33 :xls.Status:[15/33](serfend@lqb.com)  [T59]矩形面积交:{"msg":"","ret":"0"} 
+00:06:33 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:07:03 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:07:03 :xls.Status:无标程 
+00:07:03 :xls.Status:数据下载跳过,且代码重新生成功能开启,重新生成ing~~ 
+00:07:03 :xls.Status:T58异常的题目测试数据 
+00:07:03 :xls.Status:采用自生成代码提交 
+00:07:04 :xls.Status:[15/33](serfend@lqb.com)  [T58]矩阵乘法:{"msg":"","ret":"0"} 
+00:07:04 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:07:34 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:07:34 :xls.Status:无标程 
+00:07:34 :xls.Status:数据下载跳过,且代码重新生成功能开启,重新生成ing~~ 
+00:07:34 :xls.Status:T57异常的题目测试数据 
+00:07:34 :xls.Status:本题暂无生成的代码,需先下载题目测试数据 
+00:07:34 :xls.Status:完成3/395-未提交,[T57]分解质因数 
+00:07:34 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:07:34 :xls.Status:[15/33](serfend@lqb.com)  [T56]字符串对比:{"itemid":"2043509","msg":"提交成功。","ret":"1"} 
+00:07:34 :xls.Status:完成4/395-2043509,[T56]字符串对比 
+00:07:34 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:07:34 :xls.Status:[15/33](serfend@lqb.com)  [T57]分解质因数:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:07:34 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:07:39 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:07:39 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:07:39 :xls.Status:[15/33](serfend@lqb.com)  [T38]格子刷油漆:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:07:39 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:07:39 :xls.Status:[15/33](serfend@lqb.com)  [T49]十进制转十六进制:{"itemid":"2043510","msg":"提交成功。","ret":"1"} 
+00:07:39 :xls.Status:完成6/395-2043510,[T49]十进制转十六进制 
+00:07:39 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:07:44 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:07:44 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:07:44 :xls.Status:[15/33](serfend@lqb.com)  [T37]高僧斗法:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:07:44 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:07:44 :xls.Status:[15/33](serfend@lqb.com)  [T124]分糖果:{"itemid":"2043511","msg":"提交成功。","ret":"1"} 
+00:07:44 :xls.Status:完成8/395-2043511,[T124]分糖果 
+00:07:44 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:07:49 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:07:49 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:07:50 :xls.Status:[15/33](serfend@lqb.com)  [T32]大臣的旅费:{"itemid":"2043512","msg":"提交成功。","ret":"1"} 
+00:07:50 :xls.Status:完成10/395-2043512,[T32]大臣的旅费 
+00:07:50 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:07:50 :xls.Status:[15/33](serfend@lqb.com)  [T33]幸运数:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:07:50 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:07:55 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:07:55 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:07:55 :xls.Status:[15/33](serfend@lqb.com)  [T30]连号区间数:{"itemid":"2043514","msg":"提交成功。","ret":"1"} 
+00:07:55 :xls.Status:完成12/395-2043514,[T30]连号区间数 
+00:07:55 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:07:55 :xls.Status:[15/33](serfend@lqb.com)  [T29]翻硬币:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:07:55 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:08:00 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:00 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:00 :xls.Status:[15/33](serfend@lqb.com)  [T28]错误票据:{"itemid":"2043515","msg":"提交成功。","ret":"1"} 
+00:08:00 :xls.Status:完成14/395-2043515,[T28]错误票据 
+00:08:00 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:08:00 :xls.Status:[15/33](serfend@lqb.com)  [T123]小朋友排队:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:08:00 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:08:05 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:05 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:05 :xls.Status:[15/33](serfend@lqb.com)  [T26]带分数:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:08:05 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:08:05 :xls.Status:[15/33](serfend@lqb.com)  [T27]剪格子:{"itemid":"2043516","msg":"提交成功。","ret":"1"} 
+00:08:05 :xls.Status:完成16/395-2043516,[T27]剪格子 
+00:08:05 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:08:10 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:10 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:10 :xls.Status:[15/33](serfend@lqb.com)  [T459]小计算器:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:08:10 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:08:10 :xls.Status:[15/33](serfend@lqb.com)  [T25]打印十字图:{"itemid":"2043517","msg":"提交成功。","ret":"1"} 
+00:08:10 :xls.Status:完成18/395-2043517,[T25]打印十字图 
+00:08:10 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:08:16 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:16 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:16 :xls.Status:[15/33](serfend@lqb.com)  [T458]合根植物:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:08:16 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:08:16 :xls.Status:[15/33](serfend@lqb.com)  [T456]小数第n位:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:08:16 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:08:46 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:46 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:46 :xls.Status:[15/33](serfend@lqb.com)  [T122]波动数列:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:08:46 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:08:46 :xls.Status:[15/33](serfend@lqb.com)  [T454]对局匹配:{"itemid":"2043522","msg":"提交成功。","ret":"1"} 
+00:08:46 :xls.Status:完成22/395-2043522,[T454]对局匹配 
+00:08:46 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:08:51 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:51 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:08:51 :xls.Status:[15/33](serfend@lqb.com)  [T453]发现环:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:08:51 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:08:51 :xls.Status:[15/33](serfend@lqb.com)  [T447]拉马车:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:08:51 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:09:21 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:09:21 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:09:21 :xls.Status:[15/33](serfend@lqb.com)  [T444]k倍区间:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:09:21 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:09:21 :xls.Status:[15/33](serfend@lqb.com)  [T445]Excel地址:{"itemid":"2043525","msg":"提交成功。","ret":"1"} 
+00:09:21 :xls.Status:完成26/395-2043525,[T445]Excel地址 
+00:09:21 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:09:26 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:09:26 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:09:27 :xls.Status:[15/33](serfend@lqb.com)  [T443]日期问题:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:09:27 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:09:27 :xls.Status:[15/33](serfend@lqb.com)  [T121]斐波那契:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:09:27 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:09:57 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:09:57 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:09:57 :xls.Status:[15/33](serfend@lqb.com)  [T440]包子凑数:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:09:57 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:09:57 :xls.Status:[15/33](serfend@lqb.com)  [T441]分巧克力:{"itemid":"2043526","msg":"提交成功。","ret":"1"} 
+00:09:57 :xls.Status:完成30/395-2043526,[T441]分巧克力 
+00:09:57 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:02 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:02 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:02 :xls.Status:[15/33](serfend@lqb.com)  [T439]正则问题:{"itemid":"2043528","msg":"提交成功。","ret":"1"} 
+00:10:02 :xls.Status:完成32/395-2043528,[T439]正则问题 
+00:10:02 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:02 :xls.Status:[15/33](serfend@lqb.com)  [T120]地宫取宝:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:10:02 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:07 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:07 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:07 :xls.Status:[15/33](serfend@lqb.com)  [T118]最大子阵:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:10:07 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:07 :xls.Status:[15/33](serfend@lqb.com)  [T119]蚂蚁感冒:{"itemid":"2043530","msg":"提交成功。","ret":"1"} 
+00:10:07 :xls.Status:完成34/395-2043530,[T119]蚂蚁感冒 
+00:10:07 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:12 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:12 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:12 :xls.Status:[15/33](serfend@lqb.com)  [T117]城市建设:{"itemid":"2043531","msg":"提交成功。","ret":"1"} 
+00:10:12 :xls.Status:完成36/395-2043531,[T117]城市建设 
+00:10:12 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:12 :xls.Status:[15/33](serfend@lqb.com)  [T483]The Sky is the Limit:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:10:12 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:17 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:17 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:17 :xls.Status:[15/33](serfend@lqb.com)  [T349]五次方数:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:10:17 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:18 :xls.Status:[15/33](serfend@lqb.com)  [T414]合并石子:{"itemid":"2043533","msg":"提交成功。","ret":"1"} 
+00:10:18 :xls.Status:完成38/395-2043533,[T414]合并石子 
+00:10:18 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:23 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:23 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:23 :xls.Status:[15/33](serfend@lqb.com)  [T345]分苹果:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:10:23 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:23 :xls.Status:[15/33](serfend@lqb.com)  [T348]素数求和:{"itemid":"2043534","msg":"提交成功。","ret":"1"} 
+00:10:23 :xls.Status:完成40/395-2043534,[T348]素数求和 
+00:10:23 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:28 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:28 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:28 :xls.Status:[15/33](serfend@lqb.com)  [T341]质因数2:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:10:28 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:28 :xls.Status:[15/33](serfend@lqb.com)  [T342]前10名:{"itemid":"2043535","msg":"提交成功。","ret":"1"} 
+00:10:28 :xls.Status:完成42/395-2043535,[T342]前10名 
+00:10:28 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:33 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:33 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:33 :xls.Status:[15/33](serfend@lqb.com)  [T333]解二元一次方程组:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:10:33 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:33 :xls.Status:[15/33](serfend@lqb.com)  [T337]陶陶摘苹果2:{"itemid":"2043536","msg":"提交成功。","ret":"1"} 
+00:10:33 :xls.Status:完成44/395-2043536,[T337]陶陶摘苹果2 
+00:10:33 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:10:38 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:38 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:10:38 :xls.Status:[15/33](serfend@lqb.com)  [T331]理财计划:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:10:38 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:10:38 :xls.Status:[15/33](serfend@lqb.com)  [T330]陶陶摘苹果:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:10:38 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:11:08 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:11:08 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:11:08 :xls.Status:[15/33](serfend@lqb.com)  [T412]11-1实现strcmp函数:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:11:08 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:11:08 :xls.Status:[15/33](serfend@lqb.com)  [T328]输入输出格式练习:{"itemid":"2043540","msg":"提交成功。","ret":"1"} 
+00:11:08 :xls.Status:完成48/395-2043540,[T328]输入输出格式练习 
+00:11:08 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:11:13 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:11:13 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:11:13 :xls.Status:[15/33](serfend@lqb.com)  [T327]淘淘的名单:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:11:13 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:11:14 :xls.Status:[15/33](serfend@lqb.com)  [T326]身份证排序:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:11:14 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:11:44 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:11:44 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:11:44 :xls.Status:[15/33](serfend@lqb.com)  [T323]士兵排队问题:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:11:44 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:11:44 :xls.Status:[15/33](serfend@lqb.com)  [T324]数字黑洞:{"itemid":"2043543","msg":"提交成功。","ret":"1"} 
+00:11:44 :xls.Status:完成52/395-2043543,[T324]数字黑洞 
+00:11:44 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:11:49 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:11:49 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:11:49 :xls.Status:[15/33](serfend@lqb.com)  [T320]聪明的美食家:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:11:49 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:11:49 :xls.Status:[15/33](serfend@lqb.com)  [T322]贪吃的大嘴:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:11:49 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:12:19 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:19 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:19 :xls.Status:[15/33](serfend@lqb.com)  [T318]超级玛丽:{"itemid":"2043547","msg":"提交成功。","ret":"1"} 
+00:12:19 :xls.Status:完成56/395-2043547,[T318]超级玛丽 
+00:12:19 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:19 :xls.Status:[15/33](serfend@lqb.com)  [T316]能量项链:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:12:19 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:24 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:24 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:24 :xls.Status:[15/33](serfend@lqb.com)  [T313]题目 3 函数求值 :{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:12:24 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:24 :xls.Status:[15/33](serfend@lqb.com)  [T314]题目 2 密码锁:{"itemid":"2043548","msg":"提交成功。","ret":"1"} 
+00:12:24 :xls.Status:完成58/395-2043548,[T314]题目 2 密码锁 
+00:12:24 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:29 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:29 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:29 :xls.Status:[15/33](serfend@lqb.com)  [T311]高精度乘法:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:12:29 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:30 :xls.Status:[15/33](serfend@lqb.com)  [T411]9-3摩尔斯电码:{"itemid":"2043550","msg":"提交成功。","ret":"1"} 
+00:12:30 :xls.Status:完成60/395-2043550,[T411]9-3摩尔斯电码 
+00:12:30 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:35 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:35 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:35 :xls.Status:[15/33](serfend@lqb.com)  [T308]现代诗如蚯蚓:{"itemid":"2043551","msg":"提交成功。","ret":"1"} 
+00:12:35 :xls.Status:完成62/395-2043551,[T308]现代诗如蚯蚓 
+00:12:35 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:35 :xls.Status:[15/33](serfend@lqb.com)  [T307]分分钟的碎碎念:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:12:35 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:40 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:40 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:40 :xls.Status:[15/33](serfend@lqb.com)  [T304]数的划分:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:12:40 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:40 :xls.Status:[15/33](serfend@lqb.com)  [T305]质数的后代:{"itemid":"2043553","msg":"提交成功。","ret":"1"} 
+00:12:40 :xls.Status:完成64/395-2043553,[T305]质数的后代 
+00:12:40 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:45 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:45 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:45 :xls.Status:[15/33](serfend@lqb.com)  [T293]特殊的质数肋骨:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:12:45 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:45 :xls.Status:[15/33](serfend@lqb.com)  [T301]产生数:{"itemid":"2043554","msg":"提交成功。","ret":"1"} 
+00:12:45 :xls.Status:完成66/395-2043554,[T301]产生数 
+00:12:45 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:50 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:50 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:50 :xls.Status:[15/33](serfend@lqb.com)  [T292]排队打水问题:{"itemid":"2043555","msg":"提交成功。","ret":"1"} 
+00:12:50 :xls.Status:完成68/395-2043555,[T292]排队打水问题 
+00:12:50 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:50 :xls.Status:[15/33](serfend@lqb.com)  [T289]计算器:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:12:50 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:55 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:55 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:12:55 :xls.Status:[15/33](serfend@lqb.com)  [T410]9-2 文本加密:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:12:55 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:12:56 :xls.Status:[15/33](serfend@lqb.com)  [T288]铺地毯:{"itemid":"2043556","msg":"提交成功。","ret":"1"} 
+00:12:56 :xls.Status:完成70/395-2043556,[T288]铺地毯 
+00:12:56 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:13:01 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:13:01 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:13:01 :xls.Status:[15/33](serfend@lqb.com)  [T285]棋盘多项式:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:13:01 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:13:01 :xls.Status:[15/33](serfend@lqb.com)  [T283]开灯游戏:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:13:01 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:13:31 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:13:31 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:13:31 :xls.Status:[15/33](serfend@lqb.com)  [T280]班级排名:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:13:31 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:13:31 :xls.Status:[15/33](serfend@lqb.com)  [T282]种树:{"itemid":"2043559","msg":"提交成功。","ret":"1"} 
+00:13:31 :xls.Status:完成74/395-2043559,[T282]种树 
+00:13:31 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:13:36 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:13:36 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:13:36 :xls.Status:[15/33](serfend@lqb.com)  [T279]3000米排名预测:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:13:36 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:13:36 :xls.Status:[15/33](serfend@lqb.com)  [T277]大数加法:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:13:36 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:14:06 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:06 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:06 :xls.Status:[15/33](serfend@lqb.com)  [T274]校门外的树:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:14:06 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:14:06 :xls.Status:[15/33](serfend@lqb.com)  [T275]三角形面积:{"itemid":"2043561","msg":"提交成功。","ret":"1"} 
+00:14:06 :xls.Status:完成78/395-2043561,[T275]三角形面积 
+00:14:06 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:14:11 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:11 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:11 :xls.Status:[15/33](serfend@lqb.com)  [T273]彩票:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:14:11 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:14:11 :xls.Status:[15/33](serfend@lqb.com)  [T272]笨小猴:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:14:11 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:14:42 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:42 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:42 :xls.Status:[15/33](serfend@lqb.com)  [T409]9-1九宫格:{"itemid":"2043562","msg":"提交成功。","ret":"1"} 
+00:14:42 :xls.Status:完成82/395-2043562,[T409]9-1九宫格 
+00:14:42 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:14:42 :xls.Status:[15/33](serfend@lqb.com)  [T270]选择排序:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:14:42 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:14:47 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:47 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:47 :xls.Status:[15/33](serfend@lqb.com)  [T269]色盲的民主:{"itemid":"2043563","msg":"提交成功。","ret":"1"} 
+00:14:47 :xls.Status:完成84/395-2043563,[T269]色盲的民主 
+00:14:47 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:14:47 :xls.Status:[15/33](serfend@lqb.com)  [T268]插入排序:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:14:47 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:14:52 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:52 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:52 :xls.Status:[15/33](serfend@lqb.com)  [T267]找素数:{"itemid":"2043564","msg":"提交成功。","ret":"1"} 
+00:14:52 :xls.Status:完成86/395-2043564,[T267]找素数 
+00:14:52 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:14:52 :xls.Status:[15/33](serfend@lqb.com)  [T264]扫雷:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:14:52 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:14:57 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:57 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:14:57 :xls.Status:[15/33](serfend@lqb.com)  [T260]凶手:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:14:57 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:14:57 :xls.Status:[15/33](serfend@lqb.com)  [T262]促销购物:{"itemid":"2043566","msg":"提交成功。","ret":"1"} 
+00:14:57 :xls.Status:完成88/395-2043566,[T262]促销购物 
+00:14:57 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:15:02 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:02 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:02 :xls.Status:[15/33](serfend@lqb.com)  [T257]高精度加法:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:15:02 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:15:03 :xls.Status:[15/33](serfend@lqb.com)  [T258]去注释:{"itemid":"2043567","msg":"提交成功。","ret":"1"} 
+00:15:03 :xls.Status:完成90/395-2043567,[T258]去注释 
+00:15:03 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:15:08 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:08 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:08 :xls.Status:[15/33](serfend@lqb.com)  [T254]6-9删除数组中的0元素:{"itemid":"2043568","msg":"提交成功。","ret":"1"} 
+00:15:08 :xls.Status:完成92/395-2043568,[T254]6-9删除数组中的0元素 
+00:15:08 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:15:08 :xls.Status:[15/33](serfend@lqb.com)  [T403]8-1因式分解:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:15:08 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:15:13 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:13 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:13 :xls.Status:[15/33](serfend@lqb.com)  [T250]3-2字符串输入输出函数:{"itemid":"2043569","msg":"提交成功。","ret":"1"} 
+00:15:13 :xls.Status:完成94/395-2043569,[T250]3-2字符串输入输出函数 
+00:15:13 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:15:13 :xls.Status:[15/33](serfend@lqb.com)  [T242]进制转换:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:15:14 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:15:19 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:19 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:19 :xls.Status:[15/33](serfend@lqb.com)  [T241]c++_ch06_02:{"itemid":"2043570","msg":"提交成功。","ret":"1"} 
+00:15:19 :xls.Status:完成96/395-2043570,[T241]c++_ch06_02 
+00:15:19 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:15:19 :xls.Status:[15/33](serfend@lqb.com)  [T240]c++_ch03_02:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:15:19 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:15:24 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:24 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:24 :xls.Status:[15/33](serfend@lqb.com)  [T239]c++_ch02_03:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:15:24 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:15:24 :xls.Status:[15/33](serfend@lqb.com)  [T238]c++_ch02_02:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:15:24 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:15:54 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:54 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:54 :xls.Status:[15/33](serfend@lqb.com)  [T234]Quadratic Equation:{"itemid":"2043573","msg":"提交成功。","ret":"1"} 
+00:15:54 :xls.Status:完成100/395-2043573,[T234]Quadratic Equation 
+00:15:54 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:15:54 :xls.Status:[15/33](serfend@lqb.com)  [T233]温度转换:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:15:54 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:15:59 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:59 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:15:59 :xls.Status:[15/33](serfend@lqb.com)  [T232]征税程序:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:15:59 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:15:59 :xls.Status:[15/33](serfend@lqb.com)  [T231]分数统计:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:15:59 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:16:29 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:16:29 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:16:29 :xls.Status:[15/33](serfend@lqb.com)  [T229]欧拉函数:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:16:29 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:16:29 :xls.Status:[15/33](serfend@lqb.com)  [T402]7-2求arccos值:{"itemid":"2043574","msg":"提交成功。","ret":"1"} 
+00:16:29 :xls.Status:完成104/395-2043574,[T402]7-2求arccos值 
+00:16:29 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:16:34 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:16:34 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:16:34 :xls.Status:[15/33](serfend@lqb.com)  [T228]不同单词个数统计:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:16:34 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:16:34 :xls.Status:[15/33](serfend@lqb.com)  [T224]打水问题:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:16:34 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:17:04 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:04 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:05 :xls.Status:[15/33](serfend@lqb.com)  [T212]断案:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:17:05 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:05 :xls.Status:[15/33](serfend@lqb.com)  [T214]单词个数统计:{"itemid":"2043575","msg":"提交成功。","ret":"1"} 
+00:17:05 :xls.Status:完成108/395-2043575,[T214]单词个数统计 
+00:17:05 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:10 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:10 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:10 :xls.Status:[15/33](serfend@lqb.com)  [T206]复数求和:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:17:10 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:10 :xls.Status:[15/33](serfend@lqb.com)  [T210]栅格打印问题:{"itemid":"2043578","msg":"提交成功。","ret":"1"} 
+00:17:10 :xls.Status:完成110/395-2043578,[T210]栅格打印问题 
+00:17:10 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:15 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:15 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:15 :xls.Status:[15/33](serfend@lqb.com)  [T204]字符串比较:{"itemid":"2043579","msg":"提交成功。","ret":"1"} 
+00:17:15 :xls.Status:完成112/395-2043579,[T204]字符串比较 
+00:17:15 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:15 :xls.Status:[15/33](serfend@lqb.com)  [T199]任意年月日历输出:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:17:15 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:20 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:20 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:20 :xls.Status:[15/33](serfend@lqb.com)  [T198]求最大公约数:{"itemid":"2043580","msg":"提交成功。","ret":"1"} 
+00:17:20 :xls.Status:完成114/395-2043580,[T198]求最大公约数 
+00:17:20 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:20 :xls.Status:[15/33](serfend@lqb.com)  [T401]7-1用宏求球的体积:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:17:20 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:25 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:25 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:25 :xls.Status:[15/33](serfend@lqb.com)  [T196]输出日历:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:17:25 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:25 :xls.Status:[15/33](serfend@lqb.com)  [T197]素数判断:{"itemid":"2043581","msg":"提交成功。","ret":"1"} 
+00:17:25 :xls.Status:完成116/395-2043581,[T197]素数判断 
+00:17:25 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:30 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:30 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:30 :xls.Status:[15/33](serfend@lqb.com)  [T194]输出正反三角形:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:17:30 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:30 :xls.Status:[15/33](serfend@lqb.com)  [T195]输出九九乘法表:{"itemid":"2043583","msg":"提交成功。","ret":"1"} 
+00:17:30 :xls.Status:完成118/395-2043583,[T195]输出九九乘法表 
+00:17:30 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:35 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:35 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:35 :xls.Status:[15/33](serfend@lqb.com)  [T192]格式化数据输出:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:17:35 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:36 :xls.Status:[15/33](serfend@lqb.com)  [T193]利息计算:{"itemid":"2043584","msg":"提交成功。","ret":"1"} 
+00:17:36 :xls.Status:完成120/395-2043584,[T193]利息计算 
+00:17:36 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:41 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:41 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:41 :xls.Status:[15/33](serfend@lqb.com)  [T191]算术运算:{"itemid":"2043585","msg":"提交成功。","ret":"1"} 
+00:17:41 :xls.Status:完成122/395-2043585,[T191]算术运算 
+00:17:41 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:41 :xls.Status:[15/33](serfend@lqb.com)  [T190]图形输出:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:17:41 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:17:46 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:46 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:17:46 :xls.Status:[15/33](serfend@lqb.com)  [T189]寻找三位数:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:17:46 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:17:46 :xls.Status:[15/33](serfend@lqb.com)  [T186]填充蛋糕:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:17:46 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:18:16 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:18:16 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:18:16 :xls.Status:[15/33](serfend@lqb.com)  [T185]数的运算:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+00:18:16 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:18:16 :xls.Status:[15/33](serfend@lqb.com)  [T397]组合公式求值:{"itemid":"2043588","msg":"提交成功。","ret":"1"} 
+00:18:16 :xls.Status:完成126/395-2043588,[T397]组合公式求值 
+00:18:16 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+00:18:21 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:18:21 :xls.Status:-----------[15/33](serfend@lqb.com)  开始运行 
+00:18:21 :xls.Status:[15/33](serfend@lqb.com)  [T184]选最大数:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:18:21 :xls.Status:等待蓝桥杯网站允许提交...30000ms 
+00:18:21 :xls.Status:[15/33](serfend@lqb.com)  [T183]时间转换:{"msg":"2分钟内只能提交不超过10个代码。","ret":"0"} 
+00:18:21 :xls.Status:等待蓝桥杯网站允许提交...30000ms 

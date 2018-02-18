@@ -1,0 +1,35 @@
+
+#include <iostream>
+#include <cstring>
+#include <cstdlib>
+#include <algorithm>
+#include <cstdio>
+#include <string>
+#include <vector>
+#include <ctime>
+using namespace std;
+const int MAX = 20;
+const int Mod = 99999999;
+#define inf 0x3f3f3f3f
+#define lson l,mid,i<<1
+#define rson mid+1,r,i<<1|1
+typedef long long ll;
+
+const double c = 3E-23;
+
+int main()
+{
+//    freopen("C:/Users/lqy/Desktop/in.txt","r",stdin);
+    double n;
+    cin>>n;
+    double res = n*950/c;
+//    char str[256];
+//    sprintf(str, "%lf", res);
+//    cout<<str;
+    printf("%E",res);
+    return 0;
+}
+
+
+
+

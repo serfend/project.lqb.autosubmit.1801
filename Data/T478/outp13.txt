@@ -1,0 +1,10 @@
+Case 1: impossible
+Case 2: 100A
+Case 3: 9A 1M
+Case 4: 87A 4M
+Case 5: 18A 3M
+Case 6: 13A 3M
+Case 7: 2A 1M 1A 4M
+Case 8: 1A 6M
+Case 9: 31A 1M
+Case 10: 4M

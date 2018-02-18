@@ -1,0 +1,35 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+	int a[50010] , n ,sum = 0 , max , min ;
+	scanf("%d",&n) ;
+	for(int i = 0 ; i < n ; ++i)
+	{
+		scanf("%d",&a[i]) ;
+	}
+	for(int i = 0 ; i < n ; ++i)
+	{
+		min = max =a[i] ;
+		for(int j = i ; j < n ; ++j)
+		{
+			if(a[j]>max)
+			{
+				max = a[j];
+			}
+			else if(a[j]<min)
+			{
+				min = a[j];
+			}
+			if(max-min == j-i)
+			{
+				++sum ;
+			}
+		}
+	}
+	printf("%d\n",sum) ;
+	return 0 ;
+}
+

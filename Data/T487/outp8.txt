@@ -1,0 +1,35 @@
+Transposing from Cb to Gb:
+  Bb transposes to F
+  Bb transposes to F
+  Bb transposes to F
+  G# is not a valid note in the Cb major scale
+  D is not a valid note in the Cb major scale
+  B# is not a valid note in the Cb major scale
+  F is not a valid note in the Cb major scale
+  A# is not a valid note in the Cb major scale
+  C# is not a valid note in the Cb major scale
+  B is not a valid note in the Cb major scale
+
+Transposing from Db to Db:
+  F# is not a valid note in the Db major scale
+  E# is not a valid note in the Db major scale
+  C# is not a valid note in the Db major scale
+  B# is not a valid note in the Db major scale
+  C# is not a valid note in the Db major scale
+  C transposes to C
+  B is not a valid note in the Db major scale
+  E# is not a valid note in the Db major scale
+  B# is not a valid note in the Db major scale
+  Bb transposes to Bb
+
+Transposing from E to G:
+  Fb is not a valid note in the E major scale
+  A transposes to C
+  Eb is not a valid note in the E major scale
+  A# is not a valid note in the E major scale
+  F# transposes to A
+  E# is not a valid note in the E major scale
+  Eb is not a valid note in the E major scale
+  Bb is not a valid note in the E major scale
+  G is not a valid note in the E major scale
+  C# transposes to E

@@ -1,0 +1,198 @@
+
+#include<stdio.h>
+#include<string.h>
+int y[105],sunxu[200005];//begin from 1 ;
+int yy=0,w,N;
+int count[105];
+typedef struct
+{
+    int n;
+    int x;
+}number;
+number shu[105];
+
+void create2(int num,int xue)
+{
+    int i,j,k;
+
+    j=1;
+    sunxu[j]=shu[2].x;
+    j++;
+
+    for(i=1;i<=2*xue;i++)
+    {
+        sunxu[j]=shu[num].x;
+
+        j++;
+    }
+    sunxu[j]=shu[2].x;
+    j++;
+
+    sunxu[j]=shu[1].x;
+    j++;
+    for(i=1;i<=2*shu[2].n-2;i++)
+    {
+        sunxu[j]=shu[2].x;
+        j++;
+    }
+
+    for(i=num+2;i<=N;i++)
+    {
+        for(k=1;k<=2*shu[i].n;k++)
+        {
+            sunxu[j]=shu[i].x;
+            j++;
+        }
+    }
+
+
+
+
+    for(i=2*xue+2;i<=2*shu[1].n;i++)
+    {
+        sunxu[j]=shu[1].x;
+        j++;
+    }
+
+
+
+}
+
+
+
+
+
+
+void create(int num,int xue)
+{
+    int i,j,k;
+    sunxu[1]=shu[1].x;
+    j=2;
+    for(i=1;i<=2*xue;i++)
+    {
+        sunxu[j]=shu[num].x;
+
+        j++;
+    }
+
+    for(i=num+1;i<=N;i++)
+    {
+        for(k=1;k<=2*shu[i].n;k++)
+        {
+            sunxu[j]=shu[i].x;
+            j++;
+        }
+    }
+
+
+    for(i=2;i<=2*shu[1].n;i++)
+    {
+        sunxu[j]=shu[1].x;
+        j++;
+    }
+    for(i=2;i<num;i++)
+    {
+        for(k=1;k<=2*shu[i].n;k++)
+        {
+            sunxu[j]=shu[i].x;
+            j++;
+        }
+    }
+    if(num>1)
+    for(i=1;i<=2*shu[num].n-2*xue;i++)
+    {
+        sunxu[j]=shu[num].x;
+        j++;
+    }
+
+}
+
+
+int main()
+{
+   // freopen("input.txt","r",stdin);
+    int i,j;
+    int sum=0;
+    int num,xue;
+    number temp;
+    scanf("%d%d",&N,&w);
+    memset(sunxu,0,sizeof(sunxu));
+    memset(count,0,sizeof(count));
+    memset(y,0,sizeof(y));
+    for(i=1;i<=N;i++)
+    {
+        scanf("%d",&shu[i].n);
+        shu[i].x=i;
+    }
+    for(i=1;i<=N;i++)
+    {
+        for(j=i;j<=N;j++)
+        {
+            if(shu[i].n>shu[j].n)
+            {
+                temp=shu[i];
+                shu[i]=shu[j];
+                shu[j]=temp;
+            }
+        }
+    }
+    if(w<1)
+       {
+           printf("No\n");
+           return 0;
+       }
+    else if(w==1&&shu[1].n>1)
+    {
+        printf("No\n");
+        return 0;
+    }
+
+    for(i=1;i<=N;i++)
+    {
+        sum+=shu[i].n;
+
+        if(sum<w)
+        {
+            continue;
+
+        }
+        else if(sum>w||sum==w&&i==N)
+        {
+            num=i;
+            xue=sum-w;
+            break;
+
+        }
+        else if(sum==w&&w==shu[1].n)
+        {
+            num=1;
+            xue=0;
+            break;
+        }
+
+    }
+
+    if(w>sum||w<sum&&N<=1)
+    {
+        printf("No\n");
+        return 0;
+    }
+
+    if(w>=shu[1].n||shu[1].n==1&&w==1)
+        create(num,xue);
+    else
+        create2(num,xue+1);
+    printf("Yes\n");
+    printf("%d",sunxu[1]);
+    for(i=2;sunxu[i]!=0;i++)
+    {
+        printf(" %d",sunxu[i]);
+    }
+    printf("\n");
+    return 0;
+
+
+
+}
+
+

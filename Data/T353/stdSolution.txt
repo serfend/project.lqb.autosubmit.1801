@@ -1,0 +1,27 @@
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"123456789"<<endl;
+	cout<<"192384576"<<endl;
+	cout<<"219438657"<<endl;
+		cout<<"273546819"<<endl;
+		cout<<"327654981"<<endl;
+		cout<<"672913458"<<endl;
+		cout<<"679213584"<<endl;
+		cout<<"692713854"<<endl;
+		cout<<"726914538"<<endl;
+		cout<<"729314586"<<endl;
+		cout<<"732914658"<<endl;
+		cout<<"769215384"<<endl;
+		cout<<"792315846"<<endl;
+		cout<<"793215864"<<endl;
+		cout<<"918273645"<<endl;
+		cout<<"926718534"<<endl;
+		cout<<"927318546"<<endl;
+		cout<<"932718654"<<endl;
+		
+	return 0;
+}
+

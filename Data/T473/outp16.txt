@@ -1,0 +1,190 @@
+Case 1: checksum = E2AA
+ SYMBOL   ADDR
+--------  ----
+AAA       ????
+AAE       011F
+ACB       ????
+ACD       0168 M
+AEB       017D
+AED       01C2
+BAA       01F1
+BAC       ????
+BBC       ????
+BCA       0112
+BCB       0177
+BCC       0157
+BDA       ????
+BED       ????
+CAC       ????
+CBB       ????
+CCC       020A
+CDA       0167 M
+CDC       020F
+CDE       018A
+CEA       ????
+CEE       ????
+DAA       ????
+DAC       010B M
+DDD       016C
+DEB       ????
+EAD       01D1
+EAE       0192
+EBD       ????
+ECD       ????
+ECE       0123
+EDC       ????
+EDE       ????
+EEE       ????
+
+Case 2: checksum = C544
+ SYMBOL   ADDR
+--------  ----
+AAD       ????
+ABE       0116
+ACB       ????
+ACD       ????
+ACE       018A
+ADB       01A6
+ADC       01A7
+ADD       ????
+AED       019B
+BAB       ????
+BBB       ????
+BBC       0154
+BBD       ????
+BCA       011B
+BCE       ????
+BDB       ????
+BDE       ????
+BEB       ????
+BED       017F
+CAB       01EF
+CAC       0119
+CCC       ????
+CCD       0202
+CDC       01A0
+CEB       0214
+CEC       023E
+CEE       ????
+DAC       020B
+DCA       ????
+DDD       01EC
+DEB       01D4
+EAD       ????
+ECA       0150
+ECB       0129
+ECE       01D0
+EDB       ????
+EEC       ????
+
+Case 3: checksum = C058
+ SYMBOL   ADDR
+--------  ----
+AAD       ????
+ABA       ????
+ABB       ????
+ABC       013B
+ACC       ????
+ACD       ????
+AED       019A
+AEE       ????
+BBA       ????
+BBD       ????
+BBE       0201
+BDE       0127
+BEA       ????
+BEB       01F8
+BEE       0218 M
+CAB       023B
+CAC       ????
+CAD       018B
+CAE       ????
+CBA       018D
+CBB       0153
+CBC       01AB
+CBE       01A8
+CCC       021A
+CCE       01F5
+CDD       ????
+CDE       ????
+CEB       0171
+CEC       01BC
+DAE       ????
+DBA       01D7 M
+DCE       ????
+DDC       0209
+EBC       ????
+EED       ????
+
+Case 4: checksum = 1FE4
+ SYMBOL   ADDR
+--------  ----
+AAC       0199
+ABD       01B9
+ACC       0117
+ADA       017F
+ADE       0124
+AEA       ????
+AED       ????
+BBB       ????
+BCA       01BF
+BCC       022D
+BCE       0191
+BDE       ????
+BEB       ????
+CBB       ????
+CBC       ????
+CBD       0225
+CCC       01D1
+CCD       012F
+CDC       ????
+CDE       01FB
+CEA       014C
+DAE       01A0
+DBC       0128
+DBE       01F3
+DCD       ????
+DDB       01ED
+DDD       01D9
+EAA       ????
+EAC       ????
+ECA       ????
+EDC       015E
+EEA       ????
+EEB       0156
+EEC       ????
+
+Case 5: checksum = 12A9
+ SYMBOL   ADDR
+--------  ----
+AAE       01A8
+ABB       0233
+ADA       01AB
+ADD       ????
+AEA       0192
+AEC       ????
+AEE       01F9
+BAB       ????
+BCA       01E2
+BED       010E
+BEE       ????
+CAA       ????
+CBC       019B
+CBD       ????
+CCB       0152
+CCD       01AC
+CEE       01CA
+DAA       ????
+DAC       ????
+DCB       ????
+DCE       0229
+DDD       01F4
+DED       01FB
+EAA       ????
+EAC       0213
+EBB       021E
+ECC       ????
+ECE       0199
+EDC       0168
+EEB       01DD
+EEE       010F

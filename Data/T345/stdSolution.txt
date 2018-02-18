@@ -1,0 +1,53 @@
+
+#include<stdio.h>
+
+int apple[100005];
+
+void add(int index, int num)
+{
+	for (; index>0; index-=(index&-index))
+	{
+		apple[index] += num;
+	}
+}
+
+int find(int index, int n)
+{
+	int re = 0;
+	if (index==0)
+	{
+		return apple[0];
+	}
+	for (; index<=n; index+=(index&-index))
+	{
+		re += apple[index];
+	}
+	return re;
+}
+
+int main(void)
+{
+	int n, m;
+	int l, r, c;
+	int i;
+	
+	scanf("%d%d", &n, &m);
+	for (i=0; i<m; ++i)
+	{
+		scanf("%d%d%d", &l, &r, &c);
+		add(r, c);
+		add(l-1, -c);
+	}
+
+	for (i=1; i<=n; ++i)
+	{
+		printf("%d ", find(i, n));
+	}
+	printf("\n");
+	
+    return 0;
+}
+
+
+
+

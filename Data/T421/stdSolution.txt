@@ -1,0 +1,23 @@
+
+#include<iostream>
+#include<cmath>
+using namespace std ;
+int main()
+{
+	int A[100] = { 0 } ;
+	A[0] = 1 ;
+	int n , len ;
+	int s , r = 0 ;
+	cin >> n >> len ;
+	for ( int i = 2 ; i <= n ; i++ )
+		for ( int j = 0 ; j < 50 ; j++ )
+		{
+			int s = A[j] * i + r ;
+			A[j] = s % 10 ;
+			r = s / 10 ;
+		}
+	for ( int i = len - 1 ; i >= 0 ; i-- )
+		cout << A[i] ;
+	return 0 ;
+}
+

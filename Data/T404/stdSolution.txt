@@ -1,0 +1,13 @@
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	cout<<6<<endl;
+	cout<<28<<endl;
+	cout<<496<<endl;
+	cout<<8128<<endl;
+	return 0;
+}
+

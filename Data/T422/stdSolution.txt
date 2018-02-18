@@ -1,0 +1,17 @@
+
+#include "iostream"
+using namespace std;
+int main()
+{
+ long long m,n,p;
+ cin>>m>>n>>p;
+  long long sum=1,data=1;
+ for(int i=1;i<=m;i++)
+ 	sum=sum*i;
+ 	for(int j=1;j<=n;j++)
+ 	data=data*j;
+ 	cout<<(sum-data)%p;	
+return 0;
+}
+
+

@@ -1,0 +1,52 @@
+
+#include <iostream>
+using namespace std;
+
+#define MAXN 15
+typedef unsigned long long  ULL;
+
+int N, K, All; // 数字总数, 乘号总数, 符号总数 
+int dp[MAXN][MAXN];
+bool Symbol[MAXN-1];
+ULL MaxValue = 0;
+
+void Dfs( int deep, int begin )
+{
+	if( deep == K )
+	{
+		ULL sum = 1;
+		for( int i = 0,start=0; i < N; ++i )
+		{
+			start = i;
+			while( Symbol[i] == false && i < All )
+				++i;
+			sum *= dp[start][i];
+		}
+		if( sum > MaxValue )
+			MaxValue = sum;
+	}
+	else
+	{
+		for( int i = begin; i < All; ++i )
+			if( !Symbol[i] )
+			{
+				Symbol[i] = true;
+				Dfs(deep+1, i+1);
+				Symbol[i] = false;
+			}
+	}
+}
+
+int main(int argc, char** argv) {
+	cin >> N >> K;
+	All = N - 1; 
+	for( int i = 0; i < All; ++i) Symbol[i]=false;
+	for(int i = 0; i < N; ++i ) cin >> dp[i][i];	
+	for( int i = 0; i < N; ++i )
+		for( int j = i+1; j < N; ++j )
+			dp[i][j] = dp[i][j-1] + dp[j][j];
+	Dfs(0,0);
+	cout << MaxValue;
+	return 0;
+}
+

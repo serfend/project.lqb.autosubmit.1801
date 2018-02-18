@@ -1,0 +1,67 @@
+
+#include<cstdio>
+#include<cstdlib>
+#include<iostream>
+#include<string>
+#include<set>
+#include<queue>
+
+
+using namespace std;
+
+string str;
+set<string> sset;
+
+struct dat
+{
+	string s;
+	int nC;
+};
+
+
+int fun()
+{
+	queue<dat> q;
+	dat d;
+	d.s = str;
+	d.nC = 0;
+	q.push(d);	
+	sset.insert(d.s);
+	while(q.size()){
+		d = q.front();q.pop();
+		if(d.s.find("2012") != string::npos){
+			return d.nC;
+		}
+		
+		for(size_t i = 0; i < d.s.length()-1; ++i){
+			swap(d.s[i],d.s[i+1]);
+			if(sset.find(d.s) == sset.end()){
+				++d.nC;
+				q.push(d);
+				sset.insert(d.s);
+				--d.nC;
+			}
+			swap(d.s[i],d.s[i+1]);
+		}
+		
+		
+	}
+	return -1;
+}
+
+
+
+int main()
+{
+	int n;
+	cin >> n;
+	cin >> str;
+	
+	cout << fun();
+	
+	
+	
+	
+	return 0;
+}
+

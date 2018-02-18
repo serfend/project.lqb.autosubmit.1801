@@ -1,0 +1,27 @@
+
+#include<cstdio>
+#define MAXN 1010
+#define MOD 1000000007
+int main()
+{
+	long long DP[5][MAXN],ans=2;
+	int n;
+	scanf("%d",&n);
+	if(n>1){
+		DP[0][2]=DP[2][2]=DP[3][2]=DP[4][2]=4;
+		DP[1][2]=8;
+		for(int i=3;i<=n;i++){
+			DP[0][i]=(DP[0][i-1]*2+DP[1][i-1]*2)%MOD;
+			DP[1][i]=(DP[1][i-1]*2+DP[2][i-1]*4+DP[3][i-1]*2+DP[4][i-1]*2)%MOD;
+			DP[2][i]=DP[2][i-1]*2%MOD;
+			DP[3][i]=DP[1][i-1];
+			DP[4][i]=DP[1][i-1];
+		}
+		ans=0;
+		for(int i=0;i<5;i++)ans+=DP[i][n];
+		ans%=MOD;
+	}
+	printf("%I64d\n",ans);
+	return 0;
+}
+

@@ -1,0 +1,19 @@
+
+//#include <stdio.h>
+#include <iomanip>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+//	freopen("input.txt", "r", stdin);
+//	freopen("out.txt", "w", stdout);
+
+	double sale, rate;
+	
+	cin >> sale >> rate;
+	cout << fixed << setprecision(2) << sale * rate << endl;
+
+	return 0;
+}
+

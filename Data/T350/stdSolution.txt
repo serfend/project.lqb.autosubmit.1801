@@ -1,0 +1,111 @@
+
+#include <iostream>
+#include <algorithm>
+#include <cstring>
+using namespace std;
+struct N
+{
+	int m[3];
+}b[10];
+bool cmp(N a,N b)
+{
+	if(a.m[0] < b.m[0])
+		return true;
+	else if(a.m[1]<b.m[1])
+		return true;
+	else return false;
+}
+int main()
+{
+	int i,j,k,l,m,num,p,x,y;
+	int a[10] = {0};
+	y = -1;
+	bool q;
+	for(i = 1 ; i <= 9 ; i ++)
+	{
+		for(j = 1 ; j <= 9 ; j ++)
+		{
+			if(i != j)
+				for(k = 1 ; k <= 9 ; k ++)
+				{
+					if(k != i && k !=j)
+						for(l = 1 ; l<= 9 ; l ++)
+						{
+							if(l != i && l != j && l != k)
+								for(m = 1 ; m <= 9 ; m ++)
+								{ 
+									if(m != i && m != j && m != k && m != l && m != l)
+									{
+										memset(a,0,sizeof(a));
+										q = true;
+										num = i*(j*1000+k*100+l*10+m);
+										p = num;
+										while(p)
+										{
+											x = p%10;
+											if(x == i || x == j || x == k || x == l || x ==m || a[x] == 1 || x == 0)
+											{
+												q = false;
+												break;
+											}
+											a[x] = 1;
+											p /= 10;
+										}
+										if(q == false)
+											continue;
+										b[++y].m[0] = num;
+										b[y].m[1] = i;
+										b[y].m[2] = j*1000+k*100+l*10+m;
+									}
+								}
+						}
+				}
+		}	
+	}
+	for(i = 1 ; i <= 9 ; i ++)
+	{
+		for(j = 1 ; j <= 9 ; j ++)
+		{
+			if(i != j)
+				for(k = 1 ; k <= 9 ; k ++)
+				{
+					if(k != i && k !=j)
+						for(l = 1 ; l<= 9 ; l ++)
+						{
+							if(l != i && l != j && l != k)
+								for(m = 1 ; m <= 9 ; m ++)
+								{ 
+									if(m != i && m != j && m != k && m != l && m != l)
+									{
+										memset(a,0,sizeof(a));
+										q = true;
+										num = (i*10+j)*(k*100+l*10+m);
+										p = num;
+										while(p)
+										{
+											x = p%10;
+											if(x == i || x == j || x == k || x == l || x ==m || a[x] == 1 || x ==0)
+											{
+												q = false;
+												break;
+											}
+											a[x] = 1;
+											p /= 10;
+										}
+										if(q == false)
+											continue;
+										b[++y].m[0] = num;
+										b[y].m[1] = i*10+j;
+										b[y].m[2] = k*100+l*10+m;
+									}
+								}
+						}
+				}
+		}	
+	}
+	sort(b,b+y+1,cmp);
+	for(i = 0 ; i <= y ; i ++)
+		cout<<b[i].m[0]<<" = "<<b[i].m[1]<<" x "<<b[i].m[2]<<endl;
+	return 0;
+}
+

@@ -1,0 +1,100 @@
+
+#include<iostream>
+#include<stdlib.h>
+#include<vector>
+#include<set>
+#include<queue>
+#include<fstream>
+#include<algorithm>
+#include<string>
+using namespace std;
+struct data{
+	int y;
+	int m;
+	int d;
+	bool friend operator <(const data aa,const data da){
+		if(aa.y!=da.y){
+			return aa.y<da.y;
+		}
+		if(aa.m!=da.m){
+			return aa.m<da.m;
+		}
+		if(aa.d!=da.d){
+			return aa.d<da.d;
+		}
+	}
+};
+set<data >p;
+set<int >q;
+
+bool flag[2000][100][100]={false};
+bool how(int a,int b,int c){
+	if(c>31 || c<1)
+		return false;
+	if(q.find(b)!=q.end()){
+		return true;
+	}
+	else{
+		if(c==31)
+			return false;
+		if(b==2){
+			if(a%4!=0){
+				if(c>28){
+					return false;
+				}
+			}else{
+				if(c>29){
+					return false;
+				}
+			}
+		}
+		return true;
+	}
+}
+void find(int a,int b,int c){
+	if(flag[a][b][c])
+		return;
+	flag[a][b][c]=true;
+	if(b>12 || b<1){
+		return;
+	}
+	int s=a;
+	if(how(a,b,c)){
+		data da;
+		if(a>59){
+			a+=1900;
+		}else
+			a+=2000;
+		da.y=a;
+		da.m=b;
+		da.d=c;
+		p.insert(da);
+	}
+	
+	return;
+}
+int main()
+{
+	string a;
+	cin>>a;
+	q.insert(1);q.insert(3);q.insert(5);q.insert(7);q.insert(8);q.insert(10);q.insert(12);
+	int y,m,d;
+	y=(a[0]-'0')*10+(a[1]-'0');
+	m=(a[3]-'0')*10+(a[4]-'0');
+	d=(a[6]-'0')*10+(a[7]-'0');
+	find(y,m,d);
+	find(d,m,y);
+	find(d,y,m);
+	set<data >::iterator it=p.begin();
+	for(it;it!=p.end();it++){
+		cout<<(*it).y<<"-";
+		if((*it).m<10)
+			cout<<"0";
+		cout<<(*it).m<<"-";
+		if((*it).d<10)
+			cout<<"0";
+		cout<<(*it).d<<endl;
+	}
+	return 0;
+}
+

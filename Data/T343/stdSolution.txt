@@ -1,0 +1,70 @@
+
+#include<iostream>
+#include<string>
+#include<cstdio>
+#include<set>
+#include<map>
+#include<stack>
+#include<vector>
+#include<queue>
+#include<algorithm>
+#include<cstring>
+#include<cmath>
+#include<fstream>
+using namespace std;
+
+const int maxn = 100010;
+
+int fa[maxn],son[maxn],st[maxn],ed[maxn],n;
+long long sum = 0,tst = 0,ted = 0,lf[maxn];
+vector<int> e[maxn];
+
+void dfs1(int u,int f){
+    son[u] = 0;
+    fa[u] = f;
+    for(int i = 0;i < e[u].size();++i){
+        int ff = e[u][i];
+        if (ff == f) continue;
+        dfs1(ff,u);
+        son[u] += son[ff];
+        son[u]++;
+    }
+}
+
+void dfs2(int u){
+    lf[u] = st[u];
+    sum += (n - 1 - son[u]) * (tst - st[u]) * ed[u]; //预处理情况2
+    for(int i = 0;i < e[u].size();++i){//更新lf，集中处理情况1
+        int ff = e[u][i];
+        if (ff == fa[u]) continue;
+        dfs2(ff);
+        lf[u] += lf[ff];
+        sum += (son[ff] + 1 - (n - 1 - son[u])) * lf[ff] * ed[u];
+    }
+    if(u == 1) return;
+}
+
+void init(){
+    cin >> n;
+    int l,r;
+    for(int i = 1;i < n;++i){
+        cin >> l >> r;
+        e[l].push_back(r);
+        e[r].push_back(l);
+    }
+    for(int i = 1;i <= n;++i){
+        cin >> l >> r;
+        st[i] = l;
+        tst += l;
+        ed[i] = r;
+        ted += r;
+    }
+}
+
+int main(){
+    init();
+    dfs1(1,1);
+    dfs2(1);
+    printf("%.11lf\n",sum * 1.0 / tst / ted);
+}
+

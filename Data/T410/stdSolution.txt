@@ -1,0 +1,27 @@
+
+#include<stdio.h>
+#include<string.h>
+#include<algorithm>
+using namespace std;
+char EncryptChar(char c)
+{
+    if(c=='Z')
+        c='a';
+    else if(c=='z')
+        c='A';
+    else if(c>='A'&&c<='Y'||c>='a'&&c<='y')
+        c=c+1;
+    return c;
+}
+int main()
+{
+    char s[50];
+    int i;
+    scanf("%s",s);
+    for(i=0;s[i]!='\0';i++)
+        s[i]=EncryptChar(s[i]);
+    printf("%s\n",s);
+    return 0;
+}
+
+

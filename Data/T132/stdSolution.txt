@@ -1,0 +1,24 @@
+
+#include<stdio.h>
+int main()
+{
+	int T,t[100000],i,x,y,z,k,n;
+	scanf("%d",&T);
+	for(i=0;i<T;i++)
+	{
+		scanf("%d",&t[i]);
+		
+		
+	}
+	for(i=0;i<T;i++)
+	{
+		x=t[i]/3600;
+		y=t[i]%3600;
+		z=y/60;
+		k=y%60;
+		n=k;
+		printf("%02d:%02d:%02d\n",x,z,n);
+	}
+	return 0;
+}
+

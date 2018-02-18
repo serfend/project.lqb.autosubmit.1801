@@ -1,0 +1,16 @@
+
+#include<iostream>
+#include<string>
+using namespace std;
+int main()
+{     
+	double a;
+	string b;
+	cout<<"please input a number:"<<endl;
+	cout<<"please input a string:"<<endl;
+	cin>>a>>b;
+	cout<<a<<endl;
+	cout<<b;
+	return 0;
+} 
+

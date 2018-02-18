@@ -1,0 +1,71 @@
+
+#include<stdio.h>
+#include<string.h>
+#include<math.h>
+int mt[9][2],n;
+int max[9]={9};
+int xl[9]={9};
+bool ifc();
+int main()
+{
+	int i,j,m,fi,k,flag;
+	scanf("%d",&n);
+	for(i=1;i<=n;i++) scanf("%d %d",&mt[i][0],&mt[i][1]);
+	m=pow(2,n);
+	for(i=0;i<m;i++)
+	{
+	for(fi=i,j=1,xl[0]=0;j<=n;j++)
+	{
+		xl[j]=fi&1;
+		fi>>=1;
+		if(xl[j]) xl[0]++;//真话数量 
+	}
+	if(xl[0]>max[0]) continue;
+	if(ifc())//成立 
+	{
+//		for(k=1;k<=n;k++) printf("%d",xl[k]);
+//		printf(" :%d\n",xl[0]);
+		if(max[0]==xl[0])
+		{
+			for(flag=k=1;k<=n;k++)
+			{
+				if(max[k]>xl[k])
+				{
+					flag=0;
+					break;
+				}
+				else if(max[k]<xl[k])
+				{
+					break;
+				}
+			}
+			if(!flag) continue;
+		}
+		for(k=0;k<=n;k++) max[k]=xl[k];
+	}
+	}
+	if(max[0]==9) printf("NoSolution.\n");
+	else if(max[0]==0) printf("0\n");
+	else
+	{
+	for(i=1;i<=n;i++) if(max[i]) printf("%d",i);
+	putchar('\n');
+	}
+}
+bool ifc()
+{
+	int i;
+	for(i=1;i<=n;i++)
+	{
+		if(xl[i])//若此人说真话 
+		{
+			if(mt[i][0]!=xl[0]-1) return false; 
+		}
+		else
+		{
+			if(mt[i][0]==xl[0]) return false;
+		}
+	}
+	return true;
+}
+

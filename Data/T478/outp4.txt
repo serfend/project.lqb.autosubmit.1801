@@ -1,0 +1,15 @@
+Case 1: 31A 1M
+Case 2: 1A 1M
+Case 3: impossible
+Case 4: 1M
+Case 5: 31A
+Case 6: 35A
+Case 7: 39A
+Case 8: 58A
+Case 9: 1A 1M
+Case 10: 12A
+Case 11: 1M
+Case 12: 25A
+Case 13: 29A
+Case 14: 1M
+Case 15: 180A

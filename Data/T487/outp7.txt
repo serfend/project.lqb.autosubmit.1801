@@ -1,0 +1,10 @@
+Key of D# is not a valid major key
+
+Key of E# is not a valid major key
+
+Transposing from Cb to F:
+  C is not a valid note in the Cb major scale
+  B is not a valid note in the Cb major scale
+  E is not a valid note in the Cb major scale
+  F is not a valid note in the Cb major scale
+  E# is not a valid note in the Cb major scale

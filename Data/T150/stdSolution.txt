@@ -1,0 +1,27 @@
+
+#include <iostream>
+
+using namespace std;
+
+// 求数组的和，其中p为指针第一个元素的指针，n为数组中的元素个数。
+int Sum(int *p, int n)
+{
+int sum=0;
+for(int i=0;i<n;i++)
+sum+=p[i];
+return sum;
+}
+
+int s[100];
+int n;
+
+int main()
+{
+	cin >> n;
+	for (int i = 0; i < n; ++i)
+		cin >> s[i];
+	cout << Sum(s, n);
+	return 0;
+}
+
+

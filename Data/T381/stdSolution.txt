@@ -1,0 +1,31 @@
+
+#include <iostream>
+/*问题描述
+　　输出1~100间的质数并显示出来。注意1不是质数。
+输出格式
+　　每行输出一个质数。
+　　2
+　　3
+　　...
+　　97*/
+#include<cstdio>
+using namespace std;
+
+int main()
+{
+	int i,j;
+	printf("2\n");
+	for(i=3;i<=100;i++)
+	{
+	for(j=2;j<i;j++)
+	{
+		if(i%j==0)
+		break;
+	}
+	if(i==j)
+	printf("%d\n",i);
+	
+    }
+     return 0;	
+}
+

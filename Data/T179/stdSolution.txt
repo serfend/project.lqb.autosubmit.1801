@@ -1,0 +1,31 @@
+
+#include <iostream>
+#include <cmath>
+#include <stdio.h>
+#include <string.h>
+#include <algorithm>
+#include <vector>
+#include<numeric>
+#include <iomanip>
+#include <map>
+#include <limits.h>
+#include <iterator>
+#include <sstream>
+#include <set>
+using namespace std;
+int a[4][4];
+int main(){
+    for(int i=0;i<4;i++){
+        for(int j=0;j<4;j++){
+            cin>>a[i][j];
+        }
+    }
+    for(int i=0;i<4;i++){
+        double s=(double)(a[0][i]+a[1][i]+a[2][i]+a[3][i])/4;
+        printf("%.2f\n",s);
+    }
+
+
+return 0;}
+
+

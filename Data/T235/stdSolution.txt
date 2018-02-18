@@ -1,0 +1,77 @@
+
+#include<iostream>
+using namespace std;
+//递归实现 思路是先转换成二进制
+int fun(int n)
+{
+	int i=0;
+	int a[20]={0};
+	int m=n;
+	while(m)
+	{
+		a[i]=m%2;
+		m/=2;
+		i++;
+	}
+	for(int j=i-1;j>=0;j--)//高位到低位排列 但是要注意每位的权改变
+	{
+		if(a[j]==1)
+		{
+			//若是最后一个1 则之后不要加号
+			int flag=1;
+			for(int k=j-1;k>=0;k--)
+			{
+				if(a[k]==1)
+				{
+					flag=0;
+					break;
+				}
+			}
+			if(flag)//是最后一位
+			{
+				if(j==1)
+					cout<<"2";
+				else
+				{	
+					if(j==0)
+						cout<<"2("<<j<<")";
+					else
+					{
+						cout<<"2(";
+						fun(j);
+						cout<<")";
+					}
+				}
+
+			}
+			else//不是最后一位
+			{
+				if(j==1)
+					cout<<"2+";
+				else
+				{
+					if(j==0)
+						cout<<"2("<<j<<")+";
+					else
+					{
+						cout<<"2(";
+						fun(j);
+						cout<<")+";
+					}
+				}
+			}
+		}
+	}
+	return 0;
+}
+int main()
+{
+	int n;
+	cin>>n;
+	fun(n);
+	cout<<endl;
+	return 0;
+
+}
+
+

@@ -1,0 +1,66 @@
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+#include<iostream>
+#include<algorithm>
+
+using namespace std;
+
+int num[10];
+int vis[10];
+int ans[110];
+int len1;
+int had_vis[10000000];
+
+void dfs(int n){
+	int i;
+	int temp1;
+	if(n == len1){
+		temp1 = 0;
+		for(i = 0; i < n; i++){
+			temp1 = temp1 * 10 + ans[i];
+		}
+		if(had_vis[temp1] == 0){
+			had_vis[temp1] = 1;
+			for(i = 0; i < n; i++){
+				printf("%d", ans[i]);
+			}
+			printf("\n");
+		}
+		return ;
+	}
+	
+	for(i = 0; i < len1; i++){
+		if(vis[i] == 0){
+			vis[i] = 1;
+			ans[n] = num[i];
+			dfs(n + 1);
+			vis[i] = 0;
+		}
+	}
+}
+
+int main()
+{
+	int i, j;
+	char str1[100];
+	
+	scanf("%s", str1);
+	len1 = strlen(str1);
+	
+	for(i = 0; i < len1; i++){
+		num[i] = str1[i] - '0';
+	}
+	
+	sort(num, num + len1);
+	
+	for(i = 0; i < len1; i++){
+		ans[0] = num[i];
+		vis[i] = 1;
+		dfs(1);
+		vis[i] = 0;
+	}
+	return 0;
+}
+

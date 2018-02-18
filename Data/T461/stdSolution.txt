@@ -1,0 +1,27 @@
+
+#include <bits/stdc++.h>
+using namespace std;
+long long int C(long long int m)
+{
+	long long int sum=1;
+	for(int i=m-4;i<=m;i++)
+		sum*=i;
+	return sum/120;
+}
+long long int judge(long long int n)
+{
+	if(n<4||n&1)
+		return 0;
+	return C(4+(n-4)/2+1)-C(4+(n-4)/2+1-2);
+}
+int main()
+{
+	long long int n;
+	int cnt=1;
+	while(cin >> n&&n)
+	{
+		cout << "Case "<< cnt << ": " << judge(n) << endl;
+		cnt++;
+	}
+}
+

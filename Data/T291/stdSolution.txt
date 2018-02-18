@@ -1,0 +1,82 @@
+
+#include <stdio.h>
+#include <iostream>
+#include <string.h>
+#include <math.h>
+#include <ctype.h>
+#include <algorithm>
+#include <map>
+#include <math.h>
+#include <stack>
+#include <queue>
+#define Max 510
+#define inf 100000000
+using namespace std;
+int vis[Max][Max],r,l;
+int Mov[4][2] = {{-1,0},{1,0},{0,-1},{0,1}};
+char str[5] = "UDLR",m[Max][Max],step[Max];
+struct Node{
+    int x;
+    int y;
+    int s;
+    char sp;
+}path[Max][Max];
+int BFS(){
+    Node now;
+    memset(vis, 0, sizeof(vis));
+    now.x = now.y =0;
+    path[now.x][now.y].s = 0;
+    path[now.x][now.y].sp = 0;
+    queue<Node>q;
+    q.push(now);
+    while (q.size()>0) {
+        now = q.front();
+        if (now.x == r-1 && now.y == l-1) {
+            break;
+        }
+        q.pop();
+        Node next = now;
+        //printf("now:x %d y %d  step %d  straight %c\n",now.x,now.y,path[now.x][now.y].s,path[now.x][now.y].sp);
+        for (int i=0; i<4; i++) {
+            next.x = now.x+Mov[i][0];
+            next.y = now.y+Mov[i][1];
+            if (!vis[next.x][next.y]&&(next.x>=0&&next.x<r&&next.y>=0&&next.y<l)&& m[next.x][next.y] != '1' ) {
+                vis[next.x][next.y] = 1;
+                path[next.x][next.y] = now;
+                path[next.x][next.y].sp = str[i];
+                path[next.x][next.y].s = path[now.x][now.y].s+1;
+                q.push(next);
+               // printf("next:x %d y %d  step %d  straight %c\n",next.x,next.y,path[next.x][next.y].s,path[next.x][next.y].sp);
+            }
+        }
+    }
+    //printf("%d\n",path[r-1][l-1].s);
+    return path[r-1][l-1].s;
+}
+int main(){
+    while (scanf("%d%d",&r,&l)!=EOF) {
+        for (int i=0; i<r; i++) {
+                scanf("%s",m[i]);
+        }
+        printf("%d\n",BFS());
+        int len = 0;
+        int nx = r-1,ny = l-1;
+        int nextx = nx,nexty = ny;
+        while (1) {
+            nx = nextx;
+            ny = nexty;
+            if (nx + ny == 0) {
+                break;
+            }
+            step[len++] = path[nx][ny].sp;
+            nextx = path[nx][ny].x;
+            nexty = path[nx][ny].y;
+        }
+        for (int i=len-1; i>=0; i--) {
+            printf("%c",step[i]);
+        }
+        printf("\n");
+    }
+    return 0;
+}
+

@@ -1,0 +1,39 @@
+
+#include<iostream>
+#include<stdio.h>
+using namespace std;
+int main()
+{
+    int i,fir,sec,n,map[21],m;
+    cin>>m;
+    n=0;
+    while(m)
+    {
+      map[n++]=m;
+      cin>>m;  
+    }
+    if(map[0]>map[1])
+    {
+        fir=map[0];
+        sec=map[1];
+    }
+    else
+    {
+        fir=map[1];
+        sec=map[0];
+    }
+    for( i=2; i<n; i++)
+    {
+        if(map[i]>fir)
+        {
+            sec=fir;
+            fir=map[i];
+        }
+        if(map[i]<fir&&map[i]>sec)
+            sec=map[i];
+    }
+    cout<<sec<<endl;
+    return 0;
+}
+
+

@@ -1,0 +1,4 @@
+Hex: 0x9DF
+Decimal: 2527
+Octal: 4737
+

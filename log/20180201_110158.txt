@@ -1,0 +1,62 @@
+11:02:00 :xls.Status:未登录13986274216 
+11:02:04 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+11:02:05 :xls.Status:登录13986274216:成功 
+11:02:05 :xls.Status:JSESSIONID=64FBC06948C2CA789DC641A2AAD0E8F1;_SESSIONKEY=EK0MLH882X7I13J3R46I;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F5213C7CE1DFC3CBC614A1306C89ED1AE6D8EC895CE2247ED09D4F329DE04E65255F69022E7A01EAAD00F2045BF3F6FBFA;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 03:02:03 GMT 
+11:02:05 :xls.Status:{
+    accountId:178821
+    accountLoginname:ylzaymy
+    accountEmail:ylzaymy
+    accountMobile:13986274216
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:null
+    accountLastLoginTime:2014-12-03 16:52:27
+    lanqiaoProjectId:1
+    identityId:2
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2014-12-03 16:52:27
+    createTime:2014-12-03 16:52:27
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:null
+    accountPortrait:null
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+11:02:08 :xls.Status:获取到题目集数量:10 
+11:02:11 :xls.Status:习题已全部加载完成  UA/AC/All=0/4/472 
+11:02:11 :xls.Status:{"itemid":"2019306","msg":"提交成功。","ret":"1"} 
+11:02:11 :xls.Status:等待蓝桥杯网站评判结果...5000ms 
+11:02:16 :xls.Status:生成代码:T3,总测试数据(10) 
+11:02:16 :xls.Status:完成题目:T3 
+11:02:17 :xls.Status:{"itemid":"2019310","msg":"提交成功。","ret":"1"} 
+11:02:17 :xls.Status:等待蓝桥杯网站评判结果...5000ms 
+11:02:24 :xls.Status:生成代码:T2,总测试数据(10) 
+11:02:24 :xls.Status:完成题目:T2 
+11:02:25 :xls.Status:{"itemid":"2019311","msg":"提交成功。","ret":"1"} 
+11:02:25 :xls.Status:等待蓝桥杯网站评判结果...5000ms 
+11:02:31 :xls.Status:生成代码:T1,总测试数据(10) 
+11:02:31 :xls.Status:完成题目:T1 
+11:02:32 :xls.Status:{"itemid":"2019313","msg":"提交成功。","ret":"1"} 
+11:02:32 :xls.Status:等待蓝桥杯网站评判结果...5000ms 
+11:02:38 :xls.Status:生成代码:T51,总测试数据(1) 
+11:02:38 :xls.Status:完成题目:T51 
+11:02:39 :xls.Status:{"itemid":"2019315","msg":"提交成功。","ret":"1"} 
+11:02:39 :xls.Status:等待蓝桥杯网站评判结果...5000ms 
+11:02:45 :xls.Status:生成代码:T7,总测试数据(10) 
+11:02:45 :xls.Status:完成题目:T7 
+11:02:46 :xls.Status:{"itemid":"2019316","msg":"提交成功。","ret":"1"} 
+11:02:46 :xls.Status:等待蓝桥杯网站评判结果...5000ms 
+11:02:52 :xls.Status:生成代码:T6,总测试数据(1) 
+11:02:52 :xls.Status:完成题目:T6 
+11:02:52 :xls.Status:{"itemid":"2019319","msg":"提交成功。","ret":"1"} 
+11:02:53 :xls.Status:等待蓝桥杯网站评判结果...5000ms 
+11:02:59 :xls.Status:下载题目数据:T5-6.inp 
+11:02:59 :xls.Status:下载数据防ban间隔...2000ms 
+11:02:59 :xls.Status:{"info":"ERROR。","ret":"0"} 

@@ -1,0 +1,80 @@
+
+#include<iostream>
+#include<cstring>
+#define MOD 99999999
+using namespace std;
+typedef  long long**  Mat;
+void mul_mat(Mat a, Mat b, Mat &c, int R_number_a, int C_number_a, int C_number_b)
+{
+	int i, j, k;
+	Mat C = new long long*[R_number_a];
+	for (int i = 0;i<R_number_a;i++)
+	{
+		C[i] = new long long[C_number_b];
+		for (int j = 0;j<C_number_b;j++)
+			C[i][j] = 0ll;
+	}
+	for ( i = 0;i<R_number_a;i++)
+		for ( k = 0;k < C_number_a;k++)
+			for ( j = 0;j<C_number_b;j++)
+				C[i][j] += a[i][k] * b[k][j]%MOD;
+	delete c;
+	c = C;
+}
+Mat pow_mat(Mat region, int R_number, int C_number, long long n)
+{
+	Mat ans = new long long*[R_number];
+	Mat t = new long long*[R_number];
+	for (int i = 0;i<R_number;i++)
+	{
+		ans[i] = new long long[C_number];
+		for (int j = 0;j<C_number;j++)
+			ans[i][j] = (long long)(i == j);
+	}
+	for (int i = 0;i<R_number;i++)
+	{
+		t[i] = new long long[C_number];
+		for (int j = 0;j<C_number;j++)
+			t[i][j] = region[i][j];
+	}
+	while (n)
+	{
+		if (n & 1)
+			mul_mat(ans, t, ans, R_number, C_number, C_number);
+			mul_mat(t, t, t, R_number, C_number, C_number);
+		n = n >> 1;
+	}
+	return ans;
+}
+int main()
+{
+	Mat region = new long long*[7], ans;
+	long long n, a[7] = {5ll,6ll,4ll,1ll,3ll,2ll,1ll};
+	cin >> n;
+	region[0] = new long long[7];
+	region[1] = new long long[7];
+	for (int i = 0;i < 7;i++)
+		region[i] = new long long[7],memset(region[i],0,sizeof(long long)*7);
+	region[0][1]= region[1][0]= region[2][0]= region[3][1]= region[4][2]= region[5][3]= region[6][6]=1ll;
+	region[0][4] = 2ll;
+	region[0][5] = 3ll;
+	region[0][6] = 3ll;
+	region[1][5] = 2ll;
+	region[1][6] = 5ll;
+	if (n < 4) {
+		switch (n) {
+		case 1:cout << 2 << endl << 3 << endl;break;
+		case 2:cout << 1 << endl << 4<< endl;break;
+		case 3:cout << 6 << endl << 5 << endl;break;
+		}
+	}
+	else {
+		ans = pow_mat(region, 7, 7, n - 3);
+		long long fn1 = 0ll, fn2 = 0ll;
+		for (int i = 0;i < 7;i++)
+			fn1 += ans[1][i] * a[i], fn2+= ans[0][i] * a[i];
+		cout << fn1%MOD << endl << fn2%MOD << endl;
+	}
+	return 0;
+}
+

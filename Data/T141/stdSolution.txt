@@ -1,0 +1,31 @@
+
+#include<stdio.h>
+#include<string.h>
+#define N 110
+
+int d[N*260],c[N];
+int n,m,ans;
+
+int main()
+{
+	scanf("%d%d",&n,&m);
+	int i;
+	for(i=1;i<=m;i++)	scanf("%d",&c[i]);
+	memset(d,0,sizeof(d));
+	ans=0;
+	while(true)
+	{
+		ans++;
+		for(i=1;i<=m;i++)
+			if(ans-c[i]>=0)
+				if(d[ans]==0 || d[ans]>d[ans-c[i]]+1)
+					d[ans]=d[ans-c[i]]+1;
+		if(d[ans]==0 || d[ans]>n)
+		{
+			printf("%d\n",ans-1);
+			break;
+		}
+	}
+	return 0;
+}
+

@@ -1,0 +1,90 @@
+
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+//ifstream fin("input.txt");
+//#define cin fin
+
+int p, k;
+int s;
+string inputString;
+vector<string> words;
+
+void getInput();
+int count();
+
+int main()
+{
+	getInput();
+	int n = count();
+	cout << n;
+
+	return 0;
+}
+
+void getInput()
+{
+	// ´¦ÀíÊäÈë
+	cin >> p >> k;
+	string temp;
+	for (int i = 0; i < p; i++)
+	{
+		cin >> temp;
+		inputString += temp;
+	}
+	cin >> s;
+	for (int i = 0; i < s; i++)
+	{
+		cin >> temp;
+		words.push_back(temp);
+	}
+}
+
+int count()
+{
+	vector<int> Sets;
+	int dividedNum = 0;
+	int counts = 0;
+	int begin = 0;
+	int end = -1;
+	for (int i = 0; i < inputString.size(); i++)
+	{
+		begin = i;
+		bool isMatching = false;
+		for (int j = 0; j < words.size(); j++)
+		{
+			size_t wordSize = words[j].size();
+			if (inputString.substr(i, wordSize) == words[j])
+			{
+				isMatching = true;
+				counts++;
+				if (begin <= end)
+				{
+					*Sets.rbegin() = *Sets.rbegin() + 1;
+					if (begin + wordSize - 1 > end)
+						end = begin + wordSize - 1;
+				}
+				else
+				{
+					Sets.push_back(0);
+					end = begin + wordSize - 1;
+				}
+			}
+			if (isMatching == true)
+				break;
+		}
+		if (isMatching == false && i >= end)
+			dividedNum++;
+	}
+
+	if (k < dividedNum)
+		return counts;
+	else
+		return counts - (k - dividedNum);
+}
+
+

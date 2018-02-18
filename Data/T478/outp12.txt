@@ -1,0 +1,8 @@
+Case 1: impossible
+Case 2: impossible
+Case 3: 4A 1M
+Case 4: impossible
+Case 5: 1A
+Case 6: empty
+Case 7: empty
+Case 8: impossible

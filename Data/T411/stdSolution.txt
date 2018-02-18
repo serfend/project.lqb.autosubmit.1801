@@ -1,0 +1,78 @@
+
+#include <map>
+#include <string>
+#include <iostream>
+#include <stack>
+#include <cstdlib>
+#include <cstdio>
+using namespace std;
+stack<char>a;
+string out(string a)
+{
+	map<string, string> mos;
+	mos.insert(pair<string, string>("*-", "a"));
+	mos.insert(pair<string, string>("-***", "b"));
+	mos.insert(pair<string, string>("-*-*", "c"));
+	mos.insert(pair<string, string>("-**", "d"));
+	mos.insert(pair<string, string>("*", "e"));
+	mos.insert(pair<string, string>("**-*", "f"));
+	mos.insert(pair<string, string>("--*", "g"));
+	mos.insert(pair<string, string>("****", "h"));
+	mos.insert(pair<string, string>("**", "i"));
+	mos.insert(pair<string, string>("*---", "j"));
+	mos.insert(pair<string, string>("-*-", "k"));
+	mos.insert(pair<string, string>("*-**", "l"));
+	mos.insert(pair<string, string>("--", "m"));
+	mos.insert(pair<string, string>("-*", "n"));
+	mos.insert(pair<string, string>("---", "o"));
+	mos.insert(pair<string, string>("*--*", "p"));
+	mos.insert(pair<string, string>("--*-", "q"));
+	mos.insert(pair<string, string>("*-*", "r"));
+	mos.insert(pair<string, string>("***", "s"));
+	mos.insert(pair<string, string>("-", "t"));
+	mos.insert(pair<string, string>("**-", "u"));
+	mos.insert(pair<string, string>("***-", "v"));
+	mos.insert(pair<string, string>("*--", "w"));
+	mos.insert(pair<string, string>("-**-", "x"));
+	mos.insert(pair<string, string>("-*--", "y"));
+	mos.insert(pair<string, string>("--**", "z"));
+	map<string, string>::iterator iter;
+	iter = mos.find(a);
+	return iter->second;
+}
+int main()
+{
+	string dd;
+	while(cin>>dd)
+	{
+		for (int i = 0; i < dd.length(); i++)
+		{
+			a.push(dd[i]);
+		}
+	}
+	string p;
+	string str;
+	while(!a.empty())
+	{
+		if(a.top()!='|')
+		{
+			p+=a.top();
+			a.pop();
+		}
+		else
+		{
+			//cout<<p<<endl;
+			string q(p.rbegin(),p.rend());
+			str+=out(q);
+			a.pop();
+			p.clear();
+		}
+	}
+	string q(p.rbegin(),p.rend());
+	str+=out(q);
+	p.clear();
+	string rev(str.rbegin(),str.rend());
+	cout<<rev<<endl;
+	return 0;
+}
+

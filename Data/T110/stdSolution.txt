@@ -1,0 +1,38 @@
+
+#include<cstdio>
+
+struct group
+{
+	int first;
+	int second;
+};
+
+int main()
+{
+	int n,m,i,j;
+	scanf("%d%d",&n,&m);
+	struct group g[m];
+	for(i=1;i<=m;i++)
+	{
+		scanf("%d%d",&g[i].first,&g[i].second);
+	}
+//	for(i=1;i<=m;i++)
+//	{
+//		printf("(%d  %d)\n",g[i].first,g[i].second);
+//	}
+	for(i=1;i<=n;i++)
+	{
+		for(j=1;j<=m;j++)
+		{
+			if(g[j].first==i)
+				printf("1 ");
+			else if(g[j].second==i)
+				printf("-1 ");
+			else
+				printf("0 ");
+		}
+		printf("\n");
+	}
+	return 0;
+}
+

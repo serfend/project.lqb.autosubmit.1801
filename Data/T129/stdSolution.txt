@@ -1,0 +1,56 @@
+
+#include <iostream>
+
+using namespace std;
+
+int a[100005];
+
+int main()
+{
+	unsigned int i, j, n, cnt = 1, cj = 2;
+
+	cin >> n;
+
+	if (n == 1)
+	{
+		cout << 2 << endl;
+		return 0;
+	}
+
+	a[0] = 2;
+
+	for (i = 3; i < 2000000; i++)
+	{
+		for (j = 0; j < cnt; j++)
+		{
+			if (a[j] * a[j] > i)
+			{
+				break;
+			}
+			else
+			{
+				if (!(i % a[j]))
+				{
+					break;
+				}
+			}
+		}
+
+		if (a[j] * a[j] > i)
+		{
+			a[cnt++] = i;
+
+			cj = (cj % 50000) * (i % 50000) ;
+
+			if (cnt == n)
+			{
+				break;
+			}
+		}
+	}
+
+	cout << cj % 50000 << endl;
+
+	return 0;
+}
+

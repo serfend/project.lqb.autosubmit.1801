@@ -1,0 +1,49 @@
+
+#include "iostream"
+#include "string"
+#include "stdio.h"
+#include "ctype.h"
+#include "algorithm"
+#include "stack"
+#include "list"
+#include "math.h"
+using namespace std;
+const  int N =30001;
+int a[N];
+int main()
+{
+	int n;
+	int w;
+	cin>>w>>n;
+	for(int i=0;i<n;i++)
+	{
+		scanf("%d",&a[i]);
+	}
+	std::sort(a,a+n);
+	int ans=0;
+	for(int i=0,j=n-1;i<=j;)
+	{
+		for(;i<j;j--)
+		{
+			if(a[i]+a[j]<=w)
+				break;
+			else ans++;
+		}
+		if(i!=j)
+		{
+			i++;j--;
+			ans++;
+		}
+		else
+		{
+			ans++;
+	     break;
+		}
+		
+
+			
+	}
+	cout<<ans;
+	return 0;
+}
+

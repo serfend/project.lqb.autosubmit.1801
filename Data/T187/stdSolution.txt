@@ -1,0 +1,27 @@
+
+#include<iostream>
+#include<stdio.h>
+using namespace std;
+int main()
+{
+	int sum,k=0,b[1000],j;
+	cin>>sum;
+	while(sum>=8)
+		{
+			b[k]=(int )sum/8;
+			b[k]=(int )sum-b[k]*8;
+			k++;
+			sum=sum/8;
+			
+			
+		}
+		b[k]=(int )sum;
+		j=k;
+		while(j>=0) 
+		{
+			printf("%d",b[j]);
+			j--;
+		}
+  return 0;
+}
+

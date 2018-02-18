@@ -1,0 +1,85 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int comp(const void* a, const void* b)
+{
+	return *((int*)a) - *((int*)b);
+}
+
+int return_min_and_cut(int tt[], int size, int &tag)
+{
+	int i = 0;
+	int num = 0;
+	
+	if(size == 1)
+	{
+		tag = 0;
+		return tt[0];
+	}
+	
+	num = tt[0];
+	tag = 0;
+	
+	for(i = 1; i < size; i ++)
+	{
+		if(num > tt[i])
+		{
+			num = tt[i];
+			tag = i;
+		}
+	}
+	
+	for(i = 0; i < size; i ++)
+	{
+		tt[i] -= num;
+	}
+	
+	return num;
+}
+
+
+int main()
+{
+	int t[1000];
+	int tt[1000];
+	int m = 0, n = 0;
+	int size = 0;
+	int i = 0;
+	int tag = 0;
+	int all_time = 0, min_num = 0, wait_num = 0;
+	
+	scanf("%d %d", &n, &m);
+	wait_num = n - m;
+	
+	for(i = 0; i < n; i ++)
+	{
+		scanf("%d", &t[i]);
+	}
+	
+	if(n <= m)
+	{
+		printf("%d", 0);
+		return 0;
+	}
+	
+	qsort(t, n, sizeof(int), comp);
+	
+	for(i = 0; i < m; i ++ )
+	{
+		tt[i] = t[i];
+	}
+	
+	for(tag = 0, i = m; wait_num != 0; i ++)
+	{
+		min_num = return_min_and_cut(tt, m, tag);
+		tt[tag] = t[i];
+		all_time += wait_num*min_num;
+		wait_num --;
+	}
+	
+	printf("%d", all_time);
+
+	return 0;
+}
+

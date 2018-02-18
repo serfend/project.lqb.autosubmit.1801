@@ -1,0 +1,53 @@
+
+#include <iostream>
+#include <cstdio>
+using namespace std;
+int N,M,base;
+
+inline int Div(int a,int b)
+{
+	int n;
+	n = a / b;
+	if(n*b <= a)
+		return n;
+	return n + 1;
+}
+
+void work()
+{
+	int num[100];
+	int top = 0;
+	if(N == 0)
+	{
+		cout << 0;
+	}
+	int P;
+	while(N)
+	{
+		P = Div(N,base);
+		num[++top] = N - P*base;
+		N = P;
+	}
+	for(;top >= 1;top--)
+	{
+		if(num[top]<10)
+			cout << num[top];
+		if(num[top] >= 10)
+			cout << (char)(num[top] - 10 + 'A');
+	}
+	cout << "(base" << base << ")" << endl;
+}
+
+int main()
+{;
+	while(cin >> N)
+	{
+		cin >> base;
+		M = N;
+		cout << N << "=";
+		work();
+	}
+	return 0;
+}
+
+

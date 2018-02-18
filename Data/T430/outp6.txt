@@ -1,0 +1,6 @@
+Apartment Complex: 1
+Apartment 104: 06:54:50 - 15:46:57
+Apartment 201: 05:37:00 - 13:14:50
+Apartment 304: 06:16:57 - 16:39:03
+Apartment 101: 05:37:00 - 12:56:15
+Apartment 108: 09:41:51 - 15:06:59

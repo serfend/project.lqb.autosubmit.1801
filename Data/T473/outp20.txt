@@ -1,0 +1,136 @@
+Case 1: checksum = 9EE1
+ SYMBOL   ADDR
+--------  ----
+OTZ       011F
+XXY       013F
+XYZ       0101
+YDL       0102
+
+Case 2: checksum = 9EE1
+ SYMBOL   ADDR
+--------  ----
+OTZ       011F
+XXY       013F
+XYZ       0101
+YDL       0102
+
+Case 3: checksum = AB83
+ SYMBOL   ADDR
+--------  ----
+AAC       ????
+AAD       0212
+AAE       ????
+ABB       01C5
+ABE       ????
+ACC       ????
+ADB       0195
+ADD       ????
+AEB       ????
+BAA       01E8
+BAC       ????
+BBC       01B1 M
+BBD       ????
+BDB       0218
+BDE       01F0
+BED       ????
+CBA       01EF
+CCA       01BE
+CCB       0110
+CDC       ????
+CEB       ????
+DAC       ????
+DBD       ????
+DBE       0126
+DCB       ????
+DCD       0204
+DDA       013E
+DEB       0164
+DEC       014A
+EAB       ????
+EAE       ????
+EBC       01EC M
+ECB       ????
+ECE       ????
+EDA       01FA
+EEA       0103
+
+Case 4: checksum = 9362
+ SYMBOL   ADDR
+--------  ----
+AAC       0149
+AAD       ????
+ABA       ????
+ADC       ????
+ADE       ????
+AEA       ????
+AEC       018D
+AED       ????
+BBA       0208
+BCA       015C
+BDD       ????
+BDE       ????
+BEC       0211
+CAD       01F2
+CAE       0106
+CBA       ????
+CBC       ????
+CBE       ????
+CCB       010B
+CDA       013C
+CDC       ????
+CDD       ????
+CED       01BB M
+DAC       01C0
+DBB       0201
+DCB       0165
+DCC       0132 M
+DDA       ????
+DDC       ????
+DDD       ????
+DEB       021F
+EAA       020E
+EAE       ????
+EBB       0136
+ECC       ????
+EDB       020F
+
+Case 5: checksum = 63C8
+ SYMBOL   ADDR
+--------  ----
+AAC       0208
+AAD       ????
+AAE       ????
+ABB       ????
+ABD       ????
+ABE       ????
+ACA       01C7
+ADD       0117
+AEC       ????
+AED       0109
+BBA       0159
+BBB       ????
+BCC       01CC
+BDA       0111
+BDC       0184
+BEA       0169
+BEC       01AB
+BED       0129
+BEE       ????
+CAC       ????
+CDB       ????
+CEC       0238
+DAD       0136
+DBA       0232
+DCA       ????
+DCE       023B
+DDB       ????
+DDD       ????
+DDE       01F2
+DEB       019F
+EAC       0196
+EAE       ????
+EBA       ????
+EBD       ????
+EBE       ????
+EDE       019C
+EEB       01FB

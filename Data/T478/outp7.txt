@@ -1,0 +1,15 @@
+Case 1: 337A
+Case 2: 1M
+Case 3: 580A
+Case 4: 65A 2M
+Case 5: 4408A
+Case 6: 17775A
+Case 7: 147A
+Case 8: 308A
+Case 9: 488A 2M
+Case 10: impossible
+Case 11: 4240A
+Case 12: 1999A
+Case 13: empty
+Case 14: 5A 1M
+Case 15: 2036A

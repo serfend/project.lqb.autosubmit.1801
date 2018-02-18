@@ -1,0 +1,32 @@
+
+#include <cstdio>
+#include <cmath>
+#include <cstring>
+#include <iostream>
+#include <string>
+#include <algorithm>
+#include <map>
+#include <vector>
+#include <queue>
+#include <set>
+#include <iostream>
+using namespace std;
+const double esp=1e-10;
+const double PI=3.141592653;
+int f[110][110]={0},a[110];
+int main()
+{
+	//freopen("in.txt","r",stdin);
+	f[0][0]=1;
+	int n,m;
+	scanf("%d%d",&n,&m);
+	for(int i=1;i<=n;i++) scanf("%d",a+i);
+	for(int i=1;i<=n;i++)
+		for(int k=0;k<=a[i];k++)
+			for(int j=k;j<=m;j++)
+				f[i][j]=(f[i][j]+f[i-1][j-k])%1000007;
+	printf("%d\n",f[n][m]);
+	return 0;
+}
+
+

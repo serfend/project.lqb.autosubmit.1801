@@ -1,0 +1,115 @@
+
+/*问题描述
+　　扑克牌排序：构造扑克牌数组，对扑克牌进行排序。
+	排序原则如下：数字从小到大是2-10、J、Q、K和A，
+	花色从小到大是方块（diamond）、梅花（club）、红桃（heart）、黑桃（spade）。
+	两张牌比较时先看数字，数字相同时看花色。要求对输入的扑克牌进行从小到大排序。
+　　输入五张牌（表示黑桃2、红桃3、黑桃3、方块A和梅花J）： 2s3h3sAdJc
+　　输出结果应为：2 s 3 h 3 s J c A d数组长度固定为5。
+*/
+
+#include<iostream>
+#include<stdio.h>
+using namespace std;
+
+
+int main(){
+	char arry[10];
+	char temp1,temp2;
+	for(int i=0;i<10;i++){
+		arry[i]=getchar();
+	}
+	
+	for(int i=0;i<10;i++){
+		
+		switch(arry[i]){
+			case 'J':
+				arry[i]='a';
+				break;
+			case 'Q':
+				arry[i]='b';
+				break;
+			case 'K':
+				arry[i]='c';
+				break;
+			case 'A':
+				arry[i]='d';
+				break;
+			case 'd':
+				arry[i]='e';
+				break;
+			case 'c':
+				arry[i]='f';
+				break;
+			case 'h':
+				arry[i]='g';
+				break;
+			case 's':
+				arry[i]='h';
+				break;
+			default:
+        		break;
+		}
+	}
+	for(int i=0;i<5;i++){							//冒泡排序 
+		for(int j=0;j<8;j=j+2){
+			if(arry[j]>arry[j+2]){
+				temp1=arry[j];
+				temp2=arry[j+1];
+				arry[j]=arry[j+2];
+				arry[j+1]=arry[j+3];
+				arry[j+2]=temp1;
+				arry[j+3]=temp2;
+			}else if(arry[j]==arry[j+2]){
+				if(arry[j+1]>arry[j+3]){
+					temp1=arry[j];
+					temp2=arry[j+1];
+					arry[j]=arry[j+2];
+					arry[j+1]=arry[j+3];
+					arry[j+2]=temp1;
+					arry[j+3]=temp2;
+				}
+			}
+		}
+	}
+		for(int i=0;i<10;i++){
+		
+		switch(arry[i]){
+			case 'a':
+				arry[i]='J';
+				break;
+			case 'b':
+				arry[i]='Q';
+				break;
+			case 'c':
+				arry[i]='K';
+				break;
+			case 'd':
+				arry[i]='A';
+				break;
+			case 'e':
+				arry[i]='d';
+				break;
+			case 'f':
+				arry[i]='c';
+				break;
+			case 'g':
+				arry[i]='h';
+				break;
+			case 'h':
+				arry[i]='s';
+				break;
+			default:
+        		break;
+		}
+	}
+	for(int i=0;i<10;i++){
+		if(i!=0&&i%2==0){
+			cout<<" ";
+		}
+		cout<<arry[i];
+	}
+	
+	return 0;
+} 
+

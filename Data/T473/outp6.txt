@@ -1,0 +1,39 @@
+Case 1: checksum = 5A6C
+ SYMBOL   ADDR
+--------  ----
+
+Case 2: checksum = DF4D
+ SYMBOL   ADDR
+--------  ----
+
+Case 3: checksum = 1B4A
+ SYMBOL   ADDR
+--------  ----
+
+Case 4: checksum = E35F
+ SYMBOL   ADDR
+--------  ----
+
+Case 5: checksum = A1D5
+ SYMBOL   ADDR
+--------  ----
+
+Case 6: checksum = B5CD
+ SYMBOL   ADDR
+--------  ----
+
+Case 7: checksum = F1C6
+ SYMBOL   ADDR
+--------  ----
+
+Case 8: checksum = 3E29
+ SYMBOL   ADDR
+--------  ----
+
+Case 9: checksum = 68D4
+ SYMBOL   ADDR
+--------  ----
+
+Case 10: checksum = 4919
+ SYMBOL   ADDR
+--------  ----

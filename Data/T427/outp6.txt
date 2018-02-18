@@ -1,0 +1,4 @@
+Hex: 0x926
+Decimal: 2342
+Octal: 4446
+

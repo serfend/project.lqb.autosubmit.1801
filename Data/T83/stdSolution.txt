@@ -1,0 +1,29 @@
+
+#include<iostream>
+#include<cstdio>
+#include<cstdlib>
+#include<cstring>
+using namespace std;
+bool v[21000];
+int main()
+{
+	//memset(v,0,sizeof(v));
+	int i,j,m,n,a;
+	scanf("%d%d",&m,&n);
+	v[0]=1;
+	for(i=1;i<=n;i++)
+	{
+		scanf("%d",&a);
+		for(j=m;j>=a;j--)
+	 		v[j]=v[j]||v[j-a];
+	}
+	for(j=m;j>=0;j--)
+	{
+		if(v[j]) 
+		{
+		printf("%d\n",m-j);
+		return 0;
+		}
+	}
+}
+

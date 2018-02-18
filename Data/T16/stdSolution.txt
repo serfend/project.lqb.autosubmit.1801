@@ -1,0 +1,84 @@
+
+#include<cstdio>
+#include<cstdlib>
+#include<cstring>
+#include<cmath>
+#include<ctime>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+const int INF=999999999;
+struct wjj
+{
+    int x,y,w;       
+}edge[100005];
+int v[10005],N,P,father[10005],Min=INF;
+int _getfather(int x)
+{
+    if(x!=father[x]) father[x]=_getfather(father[x]);
+    return father[x];
+}
+void _in(int &x)
+{
+    char t=getchar();
+    while(t<'0'||'9'<t) t=getchar();
+    for(x=t-'0',t=getchar();'0'<=t&&t<='9';x=x*10+t-'0',t=getchar());
+}
+void _init()
+{
+    _in(N);_in(P);
+    for(int i=1;i<=N;i++)
+    {
+        father[i]=i;
+        _in(v[i]);
+        Min=min(Min,v[i]);
+    }
+    for(int i=1;i<=P;i++)
+    {
+        _in(edge[i].x);_in(edge[i].y);_in(edge[i].w);
+        edge[i].w<<=1;
+        edge[i].w+=v[edge[i].x]+v[edge[i].y]; //重新计算边的权值！！！ 
+    }
+}
+void _qst_w(int l,int r)
+{
+    int i=l,j=r,mw=edge[(i+j)>>1].w;
+    while(i<=j)
+    {
+        while(edge[i].w<mw) i++;
+        while(edge[j].w>mw) j--;
+        if(i<=j)
+        {
+            swap(edge[i],edge[j]);
+            i++;j--;
+        }
+    }
+    if(l<j) _qst_w(l,j);
+    if(i<r) _qst_w(i,r);
+}
+void _solve()//Kruskal
+{
+    _qst_w(1,P);
+    int fx,fy,k,cnt,tot;
+    k=cnt=tot=0;
+    while(cnt<N-1)
+    {
+        k++;
+        fx=_getfather(edge[k].x);
+        fy=_getfather(edge[k].y);
+        if(fx!=fy)
+        {
+            father[fx]=fy;
+            tot+=edge[k].w;
+            cnt++;
+        }
+    }
+    printf("%d\n",tot+Min);  //不要忘记最后加上起点的权值（点的最小权值） 
+}
+int main()
+{
+    _init();
+    _solve();
+    return 0;
+}
+

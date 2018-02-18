@@ -1,0 +1,45 @@
+
+#include <iostream>
+#include<algorithm>
+#include<string>
+#include<queue>
+using namespace std;
+struct student
+{
+    string name,sex;
+    int year,score;
+    int index;
+    bool operator<(const student &a)const
+    {
+        if(score!=a.score)
+        return score<a.score;
+        else
+            return index<a.index;
+    }
+};
+int main()
+{
+    int n;
+    while(cin>>n)
+    {
+        int i;
+        student stu[1005];
+        //priority_queue<student>q;
+        for( i=0;i<n;i++)
+        {
+            cin>>stu[i].name>>stu[i].sex>>stu[i].year>>stu[i].score;
+            stu[i].index=i;
+         //   q.push(stu[i]);
+        }
+   sort(stu,stu+n);
+        for(i=0;i<n;i++)
+        {
+           // stu[i]=q.top();
+            cout<<stu[i].name<<" "<<stu[i].sex<<" "<<stu[i].year<<" "<<stu[i].score<<endl;
+            //q.pop();
+        }
+    }
+    return 0;
+}
+
+

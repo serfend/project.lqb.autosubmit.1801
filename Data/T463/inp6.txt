@@ -1,0 +1,5 @@
+AB+ B+ ?
+? O- B-
+? O+ B-
+? AB+ AB-
+E N D

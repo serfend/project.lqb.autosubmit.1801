@@ -1,0 +1,18 @@
+
+#include<cstdio>
+#include<iostream>
+#include<string>
+#include<cstring>
+#include<cmath>
+#include<algorithm>
+#define v(r) 3.1415926*4*r*r*r/3
+using namespace std;
+int main(){
+	double a;
+	while(cin>>a){
+		printf("%.5f\n",v(a));
+	}
+	
+	return 0;
+}
+

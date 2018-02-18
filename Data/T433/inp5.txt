@@ -1,0 +1,8 @@
+NOSOLUTION
+2 2 W 3 2
+1 1 NR *
+1 2 ER *
+2 1 WR *
+2 2 SF *
+0
+END

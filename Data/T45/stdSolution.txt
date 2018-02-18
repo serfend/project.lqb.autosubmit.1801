@@ -1,0 +1,47 @@
+
+#include<cstdio>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+const int maxn1=40;
+const int maxn2=10000;
+int n,m,ans=0,f[maxn1][maxn2];
+int a[maxn1+20],b[maxn2+20];
+
+void dfs(int step,int s,int e)
+{
+  int i,j,k;
+  if(step>m)
+    {
+      if(ans<e-1)for(ans=e-1,i=1;i<=m;i++)b[i]=a[i];
+      return;
+	}
+  for(k=e;k>=s;k--)
+    {
+      j=a[step-1]*n;
+      for(i=0;i<=j;i++)f[step][i]=f[step-1][i];
+      memset(&f[step][j+1],25,sizeof(int)*((n*k+1-j)+10));
+      
+      for(j=n*k,i=k;i<=j;i++)
+        f[step][i]=min(f[step][i],f[step][i-k]+1);
+      for(i=e;i<=j+1;i++)if(f[step][i]>n)
+        {
+          a[step]=k,dfs(step+1,k+1,i);
+          break;
+		}
+	}
+}
+
+int main()
+{
+  int i;
+  memset(f[1],25,sizeof(f[1]));
+  scanf("%d%d",&n,&m);
+  for(i=0;i<=n;i++)f[1][i]=i;
+  a[1]=1,dfs(2,2,n+1);
+  for(i=1;i<m;i++)printf("%d ",b[i]);
+  printf("%d\nMAX=%d\n",b[m],ans);
+  return 0;
+}
+

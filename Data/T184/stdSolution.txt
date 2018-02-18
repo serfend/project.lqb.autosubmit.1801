@@ -1,0 +1,12 @@
+
+#include <iostream>
+#include <algorithm>
+using namespace std;
+int main()
+{
+	int a[3];
+	cin>>a[0]>>a[1]>>a[2];
+	cout<<*max_element(a,a+3);
+	return 0;
+}
+

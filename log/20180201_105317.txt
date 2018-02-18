@@ -1,0 +1,163 @@
+10:53:18 :xls.Status:未登录liuchangm7j@vip.qq.com 
+10:53:21 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+10:53:21 :xls.Status:登录liuchangm7j@vip.qq.com:成功 
+10:53:21 :xls.Status:JSESSIONID=38A5F913B4A235F130097AB59671B896;_SESSIONKEY=2960LHO519245D57SO51;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBC6C920990F03E5CCEC931A3B3CB09A92736ED50400ADF46E8FD03F6CB22AC64382862F3269340F615894C682A39A1DF80;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 02:53:20 GMT 
+10:53:21 :xls.Status:{
+    accountId:233752
+    accountLoginname:liuchangm7j@vip.qq.com
+    accountEmail:liuchangm7j@vip.qq.com
+    accountMobile:13627271134
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:null
+    accountLastLoginTime:2015-12-13 10:40:04
+    lanqiaoProjectId:1
+    identityId:1
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2015-12-13 10:40:04
+    createTime:2015-12-13 10:40:04
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:null
+    accountPortrait:null
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+10:53:23 :xls.Status:获取到题目集数量:10 
+10:53:24 :xls.Status:习题已全部加载完成  UA/AC/All=0/45/472 
+10:53:24 :xls.Status:生成代码:T125,总测试数据(3) 
+10:53:24 :xls.Status:完成题目:T125 
+10:53:24 :xls.Status:生成代码:T116,总测试数据(10) 
+10:53:24 :xls.Status:完成题目:T116 
+10:53:24 :xls.Status:生成代码:T115,总测试数据(6) 
+10:53:24 :xls.Status:完成题目:T115 
+10:53:24 :xls.Status:生成代码:T114,总测试数据(10) 
+10:53:28 :xls.Status:完成题目:T114 
+10:53:28 :xls.Status:生成代码:T113,总测试数据(5) 
+10:53:28 :xls.Status:完成题目:T113 
+10:53:28 :xls.Status:下载题目数据:T43-6.outp 
+10:53:28 :xls.Status:下载数据防ban间隔...2000ms 
+10:53:28 :xls.Status:{"info":"ERROR。","ret":"0"} 
+10:53:30 :xls.Status:下载题目数据:T43-7.outp 
+10:53:30 :xls.Status:下载数据防ban间隔...2000ms 
+10:53:30 :xls.Status:{"info":"未登录。","ret":"0"} 
+10:54:20 :xls.Status:未登录13986274216 
+10:54:20 :xls.Status:下载题目数据:T43-8.outp 
+10:54:20 :xls.Status:下载数据防ban间隔...2000ms 
+10:54:21 :xls.Status:{"info":"未登录。","ret":"0"} 
+10:54:21 :xls.Status:未登录13986274216 
+10:54:24 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+10:54:24 :xls.Status:登录13986274216:成功 
+10:54:24 :xls.Status:JSESSIONID=EC6DE0BFB22EF75A9A882D9D49874C84;_SESSIONKEY=FE41IA90Z6119U7927NM;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F5BFC810A978EDDA753584ECF94846870E69BD94384C33B10D764240EB229E8CB35F69022E7A01EAAD00F2045BF3F6FBFA;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 02:54:22 GMT 
+10:54:24 :xls.Status:{
+    accountId:178821
+    accountLoginname:ylzaymy
+    accountEmail:ylzaymy
+    accountMobile:13986274216
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:null
+    accountLastLoginTime:2014-12-03 16:52:27
+    lanqiaoProjectId:1
+    identityId:2
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2014-12-03 16:52:27
+    createTime:2014-12-03 16:52:27
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:null
+    accountPortrait:null
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+10:54:25 :xls.Status:获取到题目集数量:10 
+10:54:26 :xls.Status:习题已全部加载完成  UA/AC/All=0/49/944 
+10:54:26 :xls.Status:{"itemid":"2019259","msg":"提交成功。","ret":"1"} 
+10:54:26 :xls.Status:等待蓝桥杯网站评判结果...5000ms 
+10:54:30 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+10:54:30 :xls.Status:登录13986274216:成功 
+10:54:30 :xls.Status:JSESSIONID=5AA5E3A098403E52CAEC06DA39A4E2CD;_SESSIONKEY=A5IJ8S0OG4V164T3LB5M;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F5A93B5C306CD4086287ABB67010BBDA769CE24162F12D1423E51FEF0C3890782D9FA13E6F02295A002924ABDE1C31DE1F;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 02:54:29 GMT 
+10:54:30 :xls.Status:{
+    accountId:178821
+    accountLoginname:ylzaymy
+    accountEmail:ylzaymy
+    accountMobile:13986274216
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:null
+    accountLastLoginTime:2014-12-03 16:52:27
+    lanqiaoProjectId:1
+    identityId:2
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2014-12-03 16:52:27
+    createTime:2014-12-03 16:52:27
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:null
+    accountPortrait:null
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+10:54:31 :xls.Status:下载题目数据:T43-9.outp 
+10:54:31 :xls.Status:下载数据防ban间隔...2000ms 
+10:54:31 :xls.Status:获取到题目集数量:10 
+10:54:31 :xls.Status:{"info":"ERROR。","ret":"0"} 
+10:54:31 :xls.Status:下载题目数据:T42-1.inp 
+10:54:31 :xls.Status:下载数据防ban间隔...2000ms 
+10:54:32 :xls.Status:{"info":"未登录。","ret":"0"} 
+10:54:32 :xls.Status:未登录15808081216 
+10:54:32 :xls.Status:习题已全部加载完成  UA/AC/All=0/53/1416 
+10:54:32 :xls.Status:{"msg":"未登录。","ret":"0"} 
+10:54:35 :xls.Status:下载题目数据:T42-2.inp 
+10:54:35 :xls.Status:下载数据防ban间隔...2000ms 
+10:54:35 :xls.Status:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+10:54:35 :xls.Status:{"info":"未登录。","ret":"0"} 
+10:54:35 :xls.Status:未登录15808081216 
+10:54:36 :xls.Status:登录15808081216:成功 
+10:54:36 :xls.Status:JSESSIONID=6CB1B4D9A9DAA9DE625C61251E08785A;_SESSIONKEY=4W89URBCA46KGI3084D7;_TOKEN=D5F98D41037204CF5CFC1F57960140B97B0F64E1463F1BFBBED1346D876632F6F895D231070B90AD8E889F700C5C3E1CC7191B5FD17634B56A38E276417D7FFA2862F3269340F615894C682A39A1DF80;Domain=lanqiao.cn;Expires=Fri, 02-Feb-2018 02:54:34 GMT 
+10:54:36 :xls.Status:{
+    accountId:579282681805
+    accountLoginname:null
+    accountEmail:null
+    accountMobile:15808081216
+    accountPassword:null
+    accountAlgorithm:null
+    accountSalt:null
+    accountPasswordStatus:false
+    accountValidStatus:true
+    accountLastLoginIp:10.45.42.254
+    accountLastLoginTime:2017-12-21 17:37:16
+    lanqiaoProjectId:2
+    identityId:1
+    authStatus:4
+    dataVersion:1
+    lastModifiedTime:2017-12-21 17:37:16
+    createTime:2017-12-21 17:37:16
+    loginType:null
+    identityName:null
+    identityRealname:null
+    accountNickname:LQ846579
+    accountPortrait:
+    keyWord:null
+    status:null
+    thirdStatus:null
+    } 
+10:54:37 :xls.Status:未登录15808081216 

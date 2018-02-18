@@ -1,0 +1,24 @@
+
+#include<iostream>
+using namespace std;
+struct fen{
+	int sum;
+};
+int main(){
+	fen lin;
+	lin.sum=0;
+	fen li;
+	li.sum=0;
+	int t;
+	while(1){
+		cin>>t;
+		if(t==0)lin.sum++;
+		else if(t==1)li.sum++;
+		if((lin.sum>=21||li.sum>=21))
+		if(lin.sum-li.sum>1){cout<<"0"<<endl;break;
+		}
+		else if(li.sum-lin.sum>1){cout<<"1"<<endl;break;
+		}
+	}
+}
+

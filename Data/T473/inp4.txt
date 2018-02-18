@@ -1,0 +1,41 @@
+D OTZ A0
+D Z 4
+D OTZ A0
+D Z 4
+D OTZ A0
+D Z 4
+D OTZ A0
+D Z 4
+D OTZ A0
+D Z 4
+D OTZ A0
+D Z 4
+D OTZ A0
+D Z 4
+Z 
+$ 
+D SRE FF
+Z 
+D OTZ 22
+Z 
+D FA D
+D FA D
+Z 
+D SRE FF
+Z 
+D OTZ 22
+Z 
+D FA D
+D FA D
+Z 
+D SRE FF
+Z 
+D OTZ 22
+Z 
+D FA D
+D FA D
+Z 
+Z
+$ 
+$
+

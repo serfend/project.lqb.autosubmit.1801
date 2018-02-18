@@ -1,0 +1,25 @@
+
+#include<stdio.h>
+#include<string.h>
+bool check(char *str)
+{
+	int len = strlen(str);
+	int i, j;
+	for(i = 0, j = len - 1; i <= j; i ++, j--)
+	{
+		if(str[i] != str[j])
+			return false;
+	}
+	return true;
+}
+int main()
+{
+	char str[200];
+	scanf("%s", str);
+	if(check(str) == true)
+		printf("yes!\n");
+	else
+		printf("no!\n");
+	return 0;
+}
+

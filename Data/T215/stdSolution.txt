@@ -1,0 +1,26 @@
+
+#include<iostream>
+
+using namespace std;
+
+int a[25];
+
+int main()
+{
+    int i=0,j,temp;   
+	while(cin>>temp)
+	{
+		if(temp==0)break;
+		a[i]=temp;
+		i++;
+	}
+	if(i==0)cout<<endl;
+	else
+	{
+	for(j=i-1;j>0;j--)
+	cout<<a[j]<<" ";
+	cout<<a[0]<<endl;
+    }
+	return 0;
+}
+

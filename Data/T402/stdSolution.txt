@@ -1,0 +1,33 @@
+
+#include<cstdio>
+#include<cmath>
+#include<cstring>
+#include<iostream>
+#include<algorithm>
+using namespace std;
+const double ans=1e-12;
+
+int main()
+{
+	double x,t;
+	cin>>x;
+	double a=0,b=3.1415926;
+	t=(a+b)/2;
+	while(fabs(cos(t)-x) > ans){
+	//	printf("a=%lf b=%lf cos(t)=%lf\n",a,b,cos(t));
+		if(cos(t)<x){
+			b=t;
+		}
+		else{
+			a=t;
+		}
+		t=(a+b)/2;
+	}
+	printf("%.5lf",t);
+	
+	
+	
+	return 0;
+}
+
+

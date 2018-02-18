@@ -1,0 +1,35 @@
+
+#include<iostream>
+#include<stdio.h>
+#include<algorithm>
+#include<cstring>
+using namespace std;
+int Operation1(int x)
+{
+	int s=1,i,y;
+	y=x/2;
+	for(i=2;i<=y;i++)
+	{
+		if(x%i==0)
+		{
+			y=x/i;
+			s=s+i+y;
+			y--;
+		}
+	}
+	return s;
+}
+int main()
+{
+	int i,m,j,n,s;
+	while(cin>>n)
+	{
+	     if(n!=1&&n==Operation1(n))
+			 cout<<"yes"<<endl;
+		 else
+			 cout<<"no"<<endl;
+	}
+	return 0;
+}
+
+

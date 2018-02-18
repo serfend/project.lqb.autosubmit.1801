@@ -1,0 +1,117 @@
+
+#include "iostream"
+#include "string"
+#include "stdio.h"
+#include "ctype.h"
+#include "algorithm"
+#include "stack"
+using namespace std;
+
+int cacluExprePriority(string str,bool &hasC)
+{
+	int left=0;
+	int right=0;
+	bool bfind=false;
+	for(int i=0;i<str.size();i++)
+	{
+		if(str[i]=='(')
+			left++;
+		if(str[i]==')')
+			right++;
+		if(str[i]=='/')
+			hasC=true;
+		if(str[i]=='*'||str[i]=='/')
+		{
+			if(left==right)
+				return 2;
+		}
+		if(str[i]=='+'||str[i]=='-')
+		{
+			bfind=true;
+		}
+	}
+	return bfind?1:-1;
+}
+bool vis[1000];
+int safe(int i,int n)
+{
+	if(i<0)
+		return 0;
+	if(i>=n)
+		return n-1;
+	return i;
+}
+void findIndexOfBrackets(string str)
+{
+    stack<int>q;
+	for(int i=0;i<str.size();i++)
+	{
+		if(str[i]=='(')
+		{
+			q.push(i);
+		}
+	   if(str[i]==')')
+		{
+			int s=q.top();
+			int t=i;
+			bool hasC=false;
+		     int priority=cacluExprePriority(str.substr(s+1,t-s-1),hasC);
+			 q.pop();
+		     bool temp=false;
+			 if(s-1>=0&&cacluExprePriority(str.substr(safe(s-1,str.size()),1),temp)>=cacluExprePriority(str.substr(safe(t+1,str.size()),1),temp))
+			 {
+				 char op=str[s-1];
+			     {
+				 if(op=='+')
+				 {
+					vis[s]=vis[t]=true;
+				 }
+				if(op=='-')
+				{
+					if(priority==2)
+						vis[s]=vis[t]=true;
+				}
+				if(op=='*')
+				{
+					if(priority==2&&hasC==false)
+						vis[s]=vis[t]=true;
+				}
+			  }
+			 }
+			 else  if(t+1<str.size())
+
+			{
+				
+				
+					char op=str[t+1];
+					if(op=='+'||op=='-')
+					{
+						vis[s]=vis[t]=true;
+					}
+					
+					if(op=='*'||op=='/')
+					{
+						if(priority==2)
+							vis[s]=vis[t]=true;
+					}
+			}
+		}
+	}
+	
+}
+
+
+int main()
+{
+	string exper;
+	cin>>exper;
+
+	findIndexOfBrackets(exper);
+	for(int i=0;i<exper.size();i++)
+		if(vis[i]==false)
+			cout<<exper[i];
+	cout<<endl;
+
+	return 0;
+}
+

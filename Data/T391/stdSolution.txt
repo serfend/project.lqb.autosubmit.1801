@@ -1,0 +1,17 @@
+
+#include "stdio.h"
+int main()
+{
+   int a,b,c,n,i=0;
+   for(n=100;n<=999;n++)
+      {
+         a=n/100;
+         b=(n-a*100)/10;
+         c=(n-a*100-b*10);
+         if(n==a*a*a+b*b*b+c*c*c)
+            printf("%d\n ",n);
+         else continue;
+      }   
+return 0;
+}
+

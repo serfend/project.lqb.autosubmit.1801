@@ -1,0 +1,15 @@
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	int n;
+	cin>>n;
+	int day,h,m;
+	day=n/60/24;
+	h=n/60%24;
+	m=n%60;
+	cout<<day<<" "<<h<<" "<<m<<endl;
+	return 0;
+}
+

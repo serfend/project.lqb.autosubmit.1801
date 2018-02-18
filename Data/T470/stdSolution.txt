@@ -1,0 +1,85 @@
+
+#include<bits/stdc++.h>
+using namespace std;
+int w, b;
+vector<int> p[55], cnt[55], ans[55];
+typedef long long LL;
+LL sum[55][22], maxp[55];
+vector<vector<int> > newcnt;
+vector<LL> newmax;
+int calc() {
+    newcnt.clear();
+    newmax.clear();
+    for(int i = 0; i < w; ++i) {
+        if(cnt[i].size() > 0) {
+            newcnt.push_back(cnt[i]);
+            newmax.push_back(maxp[i]);
+        }
+    }
+    int nw = newcnt.size();
+    ans[0].assign(newcnt[0].begin(), newcnt[0].end());
+    for(int i = 1; i < nw; ++i) {
+        for(int j = 0; j < newcnt[i].size(); ++j) {
+            for(int k = 0; k < ans[i - 1].size(); ++k) {
+                ans[i].push_back(ans[i - 1][k] + newcnt[i][j]);
+            }
+        }
+    }
+    return nw;
+}
+
+int main() {
+#ifndef ONLINE_JUDGE
+    freopen("input1.txt", "r", stdin);
+    freopen("myoutput.txt", "w", stdout);
+#endif // ONLINE_JUDGE
+    int T = 1;
+    while(scanf("%d", &w), w != 0) {
+        for(int i = 0; i < 55; ++i) {
+            p[i].clear();
+            cnt[i].clear();
+            ans[i].clear();
+        }
+        for(int i = 0; i < w; ++i) {
+            scanf("%d", &b);
+            for(int j = 0, t = 0; j < b; ++j) {
+                scanf("%d", &t);
+                p[i].push_back(t);
+            }
+        }
+        memset(sum, 0, sizeof(sum));
+        memset(maxp, 0, sizeof(maxp));
+        for(int i = 0; i < w; ++i) {
+            if(p[i].size() == 0)continue;
+            sum[i][0] = (10 - p[i][0]) * 1LL;
+            maxp[i] = max(0ll, sum[i][0] * 1ll);
+            for(int j = 1; j < p[i].size(); ++j) {
+                sum[i][j] = sum[i][j - 1] + (10 - p[i][j]) * 1LL;
+                maxp[i] = max(maxp[i], sum[i][j]);
+            }
+        }
+        for(int i = 0; i < w; ++i) {
+            if(maxp[i] == 0ll)cnt[i].push_back(0);
+            for(int j = 0; j < p[i].size(); ++j) {
+                if(maxp[i] == sum[i][j]) {
+                    cnt[i].push_back(j + 1);
+                }
+            }
+        }
+
+        LL maxpro = 0;
+        for(int i = 0; i < w; ++i)maxpro += maxp[i];
+        int nw = calc();
+        sort(ans[nw - 1].begin(), ans[nw - 1].end());
+        int num = unique(ans[nw - 1].begin(), ans[nw - 1].end()) - ans[nw - 1].begin();
+        printf("Workyards %d\n", T++);
+        printf("Maximum profit is %lld.\n", maxpro);
+        printf("Number of pruls to buy: ");
+        for(int i = 0, t = min(num, 10); i < t; ++i) {
+            printf("%d%s", ans[nw - 1][i], i == t - 1 ? "\n" : " ");
+        }
+    }
+    return 0;
+}
+
+

@@ -1,0 +1,566 @@
+22:01:08 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies: 
+22:01:08 :xls.Status:切换到账号:13986274216,userId:178821,cookies: 
+22:01:08 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies: 
+22:01:08 :xls.Status:切换到账号:904546102@qq.com,userId:232143,cookies: 
+22:01:08 :xls.Status:切换到账号:17623877493,userId:579282697891,cookies: 
+22:01:08 :xls.Status:切换到账号:17623476609,userId:579282679620,cookies: 
+22:01:08 :xls.Status:切换到账号:15730361457,userId:579282697794,cookies: 
+22:01:08 :xls.Status:切换到账号:15730363368,userId:579282697814,cookies: 
+22:01:08 :xls.Status:切换到账号:17360254616,userId:579282697884,cookies: 
+22:01:08 :xls.Status:切换到账号:15827021295,userId:579282680737,cookies: 
+22:01:08 :xls.Status:切换到账号:15730362474,userId:579282695483,cookies: 
+22:01:08 :xls.Status:切换到账号:511380795@qq.com,userId:232220,cookies: 
+22:01:08 :xls.Status:切换到账号:2396522964@qq.com,userId:,cookies: 
+22:01:09 :xls.Status:未登13986274216 
+22:01:09 :xls.Status:未登liuchangm7j@vip.qq.com 
+22:01:09 :xls.Status:未登15808081216 
+22:01:09 :xls.Status:未登15730363368 
+22:01:09 :xls.Status:未登15730361457 
+22:01:09 :xls.Status:未登904546102@qq.com 
+22:01:09 :xls.Status:未登17360254616 
+22:01:09 :xls.Status:未登15730362474 
+22:01:09 :xls.Status:未登15827021295 
+22:01:09 :xls.Status:未登2396522964@qq.com 
+22:01:09 :xls.Status:未登17623877493 
+22:01:09 :xls.Status:未登17623476609 
+22:01:09 :xls.Status:未登511380795@qq.com 
+22:01:15 :xls.Status:账号切换到[13]2396522964@qq.com 
+22:01:15 :xls.Status:加载题库:2396522964@qq.com 
+22:01:15 :xls.Status:加载目录失败,未登录2396522964@qq.com,cookies: 
+22:01:15 :xls.Status:切换并登陆到账号:2396522964@qq.com,userId:,cookies: 
+22:01:16 :xls.Status:GetVerUser:2396522964@qq.com 
+22:01:20 :xls.Status:验证码:{"resultCode":300008,"resultMsg":"验证码错误","resultData":null,"otherProperties":{}} 
+22:01:20 :xls.Status:GetVerUser:2396522964@qq.com 
+22:01:23 :xls.Status:验证码:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+22:01:23 :xls.Status:JSESSIONID=C053585A5764FE242B19C58191F22EA1;_SESSIONKEY=L893P85I89T5GP4DJQ52;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 14:01:22 GMT;_TOKEN=DA729C4A9690AEB799BDF3F597F25B7A54FACB129131D043BE1695F84DBF99735B9B3E8F94782F0E49B97163222498B3A2AA20381A9CF94799720AFBEAB6AA695F69022E7A01EAAD00F2045BF3F6FBFA 
+22:01:23 :xls.Status:欢迎您,LQ26361(2396522964@qq.com) 
+22:01:24 :xls.Status:登录成功:敖亮 
+22:01:24 :xls.Status:加载题库:2396522964@qq.com 
+22:01:24 :xls.Status:获取到题目集数量:10 
+22:01:26 :xls.Status:习题已全部加载完成  UA/AC/All=0/0/472 
+22:01:26 :xls.Status:完成:已跳过,[T51]十六进制转八进制
+ 
+22:01:26 :xls.Status:完成:已跳过,[T7]字母图形
+ 
+22:01:26 :xls.Status:完成:已跳过,[T6]01字串
+ 
+22:01:26 :xls.Status:完成:已跳过,[T5]闰年判断
+ 
+22:01:27 :xls.Status:完成:已跳过,[T71]阶乘计算
+ 
+22:01:27 :xls.Status:完成:已跳过,[T70]高精度加法
+ 
+22:01:27 :xls.Status:完成:已跳过,[T69]Huffuman树
+ 
+22:01:27 :xls.Status:完成:已跳过,[T68]2n皇后问题
+ 
+22:01:27 :xls.Status:完成:已跳过,[T67]报时助手
+ 
+22:01:27 :xls.Status:完成:已跳过,[T66]回形取数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T65]龟兔赛跑预测
+ 
+22:01:27 :xls.Status:完成:已跳过,[T50]十六进制转十进制
+ 
+22:01:27 :xls.Status:完成:已跳过,[T64]芯片测试
+ 
+22:01:27 :xls.Status:完成:已跳过,[T63]FJ的字符串
+ 
+22:01:27 :xls.Status:完成:已跳过,[T62]Sine之舞
+ 
+22:01:27 :xls.Status:完成:已跳过,[T61]数的读法
+ 
+22:01:27 :xls.Status:完成:已跳过,[T60]完美的代价
+ 
+22:01:27 :xls.Status:完成:已跳过,[T59]矩形面积交
+ 
+22:01:27 :xls.Status:完成:已跳过,[T58]矩阵乘法
+ 
+22:01:27 :xls.Status:完成:已跳过,[T57]分解质因数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T56]字符串对比
+ 
+22:01:27 :xls.Status:完成:已跳过,[T54]时间转换
+ 
+22:01:27 :xls.Status:完成:已跳过,[T49]十进制转十六进制
+ 
+22:01:27 :xls.Status:完成:已跳过,[T48]特殊回文数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T47]回文数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T46]特殊的数字
+ 
+22:01:27 :xls.Status:完成:已跳过,[T10]杨辉三角形
+ 
+22:01:27 :xls.Status:完成:已跳过,[T9]查找整数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T8]数列特征
+ 
+22:01:27 :xls.Status:完成:已跳过,[T3]圆的面积
+ 
+22:01:27 :xls.Status:完成:已跳过,[T2]序列求和
+ 
+22:01:27 :xls.Status:完成:已跳过,[T1]A+B问题
+ 
+22:01:27 :xls.Status:完成:已跳过,[T125]兰顿蚂蚁
+ 
+22:01:27 :xls.Status:完成:已跳过,[T116]邮局
+ 
+22:01:27 :xls.Status:完成:已跳过,[T115]数字游戏
+ 
+22:01:27 :xls.Status:完成:已跳过,[T114]国王的烦恼
+ 
+22:01:27 :xls.Status:完成:已跳过,[T113]回文数字
+ 
+22:01:27 :xls.Status:完成:已跳过,[T43]公式求值
+ 
+22:01:27 :xls.Status:完成:已跳过,[T42]九宫重排
+ 
+22:01:27 :xls.Status:完成:已跳过,[T41]车轮轴迹
+ 
+22:01:27 :xls.Status:完成:已跳过,[T40]约数倍数选卡片
+ 
+22:01:27 :xls.Status:完成:已跳过,[T39]农场阳光
+ 
+22:01:27 :xls.Status:完成:已跳过,[T38]格子刷油漆
+ 
+22:01:27 :xls.Status:完成:已跳过,[T124]分糖果
+ 
+22:01:27 :xls.Status:完成:已跳过,[T37]高僧斗法
+ 
+22:01:27 :xls.Status:完成:已跳过,[T36]网络寻路
+ 
+22:01:27 :xls.Status:完成:已跳过,[T35]危险系数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T34]横向打印二叉树
+ 
+22:01:27 :xls.Status:完成:已跳过,[T33]幸运数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T32]大臣的旅费
+ 
+22:01:27 :xls.Status:完成:已跳过,[T31]买不到的数目
+ 
+22:01:27 :xls.Status:完成:已跳过,[T30]连号区间数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T29]翻硬币
+ 
+22:01:27 :xls.Status:完成:已跳过,[T28]错误票据
+ 
+22:01:27 :xls.Status:完成:已跳过,[T123]小朋友排队
+ 
+22:01:27 :xls.Status:完成:已跳过,[T27]剪格子
+ 
+22:01:27 :xls.Status:完成:已跳过,[T26]带分数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T25]打印十字图
+ 
+22:01:27 :xls.Status:完成:已跳过,[T24]核桃的数量
+ 
+22:01:27 :xls.Status:完成:已跳过,[T459]小计算器
+ 
+22:01:27 :xls.Status:完成:已跳过,[T458]合根植物
+ 
+22:01:27 :xls.Status:完成:已跳过,[T457]分考场
+ 
+22:01:27 :xls.Status:完成:已跳过,[T456]小数第n位
+ 
+22:01:27 :xls.Status:完成:已跳过,[T455]观光铁路
+ 
+22:01:27 :xls.Status:完成:已跳过,[T454]对局匹配
+ 
+22:01:27 :xls.Status:完成:已跳过,[T122]波动数列
+ 
+22:01:27 :xls.Status:完成:已跳过,[T453]发现环
+ 
+22:01:27 :xls.Status:完成:已跳过,[T452]数组操作
+ 
+22:01:27 :xls.Status:完成:已跳过,[T451]区间移位
+ 
+22:01:27 :xls.Status:完成:已跳过,[T450]填字母游戏
+ 
+22:01:27 :xls.Status:完成:已跳过,[T449]图形排版
+ 
+22:01:27 :xls.Status:完成:已跳过,[T448]青蛙跳杯子
+ 
+22:01:27 :xls.Status:完成:已跳过,[T447]拉马车
+ 
+22:01:27 :xls.Status:完成:已跳过,[T446]九宫幻方
+ 
+22:01:27 :xls.Status:完成:已跳过,[T445]Excel地址
+ 
+22:01:27 :xls.Status:完成:已跳过,[T444]k倍区间
+ 
+22:01:27 :xls.Status:完成:已跳过,[T121]斐波那契
+ 
+22:01:27 :xls.Status:完成:已跳过,[T443]日期问题
+ 
+22:01:27 :xls.Status:完成:已跳过,[T442]油漆面积
+ 
+22:01:27 :xls.Status:完成:已跳过,[T441]分巧克力
+ 
+22:01:27 :xls.Status:完成:已跳过,[T440]包子凑数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T439]正则问题
+ 
+22:01:27 :xls.Status:完成:已跳过,[T120]地宫取宝
+ 
+22:01:27 :xls.Status:完成:已跳过,[T119]蚂蚁感冒
+ 
+22:01:27 :xls.Status:完成:已跳过,[T118]最大子阵
+ 
+22:01:27 :xls.Status:完成:已跳过,[T117]城市建设
+ 
+22:01:27 :xls.Status:完成:已跳过,[T473]A Linking Loader
+ 
+22:01:27 :xls.Status:完成:已跳过,[T392]5-1最小公倍数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T227]新生舞会
+ 
+22:01:27 :xls.Status:完成:已跳过,[T226]反置数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T221]字符删除
+ 
+22:01:27 :xls.Status:完成:已跳过,[T220]字串统计
+ 
+22:01:27 :xls.Status:完成:已跳过,[T217]进制转换
+ 
+22:01:27 :xls.Status:完成:已跳过,[T213]阶乘
+ 
+22:01:27 :xls.Status:完成:已跳过,[T208]输出米字形
+ 
+22:01:27 :xls.Status:完成:已跳过,[T202]整数平均值
+ 
+22:01:27 :xls.Status:完成:已跳过,[T200]确定元音字母位置
+ 
+22:01:27 :xls.Status:完成:已跳过,[T188]斜率计算
+ 
+22:01:27 :xls.Status:完成:已跳过,[T372]P1103
+ 
+22:01:27 :xls.Status:完成:已跳过,[T187]十进制数转八进制数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T182]筛选号码
+ 
+22:01:27 :xls.Status:完成:已跳过,[T180]连接字符串
+ 
+22:01:27 :xls.Status:完成:已跳过,[T174]统计字符次数
+ 
+22:01:27 :xls.Status:完成:已跳过,[T173]成绩的等级输出
+ 
+22:01:27 :xls.Status:完成:已跳过,[T170]比较字符串
+ 
+22:01:27 :xls.Status:完成:已跳过,[T169]最长字符串
+ 
+22:01:27 :xls.Status:完成:已跳过,[T168]字符串逆序
+ 
+22:01:27 :xls.Status:完成:已跳过,[T164]判定数字
+ 
+22:01:27 :xls.Status:完成:已跳过,[T161]最大值与最小值的计算
+ 
+22:01:27 :xls.Status:完成:已跳过,[T356]Lift and Throw
+ 
+22:01:27 :xls.Status:完成:已跳过,[T160]字符串编辑
+ 
+22:01:27 :xls.Status:完成:已跳过,[T159]比赛安排
+ 
+22:01:27 :xls.Status:完成:已跳过,[T153]大小写判断
+ 
+22:01:27 :xls.Status:完成:已跳过,[T151]乘法表
+ 
+22:01:27 :xls.Status:完成:已跳过,[T150]平方计算
+ 
+22:01:27 :xls.Status:完成:已跳过,[T149]奇偶判断
+ 
+22:01:27 :xls.Status:完成:已跳过,[T148]矩阵乘方
+ 
+22:01:27 :xls.Status:完成:已跳过,[T147]快速排序
+ 
+22:01:27 :xls.Status:完成:已跳过,[T146]字串逆序
+ 
+22:01:27 :xls.Status:完成:已跳过,[T144]删除多余括号
+ 
+22:01:27 :xls.Status:完成:已跳过,[T347]Multithreading
+ 
+22:01:27 :xls.Status:完成:已跳过,[T141]邮票
+ 
+22:01:27 :xls.Status:完成:已跳过,[T139]矩阵加法
+ 
+22:01:27 :xls.Status:完成:已跳过,[T138]简单加法(基本型)
+ 
+22:01:27 :xls.Status:完成:已跳过,[T131]排列问题
+ 
+22:01:27 :xls.Status:完成:已跳过,[T128]数组查找及替换
+ 
+22:01:27 :xls.Status:完成:已跳过,[T109]蜜蜂飞舞
+ 
+22:01:27 :xls.Status:完成:已跳过,[T108]Hanoi问题
+ 
+22:01:27 :xls.Status:完成:已跳过,[T107]调和数列问题
+ 
+22:01:27 :xls.Status:完成:已跳过,[T105]会议中心
+ 
+22:01:27 :xls.Status:完成:已跳过,[T104]采油区域
+ 
+22:01:27 :xls.Status:完成:已跳过,[T344]Tricky and Clever Password
+ 
+22:01:27 :xls.Status:完成:已跳过,[T103]A+B Problem
+ 
+22:01:27 :xls.Status:完成:已跳过,[T101]数组排序去重
+ 
+22:01:27 :xls.Status:完成:已跳过,[T100]接水问题
+ 
+22:01:27 :xls.Status:完成:已跳过,[T99]Hankson的趣味题
+ 
+22:01:27 :xls.Status:完成:已跳过,[T98]传纸条
+ 
+22:01:27 :xls.Status:完成:已跳过,[T97]传球游戏
+ 
+22:01:27 :xls.Status:完成:已跳过,[T96]纪念品分组
+ 
+22:01:27 :xls.Status:完成:已跳过,[T95]数列
+ 
+22:01:27 :xls.Status:完成:已跳过,[T94]JAM计数法
+ 
+22:01:27 :xls.Status:完成:已跳过,[T93]开心的金明
+ 
+22:01:27 :xls.Status:完成:已跳过,[T340]Beaver's Calculator
+ 
+22:01:27 :xls.Status:完成:已跳过,[T92]入学考试
+ 
+22:01:27 :xls.Status:完成:已跳过,[T91]校门外的树
+ 
+22:01:28 :xls.Status:完成:已跳过,[T90]星际交流
+ 
+22:01:28 :xls.Status:完成:已跳过,[T89]FBI树
+ 
+22:01:28 :xls.Status:完成:已跳过,[T88]麦森数
+ 
+22:01:28 :xls.Status:完成:已跳过,[T87]Car的旅行路线
+ 
+22:01:28 :xls.Status:完成:已跳过,[T86]统计单词个数
+ 
+22:01:28 :xls.Status:完成:已跳过,[T85]一元三次方程求解
+ 
+22:01:28 :xls.Status:完成:已跳过,[T84]数的划分
+ 
+22:01:28 :xls.Status:完成:已跳过,[T83]装箱问题
+ 
+22:01:28 :xls.Status:完成:已跳过,[T336]Cowboys
+ 
+22:01:28 :xls.Status:完成:已跳过,[T82]求先序排列
+ 
+22:01:28 :xls.Status:完成:已跳过,[T79]方格取数
+ 
+22:01:28 :xls.Status:完成:已跳过,[T78]单词接龙
+ 
+22:01:28 :xls.Status:完成:已跳过,[T77]乘积最大
+ 
+22:01:28 :xls.Status:完成:已跳过,[T76]进制转换
+ 
+22:01:28 :xls.Status:完成:已跳过,[T75]旅行家的预算
+ 
+22:01:28 :xls.Status:完成:已跳过,[T74]回文数
+ 
+22:01:28 :xls.Status:完成:已跳过,[T73]拦截导弹
+ 
+22:01:28 :xls.Status:完成:已跳过,[T72]幂方分解
+ 
+22:01:28 :xls.Status:完成:已跳过,[T55]瓷砖铺放
+ 
+22:01:28 :xls.Status:完成:已跳过,[T312]数字三角形
+ 
+22:01:28 :xls.Status:完成:已跳过,[T53]集合运算
+ 
+22:01:28 :xls.Status:完成:已跳过,[T44]摆动序列
+ 
+22:01:28 :xls.Status:完成:已跳过,[T303]未名湖边的烦恼
+ 
+22:01:28 :xls.Status:完成:已跳过,[T294]最大的算式
+ 
+22:01:28 :xls.Status:完成:已跳过,[T461]Glenbow Museum
+ 
+22:01:28 :xls.Status:完成:已跳过,[T247]图形显示
+ 
+22:01:28 :xls.Status:完成:已跳过,[T243]排序
+ 
+22:01:28 :xls.Status:完成:已跳过,[T235]2的次幂表示
+ 
+22:01:28 :xls.Status:完成:已跳过,[T225]前缀表达式
+ 
+22:01:28 :xls.Status:完成:已跳过,[T223]Anagrams问题
+ 
+22:01:28 :xls.Status:完成:已跳过,[T222]出现次数最多的整数
+ 
+22:01:28 :xls.Status:完成:已跳过,[T219]字串统计
+ 
+22:01:28 :xls.Status:完成:已跳过,[T218]矩阵乘法
+ 
+22:01:28 :xls.Status:完成:已跳过,[T216]大小写转换
+ 
+22:01:28 :xls.Status:完成:已跳过,[T205]动态数组使用
+ 
+22:01:28 :xls.Status:完成:已跳过,[T460]Pollution Solution
+ 
+22:01:28 :xls.Status:完成:已跳过,[T201]删除数组零元素
+ 
+22:01:28 :xls.Status:完成:已跳过,[T133]最小乘积(基本型)
+ 
+22:01:28 :xls.Status:完成:已跳过,[T129]Torry的困惑(基本型)
+ 
+22:01:28 :xls.Status:完成:已跳过,[T111]寻找数组中最大值
+ 
+22:01:28 :xls.Status:完成:已跳过,[T110]关联矩阵
+ 
+22:01:28 :xls.Status:完成:已跳过,[T106]送分啦
+ 
+22:01:28 :xls.Status:完成:已跳过,[T18]操作格子
+ 
+22:01:28 :xls.Status:完成:已跳过,[T17]逆序对
+ 
+22:01:28 :xls.Status:完成:已跳过,[T16]安慰奶牛
+ 
+22:01:28 :xls.Status:完成:已跳过,[T15]最短路
+ 
+22:01:28 :xls.Status:完成:已跳过,[T434]Airport Configuration
+ 
+22:01:28 :xls.Status:完成:已跳过,[T14]结点选择
+ 
+22:01:28 :xls.Status:完成:已跳过,[T13]K好数
+ 
+22:01:28 :xls.Status:完成:已跳过,[T12]最大最小公倍数
+ 
+22:01:28 :xls.Status:完成:已跳过,[T11]区间k大数查询
+ 
+22:01:28 :xls.Status:下载题目测试数据 
+22:01:28 :xls.Status:{"itemid":"2030943","msg":"提交成功。","ret":"1"} 
+22:01:28 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+22:01:33 :xls.Status:DownloadAllFile:2030943,共计50组测试数据 
+22:01:33 :xls.Status:下载题目数据:T481-33.inp 
+22:01:33 :xls.Status:下载数据防ban间隔...2000ms 
+22:01:35 :xls.Status:下载题目数据:T481-34.inp 
+22:01:35 :xls.Status:下载数据防ban间隔...2000ms 
+22:01:37 :xls.Status:下载题目数据:T481-35.inp 
+22:01:37 :xls.Status:下载数据防ban间隔...2000ms 
+22:01:39 :xls.Status:下载题目数据:T481-36.inp 
+22:01:39 :xls.Status:下载数据防ban间隔...2000ms 
+22:01:41 :xls.Status:下载题目数据:T481-37.inp 
+22:01:41 :xls.Status:下载数据防ban间隔...2000ms 
+22:01:43 :xls.Status:下载题目数据:T481-38.inp 
+22:01:43 :xls.Status:下载数据防ban间隔...2000ms 
+22:01:46 :xls.Status:下载题目数据:T481-39.inp 
+22:01:46 :xls.Status:下载数据防ban间隔...2000ms 
+22:01:48 :xls.Status:下载题目数据:T481-40.inp 
+22:01:48 :xls.Status:下载数据防ban间隔...2000ms 
+22:01:50 :xls.Status:下载题目数据:T481-41.inp 
+22:01:50 :xls.Status:下载数据防ban间隔...2000ms 
+22:01:52 :xls.Status:下载题目数据:T481-42.inp 
+22:01:52 :xls.Status:下载数据防ban间隔...2000ms 
+22:01:54 :xls.Status:用户不可继续获取数据:T481-inp43 
+22:01:54 :xls.Status:账号切换到[1]liuchangm7j@vip.qq.com 
+22:01:54 :xls.Status:加载题库:liuchangm7j@vip.qq.com 
+22:01:54 :xls.Status:获取到题目集数量:10 
+22:01:56 :xls.Status:习题已全部加载完成  UA/AC/All=0/0/472 
+22:01:56 :xls.Status:完成:已跳过,[T3]圆的面积
+ 
+22:01:56 :xls.Status:完成:已跳过,[T2]序列求和
+ 
+22:01:56 :xls.Status:完成:已跳过,[T1]A+B问题
+ 
+22:01:56 :xls.Status:完成:已跳过,[T51]十六进制转八进制
+ 
+22:01:56 :xls.Status:完成:已跳过,[T7]字母图形
+ 
+22:01:56 :xls.Status:完成:已跳过,[T6]01字串
+ 
+22:01:56 :xls.Status:完成:已跳过,[T5]闰年判断
+ 
+22:01:56 :xls.Status:完成:已跳过,[T71]阶乘计算
+ 
+22:01:56 :xls.Status:完成:已跳过,[T70]高精度加法
+ 
+22:01:56 :xls.Status:完成:已跳过,[T69]Huffuman树
+ 
+22:01:56 :xls.Status:完成:已跳过,[T68]2n皇后问题
+ 
+22:01:56 :xls.Status:完成:已跳过,[T67]报时助手
+ 
+22:01:56 :xls.Status:完成:已跳过,[T66]回形取数
+ 
+22:01:56 :xls.Status:下载题目测试数据 
+22:01:56 :xls.Status:DownloadAllFile:2029726,共计10组测试数据 
+22:01:56 :xls.Status:下载题目数据:T65-9.outp 
+22:01:56 :xls.Status:下载数据防ban间隔...2000ms 
+22:01:56 :xls.Status:{"info":"未登录。","ret":"0"} 
+22:01:56 :xls.Status:下载数据失败:未登录liuchangm7j@vip.qq.com,cookies: 
+22:01:58 :xls.Status:用户不可继续获取数据:T65-outp10 
+22:01:58 :xls.Status:账号切换到[2]13986274216 
+22:01:58 :xls.Status:加载题库:13986274216 
+22:01:58 :xls.Status:获取到题目集数量:10 
+22:01:59 :xls.Status:习题已全部加载完成  UA/AC/All=0/0/944 
+22:01:59 :xls.Status:完成:已跳过,[T3]圆的面积
+ 
+22:01:59 :xls.Status:完成:已跳过,[T2]序列求和
+ 
+22:01:59 :xls.Status:完成:已跳过,[T1]A+B问题
+ 
+22:01:59 :xls.Status:完成:已跳过,[T51]十六进制转八进制
+ 
+22:01:59 :xls.Status:完成:已跳过,[T7]字母图形
+ 
+22:01:59 :xls.Status:完成:已跳过,[T6]01字串
+ 
+22:01:59 :xls.Status:完成:已跳过,[T5]闰年判断
+ 
+22:01:59 :xls.Status:完成:已跳过,[T71]阶乘计算
+ 
+22:01:59 :xls.Status:完成:已跳过,[T70]高精度加法
+ 
+22:01:59 :xls.Status:完成:已跳过,[T69]Huffuman树
+ 
+22:01:59 :xls.Status:完成:已跳过,[T68]2n皇后问题
+ 
+22:01:59 :xls.Status:完成:已跳过,[T67]报时助手
+ 
+22:01:59 :xls.Status:完成:已跳过,[T66]回形取数
+ 
+22:02:00 :xls.Status:下载题目测试数据 
+22:02:00 :xls.Status:{"msg":"未登录。","ret":"0"} 
+22:02:00 :xls.Status:切换并登陆到账号:13986274216,userId:178821,cookies: 
+22:02:00 :xls.Status:GetVerUser:13986274216 
+22:02:03 :xls.Status:验证码:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+22:02:04 :xls.Status:JSESSIONID=73964BDFDE0AA0EC4753641199B872DF;_SESSIONKEY=T12OFVACER45E011C1P9;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 14:02:03 GMT;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F5FABA1982CC84DF2909F97CED1442D65777174D699AD160817C4E2D078CEE264B094ED060CF30ACC8E8A6FAF2FF724DB6 
+22:02:04 :xls.Status:欢迎您,null(ylzaymy) 
+22:02:05 :xls.Status:登录成功:中国人民解放军军事经济学院 军事经济学院基础部军事信息技术教研室 
+22:02:05 :xls.Status:加载题库:13986274216 
+22:02:05 :xls.Status:获取到题目集数量:10 
+22:02:06 :xls.Status:习题已全部加载完成  UA/AC/All=0/4/472 
+22:02:06 :xls.Status:完成:已跳过,[T3]圆的面积
+ 
+22:02:06 :xls.Status:完成:已跳过,[T2]序列求和
+ 
+22:02:06 :xls.Status:完成:已跳过,[T1]A+B问题
+ 
+22:02:06 :xls.Status:完成:已跳过,[T125]兰顿蚂蚁
+ 
+22:02:07 :xls.Status:完成:已跳过,[T116]邮局
+ 
+22:02:07 :xls.Status:完成:已跳过,[T115]数字游戏
+ 
+22:02:07 :xls.Status:完成:已跳过,[T114]国王的烦恼
+ 
+22:02:07 :xls.Status:完成:已跳过,[T113]回文数字
+ 
+22:02:07 :xls.Status:完成:已跳过,[T43]公式求值
+ 
+22:02:07 :xls.Status:完成:已跳过,[T42]九宫重排
+ 
+22:02:07 :xls.Status:下载题目测试数据 
+22:02:07 :xls.Status:{"itemid":"2030949","msg":"提交成功。","ret":"1"} 
+22:02:07 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+22:02:12 :xls.Status:DownloadAllFile:2030949,共计10组测试数据 
+22:02:12 :xls.Status:下载题目数据:T41-5.outp 
+22:02:12 :xls.Status:下载数据防ban间隔...2000ms 
+22:02:12 :xls.Status:{"info":"ERROR。","ret":"0"} 
+22:02:12 :xls.Status:账号切换到[3]15808081216 
+22:02:12 :xls.Status:加载题库:15808081216 
+22:02:12 :xls.Status:获取到题目集数量:10 
+22:06:59 :xls.Status:获取题库列表:ADV-,发生错误(文件未找到) 

@@ -1,0 +1,19 @@
+
+#include <iostream>
+#include <string>
+#include <map>
+#include <vector>
+#include <algorithm>
+#include <limits.h>
+using namespace std;
+//int a[2000001];
+//int b[100010];
+//int m=50000;
+int main(){
+    string s1,s2;
+    cin>>s1>>s2;
+    cout<<s1+s2<<endl;
+    return 0;
+}
+
+

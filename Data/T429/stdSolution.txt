@@ -1,0 +1,29 @@
+
+#include<iostream>
+#include<math.h>
+using namespace std;
+int main()
+{
+	double a,b,c;
+	cin>>a>>b>>c;
+	if(b*b-4*a*c<0)
+	cout<<"Error";
+	else
+	{
+		double k=b*b-4*a*c,x1,x2;
+		if(k)
+		{
+			x1=(-b+sqrt(k))/(2*a);
+			x2=(-b-sqrt(k))/(2*a);
+		}
+		else
+		{
+			x1=(-b)/(2*a);
+			x2=x1;
+		}
+		printf("x1 = %.6f\n",x1);
+		if(k)
+		printf("x2 = %.6f",x2);
+	}
+}
+

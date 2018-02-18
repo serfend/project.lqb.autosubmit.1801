@@ -1,0 +1,110 @@
+Apartment Complex: 1
+Apartment 3918: 11:09:14 - 13:03:16
+Apartment 4931: 06:56:22 - 16:55:38
+Apartment 923: Does not exist
+Apartment 1709: 11:02:45 - 12:32:01
+Apartment 901: 05:37:00 - 12:08:30
+Apartment 1837: 08:56:37 - 15:38:56
+Apartment 2417: 09:05:01 - 13:26:43
+Apartment 5565: 11:33:39 - 18:17:00
+Apartment 5113: 11:54:41 - 13:04:34
+Apartment 9472: Does not exist
+Apartment Complex: 2
+Apartment 1310: 11:55:01 - 11:57:05
+Apartment 4169: 11:54:11 - 12:05:29
+Apartment 901: 05:37:00 - 11:57:17
+Apartment 2951: 11:48:07 - 12:11:13
+Apartment 6140: 11:45:45 - 12:36:42
+Apartment 7497: Does not exist
+Apartment 1200: Does not exist
+Apartment 699: Does not exist
+Apartment 819: 11:56:15 - 12:00:01
+Apartment 926: 11:56:11 - 12:01:16
+Apartment Complex: 3
+Apartment 7676: Does not exist
+Apartment 8500: Does not exist
+Apartment 9913: Does not exist
+Apartment 3951: 11:41:51 - 13:08:38
+Apartment 4292: Does not exist
+Apartment 3401: 05:37:00 - 12:54:51
+Apartment 4439: 09:43:45 - 13:43:34
+Apartment 234: 11:52:32 - 12:02:52
+Apartment 8400: Does not exist
+Apartment 141: 11:40:18 - 12:05:59
+Apartment Complex: 4
+Apartment 300: Does not exist
+Apartment 525: 11:55:09 - 12:01:08
+Apartment 2208: 11:31:02 - 12:12:07
+Apartment 5823: 10:54:00 - 11:57:10
+Apartment 1636: 11:23:21 - 12:09:28
+Apartment 626: 11:52:25 - 11:57:25
+Apartment 251: 11:55:05 - 12:06:57
+Apartment 2940: 11:51:38 - 12:01:27
+Apartment 8400: Does not exist
+Apartment 142: 11:55:57 - 12:07:34
+Apartment Complex: 5
+Apartment 5951: 11:44:13 - 12:30:16
+Apartment 3181: 11:52:13 - 12:15:44
+Apartment 116: 11:56:57 - 11:57:37
+Apartment 9113: 05:37:00 - 16:13:56
+Apartment 3300: Does not exist
+Apartment 1900: Does not exist
+Apartment 145: 11:54:32 - 12:01:43
+Apartment 5097: Does not exist
+Apartment 5378: 11:36:40 - 12:04:47
+Apartment 4315: 11:44:09 - 11:58:58
+Apartment Complex: 6
+Apartment 1623: 11:51:24 - 12:08:27
+Apartment 1138: 11:50:48 - 12:00:53
+Apartment 1803: Does not exist
+Apartment 1408: 11:56:21 - 12:01:37
+Apartment 9194: Does not exist
+Apartment 4984: Does not exist
+Apartment 558: 11:45:19 - 12:00:52
+Apartment 846: 11:47:45 - 12:06:04
+Apartment 2446: 11:44:48 - 12:18:40
+Apartment 7146: Does not exist
+Apartment Complex: 7
+Apartment 343: 11:52:56 - 12:12:16
+Apartment 5551: 10:38:30 - 12:20:06
+Apartment 6000: Does not exist
+Apartment 5400: Does not exist
+Apartment 1950: 11:44:50 - 12:03:11
+Apartment 1800: Does not exist
+Apartment 2500: Does not exist
+Apartment 1467: 11:42:05 - 12:18:31
+Apartment 3341: 11:33:43 - 12:01:27
+Apartment 135: 11:54:39 - 12:02:31
+Apartment Complex: 8
+Apartment 1553: 11:52:10 - 11:57:04
+Apartment 1163: 11:45:57 - 12:02:29
+Apartment 6920: 07:26:26 - 12:38:18
+Apartment 3301: 05:37:00 - 12:40:22
+Apartment 8588: Does not exist
+Apartment 2424: 11:54:37 - 12:08:42
+Apartment 3429: 11:55:45 - 11:57:03
+Apartment 4700: Does not exist
+Apartment 6601: 05:37:00 - 14:58:06
+Apartment 4600: Does not exist
+Apartment Complex: 9
+Apartment 437: 11:46:32 - 12:09:08
+Apartment 3653: Does not exist
+Apartment 631: 11:52:01 - 12:06:18
+Apartment 2127: 11:21:23 - 12:01:25
+Apartment 1240: 11:48:39 - 12:04:44
+Apartment 105: 11:56:22 - 12:03:07
+Apartment 681: 11:49:37 - 11:59:12
+Apartment 109: 11:50:42 - 12:03:57
+Apartment 925: 11:55:21 - 12:26:48
+Apartment 3732: 11:34:07 - 12:41:41
+Apartment Complex: 10
+Apartment 1508: 11:31:59 - 12:21:10
+Apartment 3127: 10:22:15 - 13:40:46
+Apartment 1312: 11:28:10 - 12:14:21
+Apartment 131: 10:41:27 - 12:11:59
+Apartment 7800: Does not exist
+Apartment 2172: Does not exist
+Apartment 115: 11:47:21 - 12:10:18
+Apartment 7047: 09:17:26 - 12:10:22
+Apartment 6100: Does not exist
+Apartment 3629: 11:10:27 - 12:56:12

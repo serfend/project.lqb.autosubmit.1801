@@ -1,0 +1,10 @@
+Polygon 1: Possible
+Polygon 2: Impossible
+Polygon 3: Possible
+Polygon 4: Possible
+Polygon 5: Possible
+Polygon 6: Possible
+Polygon 7: Possible
+Polygon 8: Possible
+Polygon 9: Possible
+Polygon 10: Possible

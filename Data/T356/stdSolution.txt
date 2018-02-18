@@ -1,0 +1,197 @@
+
+//每人有三种操作，三个人就有九种，给每种操作一个编码（0~8）每次搜索从剩下的再次选择一个
+//0,3,6表示移动操作（可以前后移动，这个人必须没有移动过，移动的地方的是空的，不可以举着别人也不可以被人举着）
+//1,4,7表示举着别人的操作（不能举过人或正在举着人只能举起相邻的人）
+//2,5,8表示抛的操作（头上的有人而且不可以被人举着）
+#include <iostream>
+#include <cstring>
+#include <cmath>
+const int MAXLEN=50;
+using namespace std;
+struct People{
+	int pos;
+	bool lifted;//正在被举着
+	int lift;//如果正在举着被人这个人是谁
+	bool lifting;//正举着别人
+	int maxMove;//最大移动距离
+	int nmaxThrow;//最大抛人距离
+	bool hasMoved;//是否移动过
+	bool hasLifted;//是否举过人
+}p[3];//形成三个对象
+	bool Pos[MAXLEN];//用来标志在数轴上是否有人
+	bool visit[10];//表示记录操作不会出现重复
+	int Max;//记录最大距离
+	void dfs(int k,int step)//k表示在数组中的位置可以算出是第几个人及他目前的操作
+	{
+		int n=k/3;//当前操作的人
+		int m=k%3;//当前执行的命令
+		if(!m){//执行移动操作，0,3,6的位置
+			if(p[n].lifted||p[n].lifting||p[n].hasMoved)
+				return;//只要正举着人，被人举着，移动过就不可以操作
+			int i=1;//工作数代表每次移动的位数
+			if(step==9)
+				i=p[n].maxMove;//到当前的最后一步，直接向前移动最大距离
+			//如果不是最后一步，他需要从他的位置之前有人的位置的前一个位置开始搜索
+			//如果他是最后一个人那么他只要朝前走
+			else{
+				for(int j=1;j<p[n].pos;j++){
+					if(Pos[n]){
+						int l=-(p[n].pos-j-1);
+						i=l<i?l:i;
+					}
+				}//走的距离不超过maxMove
+				 i = i > -p[n].maxMove ? i : -p[n].maxMove;
+        }
+        for(; i <= p[n].maxMove; i++) {
+            if(Pos[p[n].pos+i-1] || Pos[p[n].pos+i+1] || i == p[n].maxMove){
+                if(p[n].pos + i > 0 && !Pos[p[n].pos + i]) {
+                    if(!i) continue;
+
+                    Pos[p[n].pos] = false;//当前位置置为false
+                    p[n].pos += i;//向前走
+                    Pos[p[n].pos] = true;//走到的新位置置为true
+                    p[n].hasMoved = true;//标记一下，已经移动过了
+                    Max = p[n].pos  > Max ? p[n].pos : Max;//记录最大距离
+
+                    //继续搜索
+                    for(int j = 0; j < 9; j++) {
+                        if(!visit[j]) {
+                            visit[j] = true;
+                            dfs(j, step+1);
+                            visit[j] = false;//回溯
+                        }
+                    }
+                    //回溯
+                    p[n].hasMoved = false;
+                    Pos[p[n].pos] = false;
+                    p[n].pos -= i;
+                    Pos[p[n].pos] = true;
+                }
+            }
+        }
+    } 
+    // lift
+    else if(m == 1) {
+        //如果当前这个人真在被举着或者真在举着别人，或者已经举起过别人了，那么他/她将不能再举起别人。
+        if(p[n].lifted || p[n].lifting || p[n].hasLifted) return;
+        for(int i = 0; i < 3; i++) {
+            //如果旁边有人
+            if(abs(p[i].pos-p[n].pos) == 1) {
+                //如果旁边的这个人已经被别人举起了，则不能重复举起
+                if(p[i].lifted) continue;
+
+                p[n].hasLifted = true;
+                p[n].lifting = true;
+                p[n].lift = i;
+                p[i].lifted = true;
+                int temp = p[i].pos;
+                Pos[p[i].pos] = false;
+                p[i].pos = p[n].pos;
+                //如果当前举起的人真在举着其他人，那么这两个人的位置必须同步改变
+                if(p[i].lifting) {
+                    int j = p[i].lift;
+                    p[j].pos = p[i].pos;
+                }
+
+                //继续搜索
+                for(int j = 0; j < 9; j++) {
+                    if(!visit[j]) {
+                        visit[j] = true;
+                        dfs(j, step+1);
+                        visit[j] = false;
+                    }
+                }
+                //回溯
+                p[n].hasLifted = false;
+                p[n].lifting = false;
+                p[n].lift = -1;
+                p[i].lifted = false;
+                p[i].pos = temp;
+                Pos[p[i].pos] = true;
+                if(p[i].lifting) {
+                    int j = p[i].lift;
+                    p[j].pos = p[i].pos;
+                }
+            }
+        }
+    }
+    // throw
+    else {
+        //如果当前这个人正在被举起，或者他/她并没有举起别人，那么他/她不能执行抛的动作
+        if(!p[n].lifting || p[n].lifted) return;
+
+        int i = 1;
+		if(step == 9) i = p[n].nmaxThrow;
+        else {
+            for(int j = 1; j < p[n].pos; j++) {
+                if(Pos[j]) {
+                    int l = -(p[n].pos - j -1);
+                    i = l < i ? l : i;
+                }
+            }
+            i = i > -p[n].nmaxThrow ? i : -p[n].nmaxThrow;
+        }
+
+        for(; i <= p[n].nmaxThrow; i++) {
+            if(p[n].pos + i > 0 && !Pos[p[n].pos + i]) {
+                if(Pos[p[n].pos+i-1] || Pos[p[n].pos+i+1] || i == p[n].nmaxThrow) {
+                    int j = p[n].lift;
+                    p[j].pos += i;
+                    p[n].lifting  = false;
+                    p[n].lift = -1;
+                    p[j].lifted = false;
+                    Pos[p[j].pos] = true;
+                    Max = p[j].pos > Max ? p[j].pos : Max;
+                    if(p[j].lifting) {
+                        int k = p[j].lift;
+                        p[k].pos = p[j].pos;
+                    }
+                    for(int q = 0; q < 9; q++) {
+                        if(q == k) continue;
+                        if(!visit[q]) {
+                            visit[q] = true;
+                            dfs(q, step+1);
+                            visit[q] = false;
+                        }
+                    }
+                    //回溯
+                    Pos[p[j].pos] = false;
+                    p[j].pos -= i;
+                    p[j].lifted = true;
+                    p[n].lift = j;
+                    p[n].lifting = true;
+                    if(p[j].lifting) {
+                        int k = p[j].lift;
+                        p[k].pos = p[j].pos;
+                    }
+                }
+            }
+        }
+    }
+}
+int main(){
+	  memset(Pos, false, sizeof(Pos));
+    memset(visit, false, sizeof(visit));
+    //输入
+    for(int i = 0; i < 3; i++) {
+        cin >> p[i].pos >> p[i].maxMove >> p[i].nmaxThrow;
+        p[i].lifted = p[i].lifting = p[i].hasMoved = p[i].hasLifted = false;
+        p[i].lift = -1;
+        Pos[p[i].pos] = true;
+    }
+    //深搜
+    for(int i = 0; i < 9; i++) {
+        //一个合法的第一步，不可能是抛。必须先移动或者举起别人
+        if((i % 3) != 2) 
+        {
+            visit[i] = true;
+            dfs(i, 1);
+            visit[i] = false;//回溯
+        }
+    }
+    //结果
+    cout << Max << endl;
+	cin>>Max;
+    return 0;
+}
+

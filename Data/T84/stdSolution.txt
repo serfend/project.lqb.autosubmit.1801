@@ -1,0 +1,25 @@
+
+#include<iostream>
+#include<cstring>
+using namespace std;
+int main()
+{
+	int n,k,f[7][201];
+	memset(f,0,sizeof(f));
+	cin>>n>>k;
+	for(int i=0;i<=n;i++)
+	f[1][i]=1;
+	for(int i=2;i<=k;i++)
+	{
+		for(int j=0;j<=n-k;j++)
+		{
+			if(j>=i) 
+			f[i][j]=f[i-1][j]+f[i][j-i];
+			else
+			f[i][j]=f[i-1][j];
+		}
+	}
+	cout<<f[k][n-k]<<endl;
+	return 0;	
+}
+

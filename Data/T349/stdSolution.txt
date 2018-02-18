@@ -1,0 +1,15 @@
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout<<"4150"<<endl;
+			cout<<"4151"<<endl;
+			cout<<"54748"<<endl;
+			cout<<"92727"<<endl;
+			cout<<"93084"<<endl;
+			cout<<"194979"<<endl;
+
+	return 0;
+}
+

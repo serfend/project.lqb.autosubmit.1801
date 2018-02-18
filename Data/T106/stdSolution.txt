@@ -1,0 +1,11 @@
+
+#include<cstdio>
+#include<cstring>
+using namespace std;
+
+int main()
+{
+    printf("yes\n");
+    return 0;
+}
+

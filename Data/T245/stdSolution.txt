@@ -1,0 +1,23 @@
+
+#include<iostream>
+#include<stdio.h>
+using namespace std;
+int main()
+{
+	double t;
+	double a;
+	double m=0;
+	cin>>t>>a;
+	if (t<=40){
+		m=t*a;
+	}
+	if (t>40&&t<=50){
+		m=a*40+(t-40)*a*1.5;
+	}
+	if (t>50){
+		m=a*40+10*a*1.5+(t-50)*a*2;
+	}
+	printf("%.2f",m);
+	return 0;
+}
+

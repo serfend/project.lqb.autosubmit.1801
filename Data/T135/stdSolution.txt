@@ -1,0 +1,59 @@
+
+#include<iostream>
+#include<cstring>
+#include<fstream>
+using namespace std;
+long a,b,c,d,n,t,gx[141][141],rd[141],gs=0,now=0;
+char ss[141][100],s1[100],s2[100];
+int find(char s[100])
+{
+	int i;
+	for (i=1;i<=now;i++)
+		if (strcmp(ss[i],s)==0) return i;
+		strcpy(ss[++now],s);
+		return(now);
+}
+int main()
+{
+	cin>>t;	
+	while (t--)
+	{
+		cin>>n;
+		now=0;
+		for (a=1;a<=140;a++)
+		{
+			rd[a]=0;
+			for (b=1;b<=140;b++)
+				gx[a][b]=0;
+		}
+		for (a=0;a<n;a++)
+		{
+			cin>>s1>>s2;
+			b=find(s1);
+			c=find(s2);
+			if (gx[b][c]!=1)
+			{			
+			gx[b][c]=1;
+			rd[c]++;
+		}
+		}
+		d=now;
+		while (now--)
+		{
+			for (a=1;a<=d;a++)
+				if (rd[a]==0)
+				{
+					rd[a]=-1;
+					if (now>0) cout<<ss[a]<<' ';
+					else if (now==0) cout<<ss[a]<<endl;
+					for (b=1;b<=d;b++)
+						if (gx[a][b]==1) rd[b]--;
+						break;
+				}
+		}
+	}
+return(0);
+}
+
+
+

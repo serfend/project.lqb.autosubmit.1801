@@ -1,0 +1,40 @@
+
+#include<stdio.h>
+#define N 100000
+bool ok(int m);
+int a,b;
+int H[N],W[N];
+int main()
+{
+	int c,l=1,max=0,r,ans=1;
+	long long m;
+	scanf("%d %d",&a,&b);
+	 for(c=0;c<a;c++)
+	 {
+	 	scanf("%d %d",&W[c],&H[c]);
+	 	if(max<=W[c])
+	 	   max=W[c];
+	 	 if(max<=H[c])
+		  max=H[c];  
+	 }
+	 r=max;
+	 while(l<=r)
+	 {
+	 	int m=(l+r)/2;
+	 	if(ok(m))ans=m,l=m+1;
+	 	else r=m-1;
+	 }
+	 printf("%d",ans);
+	 return 0;
+}
+bool ok(int m) 
+{
+  long long c = 0;
+  for(int i = 0; i < a; i++) 
+  {
+    c+=(long long)(H[i]/m)*(W[i]/m);
+  }
+  if(c>=b) return true;
+  return false;
+}
+

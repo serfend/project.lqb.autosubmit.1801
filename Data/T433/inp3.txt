@@ -1,0 +1,4 @@
+ENDcaiguai
+8 8 N 8 8
+0
+END

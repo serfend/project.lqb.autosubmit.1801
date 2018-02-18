@@ -1,0 +1,93 @@
+
+#include<cstring>
+#include<stdio.h>
+#include<vector>
+#include<map>
+#include<queue>
+#include<algorithm>
+#define mp make_pair
+#define pb push_back
+#define fi first
+#define se second
+#define fo(i,a,b) for(i=a;i<=b;++i)
+using namespace std;
+typedef long long LL;
+typedef pair<int,int> node;
+const int mn=310,mm=mn*mn;
+int a[mn][mn],b[mn][mn],spi[mn*2][mn*2];
+int n,m,l,tt,color;
+map<int,int>ha;
+vector<node>e[mm];
+node w[mm];
+queue<node>Q;
+LL ans=0;
+int hash(int p)
+{
+    if(ha.count(p))return ha[p];
+    return ha[p]=++color;
+}
+void init_spiral()
+{
+    int tt=0,x,y,i;
+    l=max(n,m);
+    spi[x=l][y=l]=++tt;
+    for(int L=2,ll=2;ll<=l;L+=2,++ll)
+    {
+        --x,--y;
+        fo(i,1,L)spi[x][++y]=++tt;
+        fo(i,1,L)spi[++x][y]=++tt;
+        fo(i,1,L)spi[x][--y]=++tt;
+        fo(i,1,L)spi[--x][y]=++tt;
+    }
+}
+int calc(int x1,int y1,int x2,int y2)
+{
+    int x=x2-x1+l,y=y2-y1+l;
+    return spi[x][y];
+}
+int main()
+{
+    scanf("%d%d",&n,&m);
+    int i,j;
+    fo(i,1,n)
+        fo(j,1,m)
+        {
+            scanf("%d",a[i]+j);
+            if(a[i][j])
+                a[i][j]=hash(a[i][j]);
+            e[a[i][j]].pb(mp(i,j));
+        }
+    fo(i,1,n)
+        fo(j,1,m)
+        {
+            scanf("%d",b[i]+j);
+            if(b[i][j]>0)b[i][j]=hash(b[i][j]);
+        }
+    init_spiral();
+    int x,y,nx,ny,c,s=0;
+    node p;
+    scanf("%d%d",&x,&y);
+    Q.push(mp(x,y)),c=a[x][y];
+    while(!Q.empty())
+    {
+        p=Q.front(),Q.pop();
+        x=p.fi,y=p.se;
+        if(b[x][y]==c)continue;
+        if(!c)break;
+        tt=0;
+        for(i=0;i<e[c].size();++i)
+        {
+            nx=e[c][i].fi,ny=e[c][i].se;
+            if(b[nx][ny]!=-1&&(nx!=x||ny!=y))
+                w[++tt]=mp(calc(x,y,nx,ny),i);
+            ++s;
+        }
+        sort(w+1,w+1+tt);
+        fo(i,1,tt)Q.push(e[c][w[i].se]);
+        ans+=s,e[c].clear(),c=b[x][y];
+    }
+    printf("%I64d\n",ans);
+    return 0;
+}
+
+

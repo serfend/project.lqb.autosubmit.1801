@@ -1,0 +1,47 @@
+
+#include<stdio.h>
+#include<string.h>
+bool can[10][10];
+int rules[10];
+int ans[1000000];
+int len,n,k;
+char s[100];
+int main()
+{
+    scanf("%s",s);
+    scanf("%d",&k);
+    for (int i=1;i<=k;++i)
+    {
+        int a,b;
+        scanf("%d%d",&a,&b);
+        can[a][b]=true;
+    }
+    for (int i=0;i<10;++i) can[i][i]=true;
+    for (int k=0;k<10;++k)
+        for (int i=0;i<10;++i)
+            for (int j=0;j<10;++j)
+                can[i][j]=can[i][j]||(can[i][k]&&can[k][j]);
+    for (int i=0;i<10;++i)
+        for (int j=0;j<10;++j)
+            if (can[i][j]) ++rules[i];
+    ans[1]=len=1;
+    for (int i=0;i<strlen(s);++i)
+    {
+        int x=rules[s[i]-'0'];
+        for (int j=1;j<=len;++j) ans[j]*=x;
+        for (int j=1;j<=len;++j)
+        {
+            ans[j+1]+=ans[j]/10;
+            ans[j]%=10;
+        }
+        while (ans[len])
+        {
+              ans[len+1]+=ans[len]/10;
+              ans[len]%=10;
+              ++len;
+        }
+    }
+    for (int i=len-1;i>0;--i) printf("%d",ans[i]);
+    return 0;
+}
+

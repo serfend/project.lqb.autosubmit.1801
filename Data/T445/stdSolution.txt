@@ -1,0 +1,42 @@
+
+#include <iostream>
+using namespace std;
+int dp[100000] ;
+int main(){
+	int n,mol,l;
+	cin>>n ;
+	string a;
+		long long int k = 1,t=1 ;
+		for(l=0;;l++){
+			t = k*26;
+			if (t>n)
+				break ;
+			k = t ;		
+		}
+		//cout<<"l="<<l<<endl ;
+		//cout<<"k="<<k<<endl ;
+		for(int i=l;i>=0;i--){
+			dp[i] = n / k ;
+			n -= n/k*k ;
+			//cout<<"n="<<n<<endl ;
+			k/=26 ;
+		}
+	bool flag = false ;
+	for(;flag==false;){
+		flag = true ;
+		for(int i=l;i>=0;i--){
+			if (dp[i]==0&&i!=l){
+				dp[i] = 26 ;
+				dp[i+1] -- ;
+				flag = false ;
+			}
+			if (dp[i]==0&&i==l)
+				l--;
+		}
+	}
+	for(int i=l;i>=0;i--)
+		a += dp[i]+ 'A' - 1 ;
+	cout<<a ;
+	return 0;
+}
+

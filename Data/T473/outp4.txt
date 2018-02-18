@@ -1,0 +1,12 @@
+Case 1: checksum = 0000
+ SYMBOL   ADDR
+--------  ----
+OTZ       01A0 M
+Z         0104 M
+
+Case 2: checksum = 0000
+ SYMBOL   ADDR
+--------  ----
+FA        010D M
+OTZ       0122 M
+SRE       01FF M

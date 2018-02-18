@@ -1,0 +1,11 @@
+? O- B+
+O- ? O+
+AB- B- ?
+A- ? O+
+B- B- ?
+AB+ ? AB-
+? AB- O+
+AB+ ? AB+
+? B- AB+
+? B+ B+
+E N D

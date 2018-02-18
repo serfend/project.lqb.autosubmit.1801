@@ -1,0 +1,55 @@
+
+#include <stdio.h>
+int random[1985], query[1989][2]; //存放向量以及查询的区间 
+int n,Q;//向量的长度，查询的个数 
+int result[1985][1985];
+int main()
+{
+	int i,j;
+    scanf("%d%d", &n, &Q);
+    for(i = 0; i < n; i++)
+    {
+    	scanf("%d", &random[i]);
+    }
+	for(i = 0; i < Q; i++)
+	{
+		scanf("%d%d", &query[i][0], &query[i][1]);
+	}
+	result[0][0] = random[0];
+	for(j = 1; j < n; j++)
+	{
+		if(random[j] < result[0][j - 1]) 
+		{
+			result[0][j] = random[j];
+		}
+		else
+		{
+			result[0][j] = result[0][j - 1];
+		}
+				
+		   result[j][0] = result[0][j];
+		}
+	
+	for(i = 1; i < n; i++)
+	{
+		result[i][i] = random[i];
+		for(j = i + 1; j < n && j > i; j++)
+		{
+			if(random[j] < result[i][j - 1])
+			{
+				result[i][j] = random[j];
+			}
+			else
+			{
+				result[i][j] = result[i][j - 1];
+			}
+			result[j][i] = result[i][j];
+		}
+	}
+	for(i = 0; i < Q; i++)
+	{
+		printf("%d\n", result[query[i][0]][query[i][1]]); 
+	} 
+	return 0;
+}
+

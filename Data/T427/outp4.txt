@@ -1,0 +1,4 @@
+Hex: 0x00F
+Decimal: 15
+Octal: 0017
+

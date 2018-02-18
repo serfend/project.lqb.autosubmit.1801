@@ -1,0 +1,4 @@
+Transposing from E to C:
+  D is not a valid note in the E major scale
+  Fb is not a valid note in the E major scale
+  F# transposes to D

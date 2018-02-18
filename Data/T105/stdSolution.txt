@@ -1,0 +1,172 @@
+
+#include <cstdio>
+#include <cstdlib>
+#include <algorithm>
+#include <string>
+#include <set>
+
+const char fi[] = "convention.in";
+const char fo[] = "convention.out";
+const int maxN = 200010;
+const int MAX = 0x3f3f3f3f,MIN = ~MAX;
+
+struct Seg
+{
+	int L,R;
+	Seg()
+	{
+	}
+	Seg(int L,int R): L(L),R(R)
+	{
+	}
+	bool operator<(const Seg &b) const
+	{
+		return L < b.L || L == b.L && R < b.R;
+	}
+};
+std::set <Seg> S;
+std::set <Seg>::iterator iter;
+Seg req[maxN],seg[maxN],tmp[maxN];
+int tab[maxN << 1],next[20][maxN << 1];
+int n,cnt,Lim = 1,logLim;
+
+void init_file()
+{
+	return;
+}
+
+inline int getint()
+{
+	int res = 0; char tmp;
+	while(!isdigit(tmp = getchar()));
+	do res = (res << 3) + (res << 1) + tmp - '0';
+	while(isdigit(tmp = getchar()));
+	return res;
+}
+
+void readdata()
+{
+	n = getint();
+	for(int i = 0; i < n; ++i)
+	{
+		int L = getint(),R = getint();
+		req[i] = Seg(L,R);
+		tab[i << 1] = L;
+		tab[(i << 1) + 1] = R;
+	}
+	return;
+}
+
+int plc(int x)
+{
+	for(int L = 0,R = Lim - 1; L < R + 1;)
+	{
+		int Mid = (L + R) >> 1;
+		if(x == tab[Mid]) return Mid + 1;
+		if(x < tab[Mid]) R = Mid - 1;
+		else L = Mid + 1;
+	}
+}
+
+bool cmp(const Seg &a,const Seg &b)
+{
+	return a.R < b.R || a.R == b.R && a.L > b.L;
+}
+
+void discrete()
+{
+	std::sort(tab,tab + (n << 1));
+	for(int i = 1; i < n << 1; ++i)
+		if(tab[i] != tab[i - 1])
+			tab[Lim++] = tab[i];
+	for(int i = 0; i < n; ++i)
+		tmp[i] = req[i] = Seg(plc(req[i].L),
+		plc(req[i].R));
+	std::sort(tmp,tmp + n,cmp);
+	//这里必须要用一个临时数组，
+	//保证左界右界同时单调递增。
+	int p = 0; seg[cnt++] = tmp[0];
+	for(int i = 1; i < n; ++i)
+		if(tmp[i].L > tmp[p].L)
+			seg[cnt++] = tmp[p = i];
+	return;
+}
+
+void next_set()
+{
+	int p = cnt; next[0][Lim + 1] = MAX;
+	for(int j = Lim; j; --j)
+		if(p > -1 && j == seg[p - 1].L)
+			next[0][j] = seg[--p].R + 1;
+		else next[0][j] = next[0][j + 1];
+		for(int i = 0;; ++i)
+		{
+			bool flag = 0;
+			next[i + 1][Lim + 1] = MAX;
+			for(int k = 1; k < Lim + 1; ++k)
+			{
+				if(next[i][k] == MAX)
+					next[i + 1][k] = MAX;
+				else next[i + 1][k] = next[i][next[i][k]];
+				if(next[i + 1][k] < MAX) flag = 1;
+			}
+			if(!flag)
+			{
+				logLim = i; break;
+			}
+		}
+		return;
+}
+
+int max_time(int L,int R)
+{
+	if(L > R++) return 0;
+	int ans = 0,p = L;
+	for(int i = logLim; i > -1 && p < R; --i)
+		if(next[i][p] <= R)
+		{
+			p = next[i][p]; ans += 1 << i;
+		}
+	return ans;
+}
+
+bool query(int i)
+{
+	int L = req[i].L,R = req[i].R;
+	iter = S.lower_bound(Seg(L,MAX));
+	if(iter-- == S.begin()) return 0;
+	if(iter->L > L || iter->R < R)
+		return 0;
+	int L1 = iter->L,R1 = iter->R;
+	if(max_time(L1,L - 1)
+		+ max_time(R + 1,R1)
+		+ 1 < max_time(L1,R1))
+		//这里要满足放进去过后不影响总的答案。
+		return 0;
+	S.erase(iter);
+	if(L1 < L) S.insert(Seg(L1,L - 1));
+	if(R < R1) S.insert(Seg(R + 1,R1));
+	return 1;
+}
+
+void work()
+{
+	printf("%d\n",max_time(1,Lim));
+	S.insert(Seg(1,Lim));
+	for(int i = 0; i < n; ++i)
+		if(query(i))
+			printf("%d ",i + 1);
+	printf("\n");
+	return;
+}
+
+int main()
+{
+	init_file();
+	readdata();
+	discrete();
+	next_set();
+	work();
+	return 0;
+}
+

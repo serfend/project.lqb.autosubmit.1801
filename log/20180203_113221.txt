@@ -1,0 +1,767 @@
+11:32:21 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=E8E7E3CD240F8073CF7EDEA6D5CB69ED;_SESSIONKEY=850H4IPY9YJ4S8NWAWYF;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 23:02:05 GMT;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBC7C1F6ABAE3B1F8CD60E18510DCC19B50887AB84D34588CDDA2BF07A57BCF030BD273EBB83EC39221A7EFD7AEF1744AC5 
+11:32:21 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=BBA4866AA6AE53B7946AB57984BFB38F;_SESSIONKEY=T12OFVACER45E011C1P9;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 23:00:44 GMT;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F52B64117F7CD2D1E0DEDA7E8EE41CF753E8905D4CED4B310188B3CC0808993B8B1B4FC036C844D0D7F69F7E29E8245BA7 
+11:32:21 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies:JSESSIONID=DA5485115CF52D971066AC09E3D4E37C;_SESSIONKEY=9Z0094K63E3M3F8HY8UX;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:47:25 GMT;_TOKEN=D5F98D41037204CF5CFC1F57960140B97B0F64E1463F1BFBBED1346D876632F6183E070F8B8ECB0813BDA53837CC018AAF83B0DFBDBEADF01B42E95B9C627239E65B1862FA45291547112D139F441CE9 
+11:32:21 :xls.Status:切换到账号:904546102@qq.com,userId:232143,cookies:JSESSIONID=ABBB9788A0FA89E768EB7429EA9248C6;_SESSIONKEY=532FA8QOOUF27W539R52;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:47:35 GMT;_TOKEN=3A18A98BB7951277C0A904EBC4C2A3E22D29B8F157330CF25A945DE76FC09A1DDAAA1B34BE6D76BEFA53555D7F3CF5EB6B2C7737B940BEA3FFA8ABF25010CA18D9CF75E67E043A9206A82EB993424F30 
+11:32:21 :xls.Status:切换到账号:17623877493,userId:579282697891,cookies:JSESSIONID=1A6267F3F721EC283D76BD04FAACA58C;_SESSIONKEY=2KSU97Z832ML5N5H91GI;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:47:46 GMT;_TOKEN=05AED4C868754136C9C30D3425ABB8BDA6682616A47D1BA64A560AB28121683AD3DD0429DF6114783288F3F27521D1737109B5FAFE1895542345E1F17143016ED9CF75E67E043A9206A82EB993424F30 
+11:32:21 :xls.Status:切换到账号:17623476609,userId:579282679620,cookies:JSESSIONID=361CC49A8EB76B843E633598E76FFF12;_SESSIONKEY=459TTRWP99R1247U437Q;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:57:31 GMT;_TOKEN=EDF1AB21A803815CDBB2406480958D7AA4DF45562D68D929177F9B6916C9A605292A8471CD35EA00D62A1DFB149F7E01FDE006F595EB770851B819427819C87A9945BD4680A79FE8BA51DD63F84B778C 
+11:32:21 :xls.Status:切换到账号:15730361457,userId:579282697794,cookies:JSESSIONID=C8E7FE58E107E546512778C804EA7BC8;_SESSIONKEY=VEHZKUWW6XP2485646GO;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:49:32 GMT;_TOKEN=711A4F9FA0DBF33AFD9E63D0FAE7388D35FE1173BBF5E3870387AEF777C9B4B327ED09F9F28E92BDECFB391117D3B15D0CE61429C854F3B068E7B7B4CEEF39E4094ED060CF30ACC8E8A6FAF2FF724DB6 
+11:32:21 :xls.Status:切换到账号:15730363368,userId:579282697814,cookies:JSESSIONID=FF1A7355D9EF1FC03F6800E553C1AC12;_SESSIONKEY=26AHNKCM7987YU3147WG;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:48:06 GMT;_TOKEN=CED576E81FEBE2AE705E64B1BC427D535671F0F0FC16ACD5CE029C18F09A63980D9F295C5C8F3397F86892EFE874D5CE89AA11E7805EBFFD6AD02CBD58573FDA30AD15BA79DAAB833CA3F8A107002C82 
+11:32:21 :xls.Status:切换到账号:17360254616,userId:579282697884,cookies:JSESSIONID=CAF24B2A310B2B1EE50315E2D2FD128A;_SESSIONKEY=3TP0ND8T9W918RJ4A029;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:48:20 GMT;_TOKEN=4C731AB331C70EF3A23B6BA7860DF12FD096A09C52611D2F49B70D67C52D819EDC5952F70081FE794F18C13AA2F5BA1248A433E8335199140F844CD3F66D953E36C640205EAACC8C069B836DCC205B26 
+11:32:21 :xls.Status:切换到账号:15827021295,userId:579282680737,cookies:JSESSIONID=A6953587562AFD621EF2E5CB922232A8;_SESSIONKEY=ZCB3HGCF37RTN62L9O98;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:48:32 GMT;_TOKEN=C3C03382083CED756974E157FA2140B1FDBB85D6A29DC8EEA212AA1F2320E993A3D2281C87793DCB90FDDD4F30D316A0FC520ADEC18940B99B7E6A145E9CDC421DEFBFCA240FEB23AF8B723445C4BCB2 
+11:32:21 :xls.Status:切换到账号:15730362474,userId:579282695483,cookies:JSESSIONID=2FE6CBAC33C86505A82F85717B26448B;_SESSIONKEY=51P08H1P481K953D41D8;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:49:52 GMT;_TOKEN=F9E461FF3D3A4F892F51D74456156930EF4901299B307867EEF1946731661C89D1F85DB1C1037465EA30769C45048F6797F70D3B23708640EBD8796197CC4921F5F9BACFFF3222A9B1D72736924B9ECE 
+11:32:21 :xls.Status:切换到账号:511380795@qq.com,userId:232220,cookies:JSESSIONID=B2A0080A708EAE65CE26B45CD8D74FFC;_SESSIONKEY=185T8MNYW7YDE1DPW816;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:49:09 GMT;_TOKEN=1A02C286F33D1E9BA1918E757C7BE790B3554C023111EF92D3DF14D429F18ACB487CCA3E70D6DACE0EEB1C75343DFE47FBA580F9A87214E6FDE389E496ECDDD2D9CF75E67E043A9206A82EB993424F30 
+11:32:21 :xls.Status:切换到账号:2396522964@qq.com,userId:232183,cookies:JSESSIONID=07D8CE6411433B2A07B06C2BF7E9B34F;_SESSIONKEY=L893P85I89T5GP4DJQ52;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:59:24 GMT;_TOKEN=DA729C4A9690AEB799BDF3F597F25B7A54FACB129131D043BE1695F84DBF9973D1B35C736D9BA36DA642EEB6CF58C6A8DEF5C7BAFBF322CA3EDF138A7603D7D984E72A21B7178098067A93DA1937A049 
+11:32:21 :xls.Status:切换到账号:785794836@qq.com,userId:178927,cookies:JSESSIONID=F27A301E4CCDAEC96E614CFE3761C132;_SESSIONKEY=K4A4DZA27B272USZ8S26;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 23:00:12 GMT;_TOKEN=09CE54576121E13145684A3F4BE0FE48A4FB147FA3D2CD479DFFBCF1270697011F947128A2283B56803B79F36EC1DA01A40A4DEA0136AF7248D7A4EC089B7A453A78997ADD944CD2B5090499B89A5423 
+11:32:21 :xls.Status:切换到账号:serfend@lqb.com,userId:217085,cookies:JSESSIONID=36385252AD8EB2F2A38EAC9332ADDE6D;_SESSIONKEY=DW0DZB1Z31685YPHLT27;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 23:38:43 GMT;_TOKEN=D544534E0BA0A9BB37FEC45D28AE7B26E61501ACA033E77A31C6BDB9E7FD770653D6804F3A4DBCA3B07E81713A3BAA4FF44FD3DC1B6C82582CCB1335E0BEFC99D9CF75E67E043A9206A82EB993424F30 
+11:32:21 :xls.Status:切换到账号:354929630@qq.com,userId:232211,cookies:JSESSIONID=A21B95C623F63FB6FE60FA27848B6A6D;_SESSIONKEY=3IS0D0AMM333RU40L668;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 23:43:31 GMT;_TOKEN=354387033E494D42AC67AD6E664C1C77C1B6B1D499CEF3A68124D8815B192E0BB8B505A87BF98FB272085BCC6E1138D2EE5398B3D40415FEE8720ADB48A7E0B69945BD4680A79FE8BA51DD63F84B778C 
+11:32:21 :xls.Status:切换到账号:747276157@qq.com,userId:232180,cookies:JSESSIONID=ECCD202CA3B46369DCBC0DFCBF353AF4;_SESSIONKEY=TG64L9BY9BKK03DO61JP;Domain=lanqiao.cn;Expires=Sun, 04-Feb-2018 00:09:46 GMT;_TOKEN=3630B504C8774EC0B918BEC21BCC293544C1E7C0AF6033C55037A6EA058723890D92F0AA33DB7FA83DCCB11FB32E7494726C71616522CD1493466D141C12525C1B4FC036C844D0D7F69F7E29E8245BA7 
+11:32:21 :xls.Status:切换到账号:15926430497,userId:24695485914,cookies:JSESSIONID=7459EBF27CEF9CDEEF8DCAB85E58F802;_SESSIONKEY=EGBQ2YL4J45FXEBCP96Z;Domain=lanqiao.cn;Expires=Sun, 04-Feb-2018 03:18:52 GMT;_TOKEN=CB528EDDF5913BD1A0074CAC5891AF766D47BBD4F3FECE7CBEA707AFA2A9C2610504F40CAF6C6197C4AC6257BD39CE31F767EC828BF87A59707E07D6679CECD736C640205EAACC8C069B836DCC205B26 
+11:32:21 :xls.Status:切换到账号:15826191001,userId:579282679703,cookies:JSESSIONID=607C5441817E093D18746F64FCD00C77;_SESSIONKEY=8A95427F9UULDDN7K31C;Domain=lanqiao.cn;Expires=Sun, 04-Feb-2018 03:26:42 GMT;_TOKEN=5DD29537934A2D7F76AB0B5D173D267162A828578BD42D6A676A85481E2BE2DE0CAADB2770799A4670248583BBE5D24C0054060BCBEB46D53764D312FCB669DEF5F9BACFFF3222A9B1D72736924B9ECE 
+11:32:21 :xls.Status:切换到账号:15923225800,userId:579282679619,cookies:JSESSIONID=81145AFBD281C3F1771935E65BCCAB6B;_SESSIONKEY=376S275SNS3OM3RP7XMY;Domain=lanqiao.cn;Expires=Sun, 04-Feb-2018 03:27:18 GMT;_TOKEN=DE443018564BD4166AA4D7EFFAA0EF10BBAA2AE124AD8CEEAF281CC3ECD4A935B78597CF773BEDE63C1080A6C727841D0403DEEA0FC21D60B5C2228B7889CE039945BD4680A79FE8BA51DD63F84B778C 
+11:32:21 :xls.Status:切换到账号:13340286964,userId:579282679555,cookies:JSESSIONID=F02FBA0196AEFC6F250D75E9EBF5B4BE;_SESSIONKEY=0V743K554JPF8714UQ71;Domain=lanqiao.cn;Expires=Sun, 04-Feb-2018 03:31:08 GMT;_TOKEN=9A29E246C33D35976BD0261520A99667BD727804ACD233DF950086AEFD29EAD3FCB6CB1440B97B5BA0685C7DB399E40BB475F629F53EDF165AE7D4136F947881D9CF75E67E043A9206A82EB993424F30 
+11:32:21 :xls.Status:切换到账号:15213442058,userId:,cookies: 
+11:32:21 :xls.Status:已登录13986274216 
+11:32:21 :xls.Status:已登录15808081216 
+11:32:21 :xls.Status:已登录17623877493 
+11:32:21 :xls.Status:已登录17623476609 
+11:32:21 :xls.Status:已登录15827021295 
+11:32:21 :xls.Status:已登录17360254616 
+11:32:21 :xls.Status:已登录15730362474 
+11:32:21 :xls.Status:已登录511380795@qq.com 
+11:32:21 :xls.Status:已登录15730361457 
+11:32:21 :xls.Status:已登录2396522964@qq.com 
+11:32:21 :xls.Status:已登录904546102@qq.com 
+11:32:21 :xls.Status:已登录354929630@qq.com 
+11:32:21 :xls.Status:已登录785794836@qq.com 
+11:32:21 :xls.Status:已登录747276157@qq.com 
+11:32:22 :xls.Status:已登录serfend@lqb.com 
+11:32:22 :xls.Status:已登录15730363368 
+11:32:22 :xls.Status:已登录15926430497 
+11:32:22 :xls.Status:已登录15826191001 
+11:32:22 :xls.Status:已登录15923225800 
+11:32:22 :xls.Status:已登录13340286964 
+11:32:22 :xls.Status:未登15213442058 
+11:32:22 :xls.Status:已登录liuchangm7j@vip.qq.com 
+11:32:25 :xls.Status:账号切换到[22]15213442058 
+11:32:25 :xls.Status:加载题库:15213442058 
+11:32:25 :xls.Status:加载目录失败,未登录15213442058,cookies: 
+11:32:25 :xls.Status:切换并登陆到账号:15213442058,userId:,cookies: 
+11:32:25 :xls.Status:GetVerUser:15213442058 
+11:32:28 :xls.Status:验证码:{"resultCode":0,"resultMsg":"成功","resultData":null,"otherProperties":{}} 
+11:32:28 :xls.Status:JSESSIONID=C7C786745CE98F0ABE78AE096F3EE506;_SESSIONKEY=7HW7DU9269486YWES8KI;Domain=lanqiao.cn;Expires=Sun, 04-Feb-2018 03:32:27 GMT;_TOKEN=9A48A021FA151713B1E82C3FE93AD8A70D5E819CF0A93CAAE229E485FDB831AB4A46538FE602D5651911188431469803A41811277D4EF486749C2E5019435BA1D9CF75E67E043A9206A82EB993424F30 
+11:32:29 :xls.Status:欢迎您,LQ846311(15213442058) 
+11:32:29 :xls.Status:登录成功:胡先航 
+11:32:29 :xls.Status:加载题库:15213442058 
+11:32:30 :xls.Status:获取到题目集数量:10 
+11:32:32 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:32:32 :xls.Status:完成1/45-已跳过,[T39]农场阳光 
+11:32:32 :xls.Status:完成2/45-已跳过,[T457]分考场 
+11:32:32 :xls.Status:完成3/45-已跳过,[T455]观光铁路 
+11:32:32 :xls.Status:完成4/45-已跳过,[T452]数组操作 
+11:32:32 :xls.Status:完成5/45-已跳过,[T451]区间移位 
+11:32:32 :xls.Status:完成6/45-已跳过,[T450]填字母游戏 
+11:32:32 :xls.Status:完成7/45-已跳过,[T449]图形排版 
+11:32:32 :xls.Status:完成8/45-已跳过,[T448]青蛙跳杯子 
+11:32:32 :xls.Status:完成9/45-已跳过,[T446]九宫幻方 
+11:32:32 :xls.Status:完成10/45-已跳过,[T442]油漆面积 
+11:32:32 :xls.Status:完成11/45-已跳过,[T473]A Linking Loader 
+11:32:32 :xls.Status:完成12/45-已跳过,[T150]平方计算 
+11:32:32 :xls.Status:完成13/45-已跳过,[T148]矩阵乘方 
+11:32:32 :xls.Status:完成14/45-已跳过,[T147]快速排序 
+11:32:32 :xls.Status:完成15/45-已跳过,[T146]字串逆序 
+11:32:32 :xls.Status:完成16/45-已跳过,[T94]JAM计数法 
+11:32:32 :xls.Status:完成17/45-已跳过,[T481]Castles 
+11:32:32 :xls.Status:完成18/45-已跳过,[T480]Tiling the Plane 
+11:32:32 :xls.Status:完成19/45-已跳过,[T478]To Add or to Multiply 
+11:32:32 :xls.Status:完成20/45-已跳过,[T475]A Dicey Problem 
+11:32:32 :xls.Status:下载题目测试数据 
+11:32:32 :xls.Status:{"itemid":"2032318","msg":"提交成功。","ret":"1"} 
+11:32:32 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:32:37 :xls.Status:DownloadAllFile:2032318,共计20组测试数据 
+11:32:37 :xls.Status:下载题目数据:T474-1.inp 
+11:32:37 :xls.Status:下载数据防ban间隔...2000ms 
+11:32:39 :xls.Status:下载题目数据:T474-5.outp 
+11:32:39 :xls.Status:下载数据防ban间隔...2000ms 
+11:32:41 :xls.Status:下载题目数据:T474-6.outp 
+11:32:41 :xls.Status:下载数据防ban间隔...2000ms 
+11:32:44 :xls.Status:下载题目数据:T474-7.outp 
+11:32:44 :xls.Status:下载数据防ban间隔...2000ms 
+11:32:46 :xls.Status:下载题目数据:T474-8.outp 
+11:32:46 :xls.Status:下载数据防ban间隔...2000ms 
+11:32:48 :xls.Status:下载题目数据:T474-9.outp 
+11:32:48 :xls.Status:下载数据防ban间隔...2000ms 
+11:32:50 :xls.Status:下载题目数据:T474-10.outp 
+11:32:50 :xls.Status:下载数据防ban间隔...2000ms 
+11:32:52 :xls.Status:下载题目数据:T474-11.outp 
+11:32:52 :xls.Status:下载数据防ban间隔...2000ms 
+11:32:54 :xls.Status:下载题目数据:T474-12.outp 
+11:32:54 :xls.Status:下载数据防ban间隔...2000ms 
+11:32:56 :xls.Status:下载题目数据:T474-13.outp 
+11:32:56 :xls.Status:下载数据防ban间隔...2000ms 
+11:32:58 :xls.Status:用户不可继续获取数据:T474-outp14 
+11:32:58 :xls.Status:账号切换到[1]liuchangm7j@vip.qq.com 
+11:32:58 :xls.Status:切换到账号:liuchangm7j@vip.qq.com,userId:233752,cookies:JSESSIONID=E8E7E3CD240F8073CF7EDEA6D5CB69ED;_SESSIONKEY=850H4IPY9YJ4S8NWAWYF;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 23:02:05 GMT;_TOKEN=5F51B8DB20A2960312D656EE9DFE3A18390DF7A26B869DC7AA56F9B1DC4D6FBC7C1F6ABAE3B1F8CD60E18510DCC19B50887AB84D34588CDDA2BF07A57BCF030BD273EBB83EC39221A7EFD7AEF1744AC5 
+11:32:58 :xls.Status:已登录liuchangm7j@vip.qq.com 
+11:32:58 :xls.Status:加载题库:liuchangm7j@vip.qq.com 
+11:32:59 :xls.Status:获取到题目集数量:10 
+11:33:01 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:33:01 :xls.Status:完成1/45-已跳过,[T39]农场阳光 
+11:33:01 :xls.Status:完成2/45-已跳过,[T457]分考场 
+11:33:01 :xls.Status:完成3/45-已跳过,[T455]观光铁路 
+11:33:01 :xls.Status:完成4/45-已跳过,[T452]数组操作 
+11:33:01 :xls.Status:完成5/45-已跳过,[T451]区间移位 
+11:33:01 :xls.Status:完成6/45-已跳过,[T450]填字母游戏 
+11:33:01 :xls.Status:完成7/45-已跳过,[T449]图形排版 
+11:33:01 :xls.Status:完成8/45-已跳过,[T448]青蛙跳杯子 
+11:33:01 :xls.Status:完成9/45-已跳过,[T446]九宫幻方 
+11:33:01 :xls.Status:完成10/45-已跳过,[T442]油漆面积 
+11:33:01 :xls.Status:完成11/45-已跳过,[T472]Navigation 
+11:33:01 :xls.Status:完成12/45-已跳过,[T229]欧拉函数 
+11:33:01 :xls.Status:完成13/45-已跳过,[T214]单词个数统计 
+11:33:01 :xls.Status:完成14/45-已跳过,[T157]乘法运算 
+11:33:01 :xls.Status:完成15/45-已跳过,[T380]矩阵相乘 
+11:33:01 :xls.Status:完成16/45-已跳过,[T291]学霸的迷宫 
+11:33:01 :xls.Status:完成17/45-已跳过,[T23]最小方差生成树 
+11:33:01 :xls.Status:下载题目测试数据 
+11:33:01 :xls.Status:DownloadAllFile:2032294,共计20组测试数据 
+11:33:01 :xls.Status:下载题目数据:T477-10.inp 
+11:33:01 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:02 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:02 :xls.Status:账号切换到[2]13986274216 
+11:33:02 :xls.Status:切换到账号:13986274216,userId:178821,cookies:JSESSIONID=BBA4866AA6AE53B7946AB57984BFB38F;_SESSIONKEY=T12OFVACER45E011C1P9;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 23:00:44 GMT;_TOKEN=05A4F4E1AC0D31EFFEA9F74B896639346B5120EA5AD4761F70EA9F2ABAE563F52B64117F7CD2D1E0DEDA7E8EE41CF753E8905D4CED4B310188B3CC0808993B8B1B4FC036C844D0D7F69F7E29E8245BA7 
+11:33:02 :xls.Status:已登录13986274216 
+11:33:02 :xls.Status:加载题库:13986274216 
+11:33:02 :xls.Status:获取到题目集数量:10 
+11:33:04 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:33:04 :xls.Status:完成1/45-已跳过,[T39]农场阳光 
+11:33:04 :xls.Status:完成2/45-已跳过,[T457]分考场 
+11:33:04 :xls.Status:完成3/45-已跳过,[T455]观光铁路 
+11:33:04 :xls.Status:完成4/45-已跳过,[T452]数组操作 
+11:33:04 :xls.Status:完成5/45-已跳过,[T451]区间移位 
+11:33:04 :xls.Status:完成6/45-已跳过,[T450]填字母游戏 
+11:33:04 :xls.Status:完成7/45-已跳过,[T449]图形排版 
+11:33:04 :xls.Status:完成8/45-已跳过,[T448]青蛙跳杯子 
+11:33:04 :xls.Status:完成9/45-已跳过,[T446]九宫幻方 
+11:33:04 :xls.Status:完成10/45-已跳过,[T442]油漆面积 
+11:33:04 :xls.Status:完成11/45-已跳过,[T473]A Linking Loader 
+11:33:04 :xls.Status:完成12/45-已跳过,[T150]平方计算 
+11:33:04 :xls.Status:完成13/45-已跳过,[T148]矩阵乘方 
+11:33:04 :xls.Status:完成14/45-已跳过,[T147]快速排序 
+11:33:04 :xls.Status:完成15/45-已跳过,[T146]字串逆序 
+11:33:04 :xls.Status:完成16/45-已跳过,[T94]JAM计数法 
+11:33:04 :xls.Status:完成17/45-已跳过,[T481]Castles 
+11:33:04 :xls.Status:完成18/45-已跳过,[T480]Tiling the Plane 
+11:33:04 :xls.Status:完成19/45-已跳过,[T478]To Add or to Multiply 
+11:33:04 :xls.Status:完成20/45-已跳过,[T475]A Dicey Problem 
+11:33:05 :xls.Status:下载题目测试数据 
+11:33:05 :xls.Status:下载题目数据:T477-11.inp 
+11:33:05 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:05 :xls.Status:{"itemid":"2032321","msg":"提交成功。","ret":"1"} 
+11:33:05 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:33:05 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:05 :xls.Status:账号切换到[3]15808081216 
+11:33:05 :xls.Status:切换到账号:15808081216,userId:579282681805,cookies:JSESSIONID=DA5485115CF52D971066AC09E3D4E37C;_SESSIONKEY=9Z0094K63E3M3F8HY8UX;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:47:25 GMT;_TOKEN=D5F98D41037204CF5CFC1F57960140B97B0F64E1463F1BFBBED1346D876632F6183E070F8B8ECB0813BDA53837CC018AAF83B0DFBDBEADF01B42E95B9C627239E65B1862FA45291547112D139F441CE9 
+11:33:05 :xls.Status:已登录15808081216 
+11:33:05 :xls.Status:加载题库:15808081216 
+11:33:05 :xls.Status:获取到题目集数量:10 
+11:33:07 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:33:07 :xls.Status:完成1/45-已跳过,[T39]农场阳光 
+11:33:08 :xls.Status:完成2/45-已跳过,[T457]分考场 
+11:33:08 :xls.Status:完成3/45-已跳过,[T455]观光铁路 
+11:33:08 :xls.Status:完成4/45-已跳过,[T452]数组操作 
+11:33:08 :xls.Status:完成5/45-已跳过,[T451]区间移位 
+11:33:08 :xls.Status:完成6/45-已跳过,[T450]填字母游戏 
+11:33:08 :xls.Status:完成7/45-已跳过,[T449]图形排版 
+11:33:08 :xls.Status:完成8/45-已跳过,[T448]青蛙跳杯子 
+11:33:08 :xls.Status:完成9/45-已跳过,[T446]九宫幻方 
+11:33:08 :xls.Status:完成10/45-已跳过,[T442]油漆面积 
+11:33:08 :xls.Status:完成11/45-已跳过,[T473]A Linking Loader 
+11:33:08 :xls.Status:完成12/45-已跳过,[T150]平方计算 
+11:33:08 :xls.Status:完成13/45-已跳过,[T148]矩阵乘方 
+11:33:08 :xls.Status:完成14/45-已跳过,[T147]快速排序 
+11:33:08 :xls.Status:完成15/45-已跳过,[T146]字串逆序 
+11:33:08 :xls.Status:完成16/45-已跳过,[T94]JAM计数法 
+11:33:08 :xls.Status:完成17/45-已跳过,[T481]Castles 
+11:33:08 :xls.Status:完成18/45-已跳过,[T480]Tiling the Plane 
+11:33:08 :xls.Status:完成19/45-已跳过,[T478]To Add or to Multiply 
+11:33:08 :xls.Status:完成20/45-已跳过,[T475]A Dicey Problem 
+11:33:08 :xls.Status:下载题目测试数据 
+11:33:08 :xls.Status:{"itemid":"2032322","msg":"提交成功。","ret":"1"} 
+11:33:08 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:33:13 :xls.Status:下载题目数据:T477-12.inp 
+11:33:13 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:13 :xls.Status:DownloadAllFile:2032322,共计20组测试数据 
+11:33:13 :xls.Status:下载题目数据:T474-14.outp 
+11:33:13 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:13 :xls.Status:DownloadAllFile:2032321,共计0组测试数据 
+11:33:13 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:13 :xls.Status:账号切换到[4]904546102@qq.com 
+11:33:13 :xls.Status:切换到账号:904546102@qq.com,userId:232143,cookies:JSESSIONID=ABBB9788A0FA89E768EB7429EA9248C6;_SESSIONKEY=532FA8QOOUF27W539R52;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:47:35 GMT;_TOKEN=3A18A98BB7951277C0A904EBC4C2A3E22D29B8F157330CF25A945DE76FC09A1DDAAA1B34BE6D76BEFA53555D7F3CF5EB6B2C7737B940BEA3FFA8ABF25010CA18D9CF75E67E043A9206A82EB993424F30 
+11:33:13 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:13 :xls.Status:账号切换到[5]17623877493 
+11:33:13 :xls.Status:切换到账号:17623877493,userId:579282697891,cookies:JSESSIONID=1A6267F3F721EC283D76BD04FAACA58C;_SESSIONKEY=2KSU97Z832ML5N5H91GI;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:47:46 GMT;_TOKEN=05AED4C868754136C9C30D3425ABB8BDA6682616A47D1BA64A560AB28121683AD3DD0429DF6114783288F3F27521D1737109B5FAFE1895542345E1F17143016ED9CF75E67E043A9206A82EB993424F30 
+11:33:14 :xls.Status:已登录904546102@qq.com 
+11:33:14 :xls.Status:加载题库:17623877493 
+11:33:14 :xls.Status:已登录17623877493 
+11:33:14 :xls.Status:加载题库:17623877493 
+11:33:14 :xls.Status:获取到题目集数量:10 
+11:33:14 :xls.Status:获取到题目集数量:10 
+11:33:18 :xls.Status:习题已全部加载完成  UA/AC/All=0/854/944 
+11:33:18 :xls.Status:完成1/90-已跳过,[T473]A Linking Loader 
+11:33:18 :xls.Status:完成2/90-已跳过,[T150]平方计算 
+11:33:18 :xls.Status:完成3/90-已跳过,[T148]矩阵乘方 
+11:33:18 :xls.Status:完成4/90-已跳过,[T147]快速排序 
+11:33:18 :xls.Status:完成5/90-已跳过,[T146]字串逆序 
+11:33:18 :xls.Status:完成6/90-已跳过,[T94]JAM计数法 
+11:33:18 :xls.Status:完成7/90-已跳过,[T481]Castles 
+11:33:18 :xls.Status:完成8/90-已跳过,[T480]Tiling the Plane 
+11:33:18 :xls.Status:完成9/90-已跳过,[T478]To Add or to Multiply 
+11:33:18 :xls.Status:完成10/90-已跳过,[T475]A Dicey Problem 
+11:33:18 :xls.Status:下载题目测试数据 
+11:33:18 :xls.Status:下载题目数据:T474-15.outp 
+11:33:18 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:18 :xls.Status:{"itemid":"2032323","msg":"提交成功。","ret":"1"} 
+11:33:18 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:33:18 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:18 :xls.Status:账号切换到[6]17623476609 
+11:33:18 :xls.Status:切换到账号:17623476609,userId:579282679620,cookies:JSESSIONID=361CC49A8EB76B843E633598E76FFF12;_SESSIONKEY=459TTRWP99R1247U437Q;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:57:31 GMT;_TOKEN=EDF1AB21A803815CDBB2406480958D7AA4DF45562D68D929177F9B6916C9A605292A8471CD35EA00D62A1DFB149F7E01FDE006F595EB770851B819427819C87A9945BD4680A79FE8BA51DD63F84B778C 
+11:33:19 :xls.Status:已登录17623476609 
+11:33:19 :xls.Status:加载题库:17623476609 
+11:33:19 :xls.Status:获取到题目集数量:10 
+11:33:21 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:33:21 :xls.Status:完成1/45-已跳过,[T473]A Linking Loader 
+11:33:21 :xls.Status:完成2/45-已跳过,[T150]平方计算 
+11:33:21 :xls.Status:完成3/45-已跳过,[T148]矩阵乘方 
+11:33:21 :xls.Status:完成4/45-已跳过,[T147]快速排序 
+11:33:21 :xls.Status:完成5/45-已跳过,[T146]字串逆序 
+11:33:21 :xls.Status:完成6/45-已跳过,[T94]JAM计数法 
+11:33:21 :xls.Status:完成7/45-已跳过,[T481]Castles 
+11:33:21 :xls.Status:完成8/45-已跳过,[T480]Tiling the Plane 
+11:33:21 :xls.Status:完成9/45-已跳过,[T478]To Add or to Multiply 
+11:33:21 :xls.Status:完成10/45-已跳过,[T475]A Dicey Problem 
+11:33:21 :xls.Status:下载题目测试数据 
+11:33:23 :xls.Status:下载题目数据:T474-16.outp 
+11:33:23 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:25 :xls.Status:{"itemid":"2032326","msg":"提交成功。","ret":"1"} 
+11:33:25 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:33:25 :xls.Status:DownloadAllFile:2032323,共计0组测试数据 
+11:33:25 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:25 :xls.Status:账号切换到[7]15730361457 
+11:33:25 :xls.Status:切换到账号:15730361457,userId:579282697794,cookies:JSESSIONID=C8E7FE58E107E546512778C804EA7BC8;_SESSIONKEY=VEHZKUWW6XP2485646GO;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:49:32 GMT;_TOKEN=711A4F9FA0DBF33AFD9E63D0FAE7388D35FE1173BBF5E3870387AEF777C9B4B327ED09F9F28E92BDECFB391117D3B15D0CE61429C854F3B068E7B7B4CEEF39E4094ED060CF30ACC8E8A6FAF2FF724DB6 
+11:33:25 :xls.Status:已登录15730361457 
+11:33:25 :xls.Status:加载题库:15730361457 
+11:33:26 :xls.Status:获取到题目集数量:10 
+11:33:28 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:33:28 :xls.Status:完成1/45-已跳过,[T472]Navigation 
+11:33:28 :xls.Status:完成2/45-已跳过,[T229]欧拉函数 
+11:33:28 :xls.Status:完成3/45-已跳过,[T214]单词个数统计 
+11:33:28 :xls.Status:完成4/45-已跳过,[T157]乘法运算 
+11:33:30 :xls.Status:下载题目数据:T474-17.outp 
+11:33:30 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:30 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:30 :xls.Status:账号切换到[8]15730363368 
+11:33:30 :xls.Status:切换到账号:15730363368,userId:579282697814,cookies:JSESSIONID=FF1A7355D9EF1FC03F6800E553C1AC12;_SESSIONKEY=26AHNKCM7987YU3147WG;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:48:06 GMT;_TOKEN=CED576E81FEBE2AE705E64B1BC427D535671F0F0FC16ACD5CE029C18F09A63980D9F295C5C8F3397F86892EFE874D5CE89AA11E7805EBFFD6AD02CBD58573FDA30AD15BA79DAAB833CA3F8A107002C82 
+11:33:30 :xls.Status:DownloadAllFile:2032326,共计0组测试数据 
+11:33:30 :xls.Status:已登录15730363368 
+11:33:30 :xls.Status:加载题库:15730363368 
+11:33:30 :xls.Status:获取到题目集数量:10 
+11:33:33 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:33:33 :xls.Status:完成1/45-已跳过,[T473]A Linking Loader 
+11:33:33 :xls.Status:完成2/45-已跳过,[T150]平方计算 
+11:33:33 :xls.Status:完成3/45-已跳过,[T148]矩阵乘方 
+11:33:33 :xls.Status:完成4/45-已跳过,[T147]快速排序 
+11:33:33 :xls.Status:完成5/45-已跳过,[T146]字串逆序 
+11:33:33 :xls.Status:完成6/45-已跳过,[T94]JAM计数法 
+11:33:33 :xls.Status:完成7/45-已跳过,[T481]Castles 
+11:33:33 :xls.Status:完成8/45-已跳过,[T480]Tiling the Plane 
+11:33:33 :xls.Status:完成9/45-已跳过,[T478]To Add or to Multiply 
+11:33:33 :xls.Status:完成10/45-已跳过,[T475]A Dicey Problem 
+11:33:33 :xls.Status:下载题目测试数据 
+11:33:33 :xls.Status:下载题目数据:T474-18.outp 
+11:33:33 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:33 :xls.Status:{"itemid":"2032328","msg":"提交成功。","ret":"1"} 
+11:33:33 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:33:33 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:33 :xls.Status:账号切换到[9]17360254616 
+11:33:33 :xls.Status:切换到账号:17360254616,userId:579282697884,cookies:JSESSIONID=CAF24B2A310B2B1EE50315E2D2FD128A;_SESSIONKEY=3TP0ND8T9W918RJ4A029;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:48:20 GMT;_TOKEN=4C731AB331C70EF3A23B6BA7860DF12FD096A09C52611D2F49B70D67C52D819EDC5952F70081FE794F18C13AA2F5BA1248A433E8335199140F844CD3F66D953E36C640205EAACC8C069B836DCC205B26 
+11:33:33 :xls.Status:已登录17360254616 
+11:33:33 :xls.Status:加载题库:17360254616 
+11:33:33 :xls.Status:获取到题目集数量:10 
+11:33:35 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:33:35 :xls.Status:完成1/45-已跳过,[T473]A Linking Loader 
+11:33:35 :xls.Status:完成2/45-已跳过,[T150]平方计算 
+11:33:35 :xls.Status:完成3/45-已跳过,[T148]矩阵乘方 
+11:33:35 :xls.Status:完成4/45-已跳过,[T147]快速排序 
+11:33:35 :xls.Status:完成5/45-已跳过,[T146]字串逆序 
+11:33:35 :xls.Status:完成6/45-已跳过,[T94]JAM计数法 
+11:33:35 :xls.Status:完成7/45-已跳过,[T481]Castles 
+11:33:35 :xls.Status:完成8/45-已跳过,[T480]Tiling the Plane 
+11:33:36 :xls.Status:完成9/45-已跳过,[T478]To Add or to Multiply 
+11:33:36 :xls.Status:完成10/45-已跳过,[T475]A Dicey Problem 
+11:33:36 :xls.Status:下载题目测试数据 
+11:33:36 :xls.Status:{"itemid":"2032329","msg":"提交成功。","ret":"1"} 
+11:33:36 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:33:41 :xls.Status:下载题目数据:T474-19.outp 
+11:33:41 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:41 :xls.Status:DownloadAllFile:2032329,共计20组测试数据 
+11:33:41 :xls.Status:下载题目数据:T474-14.outp 
+11:33:41 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:41 :xls.Status:DownloadAllFile:2032328,共计0组测试数据 
+11:33:41 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:41 :xls.Status:账号切换到[10]15827021295 
+11:33:41 :xls.Status:切换到账号:15827021295,userId:579282680737,cookies:JSESSIONID=A6953587562AFD621EF2E5CB922232A8;_SESSIONKEY=ZCB3HGCF37RTN62L9O98;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:48:32 GMT;_TOKEN=C3C03382083CED756974E157FA2140B1FDBB85D6A29DC8EEA212AA1F2320E993A3D2281C87793DCB90FDDD4F30D316A0FC520ADEC18940B99B7E6A145E9CDC421DEFBFCA240FEB23AF8B723445C4BCB2 
+11:33:41 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:41 :xls.Status:账号切换到[11]15730362474 
+11:33:41 :xls.Status:切换到账号:15730362474,userId:579282695483,cookies:JSESSIONID=2FE6CBAC33C86505A82F85717B26448B;_SESSIONKEY=51P08H1P481K953D41D8;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:49:52 GMT;_TOKEN=F9E461FF3D3A4F892F51D74456156930EF4901299B307867EEF1946731661C89D1F85DB1C1037465EA30769C45048F6797F70D3B23708640EBD8796197CC4921F5F9BACFFF3222A9B1D72736924B9ECE 
+11:33:41 :xls.Status:已登录15827021295 
+11:33:41 :xls.Status:加载题库:15730362474 
+11:33:41 :xls.Status:已登录15730362474 
+11:33:42 :xls.Status:加载题库:15730362474 
+11:33:42 :xls.Status:获取到题目集数量:10 
+11:33:42 :xls.Status:获取到题目集数量:10 
+11:33:46 :xls.Status:习题已全部加载完成  UA/AC/All=0/854/944 
+11:33:46 :xls.Status:完成1/90-已跳过,[T39]农场阳光 
+11:33:46 :xls.Status:完成2/90-已跳过,[T457]分考场 
+11:33:46 :xls.Status:完成3/90-已跳过,[T455]观光铁路 
+11:33:46 :xls.Status:完成4/90-已跳过,[T452]数组操作 
+11:33:46 :xls.Status:完成5/90-已跳过,[T451]区间移位 
+11:33:46 :xls.Status:完成6/90-已跳过,[T450]填字母游戏 
+11:33:46 :xls.Status:完成7/90-已跳过,[T449]图形排版 
+11:33:46 :xls.Status:完成8/90-已跳过,[T448]青蛙跳杯子 
+11:33:46 :xls.Status:完成9/90-已跳过,[T446]九宫幻方 
+11:33:46 :xls.Status:完成10/90-已跳过,[T442]油漆面积 
+11:33:46 :xls.Status:完成11/90-已跳过,[T473]A Linking Loader 
+11:33:46 :xls.Status:完成12/90-已跳过,[T150]平方计算 
+11:33:46 :xls.Status:完成13/90-已跳过,[T148]矩阵乘方 
+11:33:46 :xls.Status:完成14/90-已跳过,[T147]快速排序 
+11:33:46 :xls.Status:完成15/90-已跳过,[T146]字串逆序 
+11:33:46 :xls.Status:完成16/90-已跳过,[T94]JAM计数法 
+11:33:46 :xls.Status:完成17/90-已跳过,[T481]Castles 
+11:33:46 :xls.Status:完成18/90-已跳过,[T480]Tiling the Plane 
+11:33:46 :xls.Status:完成19/90-已跳过,[T478]To Add or to Multiply 
+11:33:46 :xls.Status:完成20/90-已跳过,[T475]A Dicey Problem 
+11:33:46 :xls.Status:下载题目测试数据 
+11:33:46 :xls.Status:下载题目数据:T474-15.outp 
+11:33:46 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:46 :xls.Status:{"itemid":"2032331","msg":"提交成功。","ret":"1"} 
+11:33:46 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:33:46 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:46 :xls.Status:账号切换到[12]511380795@qq.com 
+11:33:46 :xls.Status:切换到账号:511380795@qq.com,userId:232220,cookies:JSESSIONID=B2A0080A708EAE65CE26B45CD8D74FFC;_SESSIONKEY=185T8MNYW7YDE1DPW816;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:49:09 GMT;_TOKEN=1A02C286F33D1E9BA1918E757C7BE790B3554C023111EF92D3DF14D429F18ACB487CCA3E70D6DACE0EEB1C75343DFE47FBA580F9A87214E6FDE389E496ECDDD2D9CF75E67E043A9206A82EB993424F30 
+11:33:46 :xls.Status:已登录511380795@qq.com 
+11:33:46 :xls.Status:加载题库:511380795@qq.com 
+11:33:47 :xls.Status:获取到题目集数量:10 
+11:33:49 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:33:49 :xls.Status:完成1/45-已跳过,[T472]Navigation 
+11:33:49 :xls.Status:完成2/45-已跳过,[T229]欧拉函数 
+11:33:49 :xls.Status:完成3/45-已跳过,[T214]单词个数统计 
+11:33:49 :xls.Status:完成4/45-已跳过,[T157]乘法运算 
+11:33:49 :xls.Status:完成5/45-已跳过,[T380]矩阵相乘 
+11:33:49 :xls.Status:完成6/45-已跳过,[T291]学霸的迷宫 
+11:33:49 :xls.Status:完成7/45-已跳过,[T23]最小方差生成树 
+11:33:49 :xls.Status:下载题目测试数据 
+11:33:50 :xls.Status:{"itemid":"2032332","msg":"提交成功。","ret":"1"} 
+11:33:50 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:33:55 :xls.Status:下载题目数据:T474-16.outp 
+11:33:55 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:55 :xls.Status:DownloadAllFile:2032332,共计20组测试数据 
+11:33:55 :xls.Status:下载题目数据:T477-10.inp 
+11:33:55 :xls.Status:下载数据防ban间隔...2000ms 
+11:33:55 :xls.Status:DownloadAllFile:2032331,共计0组测试数据 
+11:33:55 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:55 :xls.Status:账号切换到[13]2396522964@qq.com 
+11:33:55 :xls.Status:切换到账号:2396522964@qq.com,userId:232183,cookies:JSESSIONID=07D8CE6411433B2A07B06C2BF7E9B34F;_SESSIONKEY=L893P85I89T5GP4DJQ52;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 22:59:24 GMT;_TOKEN=DA729C4A9690AEB799BDF3F597F25B7A54FACB129131D043BE1695F84DBF9973D1B35C736D9BA36DA642EEB6CF58C6A8DEF5C7BAFBF322CA3EDF138A7603D7D984E72A21B7178098067A93DA1937A049 
+11:33:55 :xls.Status:{"info":"ERROR。","ret":"0"} 
+11:33:55 :xls.Status:账号切换到[14]785794836@qq.com 
+11:33:55 :xls.Status:切换到账号:785794836@qq.com,userId:178927,cookies:JSESSIONID=F27A301E4CCDAEC96E614CFE3761C132;_SESSIONKEY=K4A4DZA27B272USZ8S26;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 23:00:12 GMT;_TOKEN=09CE54576121E13145684A3F4BE0FE48A4FB147FA3D2CD479DFFBCF1270697011F947128A2283B56803B79F36EC1DA01A40A4DEA0136AF7248D7A4EC089B7A453A78997ADD944CD2B5090499B89A5423 
+11:33:55 :xls.Status:已登录2396522964@qq.com 
+11:33:55 :xls.Status:加载题库:785794836@qq.com 
+11:33:55 :xls.Status:已登录785794836@qq.com 
+11:33:55 :xls.Status:加载题库:785794836@qq.com 
+11:33:55 :xls.Status:获取到题目集数量:10 
+11:33:55 :xls.Status:获取到题目集数量:10 
+11:34:00 :xls.Status:习题已全部加载完成  UA/AC/All=0/854/944 
+11:34:00 :xls.Status:完成1/90-已跳过,[T472]Navigation 
+11:34:00 :xls.Status:完成2/90-已跳过,[T229]欧拉函数 
+11:34:00 :xls.Status:完成3/90-已跳过,[T214]单词个数统计 
+11:34:00 :xls.Status:完成4/90-已跳过,[T157]乘法运算 
+11:34:00 :xls.Status:完成5/90-已跳过,[T380]矩阵相乘 
+11:34:00 :xls.Status:完成6/90-已跳过,[T291]学霸的迷宫 
+11:34:00 :xls.Status:完成7/90-已跳过,[T23]最小方差生成树 
+11:34:00 :xls.Status:下载题目测试数据 
+11:34:00 :xls.Status:下载题目数据:T477-11.inp 
+11:34:00 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:00 :xls.Status:{"itemid":"2032334","msg":"提交成功。","ret":"1"} 
+11:34:00 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:34:05 :xls.Status:下载题目数据:T477-12.inp 
+11:34:05 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:05 :xls.Status:DownloadAllFile:2032334,共计20组测试数据 
+11:34:05 :xls.Status:下载题目数据:T477-10.inp 
+11:34:05 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:07 :xls.Status:下载题目数据:T477-13.inp 
+11:34:07 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:09 :xls.Status:下载题目数据:T477-14.inp 
+11:34:09 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:11 :xls.Status:下载题目数据:T477-15.inp 
+11:34:11 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:13 :xls.Status:下载题目数据:T477-16.inp 
+11:34:13 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:15 :xls.Status:下载题目数据:T477-17.inp 
+11:34:15 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:17 :xls.Status:下载题目数据:T477-18.inp 
+11:34:17 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:19 :xls.Status:下载题目数据:T477-19.inp 
+11:34:19 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:21 :xls.Status:用户不可继续获取数据:T477-inp20 
+11:34:21 :xls.Status:账号切换到[15]serfend@lqb.com 
+11:34:21 :xls.Status:切换到账号:serfend@lqb.com,userId:217085,cookies:JSESSIONID=36385252AD8EB2F2A38EAC9332ADDE6D;_SESSIONKEY=DW0DZB1Z31685YPHLT27;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 23:38:43 GMT;_TOKEN=D544534E0BA0A9BB37FEC45D28AE7B26E61501ACA033E77A31C6BDB9E7FD770653D6804F3A4DBCA3B07E81713A3BAA4FF44FD3DC1B6C82582CCB1335E0BEFC99D9CF75E67E043A9206A82EB993424F30 
+11:34:21 :xls.Status:下载题目数据:T477-20.inp 
+11:34:21 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:22 :xls.Status:已登录serfend@lqb.com 
+11:34:22 :xls.Status:加载题库:serfend@lqb.com 
+11:34:22 :xls.Status:获取到题目集数量:10 
+11:34:25 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:34:25 :xls.Status:完成1/45-已跳过,[T39]农场阳光 
+11:34:25 :xls.Status:完成2/45-已跳过,[T457]分考场 
+11:34:25 :xls.Status:完成3/45-已跳过,[T455]观光铁路 
+11:34:25 :xls.Status:完成4/45-已跳过,[T452]数组操作 
+11:34:25 :xls.Status:完成5/45-已跳过,[T451]区间移位 
+11:34:25 :xls.Status:完成6/45-已跳过,[T450]填字母游戏 
+11:34:25 :xls.Status:完成7/45-已跳过,[T449]图形排版 
+11:34:25 :xls.Status:完成8/45-已跳过,[T448]青蛙跳杯子 
+11:34:25 :xls.Status:完成9/45-已跳过,[T446]九宫幻方 
+11:34:25 :xls.Status:完成10/45-已跳过,[T442]油漆面积 
+11:34:25 :xls.Status:完成11/45-已跳过,[T473]A Linking Loader 
+11:34:25 :xls.Status:完成12/45-已跳过,[T150]平方计算 
+11:34:25 :xls.Status:完成13/45-已跳过,[T148]矩阵乘方 
+11:34:25 :xls.Status:完成14/45-已跳过,[T147]快速排序 
+11:34:25 :xls.Status:完成15/45-已跳过,[T146]字串逆序 
+11:34:25 :xls.Status:完成16/45-已跳过,[T94]JAM计数法 
+11:34:25 :xls.Status:完成17/45-已跳过,[T481]Castles 
+11:34:25 :xls.Status:完成18/45-已跳过,[T480]Tiling the Plane 
+11:34:25 :xls.Status:完成19/45-已跳过,[T478]To Add or to Multiply 
+11:34:25 :xls.Status:完成20/45-已跳过,[T475]A Dicey Problem 
+11:34:25 :xls.Status:下载题目测试数据 
+11:34:25 :xls.Status:下载题目数据:T477-1.outp 
+11:34:25 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:25 :xls.Status:{"itemid":"2032337","msg":"提交成功。","ret":"1"} 
+11:34:25 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:34:30 :xls.Status:下载题目数据:T477-2.outp 
+11:34:30 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:32 :xls.Status:DownloadAllFile:2032337,共计20组测试数据 
+11:34:32 :xls.Status:下载题目数据:T474-14.outp 
+11:34:32 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:34 :xls.Status:下载题目数据:T474-15.outp 
+11:34:34 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:36 :xls.Status:下载题目数据:T474-16.outp 
+11:34:36 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:38 :xls.Status:下载题目数据:T474-17.outp 
+11:34:38 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:40 :xls.Status:下载题目数据:T474-18.outp 
+11:34:40 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:42 :xls.Status:下载题目数据:T474-19.outp 
+11:34:42 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:44 :xls.Status:下载题目数据:T474-20.outp 
+11:34:44 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:44 :xls.Status:生成代码:T474,总测试数据(20) 
+11:34:44 :xls.Status:完成21/45-生成代码,[T474]The Ministers' Major Mess 
+11:34:44 :xls.Status:下载题目测试数据 
+11:34:44 :xls.Status:{"itemid":"2032340","msg":"提交成功。","ret":"1"} 
+11:34:44 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:34:49 :xls.Status:用户不可继续获取数据:T477-outp3 
+11:34:49 :xls.Status:账号切换到[16]354929630@qq.com 
+11:34:49 :xls.Status:切换到账号:354929630@qq.com,userId:232211,cookies:JSESSIONID=A21B95C623F63FB6FE60FA27848B6A6D;_SESSIONKEY=3IS0D0AMM333RU40L668;Domain=lanqiao.cn;Expires=Sat, 03-Feb-2018 23:43:31 GMT;_TOKEN=354387033E494D42AC67AD6E664C1C77C1B6B1D499CEF3A68124D8815B192E0BB8B505A87BF98FB272085BCC6E1138D2EE5398B3D40415FEE8720ADB48A7E0B69945BD4680A79FE8BA51DD63F84B778C 
+11:34:49 :xls.Status:下载题目数据:T477-3.outp 
+11:34:49 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:50 :xls.Status:已登录354929630@qq.com 
+11:34:50 :xls.Status:加载题库:354929630@qq.com 
+11:34:50 :xls.Status:DownloadAllFile:2032340,共计20组测试数据 
+11:34:50 :xls.Status:下载题目数据:T467-1.inp 
+11:34:50 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:50 :xls.Status:获取到题目集数量:10 
+11:34:52 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:34:52 :xls.Status:完成1/45-已跳过,[T473]A Linking Loader 
+11:34:52 :xls.Status:完成2/45-已跳过,[T150]平方计算 
+11:34:52 :xls.Status:完成3/45-已跳过,[T148]矩阵乘方 
+11:34:52 :xls.Status:完成4/45-已跳过,[T147]快速排序 
+11:34:52 :xls.Status:完成5/45-已跳过,[T146]字串逆序 
+11:34:52 :xls.Status:完成6/45-已跳过,[T94]JAM计数法 
+11:34:52 :xls.Status:完成7/45-已跳过,[T481]Castles 
+11:34:52 :xls.Status:完成8/45-已跳过,[T480]Tiling the Plane 
+11:34:52 :xls.Status:完成9/45-已跳过,[T478]To Add or to Multiply 
+11:34:52 :xls.Status:完成10/45-已跳过,[T475]A Dicey Problem 
+11:34:52 :xls.Status:完成11/45-已跳过,[T474]The Ministers' Major Mess 
+11:34:52 :xls.Status:下载题目测试数据 
+11:34:52 :xls.Status:DownloadAllFile:2032340,共计20组测试数据 
+11:34:52 :xls.Status:下载题目数据:T467-2.inp 
+11:34:52 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:54 :xls.Status:下载题目数据:T467-3.inp 
+11:34:54 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:56 :xls.Status:下载题目数据:T467-4.inp 
+11:34:56 :xls.Status:下载数据防ban间隔...2000ms 
+11:34:58 :xls.Status:下载题目数据:T467-5.inp 
+11:34:58 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:00 :xls.Status:下载题目数据:T467-6.inp 
+11:35:00 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:02 :xls.Status:下载题目数据:T467-7.inp 
+11:35:02 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:04 :xls.Status:下载题目数据:T467-8.inp 
+11:35:04 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:06 :xls.Status:下载题目数据:T467-9.inp 
+11:35:06 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:08 :xls.Status:用户不可继续获取数据:T467-inp10 
+11:35:08 :xls.Status:账号切换到[17]747276157@qq.com 
+11:35:08 :xls.Status:切换到账号:747276157@qq.com,userId:232180,cookies:JSESSIONID=ECCD202CA3B46369DCBC0DFCBF353AF4;_SESSIONKEY=TG64L9BY9BKK03DO61JP;Domain=lanqiao.cn;Expires=Sun, 04-Feb-2018 00:09:46 GMT;_TOKEN=3630B504C8774EC0B918BEC21BCC293544C1E7C0AF6033C55037A6EA058723890D92F0AA33DB7FA83DCCB11FB32E7494726C71616522CD1493466D141C12525C1B4FC036C844D0D7F69F7E29E8245BA7 
+11:35:08 :xls.Status:下载题目数据:T467-10.inp 
+11:35:08 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:08 :xls.Status:已登录747276157@qq.com 
+11:35:08 :xls.Status:加载题库:747276157@qq.com 
+11:35:09 :xls.Status:获取到题目集数量:10 
+11:35:11 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:35:11 :xls.Status:完成1/45-已跳过,[T472]Navigation 
+11:35:11 :xls.Status:完成2/45-已跳过,[T229]欧拉函数 
+11:35:11 :xls.Status:完成3/45-已跳过,[T214]单词个数统计 
+11:35:11 :xls.Status:完成4/45-已跳过,[T157]乘法运算 
+11:35:11 :xls.Status:完成5/45-已跳过,[T380]矩阵相乘 
+11:35:11 :xls.Status:完成6/45-已跳过,[T291]学霸的迷宫 
+11:35:11 :xls.Status:完成7/45-已跳过,[T23]最小方差生成树 
+11:35:11 :xls.Status:下载题目测试数据 
+11:35:11 :xls.Status:下载题目数据:T467-11.inp 
+11:35:11 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:11 :xls.Status:{"itemid":"2032343","msg":"提交成功。","ret":"1"} 
+11:35:11 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:35:16 :xls.Status:下载题目数据:T467-12.inp 
+11:35:16 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:16 :xls.Status:DownloadAllFile:2032343,共计20组测试数据 
+11:35:16 :xls.Status:下载题目数据:T477-4.outp 
+11:35:16 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:18 :xls.Status:下载题目数据:T477-5.outp 
+11:35:18 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:20 :xls.Status:下载题目数据:T477-6.outp 
+11:35:20 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:22 :xls.Status:下载题目数据:T477-7.outp 
+11:35:22 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:24 :xls.Status:下载题目数据:T477-8.outp 
+11:35:24 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:26 :xls.Status:下载题目数据:T477-9.outp 
+11:35:26 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:29 :xls.Status:下载题目数据:T477-10.outp 
+11:35:29 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:31 :xls.Status:用户不可继续获取数据:T477-outp11 
+11:35:31 :xls.Status:账号切换到[18]15926430497 
+11:35:31 :xls.Status:切换到账号:15926430497,userId:24695485914,cookies:JSESSIONID=7459EBF27CEF9CDEEF8DCAB85E58F802;_SESSIONKEY=EGBQ2YL4J45FXEBCP96Z;Domain=lanqiao.cn;Expires=Sun, 04-Feb-2018 03:18:52 GMT;_TOKEN=CB528EDDF5913BD1A0074CAC5891AF766D47BBD4F3FECE7CBEA707AFA2A9C2610504F40CAF6C6197C4AC6257BD39CE31F767EC828BF87A59707E07D6679CECD736C640205EAACC8C069B836DCC205B26 
+11:35:31 :xls.Status:下载题目数据:T467-13.inp 
+11:35:31 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:31 :xls.Status:已登录15926430497 
+11:35:31 :xls.Status:加载题库:15926430497 
+11:35:31 :xls.Status:获取到题目集数量:10 
+11:35:33 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:35:33 :xls.Status:完成1/45-已跳过,[T472]Navigation 
+11:35:33 :xls.Status:完成2/45-已跳过,[T229]欧拉函数 
+11:35:33 :xls.Status:完成3/45-已跳过,[T214]单词个数统计 
+11:35:33 :xls.Status:完成4/45-已跳过,[T157]乘法运算 
+11:35:33 :xls.Status:完成5/45-已跳过,[T380]矩阵相乘 
+11:35:33 :xls.Status:完成6/45-已跳过,[T291]学霸的迷宫 
+11:35:33 :xls.Status:完成7/45-已跳过,[T23]最小方差生成树 
+11:35:33 :xls.Status:下载题目测试数据 
+11:35:33 :xls.Status:下载题目数据:T467-14.inp 
+11:35:33 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:33 :xls.Status:{"itemid":"2032348","msg":"提交成功。","ret":"1"} 
+11:35:33 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:35:38 :xls.Status:下载题目数据:T467-15.inp 
+11:35:38 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:39 :xls.Status:DownloadAllFile:2032348,共计20组测试数据 
+11:35:39 :xls.Status:下载题目数据:T477-11.outp 
+11:35:39 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:41 :xls.Status:下载题目数据:T477-12.outp 
+11:35:41 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:43 :xls.Status:下载题目数据:T477-13.outp 
+11:35:43 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:45 :xls.Status:下载题目数据:T477-14.outp 
+11:35:45 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:47 :xls.Status:下载题目数据:T477-15.outp 
+11:35:47 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:49 :xls.Status:下载题目数据:T477-16.outp 
+11:35:49 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:51 :xls.Status:下载题目数据:T477-17.outp 
+11:35:51 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:53 :xls.Status:用户不可继续获取数据:T477-outp18 
+11:35:53 :xls.Status:账号切换到[19]15826191001 
+11:35:53 :xls.Status:切换到账号:15826191001,userId:579282679703,cookies:JSESSIONID=607C5441817E093D18746F64FCD00C77;_SESSIONKEY=8A95427F9UULDDN7K31C;Domain=lanqiao.cn;Expires=Sun, 04-Feb-2018 03:26:42 GMT;_TOKEN=5DD29537934A2D7F76AB0B5D173D267162A828578BD42D6A676A85481E2BE2DE0CAADB2770799A4670248583BBE5D24C0054060BCBEB46D53764D312FCB669DEF5F9BACFFF3222A9B1D72736924B9ECE 
+11:35:53 :xls.Status:下载题目数据:T467-16.inp 
+11:35:53 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:53 :xls.Status:已登录15826191001 
+11:35:53 :xls.Status:加载题库:15826191001 
+11:35:53 :xls.Status:获取到题目集数量:10 
+11:35:55 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:35:55 :xls.Status:完成1/45-已跳过,[T473]A Linking Loader 
+11:35:55 :xls.Status:下载题目数据:T467-17.inp 
+11:35:55 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:57 :xls.Status:下载题目数据:T467-18.inp 
+11:35:57 :xls.Status:下载数据防ban间隔...2000ms 
+11:35:59 :xls.Status:下载题目数据:T467-19.inp 
+11:35:59 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:01 :xls.Status:下载题目数据:T467-20.inp 
+11:36:01 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:03 :xls.Status:下载题目数据:T467-1.outp 
+11:36:03 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:06 :xls.Status:下载题目数据:T467-2.outp 
+11:36:06 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:08 :xls.Status:下载题目数据:T467-3.outp 
+11:36:08 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:10 :xls.Status:下载题目数据:T467-4.outp 
+11:36:10 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:12 :xls.Status:下载题目数据:T467-5.outp 
+11:36:12 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:14 :xls.Status:用户不可继续获取数据:T467-outp6 
+11:36:14 :xls.Status:账号切换到[20]15923225800 
+11:36:14 :xls.Status:切换到账号:15923225800,userId:579282679619,cookies:JSESSIONID=81145AFBD281C3F1771935E65BCCAB6B;_SESSIONKEY=376S275SNS3OM3RP7XMY;Domain=lanqiao.cn;Expires=Sun, 04-Feb-2018 03:27:18 GMT;_TOKEN=DE443018564BD4166AA4D7EFFAA0EF10BBAA2AE124AD8CEEAF281CC3ECD4A935B78597CF773BEDE63C1080A6C727841D0403DEEA0FC21D60B5C2228B7889CE039945BD4680A79FE8BA51DD63F84B778C 
+11:36:14 :xls.Status:下载题目数据:T477-18.outp 
+11:36:14 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:14 :xls.Status:已登录15923225800 
+11:36:14 :xls.Status:加载题库:15923225800 
+11:36:14 :xls.Status:获取到题目集数量:10 
+11:36:16 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:36:16 :xls.Status:完成1/45-已跳过,[T39]农场阳光 
+11:36:16 :xls.Status:完成2/45-已跳过,[T457]分考场 
+11:36:16 :xls.Status:完成3/45-已跳过,[T455]观光铁路 
+11:36:16 :xls.Status:完成4/45-已跳过,[T452]数组操作 
+11:36:16 :xls.Status:完成5/45-已跳过,[T451]区间移位 
+11:36:16 :xls.Status:完成6/45-已跳过,[T450]填字母游戏 
+11:36:16 :xls.Status:完成7/45-已跳过,[T449]图形排版 
+11:36:16 :xls.Status:完成8/45-已跳过,[T448]青蛙跳杯子 
+11:36:16 :xls.Status:完成9/45-已跳过,[T446]九宫幻方 
+11:36:16 :xls.Status:完成10/45-已跳过,[T442]油漆面积 
+11:36:16 :xls.Status:完成11/45-已跳过,[T473]A Linking Loader 
+11:36:16 :xls.Status:完成12/45-已跳过,[T150]平方计算 
+11:36:16 :xls.Status:完成13/45-已跳过,[T148]矩阵乘方 
+11:36:16 :xls.Status:完成14/45-已跳过,[T147]快速排序 
+11:36:16 :xls.Status:完成15/45-已跳过,[T146]字串逆序 
+11:36:16 :xls.Status:完成16/45-已跳过,[T94]JAM计数法 
+11:36:16 :xls.Status:完成17/45-已跳过,[T481]Castles 
+11:36:16 :xls.Status:完成18/45-已跳过,[T480]Tiling the Plane 
+11:36:16 :xls.Status:完成19/45-已跳过,[T478]To Add or to Multiply 
+11:36:16 :xls.Status:完成20/45-已跳过,[T475]A Dicey Problem 
+11:36:16 :xls.Status:完成21/45-已跳过,[T474]The Ministers' Major Mess 
+11:36:16 :xls.Status:下载题目测试数据 
+11:36:16 :xls.Status:下载题目数据:T477-19.outp 
+11:36:16 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:16 :xls.Status:{"itemid":"2032352","msg":"提交成功。","ret":"1"} 
+11:36:16 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:36:22 :xls.Status:下载题目数据:T477-20.outp 
+11:36:22 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:22 :xls.Status:DownloadAllFile:2032352,共计20组测试数据 
+11:36:22 :xls.Status:下载题目数据:T467-6.outp 
+11:36:22 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:24 :xls.Status:下载题目数据:T467-7.outp 
+11:36:24 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:26 :xls.Status:下载题目数据:T467-8.outp 
+11:36:26 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:28 :xls.Status:下载题目数据:T467-9.outp 
+11:36:28 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:30 :xls.Status:下载题目数据:T467-10.outp 
+11:36:30 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:32 :xls.Status:下载题目数据:T467-11.outp 
+11:36:32 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:34 :xls.Status:下载题目数据:T467-12.outp 
+11:36:34 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:36 :xls.Status:用户不可继续获取数据:T467-outp13 
+11:36:36 :xls.Status:账号切换到[21]13340286964 
+11:36:36 :xls.Status:切换到账号:13340286964,userId:579282679555,cookies:JSESSIONID=F02FBA0196AEFC6F250D75E9EBF5B4BE;_SESSIONKEY=0V743K554JPF8714UQ71;Domain=lanqiao.cn;Expires=Sun, 04-Feb-2018 03:31:08 GMT;_TOKEN=9A29E246C33D35976BD0261520A99667BD727804ACD233DF950086AEFD29EAD3FCB6CB1440B97B5BA0685C7DB399E40BB475F629F53EDF165AE7D4136F947881D9CF75E67E043A9206A82EB993424F30 
+11:36:36 :xls.Status:下载题目测试数据 
+11:36:36 :xls.Status:下载题目测试数据 
+11:36:36 :xls.Status:{"itemid":"2032354","msg":"提交成功。","ret":"1"} 
+11:36:36 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:36:36 :xls.Status:{"msg":"5秒钟内只能提交一个代码。","ret":"0"} 
+11:36:37 :xls.Status:已登录13340286964 
+11:36:37 :xls.Status:加载题库:13340286964 
+11:36:37 :xls.Status:获取到题目集数量:10 
+11:36:41 :xls.Status:习题已全部加载完成  UA/AC/All=0/427/472 
+11:36:41 :xls.Status:完成1/45-已跳过,[T473]A Linking Loader 
+11:36:41 :xls.Status:完成2/45-已跳过,[T150]平方计算 
+11:36:41 :xls.Status:完成3/45-已跳过,[T148]矩阵乘方 
+11:36:41 :xls.Status:完成4/45-已跳过,[T147]快速排序 
+11:36:41 :xls.Status:完成5/45-已跳过,[T146]字串逆序 
+11:36:41 :xls.Status:完成6/45-已跳过,[T94]JAM计数法 
+11:36:41 :xls.Status:完成7/45-已跳过,[T481]Castles 
+11:36:41 :xls.Status:完成8/45-已跳过,[T480]Tiling the Plane 
+11:36:41 :xls.Status:完成9/45-已跳过,[T478]To Add or to Multiply 
+11:36:41 :xls.Status:完成10/45-已跳过,[T475]A Dicey Problem 
+11:36:42 :xls.Status:完成11/45-已跳过,[T474]The Ministers' Major Mess 
+11:36:42 :xls.Status:下载题目测试数据 
+11:36:42 :xls.Status:{"itemid":"2032355","msg":"提交成功。","ret":"1"} 
+11:36:42 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:36:47 :xls.Status:DownloadAllFile:2032355,共计20组测试数据 
+11:36:47 :xls.Status:下载题目数据:T467-13.outp 
+11:36:47 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:49 :xls.Status:下载题目数据:T467-14.outp 
+11:36:49 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:51 :xls.Status:下载题目数据:T467-15.outp 
+11:36:51 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:53 :xls.Status:下载题目数据:T467-16.outp 
+11:36:53 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:55 :xls.Status:下载题目数据:T467-17.outp 
+11:36:55 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:57 :xls.Status:下载题目数据:T467-18.outp 
+11:36:57 :xls.Status:下载数据防ban间隔...2000ms 
+11:36:59 :xls.Status:下载题目数据:T467-19.outp 
+11:36:59 :xls.Status:下载数据防ban间隔...2000ms 
+11:37:01 :xls.Status:下载题目数据:T467-20.outp 
+11:37:01 :xls.Status:下载数据防ban间隔...2000ms 
+11:37:02 :xls.Status:生成代码:T467,总测试数据(20) 
+11:37:02 :xls.Status:完成12/45-生成代码,[T467]Air Conditioning Machinery 
+11:37:02 :xls.Status:下载题目测试数据 
+11:37:02 :xls.Status:{"itemid":"2032358","msg":"提交成功。","ret":"1"} 
+11:37:02 :xls.Status:等待蓝桥杯网站评判结果and防ban...5000ms 
+11:37:08 :xls.Status:DownloadAllFile:2032358,共计20组测试数据 
+11:37:08 :xls.Status:下载题目数据:T464-1.inp 
+11:37:08 :xls.Status:下载数据防ban间隔...2000ms 
+11:37:10 :xls.Status:下载题目数据:T464-2.inp 
+11:37:10 :xls.Status:下载数据防ban间隔...2000ms 
+11:37:12 :xls.Status:用户不可继续获取数据:T464-inp3 
+11:37:12 :xls.Status:账号切换到[22]15213442058 
+11:37:12 :xls.Status:账号切换到[1]liuchangm7j@vip.qq.com 
+11:37:12 :xls.Status:账号切换到[2]13986274216 
+11:37:12 :xls.Status:账号切换到[3]15808081216 
+11:37:12 :xls.Status:账号切换到[4]904546102@qq.com 
+11:37:12 :xls.Status:账号切换到[5]17623877493 
+11:37:12 :xls.Status:账号切换到[6]17623476609 
+11:37:12 :xls.Status:账号切换到[7]15730361457 
+11:37:12 :xls.Status:账号切换到[8]15730363368 
+11:37:12 :xls.Status:账号切换到[9]17360254616 
+11:37:12 :xls.Status:账号切换到[10]15827021295 
+11:37:12 :xls.Status:账号切换到[11]15730362474 
+11:37:12 :xls.Status:账号切换到[12]511380795@qq.com 
+11:37:12 :xls.Status:账号切换到[13]2396522964@qq.com 
+11:37:12 :xls.Status:账号切换到[14]785794836@qq.com 
+11:37:12 :xls.Status:账号切换到[15]serfend@lqb.com 
+11:37:12 :xls.Status:账号切换到[16]354929630@qq.com 
+11:37:12 :xls.Status:账号切换到[17]747276157@qq.com 
+11:37:12 :xls.Status:账号切换到[18]15926430497 
+11:37:12 :xls.Status:账号切换到[19]15826191001 
+11:37:12 :xls.Status:账号切换到[20]15923225800 
+11:37:12 :xls.Status:账号切换到[21]13340286964 
+11:38:09 :xls.Status:DownloadAllFile:2032354,共计20组测试数据 
+11:38:09 :xls.Status:用户不可继续获取数据:T465-inp1 
+11:38:09 :xls.Status:账号切换到[22]15213442058 
+11:38:09 :xls.Status:账号切换到[1]liuchangm7j@vip.qq.com 
+11:38:09 :xls.Status:账号切换到[2]13986274216 
+11:38:09 :xls.Status:账号切换到[3]15808081216 
+11:38:09 :xls.Status:账号切换到[4]904546102@qq.com 
+11:38:09 :xls.Status:账号切换到[5]17623877493 
+11:38:09 :xls.Status:账号切换到[6]17623476609 
+11:38:09 :xls.Status:账号切换到[7]15730361457 
+11:38:09 :xls.Status:账号切换到[8]15730363368 
+11:38:09 :xls.Status:账号切换到[9]17360254616 
+11:38:09 :xls.Status:账号切换到[10]15827021295 
+11:38:09 :xls.Status:账号切换到[11]15730362474 
+11:38:09 :xls.Status:账号切换到[12]511380795@qq.com 
+11:38:09 :xls.Status:账号切换到[13]2396522964@qq.com 
+11:38:09 :xls.Status:账号切换到[14]785794836@qq.com 
+11:38:09 :xls.Status:账号切换到[15]serfend@lqb.com 
+11:38:09 :xls.Status:账号切换到[16]354929630@qq.com 
+11:38:09 :xls.Status:账号切换到[17]747276157@qq.com 
+11:38:09 :xls.Status:账号切换到[18]15926430497 
+11:38:09 :xls.Status:账号切换到[19]15826191001 
+11:38:09 :xls.Status:账号切换到[20]15923225800 
+11:38:09 :xls.Status:账号切换到[21]13340286964 

@@ -1,0 +1,105 @@
+
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+using namespace std;
+
+struct bign{
+	int s[1000];
+	int n;
+	int len;
+
+	bign(){
+		memset(s,0,sizeof(s));
+		n=10;
+		len=1;
+	}
+
+	bign(int n,char *m){
+		int l=strlen(m);
+		len=l;
+		memset(s,0,sizeof(s));
+		this->n=n;
+		for(int i=l-1,j=0;i>=0;i--){
+			if(m[i]>='0' && m[i]<='9')
+				s[j++]=m[i]-'0';
+			else
+				s[j++]=m[i]-'A'+10;
+		}
+	}
+
+	bign operator+(const bign&x)const{
+		bign ans;
+		int len=this->len>x.len?this->len:x.len+1;
+		int n=x.n;
+		for(int i=0;i<len;i++){
+			ans.s[i]+=x.s[i]+this->s[i];
+			ans.s[i+1]=ans.s[i]/n;
+			ans.s[i]%=n;
+		}
+		if(len>1 && ans.s[len-1]==0)len--;
+		ans.n=n;
+		ans.len=len;
+		return ans;
+	}
+
+	bign operator=(const bign&x){
+		this->len=x.len;
+		this->n=x.n;
+		for(int i=0;i<x.len;i++){
+			this->s[i]=x.s[i];
+		}
+		return *this;
+	}
+
+	bign reversal()const{
+		bign ans;
+		ans.len=this->len;
+		ans.n=this->n;
+		for(int i=this->len-1,j=0;i>=0;i--){
+			ans.s[j++]=this->s[i];
+		}
+		return ans;
+	}
+
+	bool isPalindromes()const{
+		int i=this->len-1;
+		int j=0;
+		while(i>j){
+			if(this->s[i]!=this->s[j])break;
+			i--;
+			j++;
+		}
+		return i<=j;
+	}
+};
+
+ostream&operator<<(ostream&out,const bign&x){
+	for(int i=x.len-1;i>=0;i--){
+		if(x.s[i]<10)
+			out<<x.s[i];
+		else
+			out<<x.s[i]-10+'A';
+	}
+	return out;
+}
+
+int main(){
+	int n;
+	char m[1000];
+	scanf("%d",&n);
+	getchar();
+	gets(m);
+	bign a(n,m);	
+	int i=0;
+	while(!a.isPalindromes()){
+		if(i>30)break;
+		i++;
+		bign b=a.reversal();
+		a=a+b;
+	}
+	if(i<=30)printf("STEP=%d\n",i);
+	else printf("Impossible!\n");
+	return 0;
+}
+

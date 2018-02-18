@@ -1,0 +1,27 @@
+
+#include <stdio.h>
+#include <iostream>   
+using namespace std;   
+
+long long int exp_mod(long long int a,long long int b,long long int c)
+{
+    long long int ans = 1;
+    a = a % c;
+    while(b>0) {
+        if(b % 2 == 1)
+        ans = (ans * a) % c;
+        b = b/2;
+        a = (a * a) % c;
+    }
+    return ans;
+}
+  
+int main()   
+{   
+	long long a,b,p;
+    scanf("%lld%lld%lld",&a,&b,&p);
+	printf("%lld",exp_mod(a,b,p));
+    return 0;   
+}  
+//http://www.cnblogs.com/archimedes/p/3637479.html
+

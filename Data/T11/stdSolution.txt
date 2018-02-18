@@ -1,0 +1,78 @@
+
+#include<stdio.h>
+#include<algorithm>
+using namespace std;
+#define N 10005
+
+int n,m;
+int a[N],tree[15][N],sum[15][N];
+
+bool cmp(int x,int y)
+{
+	return x>y;
+}
+
+void build(int x,int L,int R)
+{
+	if(L==R)	return;
+	int i;
+	int mid=(L+R)>>1;
+	int lp=L,rp=mid+1,l=mid-L+1;
+	for(i=L;i<=R;i++)
+		if(tree[x][i]>a[mid])
+			l--;
+	for(i=L;i<=R;i++)
+	{
+		sum[x][i]=i==L?0:sum[x][i-1];
+		if(a[mid]==tree[x][i] && l)
+		{
+			l--;
+			tree[x+1][lp++]=tree[x][i];
+			sum[x][i]++;
+		}
+		else
+		if(tree[x][i]>a[mid])
+		{
+			tree[x+1][lp++]=tree[x][i];
+			sum[x][i]++;
+		}
+		else
+			tree[x+1][rp++]=tree[x][i];
+	}
+	build(x+1,L,mid);
+	build(x+1,mid+1,R);
+}
+
+int query(int x,int L,int R,int l,int r,int k)
+{
+	if(l==r)	return tree[x][l];
+	int mid=(L+R)>>1;
+	int t,tt;
+	t=l==L?0:sum[x][l-1];
+	tt=sum[x][r]-t;
+	if(k<=tt)
+		return query(x+1,L,mid,L+t,L+t+tt-1,k);
+	else
+		return query(x+1,mid+1,R,mid-L+1+l-t,mid-L+1+r-t-tt,k-tt);
+}
+
+int main()
+{
+	scanf("%d",&n);
+	for(int i=1;i<=n;i++)
+	{
+		scanf("%d",&a[i]);
+		tree[0][i]=a[i];
+	}
+	sort(a+1,a+1+n,cmp);
+	build(0,1,n);
+	scanf("%d",&m);
+	int l,r,k;
+	while(m--)
+	{
+		scanf("%d%d%d",&l,&r,&k);
+		printf("%d\n",query(0,1,n,l,r,k));
+	}
+	return 0;
+}
+

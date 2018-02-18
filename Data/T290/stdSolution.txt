@@ -1,0 +1,34 @@
+
+#include<iostream>
+using namespace std;
+int b[1000],a[1000];
+int l=0,sum,n,v=0;
+void dd(int k,long long z)
+{ int i;
+ if (k==n)
+ {
+  if (z==sum&&l!=0)
+   {
+   	 for (i=l-1;i>=0;i--)
+   	  cout<<b[i]<<" ";
+   	  v++;
+   	  cout<<endl;
+   }
+  return;
+ }
+  dd(k+1,z);
+  b[l++]=a[k];
+  dd(k+1,z+a[k]);
+  l--;
+}
+int main()
+{ int i;  
+ cin>>n;
+   for (i=n-1;i>=0;i--)
+    cin>>a[i];
+   cin>>sum;
+   dd(0,0);
+   cout<<v<<endl;
+  return 0;
+}
+

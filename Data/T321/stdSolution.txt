@@ -1,0 +1,43 @@
+
+#include<stdio.h>
+#include<algorithm>
+using namespace std;
+
+struct stt{
+	int g,p;
+	double v;
+	
+	bool operator<(const stt & t)const{
+		return v>t.v;	
+	}
+	
+}a[10005];
+int main()
+{
+	int n,w;
+	scanf("%d%d",&n,&w);
+	for(int i=0;i<n;i++)
+	{
+		scanf("%d%d",&a[i].g,&a[i].p);
+		a[i].v=1.0*a[i].p/a[i].g;
+		
+	}
+	sort(a,a+n);
+	double sum=0.0;
+	for(int i=0;i<n;i++)
+	{
+		if(w>0){
+			if(w>a[i].g) w-=a[i].g,sum+=a[i].p;
+			else sum+=w*a[i].v,w=0;
+			
+		}
+		else break;
+	} 
+	printf("%.1lf\n",sum);
+	
+	
+	
+	
+	return 0;
+}
+

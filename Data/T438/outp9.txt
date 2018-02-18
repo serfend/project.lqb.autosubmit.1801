@@ -1,0 +1,5 @@
+Trial 1: 23 1738
+Trial 2: 13 429
+Trial 3: 11 992
+Trial 4: 7 237
+Trial 5: 9 742

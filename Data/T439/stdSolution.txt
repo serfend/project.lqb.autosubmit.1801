@@ -1,0 +1,42 @@
+
+#include<iostream>
+#include<iomanip>
+#include<string>
+#include<cstring>
+#include<fstream>
+#include<vector>
+#include<algorithm>
+#include<map>
+using namespace std;
+
+int deal()
+{
+	char c;
+	int  x=0, y=0;//x记录现在统计的y记录上次的最大值
+	while (1)
+	{
+		c = getchar();
+		if (c == 'x')x++;
+		else if (c == '|')
+		{
+			y = max(y, x);   //出现|表示当前统计截止计算出本次统计与以往最大值中较大一个
+			x = 0;          //x重新统计
+		}
+		else if (c == '(')
+		{
+			x += deal();   //直接相连接没啥说的
+		}
+		else               //包括回车和)   
+		{
+			y = max(x, y); //出现这个以后直接比较现在统计的和上次最大的哪个大
+			return y;
+		}
+
+	}
+}
+
+int main(){
+
+	cout << deal();
+}
+

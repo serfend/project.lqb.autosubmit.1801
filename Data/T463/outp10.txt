@@ -1,0 +1,8 @@
+Case 1: A+ B- {A+, A-, B+, B-, O+, O-, AB+, AB-}
+Case 2: AB- {A+, B+, O+, AB+} B+
+Case 3: AB+ AB+ {A+, A-, B+, B-, AB+, AB-}
+Case 4: A+ B+ {A+, A-, B+, B-, O+, O-, AB+, AB-}
+Case 5: IMPOSSIBLE AB+ O-
+Case 6: {B+, B-, AB+, AB-} A+ B+
+Case 7: IMPOSSIBLE O- AB-
+Case 8: {B+, AB+} A- B+

@@ -1,0 +1,33 @@
+
+# include <stdio.h>
+const int Max = 100;
+long long a[Max][Max];
+long long b[Max][Max];
+int main()
+{
+	int a1, a2, b1, b2, i, j, k, temp;
+	scanf("%d %d", &a1, &a2);
+	for(i = 0; i < a1; i++){
+		for(j = 0; j < a2; j++){
+			scanf("%ld", &a[i][j]);
+		}
+	}
+	scanf("%d %d", &b1, &b2);
+	for(i = 0; i < b1; i++){
+		for(j = 0; j < b2; j++){
+			scanf("%ld", &b[i][j]);
+		}
+	}
+	for(i = 0; i < a1; i++){
+		for(j = 0; j < b2; j++){
+			temp = 0;
+			for(k = 0; k < a2; k++){
+				temp += a[i][k] * b[k][j];
+			}
+			printf("%d ", temp);
+		}
+		printf("\n");
+	}
+	return 0;
+}
+

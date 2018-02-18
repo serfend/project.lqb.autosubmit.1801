@@ -1,0 +1,63 @@
+
+  #include <stdio.h>
+  #include <stdlib.h>
+  int n, k, m, s, t, distance[101][101], culture[101], fight[101][101], search[101], p = 0;
+ bool found = false;
+  int min(int a, int b)
+  {
+      return (a > b ? b : a);
+  }
+  void DFS(int target)
+ {
+     bool CanInqueue = true;
+     int queue[101] = {0}, tail = 0;
+     search[++p] = target;
+     if (target == t)
+     {
+         found = true;
+         return;
+     }
+     for (int i = 1, j; i <= n; ++i)
+     {
+         for (j = 1; j <= p; ++j)
+         {
+             if (search[j] == i || culture[search[j]] == culture[i] || fight[culture[i]][culture[search[j]]] == 1)
+             {
+                 CanInqueue = false;
+                 break;
+             }
+         }
+         if (distance[target][i] == 1001)
+             CanInqueue = false;
+         if (CanInqueue)
+             queue[++tail] = i;
+         else
+             CanInqueue = true;
+     }
+     for (int i = 1; i <= tail; ++i)
+         distance[s][queue[i]] = min(distance[s][queue[i]], distance[s][target] + distance[target][queue[i]]);
+     for (int i = 1; i <= tail; ++i)
+         DFS(queue[i]);
+     return;
+ }
+ int main()
+ {
+     for (int i = 1, j; i < 101; ++i)
+         for (j = 1; j < 101; ++j)
+              distance[i][j] = 1001;
+     scanf("%d %d %d %d %d", &n, &k, &m, &s, &t);
+     for (int i = 1; i <= n; ++i)
+         scanf("%d", &culture[i]);
+     for (int i = 1, j; i <= k; ++i)
+         for (j = 1; j <= k; ++j)
+             scanf("%d", &fight[i][j]);
+     for (int i = 0, y, z, c; i < m; ++i, distance[z][y] > c ? distance[y][z] = distance[z][y] = c : c = 2147483646)
+         scanf("%d %d %d", &y, &z, &c);
+     DFS(s);
+     if (found)
+         printf("%d\n", distance[s][t]);
+     else
+         printf("-1\n");
+     return 0;
+ }
+

@@ -1,0 +1,105 @@
+
+#include<stdio.h>
+#include<algorithm>
+#include<iostream>
+#include<algorithm>
+#include<string.h>
+using namespace std;
+#define N 202
+void strToNum(char *s,int n )
+{
+    for(int i=0;i<n;i++)
+    {
+        if(s[i]>='0'&&s[i]<='9')
+        s[i]-='0';
+    }
+}
+int find(char *s)
+{
+    int n=strlen(s);
+    for(int i=0;i<n;i++)
+    {
+        if(s[i]=='.')
+        return i;
+    }
+    s[n]='.';
+    return n;
+}
+int main()
+{
+    char a[2*N]={0};
+    char b[2*N]={0};
+    
+    gets(a+100);
+    gets(b+100);
+     int na=strlen(a+100);
+    int nb=strlen(b+100);
+    int deA=find(a+100);
+    int deB=find(b+100);
+   
+    int addLen=(na-1-deA)>(nb-1-deB)?(na-1-deA):(nb-1-deB);
+    strToNum(a,2*N);
+    strToNum(b,2*N);
+    int c=0;
+    for(int i=deA+200,j=deB+200;i>=0&&j>=0; i--,j--)
+    {
+        if(a[i]=='.')
+          continue;
+        int t=a[i]+b[j]+c;
+        a[i]=t%10;
+        c=t/10;
+    }
+    int x,y;
+    for(int i=0;i<2*N; i++)
+    {
+        if(a[i])
+        {
+          x=i;
+        break;
+        }
+    
+    }
+    for(int i=2*N-1;i>=0;i--)
+    {
+        if(a[i])
+        {
+            y=i;
+            break;
+        }
+    }
+    if(x==y)
+    {
+       puts("0");
+       return 0;
+    }
+    if(a[x]=='.')
+    {
+        --x;
+    }
+    if(a[y]=='.')
+    y--;
+    for(int i=0;i<2*N;i++)
+    {
+        if(a[i]=='.')
+        {
+            if(y-i<addLen)
+            {
+               y=addLen+i;
+            }
+            break;
+        }
+    }
+    for(int i=x; i<= y; i++)
+    {
+       if(a[i]=='.')
+        cout<<".";
+        else cout<<(int)a[i];
+    }
+    cout<<endl;
+    
+    
+        
+    
+    return 0;
+}
+

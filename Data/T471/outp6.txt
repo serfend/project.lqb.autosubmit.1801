@@ -1,0 +1,15 @@
+Case 1: dead after 0 transitions
+Places with tokens: 19 (3760)
+
+Case 2: still live after 6 transitions
+Places with tokens: 7 (1)
+
+Case 3: still live after 573 transitions
+Places with tokens: 1 (2893) 2 (1505) 3 (5846) 4 (3671) 5 (536) 6 (236) 7 (7164) 8 (3317) 9 (6879) 10 (8464) 11 (2115) 12 (73) 13 (3018) 14 (1145) 15 (7224) 16 (5498) 17 (2163) 18 (3963) 19 (4014)
+
+Case 4: dead after 45 transitions
+Places with tokens: 17 (5)
+
+Case 5: dead after 6 transitions
+Places with tokens: 17 (1)
+

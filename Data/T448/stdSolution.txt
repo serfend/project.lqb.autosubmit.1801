@@ -1,0 +1,178 @@
+
+#include<iostream>
+#include<iomanip>
+#include<string>
+#include<cstring>
+#include<fstream>
+#include<vector>
+#include<algorithm>
+#include<map>
+using namespace std;
+#define maxn 15000000
+int sta, fin;
+int a[50];
+int b[50];
+int s[50];
+int queue[maxn];
+int bef[maxn];
+int bef2[maxn];
+int vis[maxn];
+int len;
+int rear, front;
+int flag = 0;
+int ans = 0;
+string s1, s2;
+void init()
+{
+	for (int i = 0; i < s1.length(); i++)
+	{
+		if (s1[i] == '*')
+			a[i] = 0;
+		if (s1[i] == 'W')
+			a[i] = 1;
+		if (s1[i] == 'B')
+			a[i] = 2;
+		if (s2[i] == '*')
+			b[i] = 0;
+		if (s2[i] == 'W')
+			b[i] = 1;
+		if (s2[i] == 'B')
+			b[i] = 2;
+	}
+	//for (int i = 0; i < s1.length(); i++)
+	//{
+	//	cout << a[i];
+	//}
+	//cout << endl;
+	//for (int i = 0; i < s1.length(); i++)
+	//{
+	//	cout << b[i];
+	//}
+	//cout << endl;
+	sta = 0; fin = 0;
+	len = s1.length();
+	for (int i = 0; i < s1.length(); i++)
+	{
+		sta = sta * 3 + a[i];
+		fin = fin * 3 + b[i];
+	}
+	//cout << sta << "  " << fin;
+}
+int su()
+{
+	int sum = 0;
+	for (int i = 0; i < len; i++)
+	{
+		sum = sum * 3 + s[i];
+	}
+	return sum;
+}
+void div(int sum)
+{
+	int Count = 0;
+	int s2[20];
+	while (sum)
+	{
+		s2[Count++] = sum % 3;
+		sum /= 3;
+	}
+	if (Count == len - 1)
+	{
+		s2[Count] = 0;
+	}
+	for (int i = 0; i < s1.length(); i++)
+	{
+		s[s1.length() - i - 1] = s2[i];
+	}
+}
+int findZero()
+{
+	for (int i = 0; i < len; i++)
+	{
+		if (s[i] == 0)
+			return i;
+	}
+}
+void print()
+{
+	for (int i = 0; i < s1.length(); i++)
+	{
+		cout << s[i];
+	}
+	cout << endl;
+}
+void bfs(int k, int p)
+{
+	int num0 = su();
+	swap(s[k], s[k + p]);
+	//print();
+	int num = su();
+	//cout << num << " ";
+	if (vis[num] == 1)
+	{
+		swap(s[k], s[k + p]);
+		return;
+	}
+	vis[num] = 1;
+	queue[rear++] = num;
+	bef[num] = bef[num0] + 1;
+	bef2[num] = num0;
+	if (num == fin)
+	{
+		flag = 1;
+		ans = bef[num];
+		/*while (num)
+		{
+		div(num);
+		print();
+		num = bef2[num];
+		}*/
+	}
+	swap(s[k], s[k + p]);
+}
+int main()
+{
+	ifstream ifile;
+	ifile.open("c://1234.txt");
+	cin >> s1 >> s2;
+	init();
+	queue[rear++] = sta;
+	vis[sta] = 1;
+	while (front <= rear&&flag == 0)
+	{
+		int sum = queue[front];
+		div(sum);
+		//cout << sum << endl;
+		//print();
+		int k = findZero();
+		//cout << "k " << k << endl;
+		if (k >= 1)
+		{
+			bfs(k, -1);
+		}
+		if (k >= 2)
+		{
+			bfs(k, -2);
+		}
+		if (k >= 3)
+		{
+			bfs(k, -3);
+		}
+		if (k <= len - 2)
+		{
+			bfs(k, 1);
+		}
+		if (k <= len - 3)
+		{
+			bfs(k, 2);
+		}
+		if (k <= len - 4)
+		{
+			bfs(k, 3);
+		}
+		front++;
+	}
+	cout << ans;
+	return 0;
+}
+

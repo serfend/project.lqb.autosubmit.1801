@@ -1,0 +1,18 @@
+
+#include<stdio.h>
+int main()
+{
+    int a,i;
+    scanf("%d",&a);
+    for(i=2;i<=a/2;i++)
+    {
+        if(a%i==0)
+        break;
+    }
+    if(i>=a/2)
+    printf("yes\n");
+    else
+    printf("no\n");
+    return 0;
+}
+

@@ -1,0 +1,46 @@
+
+#include <iostream>
+#include <algorithm>
+#include <cmath>
+#include <cstdlib>
+#include <cstdio>
+#include <cstring>
+#include <string>
+using namespace std;
+int sum = 0;
+void F(int n)
+{
+	int i;
+	if(n == 1 || n == 2 || n == 3)
+	{
+		cout<<n;
+		sum ++;
+		return;
+	}
+	int x = sqrt(n);
+	for(i = 2 ; i <= x; i ++)
+	{
+		if(n%i == 0)
+		{
+			cout<<i<<" ";
+			F(n/i);
+			sum ++;
+			return;
+		}
+		if(i == x)
+		{
+			cout<<n;
+			sum ++;
+		}
+	}
+}
+int main()
+{
+	int n;
+	cin>>n;
+	F(n);
+	cout<<endl<<sum<<endl;
+	return 0;
+}
+
+

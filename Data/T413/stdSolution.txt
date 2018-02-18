@@ -1,0 +1,45 @@
+
+#include <iostream>
+#include <cstring>
+#include <string>
+struct aaa
+{
+	char b;
+	int v;
+}aa[101];
+int main()
+{
+	std::string a;
+	std::cin >> a;
+	aa[0].b = a[0];
+	aa[0].v++;
+	int i = 1, m = 1;
+	while (true)
+	{
+		int j;
+		for (j = 0; j < m; j++)
+		{
+			if (aa[j].b == a[i])
+			{
+				aa[j].v++;
+				break;
+			}
+		}
+		if (j == m)
+		{
+			aa[m].b = a[i];
+			aa[m].v++;
+			m++;
+		}
+		i++;
+		if (a[i] == '\0')
+			break;
+	}
+	for (int i = 0; i < m; i++)
+	{
+		if (aa[i].v == 1)
+			std::cout << aa[i].b;
+	}
+	std::cout << std::endl;
+}
+

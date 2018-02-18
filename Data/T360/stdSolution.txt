@@ -1,0 +1,90 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+int n,m;
+
+struct u
+{
+	int color;
+	struct u * next;
+	struct u * front;
+};
+
+struct u * p[100001];
+struct u *head;
+
+int main()
+{
+	int i;
+	scanf("%d%d",&n,&m);
+	for(i=1;i<=n;i++)
+	 {
+	 	int a;
+	 	scanf("%d",&a);
+	    struct u *q=(struct u *)malloc(sizeof(struct u));
+	    q->color=a;
+	    q->next=head;
+	    p[a]=q;
+	    head=q;
+	    if(head->next!=NULL)
+	     {
+	     	head->next->front=head;
+	     }
+	 }
+    head->front=NULL;
+	for(i=1;i<=m;i++)
+	 {
+	 	char s[4];
+	 	scanf("%s",s);
+	 	if(s[0]=='D')
+	 	  {
+	 	 	n--;
+	 	 	int x;
+	 	 	scanf("%d",&x);
+	 	 	struct u *t1=p[x]->next;
+	 	 	struct u *t2=p[x]->front;
+	 	 	if(t2==NULL)
+	 	 	 {
+	 	 	   t1->front=NULL;
+			   head=t1;	
+	 	 	 }
+	 	 	else if(t1==NULL)
+	 	 	 {
+	 	 	   t2->next=NULL;
+			   p[x]=NULL;	
+	 	 	 }
+			else
+			{
+			   t2->next=t1;
+	 	 	   t1->front=t2;
+	 	    } 
+	 	 	p[x]=NULL;
+	 	  }
+	 	else
+	 	 {
+	 	 	n++;
+	 	 	int x,y;
+	 	 	scanf("%d%d",&x,&y);
+	 	 	struct u *t1=p[x]->next;
+	 	 	p[y]=(struct u *)malloc(sizeof(struct u));
+	 	 	p[x]->next=p[y];
+	 	 	p[y]->front=p[x];
+	 	 	p[y]->next=t1;
+	 	 	if(t1!=NULL) t1->front=p[y];
+	 	 	p[y]->color=y;
+	 	 }
+	 } 
+	struct u *t=head;
+	while(t->next!=NULL)
+	 {
+	 	t=t->next;
+	 }
+	printf("%d\n",n);
+	while(t!=NULL)
+	{
+		printf("%d ",t->color);
+		t=t->front;
+	}
+	return 0;
+}//walk slowly but never stop
+

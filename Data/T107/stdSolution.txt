@@ -1,0 +1,33 @@
+
+#include "iostream"
+#include "string"
+#include "stdio.h"
+#include "ctype.h"
+#include "algorithm"
+#include "stack"
+#include "math.h"
+using namespace std;
+const  int N =101;
+double  fen(int i)
+{
+	return 1.0/i;
+}
+int main()
+{
+     double x;
+	 while(cin>>x,  x!=0.00)
+	 {
+		 double ans=0;
+		 for(int i=2;;i++)
+		 {
+			 ans+=fen(i);
+			 if(ans>=x)
+			 {
+				 cout<<i-1<<" "<<"card(s)"<<endl;
+				 break;
+			 }
+		 }
+	 }
+	 return 0;
+}
+

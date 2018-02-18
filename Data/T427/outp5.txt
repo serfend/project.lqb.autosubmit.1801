@@ -1,0 +1,3 @@
+Hex: 0x1B3
+Decimal: 435
+Octal: 0663

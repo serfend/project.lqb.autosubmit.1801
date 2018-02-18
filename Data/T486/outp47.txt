@@ -1,0 +1,100 @@
+Case 1: 3
+
+Case 2: 6
+
+Case 3: 11
+
+Case 4: 5
+
+Case 5: 6
+
+Case 6: 8
+
+Case 7: 8
+
+Case 8: 6
+
+Case 9: 7
+
+Case 10: 8
+
+Case 11: 3
+
+Case 12: 5
+
+Case 13: 10
+
+Case 14: 5
+
+Case 15: 4
+
+Case 16: 6
+
+Case 17: 6
+
+Case 18: 8
+
+Case 19: 10
+
+Case 20: 4
+
+Case 21: 4
+
+Case 22: 10
+
+Case 23: 5
+
+Case 24: 10
+
+Case 25: 5
+
+Case 26: 8
+
+Case 27: 6
+
+Case 28: 3
+
+Case 29: 6
+
+Case 30: 7
+
+Case 31: 7
+
+Case 32: 9
+
+Case 33: 6
+
+Case 34: 8
+
+Case 35: 8
+
+Case 36: 12
+
+Case 37: 7
+
+Case 38: 5
+
+Case 39: 11
+
+Case 40: 9
+
+Case 41: 7
+
+Case 42: 8
+
+Case 43: 6
+
+Case 44: 8
+
+Case 45: 5
+
+Case 46: 10
+
+Case 47: 11
+
+Case 48: 4
+
+Case 49: 6
+
+Case 50: 8
+

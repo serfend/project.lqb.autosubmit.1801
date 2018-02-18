@@ -1,0 +1,15 @@
+
+ 
+#include<stdio.h>
+main()
+{	int i,N,x,m,s;
+	
+	x=3;
+		s=0;
+		scanf("%d",&m);
+		for(i=2;i<=m;i++)
+			s=(s+x)%i;
+		printf("%d\n",s+1);
+	
+}        
+

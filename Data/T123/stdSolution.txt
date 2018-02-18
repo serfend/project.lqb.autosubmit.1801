@@ -1,0 +1,103 @@
+
+#include<algorithm>
+#include <iostream>
+#include <cstdio>
+#include <cstring>
+#include<queue>
+#include<set>
+#include<stack>
+#include<map>
+#include<cmath>
+#include<vector>
+#include<string>
+#define __LL64 long long
+#define clr(a) memset(a,0,sizeof a)
+using namespace std;
+const double pi  = acos(-1.0);
+const double eps = 1e-9;
+const long long M = 1000000007;
+const long long INF = 0x3f3f3f3f;
+typedef long long LL;
+typedef unsigned long long ULL;
+const LL dir[4][2] = {0,1,-1,0,0,-1,1,0};
+using namespace std;
+
+LL _buf[20];
+inline long long read()
+{
+    char c = getchar();
+    LL isMinus = 1;
+    long long x = 0;
+    while ( c!='-' && ( c<'0' || c>'9' )) c = getchar();
+    if (c=='-') {isMinus = -1;c= getchar();}
+    while ( c>='0' &&c<='9' ) {x = x*10+c-'0';c=getchar();}
+    return x * isMinus;
+}
+inline void write(long long num,LL flag = 1)
+{
+    memset(_buf,0,sizeof(_buf));
+    if (num<0) {putchar('-');num=-num;}
+    LL p = 0;
+    if (num==0) p++;
+    else while (num){_buf[p++]=num%10;num/=10;}
+    for (LL i=p-1;i>=0;--i) putchar(_buf[i]+'0');
+    if (flag==1) puts("");
+    if (flag==0) printf(" ");
+}
+
+const LL Max = 111111;
+int n,C[Max],a[Max],b[Max];
+LL table[Max];
+
+int lowbit(int x) {return x&(-x);}
+void add(int x) { while(x<=n) { C[x]++;x+=lowbit(x); } }
+
+int sum(int x)
+{
+    int ans = 0;
+    while (x>0) {ans+=C[x];
+    x-=lowbit(x);}
+    return ans;
+}
+
+void hs()
+{
+    sort(b,b+n);
+    for (int i=0;i<n;++i)
+        a[i] = lower_bound(b,b+n,a[i]) - b + 1;
+}
+
+int main(){
+
+    for (int i=1;i<Max;++i)
+        table[i] = table[i-1] + i;
+    while (scanf("%d",&n)!=EOF)
+    {
+
+        for (int i=0;i<n;++i) b[i] =  a[i] = read();
+        hs();
+
+        clr (b);
+        clr (C);
+        for (int i=0;i<n;++i)
+        {
+            add(a[i]);
+            b[i] += i + 1- sum(a[i]);
+        }
+        clr(C);
+        for (int i=n-1;i>=0;i--)
+        {
+            add(a[i]);
+            b[i] += sum(a[i]-1);
+        }
+
+
+        LL ans = 0;
+        for (int i=0;i<n;++i)
+            ans += table[ b[i] ];
+        write(ans);
+    }
+    return 0;
+}
+
+

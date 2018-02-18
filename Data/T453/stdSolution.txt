@@ -1,0 +1,59 @@
+
+#include<stdio.h>
+#include<vector>
+#include<algorithm>
+using namespace std;
+vector<int>v[100010];
+int used[100010];
+int pre[100010];
+int ans[100010];
+int ct=0;
+bool over=false;
+void dfs(int u,int f)
+{
+	int i;
+	for(i=0;i<v[u].size();i++)
+	{
+		int to=v[u][i];
+		if(to==f)
+			continue;
+		pre[to]=u;
+		if(used[to]==1)
+		{
+			int a=to;
+			do
+			{
+				ans[ct++]=a;
+				a=pre[a];
+			}while(a!=to);
+			over=true;
+			return;
+		}
+		used[to]=1;
+		dfs(to,u);
+		if(over)
+			return;
+	}
+}
+int main()
+{
+	int n,i,a,b;
+	scanf("%d",&n);
+	for(i=0;i<n;i++)
+	{
+		scanf("%d%d",&a,&b);
+		v[a].push_back(b);
+		v[b].push_back(a);
+	}
+	used[1]=1;
+	dfs(1,0);
+	sort(ans,ans+ct);
+	for(i=0;i<ct-1;i++)
+	{
+		printf("%d ",ans[i]);
+	}
+	printf("%d\n",ans[i]);
+	return 0;
+}
+
+

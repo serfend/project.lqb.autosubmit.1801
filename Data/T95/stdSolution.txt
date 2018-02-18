@@ -1,0 +1,17 @@
+
+#include<iostream>
+ #include<cstdio>
+ #include<cstdlib>
+
+ using namespace std;
+ int main()
+ {
+     int k, n;
+     cin>>k>>n;
+     int a[1010]={0,1,k,1+k,k*k};
+     for (int i=5; i<=n; i++)
+        if (i%2) a[i]=a[i-1]+1; else a[i]=a[2]*a[i/2];
+     cout<<a[n];
+     return 0;
+ }
+

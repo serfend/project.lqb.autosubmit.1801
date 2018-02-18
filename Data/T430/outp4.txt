@@ -1,0 +1,6 @@
+Apartment Complex: 1
+Apartment 500: Does not exist
+Apartment 101: 05:37:00 - 16:11:24
+Apartment 101: 05:37:00 - 16:11:24
+Apartment 101: 05:37:00 - 16:11:24
+Apartment 505: 11:26:54 - 18:17:00

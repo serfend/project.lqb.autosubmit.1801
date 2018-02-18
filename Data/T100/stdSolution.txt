@@ -1,0 +1,58 @@
+
+#include "iostream"
+#include "string"
+#include "stdio.h"
+#include "ctype.h"
+#include "algorithm"
+#include "stack"
+#include "list"
+#include "math.h"
+using namespace std;
+const  int N =101;
+struct X
+{
+	int total;
+	int now;
+	X(int t=0,int n=0):total(t),now(n){}
+}a[10001],b[201];
+int main()
+{
+	int n,m;
+	scanf("%d%d",&n,&m);
+	for(int i=0;i<n;i++)
+		scanf("%d",&a[i].total);
+	int index=0;
+    for(int i=0;i<m;i++)
+	{
+		b[i]=a[ index++]; 
+	}
+	int time=0;
+	while(true)
+	{
+		time++;
+		for(int i=0;i<m;i++)
+			b[i].now++;
+		for(int i=0;i<m;i++)
+		{
+		     if(b[i].now>=b[i].total)
+			 {
+				 if(index<n)
+				 {
+					 b[i]=a[index++];
+				 }
+			 }
+		}
+		int i;
+		for ( i=0;i<m;i++)
+		{
+			if(b[i].now<b[i].total)
+				break;
+		}
+		if(i==m)
+			break;
+
+	}
+	cout<<time<<endl;
+	return 0;
+}
+

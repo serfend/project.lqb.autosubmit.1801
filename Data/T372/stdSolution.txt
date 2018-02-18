@@ -1,0 +1,42 @@
+
+#include<iostream>
+#include<iomanip>
+using namespace std;
+struct fushu
+{
+	double a;
+	double b;
+};
+int main()
+{
+	char t;
+	cin>>t;
+	fushu a,b;
+	cin>>a.a>>a.b;
+	cin>>b.a>>b.b;
+	switch(t)
+	{
+	case'+':
+		cout<<fixed<<setprecision(2)<<a.a+b.a<<"+"<<a.b+b.b<<"i"<<endl;
+		break;
+	case'-':
+		cout<<fixed<<setprecision(2)<<a.a-b.a<<"+"<<a.b-b.b<<"i"<<endl;
+		break;
+	case'*':
+		cout<<fixed<<setprecision(2)<<a.a*b.a-a.b*b.b<<"+"<<a.b*b.a+b.b*a.a<<"i"<<endl;
+		break;
+	case'/':
+		{
+			double t;
+			t=b.a*b.a+b.b*b.b;
+			double x,y;
+			double p,q;
+			x=b.a;y=-b.b;
+            p=a.a*x-a.b*y;
+			q=a.b*x+y*a.a;
+		cout<<fixed<<setprecision(2)<<p/t<<"+"<<q/t<<"i"<<endl;
+		break;
+		}
+	}
+}
+

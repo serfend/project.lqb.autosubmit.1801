@@ -1,0 +1,30 @@
+
+#include<iostream>
+#include<string.h>
+using namespace std;
+main()
+{
+	int all[3][3];
+	for(int i=0;i<3;i++)
+		for(int j=0;j<3;j++)
+			scanf("%d",&all[i][j]);
+	int val[8];
+	memset(val,0,sizeof(val));
+	for(int i=0;i<3;i++)
+		for(int j=0;j<3;j++)
+			val[i]+=all[i][j];
+	for(int i=3;i<6;i++)
+		for(int j=0;j<3;j++)
+			val[i]+=all[j][i-3];
+	val[6]=all[0][0]+all[1][1]+all[2][2];
+	val[7]=all[0][2]+all[1][1]+all[2][0];
+	int flag=1;
+	for(int i=1;i<8;i++)
+		if(val[0]!=val[i])
+			flag=0;
+	if(flag==0)
+		printf("0\n");
+	else
+		printf("1\n");
+}
+

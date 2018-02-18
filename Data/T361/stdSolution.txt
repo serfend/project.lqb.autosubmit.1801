@@ -1,0 +1,109 @@
+
+#include <stdio.h>	
+#define N 10000
+struct node 
+{
+	int yy;
+	int xy;
+	int val; //需要的-已有的 （排序依据） 
+}s[N]; 
+
+void sort(int n)
+{
+	int i, j ;
+	struct node t;
+	for (i = 0; i < n; i++)
+	{
+		for (j = 1; j < n-i; j++)
+		{
+			if (s[j-1].val > s[j].val) 
+			{
+				t = s[j-1];
+				s[j-1] = s[j];
+				s[j] = t;
+			}
+			
+		} 
+	}
+	return ;
+}
+
+void quick (int tou, int wei)
+{
+	int i, j;
+	struct node t, temp;
+	if (tou > wei)	return ;
+	temp = s[tou];
+	i = tou;
+	j = wei;
+	
+	while (i != j)
+	{
+		while (s[j].val >= temp.val && i < j)
+		{
+			j--;
+		}
+		while (s[i].val <= temp.val && i < j)
+		{
+			i++;
+		}
+		if (i < j)
+		{
+			t = s[i];
+			s[i] = s[j];
+			s[j] = t;
+		}
+	}
+	//循环结束 代表ij相遇了 将第i个数当做头 原先的基数变为第i个数 
+	s[tou] = s[i];
+	s[i] = temp;
+	quick (tou,i-1);
+	quick (i+1,wei);
+	return ;
+}  
+int main ()
+{
+	int m, n, i, j, pub, t;
+	scanf ("%d",&m);
+	for (i = 0; i < m; i++)
+	{
+		scanf ("%d",&n);
+		pub = 0; t = n;
+		for (j = 0; j < n; j++)
+		{
+			scanf ("%d%d",&s[j].yy,&s[j].xy);
+			s[j].val = s[j].xy - s[j].yy;
+		}
+		quick (0,n-1);
+//		sort (n);
+		for (j = 0; j < n; j++)
+		{
+//			printf ("%d %d\n",s[j].yy,s[j].xy);
+			if (s[j].val <= 0)
+			{
+				pub += s[j].yy;
+				t--;
+				continue;
+			}
+			if (s[j].val <= pub)
+			{
+				pub -= s[j].val;
+				pub += s[j].xy; 
+				s[j].val = 0;
+				t--;
+				continue;
+			}
+			if (s[j].val > pub)
+			{
+				printf("NO\n");
+				break;
+			}
+		}
+		if (t == 0)	
+		{
+			printf ("YES\n");
+		}
+	}
+	return 0;
+ } 
+

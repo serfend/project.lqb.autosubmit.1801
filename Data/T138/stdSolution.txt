@@ -1,0 +1,35 @@
+
+#include<iostream>
+using namespace std;
+
+int f(int n)
+{
+	if((3*(n%10)+3)>=10)
+	{
+		return 0;
+	}
+	n/=10;
+	while(n)
+	{
+		if(3*(n%10)>=10)
+		{
+			return 0;
+		}
+		n/=10;
+	}
+	return 1;
+}
+int main()
+{
+	int n,cnt=0;
+	int i;
+	cin>>n;
+	for(i=0;i<n;i++)
+	{
+		if(f(i))
+			cnt++;
+	}
+	cout<<cnt;
+	return 0;
+} 
+

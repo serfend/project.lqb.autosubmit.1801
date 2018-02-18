@@ -1,0 +1,28 @@
+
+#include <cstdio>
+#include <algorithm>
+#include <string>
+using namespace std;
+
+const int maxn = 101;
+struct prut {
+    char name[100];
+    double price;
+    int num;
+};
+int main() {
+    int N;
+    prut p[maxn];
+    scanf( "%d", &N );
+
+    int i;
+    double sum = 0.0;
+    for( i = 0; i < N; i++ ) {
+        scanf( "%s %lf%d", p[i].name, &p[i].price, &p[i].num );
+        sum += p[i].price * p[i].num;
+    }
+    printf( "%lf", sum );
+    return 0;
+}
+
+

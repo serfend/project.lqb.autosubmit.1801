@@ -1,0 +1,59 @@
+Case Number 1: 12293880795
+
+Case Number 2: 756231897
+
+Case Number 3: 7225706221
+
+Case Number 4: 12267316732
+
+Case Number 5: 11974774415
+
+Case Number 6: 4146370727
+
+Case Number 7: 4829953161
+
+Case Number 8: impossible
+
+Case Number 9: 794760554
+
+Case Number 10: 12607885510
+
+Case Number 11: 3754181555
+
+Case Number 12: 4015682844
+
+Case Number 13: 2724355129
+
+Case Number 14: 6387398872
+
+Case Number 15: impossible
+
+Case Number 16: impossible
+
+Case Number 17: 2808695976
+
+Case Number 18: 4406087399
+
+Case Number 19: 3800687122
+
+Case Number 20: 11555413380
+
+Case Number 21: 6444449822
+
+Case Number 22: impossible
+
+Case Number 23: 12557478642
+
+Case Number 24: 12114764827
+
+Case Number 25: impossible
+
+Case Number 26: 1373664446
+
+Case Number 27: 5742178018
+
+Case Number 28: 1720343338
+
+Case Number 29: 5244118862
+
+Case Number 30: 1077732582

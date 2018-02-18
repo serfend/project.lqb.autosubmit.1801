@@ -1,0 +1,123 @@
+
+#include<iostream>
+#include<iomanip>
+#include<string>
+#include<cstring>
+#include<fstream>
+#include<vector>
+#include<algorithm>
+#include<map>
+using namespace std;
+typedef long long ll;
+ll a[4][4];
+ll b[4][4];
+bool vis[10];
+int Count = 0;
+bool judge()
+{
+	ll ans1[4], ans2[4], ans3 = 0, ans4 = 0;
+	memset(ans1, 0, sizeof(ans1));
+	memset(ans2, 0, sizeof(ans2));
+	for (int i = 1; i <= 3; i++)
+	{
+		for (int j = 1; j <= 3; j++)
+		{
+			ans1[i] += a[i][j];
+			ans2[j] += a[i][j];
+			if (i == j)
+			{
+				ans3 += a[i][j];
+			}
+			if (i + j == 4)
+			{
+				ans4 += a[i][j];
+			}
+		}
+	}
+	if (ans3 != 15 || ans4 != 15)
+		return false;
+	for (int i = 1; i <= 3; i++)
+	{
+		if (ans1[i] != 15 || ans2[i] != 15)
+			return false;
+	}
+	return true;
+}
+void dfs(int step)
+{
+	if (step == 10)
+	{
+		if (judge())
+		{
+			Count++;
+			for (int i = 1; i <= 3; i++)
+			{
+				for (int j = 1; j <= 3; j++)
+				{
+					b[i][j] = a[i][j];
+				}
+			}
+		}
+		return;
+	}
+	int x, y;
+	if (step % 3 == 0)
+	{
+		x = step / 3;
+		y = 3;
+	}
+	else
+	{
+		x = step / 3;
+		x++;
+		y = step % 3;
+	}
+	//cout << step << " " << x << "  " << y << endl;
+	if (a[x][y])
+		dfs(step + 1);
+	else
+	{
+		for (int i = 1; i <= 9; i++)
+		{
+			if (!vis[i])
+			{
+				a[x][y] = i;
+				vis[i] = 1;
+				dfs(step + 1);
+				vis[i] = 0;
+				a[x][y] = 0;
+			}
+		}
+	}
+
+}
+int main()
+{
+	ll n, m;
+	ifstream ifile;
+	ifile.open("c://1234.txt");
+	for (ll i = 1; i <= 3; i++)
+	{
+		for (ll j = 1; j <= 3; j++)
+		{
+			cin >> a[i][j];
+			vis[a[i][j]] = 1;
+		}
+	}
+	dfs(1);
+	if (Count > 1)
+		cout << "Too Many";
+	else
+	{
+		for (int i = 1; i <= 3; i++)
+		{
+			for (int j = 1; j <= 3; j++)
+			{
+				cout << b[i][j] << " ";
+			}
+			cout << endl;
+		}
+	}
+	return 0;
+}
+

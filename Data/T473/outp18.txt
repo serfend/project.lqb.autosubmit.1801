@@ -1,0 +1,15 @@
+Case 1: checksum = 9EE1
+ SYMBOL   ADDR
+--------  ----
+OTZ       011F
+XXY       013F
+XYZ       0101
+YDL       0102
+
+Case 2: checksum = 9EE1
+ SYMBOL   ADDR
+--------  ----
+OTZ       011F
+XXY       013F
+XYZ       0101
+YDL       0102

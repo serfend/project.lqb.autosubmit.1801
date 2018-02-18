@@ -1,0 +1,24 @@
+
+#include <stdio.h>
+#include <string.h>
+#include <iostream>
+#include<functional>
+#include <queue>
+#include <string>
+#include <algorithm>
+using namespace std;
+const int maxn = 40005;
+int main()
+{
+	#ifndef ONLINE_JUDGE  
+	//freopen("data.txt","r",stdin);  
+	#endif 	
+	char str[maxn];
+	gets(str);
+	int len = strlen(str);
+	for( int i = len-1; i >= 0; i -- )
+		printf("%c",str[i]);
+	puts("");
+	return 0;
+}
+

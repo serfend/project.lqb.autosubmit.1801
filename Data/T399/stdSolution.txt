@@ -1,0 +1,17 @@
+
+#include <iostream>
+using namespace std;
+int erxianshi(int k,int n)
+{if(k==0||k==n)
+	return 1;
+	else
+	return erxianshi(k,n-1)+erxianshi(k-1,n-1);
+	}
+int main()
+{ int k,n;
+	 cin>>k>>n;
+	 cout<<erxianshi(k,n);
+    system("pause");
+    return 0;
+}
+

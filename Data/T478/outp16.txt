@@ -1,0 +1,8 @@
+Case 1: empty
+Case 2: impossible
+Case 3: empty
+Case 4: 1A
+Case 5: empty
+Case 6: 28M
+Case 7: 1A 28M 1A
+Case 8: 2A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A 1M 1A

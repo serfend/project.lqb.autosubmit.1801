@@ -1,0 +1,27 @@
+
+#include<iostream>
+#include<cstring>
+using namespace std;
+main()
+{
+	int n,a,b,x,c=0,d,e,s[1000];
+	cin>>n>>x;
+	for(a=0;a<n;a++)
+	{
+		cin>>s[a];
+	}
+	x+=30;
+	for(b=0;b<n;b++)
+	{
+		if(s[b]<=x)
+		{
+			c++;
+		}
+	}
+	cout<<n-c;
+	
+	
+	return 0;
+}
+
+

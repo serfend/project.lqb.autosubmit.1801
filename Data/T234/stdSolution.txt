@@ -1,0 +1,40 @@
+
+#include <stdio.h>
+#include <math.h>
+#include <iomanip>
+#include <iostream>
+using namespace std;
+
+
+
+
+int main()
+{
+	//freopen("input.txt", "r", stdin);
+	//freopen("out.txt", "w", stdout);
+
+	double a, b, c;
+	cin >> a >> b >> c;
+	double d = b * b - 4 * a * c;
+	double resu1 = (-1 * b + sqrt(d)) / (2 * a);
+	double resu2 = (-1 * b - sqrt(d)) / (2 * a);
+	
+	if(resu1 < resu2)
+	{
+		resu1 += resu2;
+		resu2 = resu1 - resu2;
+		resu1 = resu1 - resu2;
+	}
+	if(d > 0)
+		cout << std::fixed << setprecision(2) << resu1 << " " << resu2 << endl;
+	
+	
+	return 0;
+}
+
+
+  
+
+
+
+

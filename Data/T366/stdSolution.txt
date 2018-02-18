@@ -1,0 +1,44 @@
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int n;
+void fun( string s ) {
+    int i = 0;
+    string str = "";
+    while( i < s.size() ) {
+        if( s[i] == '0' )
+            str += "1";
+        else {
+            str += "01";
+        }
+        i++;
+    }
+    n--;
+    if( n == 0 )
+        cout << str;
+    else
+        fun( str );
+}
+
+int main() {
+    cin >> n;
+    if( n > 0 )
+        fun( "0" );
+    else
+        cout << "0";
+    //cout << s;
+    return 0;
+}
+
+/*
+1
+01
+101
+01101
+10101101
+0110110101101
+*/
+
+

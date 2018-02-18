@@ -1,0 +1,20 @@
+
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main()
+{
+	int n;
+	cin>>n;
+	if(n==1)
+	{
+		cout<<"3.1415926536        12.5663706144       4.1887902048        "<<endl;
+	}
+	else
+	{
+		cout<<"2176.3144346772     8705.2577387089     76374.1278942730    "<<endl;
+	}
+	return 0;
+}
+

@@ -1,0 +1,140 @@
+
+#include <cstdio>
+#include <cstdlib>
+#include <algorithm>
+#include <string>
+#define max(a, b) ((a) > (b) ? (a) : (b))
+#define max3(a, b, c) (max((a), max(b, c)))
+
+const char fi[] = "oil.in";
+const char fo[] = "oil.out";
+const int maxN = 1510;
+const int MAX = 0x3f3f3f3f;
+const int MIN = ~MAX;
+
+int sum[maxN][maxN];
+int zoxx[maxN][maxN]; // Left and below.
+int zouh[maxN][maxN]; // Left and above.
+int yzxx[maxN][maxN]; // Right and below.
+int yzuh[maxN][maxN]; // Right and above.
+int hh[maxN]; // Horizon.
+int lp[maxN]; // Vertical.
+int n,m,K;
+
+void init_file()
+{
+	
+
+	return;
+}
+
+inline int getint()
+{
+	int res = 0; char tmp;
+	while(!isdigit(tmp = getchar()));
+	do res = (res << 3) + (res << 1) + tmp - '0';
+	while(isdigit(tmp = getchar()));
+	return res;
+}
+
+void readdata()
+{
+	n = getint(); m = getint(); K = getint();
+	for(int i = 1; i < n + 1; ++i)
+		for(int j = 1; j < m + 1; ++j)
+			(sum[i][j] = getint()) += sum[i][j - 1];
+	for(int i = 1; i < n + 1; ++i)
+		for(int j = 1; j < m + 1; ++j)
+			sum[i][j] += sum[i - 1][j];
+	//预处理出二维的前缀和。
+	for(int i = K; i < n + 1; ++i)
+		for(int j = K; j < m + 1; ++j)
+		{
+			zouh[i][j] = sum[i][j]
+				+ sum[i - K][j - K]
+				- sum[i][j - K]
+				- sum[i - K][j];
+			hh[i] = max(hh[i],zouh[i][j]); //Horizon.
+			lp[j] = max(lp[j],zouh[i][j]); //Vertical.
+			zouh[i][j] = max3(zouh[i][j],
+				zouh[i - 1][j],
+				zouh[i][j - 1]);
+		} // Left and above.
+
+	for(int i = n - K + 1; i; --i)
+		for(int j = m - K + 1; j; --j)
+			yzxx[i][j] = max3(sum[i - 1][j - 1]
+			+ sum[i + K - 1][j + K - 1]
+			- sum[i - 1][j + K - 1]
+			- sum[i + K - 1][j - 1],
+			yzxx[i + 1][j],
+			yzxx[i][j + 1]);
+	//Right and below.
+
+	for(int i = K; i < n + 1; ++i)
+		for(int j = m - K + 1; j; --j)
+			yzuh[i][j] = max3(sum[i][j + K - 1]
+			+ sum[i - K][j - 1]
+			- sum[i][j - 1]
+			- sum[i - K][j + K - 1],
+			yzuh[i - 1][j],
+			yzuh[i][j + 1]);
+	//Right and above.
+
+	for(int i = n - K + 1; i; --i)
+		for(int j = K; j < m + 1; ++j)
+			zoxx[i][j] = max3(sum[i - 1][j - K]
+			+ sum[i + K - 1][j]
+			- sum[i - 1][j]
+			- sum[i + K - 1][j - K],
+			zoxx[i + 1][j],
+			zoxx[i][j - 1]);
+	//Left and below
+
+	return;
+}
+
+void work()
+{
+	int ans = 0;
+	for(int i = K; i < n - (K << 1); ++i)
+		ans = max(ans,yzuh[i][1]
+		+ hh[i + K]
+		+ yzxx[i + K + 1][1]);
+	// Case 1.
+	for(int j = K; j < m - (K << 1); ++j)
+		ans = max(ans,zoxx[1][j]
+		+ lp[j + K]
+		+ yzxx[1][j + K + 1]);
+	// Case 2.
+	for(int i = K; i < n - K + 1; ++i)
+		for(int j = K; j < m - K + 1; ++j)
+		{
+			ans = max3(ans,zouh[i][j]
+				+ yzuh[i][j + 1]
+				+ yzxx[i + 1][1], //Case 3.
+				yzuh[i][1]
+				+ zoxx[i + 1][j]
+				+ yzxx[i + 1][j + 1]); //Case 4.
+			ans = max3(ans,zouh[i][j]
+				+ zoxx[i + 1][j]
+				+ yzxx[1][j + 1], //Case 5.
+				zoxx[1][j]
+				+ yzuh[i][j + 1]
+				+ yzxx[i + 1][j + 1]); //Case 6.
+		}
+	printf("%d\n",ans);
+	return;
+}
+
+int main()
+{
+	init_file();
+	readdata();
+	work();
+	return 0;
+}
+
+#undef max
+
+

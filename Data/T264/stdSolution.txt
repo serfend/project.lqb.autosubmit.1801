@@ -1,0 +1,63 @@
+
+#include <iostream>
+#include <cstdio>
+#include <cstring>
+
+#define N 110
+#define CLR(a) memset(a, 0, sizeof(a))
+
+using namespace std;
+
+char Map[N][N];
+int sum[N][N];
+
+int n, m;
+
+int mov[8][2] = {{1, -1}, {1, 0}, {1, 1}, {0, -1}, {0, 1}, {-1, -1}, {-1, 0}, {-1, 1}};
+
+
+
+int main()
+{
+
+    int Field = 1;
+    while (~scanf("%d%d", &n, &m) && n + m) {
+        CLR(Map);
+        CLR(sum);
+        for (int i = 1; i <= n; i++) {
+            scanf("%s", Map[i] + 1);
+        }
+
+        int ti, tj;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= m; j++) {
+                if (Map[i][j] == '*') {
+                    for (int k = 0; k < 8; k++) {
+                        ti = i + mov[k][0];
+                        tj = j + mov[k][1];
+                        if (Map[ti][tj] != '*')
+                            sum[ti][tj]++;
+                    }
+
+                }
+            }
+        }
+        printf("Field #%d:\n", Field++);
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= m; j++) {
+                if (Map[i][j] == '*')
+                    printf("*");
+                else
+                    printf("%d", sum[i][j]);
+            }
+            printf("\n");
+        }
+        printf("\n");
+
+    }
+
+
+    return 0;
+}
+
+

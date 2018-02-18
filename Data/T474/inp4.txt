@@ -1,0 +1,21 @@
+12 20
+1 11 y
+4 1 y 8 n 2 y 5 y
+4 12 y 2 y 1 y 3 n
+3 9 y 10 y 8 n
+4 1 y 6 y 11 n 8 n
+4 8 n 4 n 7 n 12 y
+4 1 n 12 y 4 y 9 y
+4 2 y 12 y 1 y 6 y
+4 2 y 5 y 1 y 12 n
+2 4 y 9 y
+4 11 y 12 y 4 y 5 y
+4 2 y 6 y 7 y 8 n
+4 2 y 4 y 1 n 5 n
+2 12 y 11 y
+1 8 n
+4 8 n 2 n 9 y 5 y
+4 4 y 11 y 6 y 8 y
+4 8 n 2 y 6 y 12 n
+4 12 y 1 y 3 y 9 y
+3 7 n 6 n 3 n

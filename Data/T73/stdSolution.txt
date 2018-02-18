@@ -1,0 +1,46 @@
+
+#include <cstdio>
+#include <cstdlib>
+#include <cstring>
+using namespace std;
+int a[10001],high[10001];
+int n = 1, top, maw;
+void work(int p)
+{
+    int l = 1, r = n, mid;
+    while(l != r)
+    {
+        mid = (l + r) / 2;
+        if(p < high[mid]) l = mid + 1;
+        else r = mid;
+    }
+    if(p > high[l]) high[l] = p;
+    if(l > maw) maw = l;
+}
+void solve(int p)
+{
+    int l = 1, r = n, mid;
+    while(l != r)
+    {
+        mid = (l + r) / 2;
+        if(p > high[mid]) l = mid + 1;
+        else r = mid;
+    }
+    if(p < high[l]) high[l] = p;
+    if(l > top) top = l;
+}
+int main()
+{
+    //freopen("missile.txt","r",stdin);
+    //freopen("missiles.txt","w",stdout);
+    while(scanf("%d", &a[n]) != EOF) ++n;
+    --n;
+    for(int i = 1; i <= n; ++i) 
+        work(a[i]);
+    memset(high, 1, sizeof(high));
+    for(int i = 1; i <= n; ++i) solve(a[i]);
+    printf("%d\n%d\n", maw, top);
+//    system("pause");
+    return 0;
+}
+

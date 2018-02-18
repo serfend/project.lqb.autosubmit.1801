@@ -1,0 +1,39 @@
+Case 1: checksum = 990E
+ SYMBOL   ADDR
+--------  ----
+
+Case 2: checksum = CD06
+ SYMBOL   ADDR
+--------  ----
+
+Case 3: checksum = 919B
+ SYMBOL   ADDR
+--------  ----
+
+Case 4: checksum = 2FC7
+ SYMBOL   ADDR
+--------  ----
+
+Case 5: checksum = 91FB
+ SYMBOL   ADDR
+--------  ----
+
+Case 6: checksum = 1102
+ SYMBOL   ADDR
+--------  ----
+
+Case 7: checksum = 6285
+ SYMBOL   ADDR
+--------  ----
+
+Case 8: checksum = 0BCC
+ SYMBOL   ADDR
+--------  ----
+
+Case 9: checksum = D761
+ SYMBOL   ADDR
+--------  ----
+
+Case 10: checksum = 1DDC
+ SYMBOL   ADDR
+--------  ----

@@ -1,0 +1,163 @@
+
+#include <stdio.h>
+
+/*表示星期的常量*/
+const int Su=0;
+const int Mo=1;
+const int Tu=2;
+const int We=3;
+const int Th=4;
+const int Fr=5;
+const int Sa=6;
+
+/*日历开始年份，默认是 2007 年*/
+const int START_YEAR=2007;
+/*日历开始月份，默认是 1 月*/
+const int START_MONTH=1;
+/*日历开始月份，默认是 1 号*/
+const int START_DAY=1;
+/*日历开始的星期，默认是星期一（2007年1月1日是星期一）*/
+const int START_WEEK_DAY=Mo;
+
+/*
+功能：计算一年中指定月份的天数
+*/
+int calDaysOfMonth(int year,int month)
+{
+	const int daysOfMonth[]={0,31,28,31,30,31,30,31,31,30,31,30,31};
+
+	if(month==2&&((year%4==0&&year%100!=0)||year%400==0))
+	{
+		return daysOfMonth[month]+1;
+	}
+	else
+	{
+		return daysOfMonth[month];
+	}
+}
+
+/*
+功能：计算距离  START_YEAR : START_MONTH : START_DAY 的天数
+输入：年year,月month,日day
+输出：距离 START_YEAR : START_MONTH : START_DAY 的天数
+*/
+
+int calDateInterval(int year,int month,int day)
+{
+	int days=0;
+	int y,m,d;
+
+	/*加上整年的天数*/
+	for(y=2007; y < year; y++)
+	{
+		/*如果是闰年*/
+		if((y%4==0%y%100!=0)||y%400==0)
+		{
+			days+=366;
+		}
+		else
+		{
+			days+=365;
+		}
+	}
+	/*加上整月的天数*/
+	for(m=1; m < month; m++)
+	{
+		days+=calDaysOfMonth(year,m);
+	}
+
+	/*加上当月的天数*/
+	days+=(day-1);
+
+	return days;
+
+}
+
+/*
+功能：计算每月第一天所在的星期
+*/
+int calFirstDayOfMonthInWeekDay(int year,int month)
+{
+	int days=calDateInterval(year,month,1);
+
+	return (days%7+START_WEEK_DAY)%7;
+}
+
+void printCalendar(int year,int month)
+{
+
+	int firstDayOfMonthInWeekDay=1;
+	int daysOfMonth;
+	int daysCounter;
+	int d;
+
+	/********************检查年份月份输入********************/
+
+	/*检查输入的年份*/
+	if(year < 2007)
+	{
+		printf("The year must after 2007(inclued)!\n");
+		return;
+	}
+	if(year > 9999)
+	{
+		printf("The year must before 9999(inclued)!\n");
+		return;
+	}
+	/*检查输入的月份*/
+	if(month < 0||month > 12)
+	{
+		printf("Illegal month : %d ! The month must range [0,12]");
+	}
+
+	/********************开始打印日历********************/
+	/*日历年月头部*/
+	if(month > 10)
+	{
+		printf("Calendar %d - %d\n",year,month);
+	}
+	else
+	{
+		printf("Calendar %d - %d%d\n",year,0,month);
+	}
+	printf("---------------------\n");
+	/*日历星期头部*/
+	printf("Su Mo Tu We Th Fr Sa\n");
+	printf("---------------------\n");
+	/*日历每天排列*/
+
+	/*每月的第一天所在的星期*/
+	firstDayOfMonthInWeekDay=calFirstDayOfMonthInWeekDay(year,month);
+	/*当月的天数*/
+	daysOfMonth=calDaysOfMonth(year,month);
+
+	/*输出每月开头空出的星期,并统计空白的星期*/
+	for(d=0,daysCounter=0; d < firstDayOfMonthInWeekDay; d++)
+	{
+		printf("   ");
+		daysCounter++;
+	}
+	/*输出每月的天，根据所在的星期*/
+	for(d=1; d<=daysOfMonth; d++)
+	{
+		if(daysCounter%7==0)
+		{
+			printf("\n");
+		}
+		printf("%2d ",d);
+
+		daysCounter++;
+	}
+	printf("\n---------------------\n");
+}
+int main(int argc,char *argv[])
+{
+
+	int year,month;
+	while(scanf("%d%d",&year,&month)!=EOF)
+	{
+		printCalendar(year,month);
+	}
+	return 0;
+}
+

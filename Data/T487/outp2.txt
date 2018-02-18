@@ -1,0 +1,2 @@
+Transposing from F to F#:
+  A# is not a valid note in the F major scale

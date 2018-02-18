@@ -1,0 +1,14 @@
+
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main()
+{
+	float a,b;
+	cin>>a>>b;
+	float r=a*b/100*0.95+a;
+	printf("%.2f",r);
+	return 0;
+}
+

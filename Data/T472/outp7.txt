@@ -1,0 +1,5 @@
+Trial 1: Inconclusive
+Trial 2: Inconclusive
+Trial 3: 14 degrees
+Trial 4: Inconsistent
+Trial 5: 10 degrees

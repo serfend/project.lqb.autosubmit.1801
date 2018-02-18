@@ -1,0 +1,74 @@
+
+#include "iostream"
+#include "string"
+#include "stdio.h"
+using namespace std;
+class myString :public string
+{
+public:
+	myString(char *str=NULL):string(str){}
+      string deleteChar(char ch)
+	  {
+		  int index=this->find_first_of( ch );
+		  if(index != -1)
+		  {
+			  return  this->substr(0,index)+this->substr(index+1);
+		  }
+		  else return "指定字符不存在";
+		  return *this;
+	  }
+	  string insertChar( char ch1, char ch2)
+	  {
+		  int index = this -> find_last_of(ch1);
+		  if(index != -1)
+		  {
+			  return this->substr(0,index)+ch2+this->substr(index);
+		  }
+		  else return "指定字符不存在";
+		  return *this;
+	  }
+	  string replaceChar(char ch1, char ch2)
+	  {
+		  bool isExit=false;
+		  for(int i=0;i<(this->size()); i++)
+		  {
+			  if((*this)[i]==ch1)
+			  {
+				   isExit=true;
+				   (*this)[i]=ch2;
+			  }
+				 
+		  }
+		  if(isExit == false)
+			  return "指定字符不存在";
+		  return *this;
+	  }
+};
+int main()
+{
+	char s[1000];
+   cin.getline(s,1000);
+	
+	myString str(s);
+	char ch;
+	cin>>ch;
+	if(ch=='D')
+	{
+		cin>>ch;
+		cout<<str.deleteChar(ch);
+	}
+	else if(ch=='I')
+	{
+		char ch1,ch2;
+		cin>>ch1>>ch2;
+		cout<<str.insertChar(ch1,ch2);
+	}
+	else 
+	{
+		char ch1,ch2;
+		cin>>ch1>>ch2;
+		cout<<str.replaceChar(ch1,ch2);
+	}
+	return 0;
+}
+

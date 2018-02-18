@@ -1,0 +1,50 @@
+
+#include<iostream>
+#include<cstring>
+using namespace std;
+int main(){
+	char a[1001],b[1002],c[1005];
+	cin>>a>>b;
+	int ii=strlen(a)-1;
+	int jj=strlen(b)-1;
+	int i=0;int r=0;int x;
+	while(ii>=0&&jj>=0){
+		x=a[ii]-'0'+b[jj]-'0'+r;
+		r=x/10;
+		x=x%10;
+		c[i]=x+'0';
+		ii--;jj--;i++;		
+	}
+	while(ii>=0){
+		x=a[ii]-'0'+r;
+		r=x/10;
+		x=x%10;
+		c[i]=x+'0';
+		ii--;i++;
+	}
+	while(jj>=0){
+		x=b[jj]-'0'+r;
+		r=x/10;
+		x=x%10;
+		c[i]=x+'0';
+		jj--;i++;
+	}
+	if(r!=0){
+		c[i]=r+'0';
+		i++;
+	}
+	c[i]='\0';
+	i--;	
+	int j=0;
+	while(j<i){
+		char y=c[j];
+		c[j]=c[i];
+		c[i]=y;
+		j++;i--;		
+	}
+	cout<<c<<endl;
+	
+	
+	return 0;
+}
+

@@ -1,0 +1,64 @@
+
+# include <stdio.h>
+# include <string.h>
+# include <algorithm>
+using namespace std;
+
+struct student{
+	int grade;	
+	char s[40];
+};
+
+struct student stu[110];
+int compare(struct student a, struct student b){
+	return a.grade>b.grade;
+}
+
+int main(){
+	int n, i, j, k, m, ans, num;
+	char s[40];
+	scanf("%d", &n);
+	getchar();
+	for(i=1; i<=n; i++){
+		scanf("%s", stu[i].s);
+		getchar();
+	}
+	for(i=1; i<=n; i++){
+		stu[i].grade=0;
+	}
+	char des[10]="DaDa";
+	scanf("%d", &m);
+	getchar();
+	for(i=1; i<=m; i++){
+		for(j=1; j<=n; j++){
+			scanf("%d ", &num);
+			scanf("%s", s);
+			getchar();
+			for(k=1; k<=n; k++){
+				if(strcmp(s, stu[k].s)==0){
+					stu[k].grade=stu[k].grade+num;
+					break;
+				}
+			}
+		}
+		sort(stu+1, stu+1+n, compare);
+		for(j=1; j<=n; j++){
+			if(strcmp(stu[j].s, des)==0){
+				ans=j;
+				break;
+			}
+		}
+		for(k=j-1; k>=1; k--){
+			if(stu[k].grade==stu[j].grade){
+				ans--;
+			}
+			else{
+				break;
+			}
+		}
+		printf("%d\n", ans);
+	}
+	return 0;
+}
+
+

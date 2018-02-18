@@ -1,0 +1,35 @@
+
+#include <iostream>
+#include <fstream>
+#include <cstdlib>
+#include <cstdio>
+#include <cstring>
+
+using namespace std;
+
+void euler(char *inp, char *oup)
+{
+int n, i, val;
+ifstream file1;
+ofstream file2;
+file1.open(inp);
+file2.open(oup);
+file1 >> n;
+i = 2;
+val = n;
+while(1)
+{
+	if(n%i == 0)
+	{
+		val = val/i*(i-1);
+		while(n%i == 0)
+			n /= i;
+		if(n == 1)
+			break;
+	}
+	i ++;
+	}
+file2 << val << endl;
+}
+
+

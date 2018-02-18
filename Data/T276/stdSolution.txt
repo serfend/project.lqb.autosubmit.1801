@@ -1,0 +1,42 @@
+
+#include<stdio.h>
+int main()
+{
+	int i,j,k,m,n,x,p,q,flag;
+	scanf("%d %d",&m,&n);
+	int a[m][n]={0};
+	for (i=0;i<m;i++)
+	{
+		for (j=0;j<n;j++)
+		scanf("%d",&a[i][j]);
+	}
+	x=m<n?m:n;
+	for (k=x;k>0;k--)
+	{
+		for (i=0;i+k<=m;i++)
+		{
+			for (j=0;j+k<=n;j++)
+			{
+				flag=1;
+				for (p=i;p<k+i;p++)
+				{
+					for (q=j;q<k+j;q++)
+					{
+						if (a[p][q]!=a[i][j])
+						{
+							flag=0;
+							goto a;
+						}
+					}
+				}
+				a:
+				if (flag==1)
+				{
+					printf("%d",k*k);
+					return 0;
+				}
+			}
+		}
+	}
+}
+
